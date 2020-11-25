@@ -13,11 +13,19 @@ The [generate](generate) script is used to run scripts, and takes care
 of providing the right environment variables, including setting up `$PATH`
 to find the companion scripts kept in [bin/](bin).
 
-    # add a task to Things
-    ./generate add_to_things "I am an example task"
 
-    # add all of the tasks required for Chapter 33 of the current "show"
-    ./generate chapter_tasks 33
+## Preparing footage
+
+The raw capture footage is in `mkv` format and the audio level is quite quiet,
+so for easier editing in Davinci Resolve it is converted to `mp4` and the
+volume boosted. A text file is also created for each new file to keep notes of
+what footage is where, and a Things task to track if I've filled it out.
+
+    # copy the files from the machine that does the video capturing
+    ./generate raw
+
+    # prep the footage used in editing from the raw video
+    ./generate footage
 
 
 ## Keeping track with [Things][th]
@@ -34,6 +42,12 @@ then organise them roughly into chapters, and each chapter has a
 such as "capture footage",
 "add map", "retime captions", etc.
 
-[th]: http://culturedcode.com/things/
+    # add a task to Things
+    ./generate add_to_things "I am an example task"
+
+    # add all of the tasks required for Chapter 33 of the current "show"
+    ./generate chapter_tasks 33
 
 ![Example chapter in Things](chapter.png)
+
+[th]: http://culturedcode.com/things/

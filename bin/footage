@@ -1,0 +1,47 @@
+#!/bin/bash -euo pipefail
+#
+# Generate files from the raw captures (mkv) which is usable in Davinci
+# Resolve (mp4), adjusting the volume up to a sensible working level.
+#
+# For each new piece of footage, create a text file for capturing the
+# contents of the footage for later reference, and a Things task to
+# track whether or not this has been done.
+
+for mkv in raw/*mkv; do
+    [ ! -f "$mkv" ] && break
+
+    mp4="$( echo "$mkv" | sed -e 's/^raw/footage/' -e 's/.mkv/.mp4/')"
+    notes="$( echo "$mkv" | sed -e 's/^raw/footage/' -e 's/.mkv/.txt/')"
+
+    if [ ! -f "$mp4" ]; then
+        status "== {bold}{green}$mp4"
+        [ -n "${DRY_RUN:-}" ] && continue
+
+        # show how long it is
+        echo -n 'Duration: '
+        ffprobe \
+            -v error \
+            -show_entries format=duration \
+            -of default=noprint_wrappers=1:nokey=1 \
+            -sexagesimal \
+            -i "$mkv" \
+                | cut -d. -f1
+
+        # convert to mp4, boosting the volume
+        ffmpeg \
+            -loglevel error \
+            -stats \
+            -i "$mkv" \
+            -vcodec copy \
+            -filter:a "volume=15dB" \
+            "$mp4"
+
+        # create annotation files for each video, and open
+        # the video and text as a prompt to fill it out
+        touch "$notes"
+        subl "$notes"
+        play "$mp4"
+
+        add_to_things "Annotate $(basename "$mp4")"
+    fi
+done

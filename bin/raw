@@ -1,0 +1,12 @@
+#!/bin/bash -euo pipefail
+#
+# Collect the raw footage from the capture laptop.
+
+if [ "$(ssh ${CAPTURE_HOST} echo ${CAPTURE_DIR}/\*mkv)" != "Movies/*mkv" ]; then
+    status "== {bold}{green}Fetch new videos"
+    [ -z "${DRY_RUN:-}" ] \
+        && rsync -avP --inplace ${CAPTURE_HOST}:${CAPTURE_DIR}/\*mkv raw \
+        || true
+else
+    status "== No new videos"
+fi
