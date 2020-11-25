@@ -1,0 +1,82 @@
+#!/usr/bin/env python
+
+import json
+import sys
+
+# what triggers a new caption
+CAPTION_ENDS=['.', '?', '!']
+
+# treat pauses in sentences as new captions
+THRESHOLD=1
+
+# allow captions to linger for a little longer if there's time
+PAD_AFTER=0.5
+
+
+def float_as_time_index(number):
+    hours = int(number / 3600)
+    sub_hour = number % 3600
+    minutes = int(sub_hour / 60)
+    seconds = int(sub_hour % 60)
+    return '%d:%02d:%02d.%03d' % (
+        hours,
+        minutes,
+        seconds,
+        ((sub_hour % 60) - seconds) * 1000,
+    )
+
+def print_caption(start, end, text):
+    print(
+        '%s,%s\n%s\n' % (
+            float_as_time_index(start),
+            float_as_time_index(end),
+            text,
+        )
+    )
+
+
+with open(sys.argv[1]) as handle:
+    data = json.load(handle)
+
+new_caption = True
+sentence = None
+last_start = 0
+last_end = 0
+
+for word in data['results']['items']:
+    text = word['alternatives'][0]['content']
+
+    if 'start_time' in word:
+        start = float(word['start_time'])
+        end = float(word['end_time'])
+
+        if last_end + THRESHOLD < start:
+            new_caption = True
+
+        if new_caption:
+            if sentence:
+                last_end += PAD_AFTER
+                if last_end > start:
+                    last_end = start - 0.001
+                print_caption(
+                    last_start,
+                    last_end,
+                    sentence,
+                )
+
+            new_caption = False
+            sentence = text
+            last_start = start
+        else:
+            sentence = '%s %s' % (sentence, text)
+        last_end = end
+    else:
+        if word['type'] == 'punctuation':
+            sentence = '%s%s' % (sentence, text)
+            if text in CAPTION_ENDS:
+                new_caption = True
+        else:
+            raise UnknownType
+
+if sentence:
+    print_caption(last_start, last_end, sentence)

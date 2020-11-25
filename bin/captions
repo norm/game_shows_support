@@ -1,0 +1,76 @@
+#!/bin/bash -euo pipefail
+#
+# Generate draft captions using Amazon Transcribe for rendered videos where no
+# captions exist or where the video file is newer than the caption file.
+
+for seq in $(seq 1 99); do
+    chapter=$(printf '%02d' $seq)
+
+    for video in ${chapter}\ *.mp4; do
+        [ ! -f "$video" ] && break
+
+        sbv="$( echo "$video" | sed -e 's/.mp4/.sbv/')"
+        [ "$(stamp "$sbv")" -gt "$(stamp "$video")" ] && continue
+
+        status "== {bold}{green}$video [$(duration "$video")]"
+        [ -n "${DRY_RUN:-}" ] && continue
+
+        # preserve existing captions
+        [ -f "$sbv" ] && mv "$sbv" "$sbv.bak"
+
+        audio="$( echo "$video" | sed -e 's/.mp4/.mp3/')"
+        ffmpeg \
+            -y \
+            -loglevel error \
+            -stats \
+            -i "$video" \
+            "$audio"
+
+        remote_audio="s3://$S3_BUCKET/$S3_BUCKET_DIR/$audio"
+        aws s3 cp "$audio" "$remote_audio"
+
+        transcript="$( echo "$video" | sed -e 's/.mp4/.json/')"
+        job_name="$(
+                echo "$video" \
+                | sed -e "s/[ ']/-/g" -e 's/.mp4$//'
+            )-$(
+                date +%Y%m%d%H%M%S
+            )"
+
+        aws transcribe start-transcription-job \
+            --language-code 'en-US' \
+            --media-format 'mp3' \
+            --transcription-job-name "$job_name" \
+            --language-code en-GB \
+            --media "{\"MediaFileUri\": \"$remote_audio\"}" \
+            --output-bucket-name $S3_BUCKET \
+                > /dev/null
+
+        state=IN_PROGRESS
+        start=$SECONDS
+        while [ "$state" = 'IN_PROGRESS' ]; do
+            status -ste $(( SECONDS - start )) $state
+            sleep 10
+            state=$(
+                aws transcribe get-transcription-job \
+                    --transcription-job-name $job_name \
+                | jq -r .TranscriptionJob.TranscriptionJobStatus
+            )
+        done
+        status -cse $(( SECONDS - start )) $state
+
+        job_file=$(
+            aws transcribe get-transcription-job \
+                --transcription-job-name $job_name \
+            | jq -r .TranscriptionJob.Transcript.TranscriptFileUri \
+            | sed -e 's#https://s3.eu-west-2.amazonaws.com#s3:/#'
+        )
+
+        aws s3 cp "$job_file" "$transcript"
+        aws s3 rm "$job_file"
+        transcript_to_sbv "$transcript" > "$sbv"
+        mv "$audio" "$transcript" support
+        subl "$sbv"
+        play "$video"
+    done
+done

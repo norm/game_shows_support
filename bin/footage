@@ -14,18 +14,8 @@ for mkv in raw/*mkv; do
     notes="$( echo "$mkv" | sed -e 's/^raw/footage/' -e 's/.mkv/.txt/')"
 
     if [ ! -f "$mp4" ]; then
-        status "== {bold}{green}$mp4"
+        status "== {bold}{green}$mp4 [$(duration "$mkv")]"
         [ -n "${DRY_RUN:-}" ] && continue
-
-        # show how long it is
-        echo -n 'Duration: '
-        ffprobe \
-            -v error \
-            -show_entries format=duration \
-            -of default=noprint_wrappers=1:nokey=1 \
-            -sexagesimal \
-            -i "$mkv" \
-                | cut -d. -f1
 
         # convert to mp4, boosting the volume
         ffmpeg \
