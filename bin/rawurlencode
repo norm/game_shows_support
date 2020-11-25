@@ -1,0 +1,20 @@
+#!/bin/bash -euo pipefail
+
+string="${1}"
+strlen=${#string}
+encoded=""
+
+for (( index=0 ; index<strlen ; index++ )); do
+    char=${string:$index:1}
+    case "$char" in
+        [-_.~a-zA-Z0-9])
+            output="${char}"
+            ;;
+        *)
+            printf -v output '%%%02x' "'$char"
+            ;;
+    esac
+    encoded+="${output}"
+done
+
+echo "${encoded}"

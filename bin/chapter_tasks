@@ -1,0 +1,15 @@
+#!/bin/bash -euo pipefail
+#
+# chapter_tasks
+#     add the standard set of tasks for a given chapter video to Things.
+#
+# Usage:
+#     chapter_tasks <chapter number>
+#
+# Tasks details are pulled from the file "things.tasks" in the show directory.
+
+chapter="$1"
+
+while IFS= read -r task; do
+    add_to_things "$(printf "$task" $chapter)"
+done < "things.tasks"

@@ -1,0 +1,89 @@
+#!/bin/bash -euo pipefail
+#
+# status
+#     show a text status update, allowing for styling
+#
+# Usage:
+#     status [-c] [-e seconds] [-s] <text>
+#
+#     -c
+#         clear the line before outputting it
+#     -e <seconds>
+#         prefix the line with "elapsed" time, formatted from the <seconds>
+#         argument given, eg "30s", "1m08s", "1h12m44s "
+#     -n
+#         no newline after the text
+#     -s
+#         prefix the line with a timestamp, eg "[13:02:41] "
+#     -t
+#         make the line temporary (end it with a carriage return not newline,
+#         so the next output will overwrite it); best combined with -c
+#         with multiple updates, where one might be shorter than a previous
+#
+# Colours/bold:
+#     Colours and bold effects can be added to the <text>, like so:
+#
+#         Hello {bold}{green}world!
+#
+#     Supported effects: bold, black, blue, red, magenta, green, cyan, yellow,
+#     white, reset. A reset is automatically added to the end of the text.
+
+bold="\\\e[1m"
+black="\\\e[30m"
+blue="\\\e[34m"
+red="\\\e[31m"
+magenta="\\\e[35m"
+green="\\\e[32m"
+cyan="\\\e[36m"
+yellow="\\\e[33m"
+white="\\\e[37m"
+reset="\\\e[0m"
+columns=$(tput cols)
+
+clear=0
+prefix=''
+elapsed=''
+newline="\\n"
+while getopts "ce:nst-" option; do
+    case $option in
+        -)  shift ;;
+        c)  clear=1 ;;
+        e)  seconds=$((OPTARG % 60))
+            minutes=$((OPTARG / 60 % 60))
+            hours=$((OPTARG / 60 / 60 % 24))
+            days=$((OPTARG / 60 / 60 / 24))
+
+            elapsed=$(printf "%ds - " $seconds)
+            [ $minutes -gt 0 ] && \
+                elapsed=$(printf "%dm%02ds - " $minutes $seconds)
+            [ $hours -gt 0 ] && \
+                elapsed=$(printf "%dh%02dm%02ds - " $hours $minutes $seconds)
+            [ $days -gt 0 ] && \
+                elapsed=$(
+                    printf "%dd%02dh%02dm%02ds - " 
+                    $days $hours $minutes $seconds
+                )
+            ;;
+        n)  newline='' ;;
+        s)  prefix="[$(date +%H:%M:%S)] " ;;
+        t)  newline="\\r" ;;
+    esac
+done
+shift $(( OPTIND -1 ))
+
+text=$(
+    echo "$*{reset}" | sed \
+        -e "s/{bold}/${bold}/g" \
+        -e "s/{black}/${black}/g" \
+        -e "s/{blue}/${blue}/g" \
+        -e "s/{red}/${red}/g" \
+        -e "s/{magenta}/${magenta}/g" \
+        -e "s/{green}/${green}/g" \
+        -e "s/{cyan}/${cyan}/g" \
+        -e "s/{yellow}/${yellow}/g" \
+        -e "s/{white}/${white}/g" \
+        -e "s/{reset}/${reset}/g"
+)
+
+[ $clear = 1 ] && printf "%-$((columns - 1))s\r" ""
+printf "$prefix$elapsed$text$newline"

@@ -1,0 +1,49 @@
+#!/bin/bash -euo pipefail
+
+DEFAULT_SHOW='Horizon Zero Dawn'
+show="$DEFAULT_SHOW"
+
+function usage {
+    sed -e 's/^        //' <<EOF
+        Usage:
+
+            ./generate [show] <command> [args]
+
+                Runs <command> for the named [show], or the default show
+                "$DEFAULT_SHOW" as configured in the generate script.
+
+            ./generate <command> help
+
+                Show help text for the given command.
+
+EOF
+    exit 0
+}
+
+case "$1" in
+    help) 
+        usage
+        ;;
+esac
+
+if [ "${2:-}" = 'help' ]; then
+    cat bin/$1 \
+        | awk '
+            /bin.bash/{show=1; next}
+            /^[^#]/{show=0}
+            show
+          ' \
+        | sed -e '1d' -e '$d' -e 's/^#//' -e 's/^ //'
+    exit 0
+fi
+
+if [ -d "$1" ]; then
+    show="$1"
+    shift
+fi
+
+export THINGS_PROJECT=$(cat "$show/things.id")
+export PATH="$PWD/bin:$PATH"
+
+pushd "$show" >/dev/null
+exec "$@"

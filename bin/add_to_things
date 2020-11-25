@@ -1,0 +1,19 @@
+#!/bin/bash -euo pipefail
+#
+# add_to_things
+#     add a task to Things
+#
+# Usage:
+#     add_to_things <title> [project_id]
+#
+# Adds a new task with the text <title> to the project/area with the given
+# [project_id]. If no [project_id] is given, it will be taken from the contents
+# of the file "things.id" in the show directory instead.
+
+task="$1"
+list="${2:-$(cat things.id)}"
+
+url="things:///add?"
+url+="title=$(rawurlencode "$task")"
+url+="&list-id=$list"
+open -g "$url"

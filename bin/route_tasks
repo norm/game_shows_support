@@ -1,0 +1,18 @@
+#!/bin/bash -euo pipefail
+#
+# route_tasks
+#     add some blank tasks to Things prefixed with "Route: "
+#
+# Usage:
+#     route_tasks [number_of_tasks]
+#
+# Defaults to 10 new tasks.
+
+count="${1:-10}"
+
+for i in $(seq 1 $count); do
+    url="things:///add?"
+    url+="title=$(rawurlencode "Route: ")"
+    url+="&list-id=$THINGS_PROJECT"
+    open "$url"
+done
