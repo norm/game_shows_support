@@ -1,0 +1,13 @@
+<speak>
+  <p><emphasis>Scorcher</emphasis></p>
+  <p>Weakness to freeze, strong against fire.</p>
+
+  <p><emphasis>Blaze canister.</emphasis></p>
+
+  <p><emphasis>Mine launcher.</emphasis></p>
+  <p>
+    Heavy projectile weapon. Deploys explosive proximity mines.
+  </p>
+
+  <p><emphasis>Power generator.</emphasis></p>
+</speak>

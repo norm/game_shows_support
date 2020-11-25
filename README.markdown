@@ -28,6 +28,16 @@ what footage is where, and a Things task to track if I've filled it out.
     ./generate footage
 
 
+## Generating audio from text
+
+In order to make large swathes of text appearing on screen more accessible
+and palatable, it is provided as audio narration too. This is generated
+using Amazon Polly.
+
+    # make mp3s from new or updated text files
+    ./generate audio
+
+
 ## Keeping track with [Things][th]
 
 The scripts [`add_to_things`](bin/add_to_things), 

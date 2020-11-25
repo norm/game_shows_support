@@ -1,0 +1,21 @@
+<speak>
+  <p><emphasis>Scrapper</emphasis></p>
+
+  <p><emphasis>Power cell.</emphasis></p>
+  <p>
+    <s>
+      Sparker resource can be looted from this component.
+    </s>
+    <s>
+      Shooting with Shock arrows will trigger an explosion
+      electrifying anything in the area.
+    </s>
+  </p>
+
+  <p><emphasis>Radar.</emphasis></p>
+  <p>
+    <s>
+      Destroying this component disables the scanning ability.
+    </s>
+  </p>
+</speak>

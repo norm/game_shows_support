@@ -50,7 +50,9 @@ fi
 
 export CAPTURE_DIR='Movies'
 export CAPTURE_HOST='portsider'
+export S3_BUCKET=gameshows.m17s.net
 export THINGS_PROJECT=$(cat "$show/things.id")
+
 export PATH="$PWD/bin:$PATH"
 
 pushd "$show" >/dev/null

@@ -1,0 +1,17 @@
+<speak>
+  <p><emphasis>Metal Flower</emphasis></p>
+
+  <p>
+    Code fragment downloaded:
+  </p>
+  <p>
+    Function true
+  </p>
+  <p>
+    <s>When this pine sapling</s>
+    grows to flower
+  </p>
+  <p>
+    Who'll be here.
+  </p>
+</speak>

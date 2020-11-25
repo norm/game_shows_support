@@ -1,0 +1,38 @@
+# Code fragment downloaded: 
+# 
+# ///
+#   [function: true]
+#     {{The dust of many crumbled cities}}
+#     {{settles over us like a forgetful doze,}}
+#     {{but we are older than those cities.}}
+#     {{We began as a mineral.}}
+#     {{We emerged into plant life}}
+#     {{and into the animal state, and then into being human,}}
+#     {{and always we have forgotten our former states,}}
+#     {{except in early spring when we slightly recall}}
+#     {{being green again.}}
+#   [function: true]
+# ///
+
+<speak>
+  <p><emphasis>Metal Flower</emphasis></p>
+
+  <p>
+    Code fragment downloaded:
+  </p>
+  <p>
+    Function true
+  </p>
+  <p>
+    <s>The dust of many crumbled cities settles over us like a forgetful doze,</s>
+    <s>but we are older than those cities.</s>
+  </p>
+  <p>
+    We began as a mineral.
+  </p>
+  <p>
+    We emerged into plant life and into the animal state and then into being
+    human, and always we have forgotten our former states. Except in early
+    spring when we slightly recall being green again.
+  </p>
+</speak>

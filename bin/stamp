@@ -1,0 +1,9 @@
+#!/bin/bash -euo pipefail
+# 
+# Return the timestamp (in epoch seconds) of a file, 0 if it doesn't exist.
+
+if [ -f "$1" ]; then
+    stat -f'%m' "$1"
+else
+    echo 0
+fi

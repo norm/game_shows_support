@@ -1,0 +1,32 @@
+# My loyal customer Aelund Forgeman,
+# 
+# I hope your plans for a forge in upper Meridian are moving forward, and we're
+# honored you chose us to provide the Blaze you need. We've received payment for
+# the third shipment, and we are most thankful for your prompt remuneration.
+# Unfortunately, our hunters are struggling to cover the order. We apologize for
+# the delay, but this is an unusually large request. As soon as we have it,
+# we'll deliver it to your warehouse as promised.
+# 
+# With utmost respect,
+# 
+# Gerund Huntmaster
+# Mainspring Machine Makings, Clan Charter 17.A.21
+
+<speak>
+
+My loyal customer Aylund Forgeman,
+
+I hope your plans for a forge in upper Meridian are moving forward, and we're
+honored you chose us to provide the Blaze you need. We've received payment for
+the third shipment, and we are most thankful for your prompt remuneration.
+Unfortunately, our hunters are struggling to cover the order. We apologize for
+the delay, but this is an unusually large request. As soon as we have it,
+we'll deliver it to your warehouse as promised.
+
+With utmost respect,
+
+Garund Huntmaster
+
+Mainspring Machine Makings, Clan Charter 17 ay 21
+
+</speak>

@@ -1,0 +1,10 @@
+<speak>
+  <p><emphasis>Grazer</emphasis></p>
+
+  <p><emphasis>Blaze storage canister.</emphasis></p>
+
+  <p><emphasis>Rotor blades.</emphasis></p>
+  <p>
+    Destroying these components will disable Rotor Blade attacks.
+  </p>
+</speak>

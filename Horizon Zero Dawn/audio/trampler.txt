@@ -1,0 +1,17 @@
+<speak>
+  <p><emphasis>Trampler</emphasis></p>
+  <p>Weakness to freeze, strong against fire.</p>
+
+  <p><emphasis>Excavation horns.</emphasis></p>
+  <p>
+    Destroying these components disables the excavation horn attacks.
+  </p>
+
+  <p><emphasis>Power cell.</emphasis></p>
+
+  <p><emphasis>Processing unit.</emphasis></p>
+  <p>
+    Destroying this component disables the fire-based attacks and
+    triggers an explosion.
+  </p>
+</speak>

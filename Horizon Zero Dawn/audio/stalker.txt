@@ -1,0 +1,19 @@
+<speak>
+  <p><emphasis>Stalker</emphasis></p>
+  <p>Weakness to shock</p>
+
+  <p><emphasis>Dart gun</emphasis></p>
+  <p>
+    Destroying this component disables the ranged dart attack.
+  </p>
+
+  <p><emphasis>Mine launcher</emphasis></p>
+  <p>
+    Destroying this component disables the explosive mine attack.
+  </p>
+
+  <p><emphasis>Stealth generator</emphasis></p>
+  <p>
+    Destroying this component disables the stealth ability.
+  </p>
+</speak>

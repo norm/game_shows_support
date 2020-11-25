@@ -1,0 +1,8 @@
+<speak>
+  <p><emphasis>Red eye Watcher</emphasis></p>
+
+  <p><emphasis>Eye</emphasis></p>
+  <p>
+    Hitting this component deals greater damage to the machine.
+  </p>
+</speak>

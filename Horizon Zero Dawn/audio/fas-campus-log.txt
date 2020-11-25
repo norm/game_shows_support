@@ -1,0 +1,46 @@
+<speak>
+<p>
+<s>HIGH PRIORITY ALERT</s>
+Automated log note: All non-essential systems have entered hibernation.
+</p><p>
+<s>HIGH PRIORITY ALERT:</s>
+Automated log note: Full lockdown has been initiated.
+</p><p>
+<s>HIGH PRIORITY ALERT:</s>
+Due to the increasing frequency of violent protests targeting the campus, the
+security of FAZ employees can no longer be guaranteed. Therefore, we have
+taken the difficult decision to shutter this facility indefinitely. Staff will
+be briefed on a block-by-block basis regarding proper procedure for archiving
+and/or disposal of project-related data and materials. Hi-Sec and a crisis
+team will then conduct exit review before <emphasis>ALL</emphasis> areas are
+locked down.
+</p><p>
+<s>HIGH PRIORITY ALERT:</s>
+Priority messaging to all staff in E and F blocks: treat the current lockdown
+situation as an exercise but <emphasis>DO NOT</emphasis> attempt to release
+the hatches or otherwise exit the buildings.
+</p><p>
+<s>HIGH PRIORITY ALERT:</s>
+A reminder that while Hi-Sec personnel remain committed to employee safety
+during the current unfortunate events, personal firearms
+<emphasis>MUST</emphasis> be relinquished when presenting for Identiscan.
+</p><p>
+<s>HIGH PRIORITY ALERT:</s>
+Additional public access roads en root to the campus have now been closed to
+relieve waiting time at the outer security cordons. Hi-Sec reminds all staff
+that the campus remains off-limits to the public.
+</p><p>
+<s>HIGH PRIORITY ALERT:</s>
+Following recent campus security issues, all staff are reminded that
+presenting for Identiscan and displaying your security badge prominently at
+all times for image analytics are both <emphasis>MANDATORY</emphasis>.
+</p><p>
+<s>HIGH PRIORITY ALERT:</s>
+In light of recent acts of terrorism directed at the rapid transit system,
+Hi-Sec now offers a 'big brother' initiative to accompany staff traveling from
+off-site. Signup is required and strongly encouraged.
+</p><p>
+<s>48 MORE ENTRIES IN HIGH PRIORITY</s>
+<s>ADDITIONAL ENTRIES CORRUPTED</s>
+</p>
+</speak>

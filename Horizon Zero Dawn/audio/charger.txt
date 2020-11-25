@@ -1,0 +1,10 @@
+<speak>
+  <p><emphasis>Charger.</emphasis></p>
+
+  <p><emphasis>Blaze storage canister.</emphasis></p>
+
+  <p><emphasis>Horns.</emphasis></p>
+  <p>
+    Destroying this component disables the charge attack.
+  </p>
+</speak>

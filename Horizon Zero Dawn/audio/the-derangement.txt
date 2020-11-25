@@ -1,0 +1,67 @@
+<speak>
+<p>
+  Esteemed lords and ladies of the Sun-Court, honored Khanes and patrons,
+</p>
+<p>
+  Your concerns regarding the continuing Derangement of the machines are noted.
+  Though many seasons have passed since the first sightings of this frightful
+  change, the Sun-King is well aware that this is no longer a matter of reports
+  from border patrols and Hunters Lodge expeditions. One needs only look to the
+  abandoned estatelands, indeed, the estates you owned, left for the Jewel to
+  reclaim, or to the empty freeholds of the common Carja folk.
+</p>
+<p>
+  Know that the Sun-King has taken every measure to protect holy Meridian and
+  the Maizelands with renewed patrols. As for entreating the Sun, we believe the
+  cause of the Derangement cannot be the Sun's displeasure alone, for the years
+  of sacrifice under Sun-King Jerahn produced no noticeable effect on the
+  machines. His Luminance and the Sun-Priests are in agreement that, even if
+  this is an ordeal set for us by the Sun, our suffering will not be reduced
+  with blood.
+</p>
+<p>
+  For your edification, I will recount what we have observed of the Derangement.
+  Of the simpler machines, the herd creatures, the gallopers, the
+  scuttlers,  where once they fled at the sight of men, now they are more likely
+  to charge. The larger creatures, once only a menace to the inebriated and
+  foolhardy, can be seen to lunge at the unwary with murderous intent.
+</p>
+<p>
+  This is to say nothing of the coming of the Sawtooth, or its metal brethren:
+  the Ravager, the Stalker, or that terrible giant the Thunderjaw. Each one has
+  proved a more capable killer of men than the last, each wielding a wider array
+  of strange weapons. The wilds are no longer safe due to the hostility of these
+  new machines, though to date they have not attacked a settlement within the Sundom.
+</p>
+<p>
+  Outlanders have brought no shortage of fanciful explanations for this
+  behavior. Some suggest that the machines have come to resent men for hunting
+  them. Yet such a thing has never been witnessed among beasts of flesh and
+  blood, and they are proven to be more capable of thinking and memory.
+</p>
+<p>
+  Carja hunters and Osser am tinkers alike have attempted to understand the
+  phenomenon by inspecting felled machines. But these appear no different to
+  those harvested many years before Derangement began, with the same assortments
+  of wires, braiding, lenses, hearts, and so on. When these parts are subjected
+  to the light of the Sun, or to Osser am experiments with fire and spark, they
+  react as they always have.
+</p>
+<p>
+  The Bannook, however, claim to have recorded a change in the 'machine songs' of
+  the 'machine spirits', suggesting that these have become increasingly
+  discordant. The Sun-King has sent envoys to Ban-oor to learn more, in the hopes
+  that their mysticism might contain a truth when the rational light of the Sun
+  is brought to bear upon it.
+</p>
+<p>
+  Of course the Sun-King graciously welcomes your own contributions to study of
+  the Derangement, asking only that they are delivered in written form, and not
+  during royal audience. His Luminance also hopes to dissuade you from
+  participating in machine hunts during these uncertain times. The strength of a
+  united Sun-Court is the strength of all Carja.
+</p>
+<p>
+  Respectful Tashadi, court envoy
+</p>
+</speak>

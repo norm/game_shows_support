@@ -1,0 +1,36 @@
+# 14:23:01 - ORBIT 4F8 INITIATED: CYCLE 808231
+# 14:23:01 - ROUTING QUERY SENT
+# 14:23:02 - NO RESPONSE GPRIME
+# 14:24:11 - PING INERT AGENTS
+# 14:24:12 - 43/46 DORMANT
+
+<speak>
+  <p>
+    <emphasis>
+      Observer log 
+      <break time="250ms" />
+      yew ess dash double yew dash 17
+    </emphasis>
+  </p>
+  <p>
+    14:23:01
+    <break time="500ms" />
+    orbit 4F8 initiated: cycle eight zero eight two three one
+  </p>
+  <p>routing query sent</p>
+  <p>
+    14:23:02
+    <break time="500ms" />
+    no response gee prime
+  </p>
+  <p>
+    14:24:11
+    <break time="500ms" />
+    ping inert agents
+  </p>
+  <p>
+    14:24:12
+    <break time="500ms" />
+    43 slash 46 dormant
+  </p>
+</speak>

@@ -1,0 +1,13 @@
+<speak>
+  <p><emphasis>Tall neck.</emphasis></p>
+
+  <p><emphasis>Information antennas.</emphasis></p>
+  <p>
+    Could be used as climbing holds.
+  </p>
+
+  <p><emphasis>Radar.</emphasis></p>
+  <p>
+    Information storage hub. Override to access local area information.
+  </p>
+</speak>

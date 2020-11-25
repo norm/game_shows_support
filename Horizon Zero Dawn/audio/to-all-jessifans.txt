@@ -1,0 +1,41 @@
+<speak>
+   <p>
+    Okay, I want to get something off my chest right now because this needs to
+    be said. To all Jessefans, and to the entire Romantic Fortunes fan
+    community: Jessica Sterling 
+    <prosody volume='+05dB'>
+      should<break time='50ms' />
+      not<break time='50ms' />
+      win<break time='50ms' /> 
+    </prosody>
+    Romantic Fortunes!
+    This is so obvious to anyone who actually
+    <prosody volume='+05dB'>
+      pays<break time='50ms' />
+      attention.
+    </prosody>
+    I used to be like you guys. Last season, I wanted
+    Jessica to win! But as of episode three oh one, she has gone 
+    <prosody volume='+05dB'>too far!</prosody>
+    Were you people
+    even watching when she rejected Luis <prosody volume='+05dB'>
+      the sweetest human being<break time='50ms' />
+      on<break time='50ms' />
+      the<break time='50ms' />
+      planet.
+    </prosody>
+    He stood by her through
+    <prosody volume='+05dB'>everything.</prosody>
+    The Alaska acquisition? That time the
+    harrier-bots malfunctioned mid battle? The only reason Jessica has had
+    <prosody volume='+05dB'>any</prosody> success is because Luis had her
+    back. He loves her! And she doesn't even care! This is why I am throwing
+    my support behind Vernon. I do not take this decision lightly. I was a
+    Jessefan for two whole seasons. Jessica is the whole reason I even care
+    about Sterling Mal keet. But as a fan, I cannot continue to support someone
+    so heartless. <prosody volume='+05dB'>Luis, you<break time='50ms' /> can<break time='50ms' /> do<break time='50ms' /> better!</prosody>
+  </p>
+</speak>
+
+
+

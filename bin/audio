@@ -1,0 +1,60 @@
+#!/bin/bash -euo pipefail
+#
+# Generate audio files from SSML text, via Amazon's Polly service.
+# Files will be generated when no mp3 exists, or if the text file is newer.
+# 
+# The text files can have embedded comments (lines starting with a #)
+# that are stripped before the audio is generated.
+
+for text in audio/*txt; do
+    mp3="$( echo "$text" | sed -e 's/.txt/.mp3/')"
+
+    generate=0
+    [ ! -f "$mp3" ] && generate=1
+    [ "$(stamp $text)" -gt "$(stamp $mp3)" ] && generate=1
+
+    if [ $generate -eq 1 ]; then
+        status "== {bold}{green}$mp3"
+        [ -n "${DRY_RUN:-}" ] && continue
+
+        # strip comments
+        input=$(mktemp)
+        sed -e '/^#/d' -e '/^\s*$/d' $text > $input
+
+        task_details=$(
+            aws polly start-speech-synthesis-task \
+                --region eu-west-2 \
+                --endpoint-url "https://polly.eu-west-2.amazonaws.com/" \
+                --output-format mp3 \
+                --output-s3-bucket-name $S3_BUCKET \
+                --voice-id Joanna \
+                --text-type ssml \
+                --text "file://$input" 
+        )
+        task_id=$( echo "$task_details" | jq -r .SynthesisTask.TaskId )
+
+        state=scheduled
+        start=$SECONDS
+        while [ "$state" != 'completed' ]; do
+            status -ste $(( SECONDS - start )) $state
+            sleep 2
+            state=$(
+                aws polly get-speech-synthesis-task \
+                    --task-id $task_id \
+                | jq -r .SynthesisTask.TaskStatus
+            )
+        done
+        status -cse $(( SECONDS - start )) $state
+
+        job_file=$(
+            aws polly get-speech-synthesis-task \
+                --task-id $task_id \
+            | jq -r .SynthesisTask.OutputUri \
+            | sed -e 's#https://s3.eu-west-2.amazonaws.com#s3:/#'
+        )
+
+        aws s3 cp "$job_file" "$mp3"
+        aws s3 rm "$job_file"
+        play "$mp3"
+    fi
+done

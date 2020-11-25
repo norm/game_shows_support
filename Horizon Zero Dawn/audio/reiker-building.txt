@@ -1,0 +1,20 @@
+<speak>
+<p>
+Hello! Our records show that you've been researching safe comfortable
+affordable apartments in the Salt Lake City area. You should consider the
+Reiker Building! Take a moment to review some of the features we offer our
+tenants.
+</p>
+<p>
+Totally automated facility monitored by a bleeding-edge robotic security team.
+"Always comfy" biometric climate control auto-justs the temperature of every
+room. Complimentary Faro Runner upon signing a lease. Let your Runner grab
+groceries and collect packages while you enjoy the luxury of the Reiker
+lifestyle!
+</p>
+<p>
+Our holo site features a free full immersive tour of the facilities, including
+a customizable mock-up of your future Reiker apartment. Visit us today and
+start living!
+</p>
+</speak>

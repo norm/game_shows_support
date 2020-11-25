@@ -1,0 +1,16 @@
+<speak>
+  <p><emphasis>Corruptor.</emphasis></p>
+  <p>Weakness to fire.</p>
+
+  <p><emphasis>Grenade launcher.</emphasis></p>
+  <p>Destroying this component disables the grenade launcher attack.</p>
+
+  <p><emphasis>Spike launcher.</emphasis></p>
+  <p>Destroying this component disables the ranged spike launcher attack.</p>
+
+  <p><emphasis>Heat core.</emphasis></p>
+  <p>
+    This component is exposed when the machine overheats.
+    Hitting it when exposed causes massive damage.
+  </p>
+</speak>

@@ -1,0 +1,18 @@
+<speak>
+  <p><emphasis>Fire bellow back.</emphasis></p>
+  <p>Weakness to freeze.</p>
+
+  <p><emphasis>Blaze storage canister.</emphasis></p>
+
+  <p><emphasis>Cargo sack.</emphasis></p>
+  <p>
+    Destroying this component disables the ranged elemental attack,
+    and triggers an explosion.
+  </p>
+
+  <p><emphasis>Gullet.</emphasis></p>
+  <p>
+    Destroying this component will disable fire attacks and
+    trigger an explosion setting fire to anything in the area.
+  </p>
+</speak>

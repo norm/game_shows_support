@@ -1,0 +1,13 @@
+<speak>
+  <p><emphasis>Lancehorn</emphasis></p>
+
+  <p><emphasis>Drill horns</emphasis></p>
+  <p>Destroying these components will disable drill horn attacks</p>
+
+  <p><emphasis>Freeze canister</emphasis></p>
+  <p>
+    Chillwater can be looted from this canister.
+    Shooting this canister with a freeze arrow will trigger an explosion
+    freezing anything in the area.
+  </p>
+</speak>

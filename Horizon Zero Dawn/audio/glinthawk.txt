@@ -1,0 +1,15 @@
+<speak>
+  <p><emphasis>Glinthawk.</emphasis></p>
+  <p>Weakness to fire, strong against freeze.</p>
+
+  <p><emphasis>Beak.</emphasis></p>
+  <p>
+    Destroying this component disables the Glinthawk's ability to
+    scavenge loot from machine corpses.
+  </p>
+
+  <p><emphasis>Freeze sack.</emphasis></p>
+  <p>
+    Destroying this component disables the ranged Freeze attack.
+  </p>
+</speak>

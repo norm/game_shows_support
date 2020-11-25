@@ -1,0 +1,15 @@
+<speak>
+  <p><emphasis>Ravager.</emphasis></p>
+  <p>Weakness to fire, strong against shock.</p>
+
+  <p><emphasis>Freeze canister.</emphasis></p>
+
+  <p><emphasis>Power cell.</emphasis></p>
+
+  <p><emphasis>Ravager cannon.</emphasis></p>
+  <p>
+    Destroying these components disables ravager cannon attacks.
+    This heavy weapon can be picked up and used after it has 
+    been detached from the machine.
+  </p>
+</speak>

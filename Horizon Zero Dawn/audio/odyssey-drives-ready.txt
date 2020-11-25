@@ -1,0 +1,16 @@
+<speak>
+<p>
+Odyssey Fusion Drives Ready for Installation
+</p><p>
+MUMBAI, April 17, 2051. Speaking at a press conference today, Odyssey*India
+Chief Science Officer Jaswinder Prajapati announced that all components of the
+colony ship's fusion propulsion units have been printed, tested, and are ready
+for installation. "We are ready to build the Odyssey's engines," Prajapati
+said, "so if my international colleagues would be so kind as to resolve their
+differences, perhaps this stalled project can finally go somewhere."
+Prajapati's arch comments referred to ongoing financial and labor disputes
+between Odyssey*America and Odyssey*EuroWest, as well as tensions over rare
+earth deposits in
+<prosody volume='x-soft' rate='x-slow' pitch='x-low'>data corrupted</prosody>
+</p>
+</speak>

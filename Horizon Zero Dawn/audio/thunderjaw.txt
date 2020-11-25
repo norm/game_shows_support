@@ -1,0 +1,41 @@
+<speak>
+  <p><emphasis>Thunderjaw</emphasis></p>
+  <p>Strong against shock.</p>
+
+  <p><emphasis>Blaze canister.</emphasis></p>
+
+  <p><emphasis>Data nexus.</emphasis></p>
+  <p>
+    Hitting this component deals greater damage to the machine.
+  </p>
+
+  <p><emphasis>Disc launcher.</emphasis></p>
+  <p>
+    This heavy weapon can be picked up and used after it has been detached
+    from the machine.
+  </p>
+
+  <p><emphasis>Freeze canister.</emphasis></p>
+
+  <p><emphasis>Heart.</emphasis></p>
+  <p>
+    Hitting this component deals greater damage to the machine.
+  </p>
+
+  <p><emphasis>Power cell.</emphasis></p>
+
+  <p><emphasis>Radar.</emphasis></p>
+  <p>
+    Destroying this component disables the scanning ability.
+  </p>
+
+  <p><emphasis>Cannon.</emphasis></p>
+  <p>
+    Destroying these components disables cannon attacks.
+  </p>
+
+  <p><emphasis>Tail.</emphasis></p>
+  <p>
+    Destroying this component disables the tail attacks.
+  </p>
+</speak>

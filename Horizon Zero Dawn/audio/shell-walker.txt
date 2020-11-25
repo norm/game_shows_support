@@ -1,0 +1,25 @@
+<speak>
+  <p><emphasis>Shell walker</emphasis></p>
+
+  <p><emphasis>Crate holders</emphasis></p>
+  <p>
+    Destroying this component will detach the cargo container.
+  </p>
+
+  <p><emphasis>Lightning gun</emphasis></p>
+  <p>
+    Destroying this component disables the ranged Shock attacks.
+  </p>
+
+  <p><emphasis>Power generator</emphasis></p>
+  <p>
+    Destroying the power generator disables all Shock attacks,
+    the shield, and triggers an explosion shocking anything in
+    the area.
+  </p>
+
+  <p><emphasis>Shield claw</emphasis></p>
+  <p>
+    Destroying this component disables the energy shield.
+  </p>
+</speak>

@@ -1,0 +1,17 @@
+<speak>
+  <p><emphasis>Freeze bellow back.</emphasis></p>
+  <p>Weakness to fire, strong against freeze.</p>
+
+  <p><emphasis>Freeze canister.</emphasis></p>
+
+  <p><emphasis>Gullet.</emphasis></p>
+  <p>
+    Destroying this component disables the ranged freeze attack.
+  </p>
+
+  <p><emphasis>Cargo sack.</emphasis></p>
+  <p>
+    Destroying this component disables the ranged elemental attack,
+    and triggers an explosion.
+  </p>
+</speak>

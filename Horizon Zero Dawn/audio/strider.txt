@@ -1,0 +1,15 @@
+<speak>
+  <p><emphasis>Body.</emphasis></p>
+  <p>Hard outer casing to protect synthetic muscle and operational systems.</p>
+
+  <p><emphasis>Blaze storage canister.</emphasis></p>
+  <p>
+    <s>
+      Shooting elemental canisters with elemental ammunition
+      triggers an explosion that will damage everything nearby.
+    </s>
+    <s>
+      Shoot off this component to collect the resource inside.
+    </s>
+  </p>
+</speak>

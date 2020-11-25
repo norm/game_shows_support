@@ -1,0 +1,40 @@
+# 09:13:41 - ORBIT 3K2 INITIATED: CYCLE 807645
+# 09:13:42 - ROUTING QUERY SENT
+# 09:13:43 - NO RESPONSE GPRIME
+# 09:14:38 - PING INERT AGENTS
+# 09:14:39 - 31/35 DORMANT
+
+<speak>
+  <p>
+    <emphasis>
+      Observer log 
+      <break time="250ms" />
+      yew ess dash double yew dash 18
+    </emphasis>
+  </p>
+  <p>
+    09:13:41
+    <break time="500ms" />
+    orbit 3K2 initiated: cycle eight zero seven six four five
+  </p>
+  <p>
+    09:13:42
+    <break time="500ms" />
+    routing query sent
+  </p>
+  <p>
+    09:13:43
+    <break time="500ms" />
+    no response gee prime
+  </p>
+  <p>
+    09:14:38
+    <break time="500ms" />
+    ping inert agents
+  </p>
+  <p>
+    09:14:39
+    <break time="500ms" />
+    31 slash 35 dormant
+  </p>
+</speak>

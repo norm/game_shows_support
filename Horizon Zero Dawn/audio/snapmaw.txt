@@ -1,0 +1,12 @@
+<speak>
+  <p><emphasis>Snapmaw</emphasis></p>
+  <p>Weakness to fire.</p>
+
+  <p><emphasis>Blaze storage canister.</emphasis></p>
+
+  <p><emphasis>Freeze Sac.</emphasis></p>
+  <p>
+    Destroying this component disables the ranged Freeze attack,
+    and triggers an explosion.
+  </p>
+</speak>

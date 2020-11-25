@@ -1,0 +1,19 @@
+<speak>
+  <p><emphasis>Frostclaw.</emphasis></p>
+  <p>Weakness to fire, strong against freeze.</p>
+
+  <p><emphasis>Freeze sack.</emphasis></p>
+  <p>
+    Destroying this component triggers a freeze explosion, inflicts a 
+    temporary brittle state on the machine, and disables the freeze
+    attacks of the claws.
+  </p>
+
+  <p><emphasis>Freeze unit.</emphasis></p>
+  <p>
+    Destroying this component disables all freeze based
+    attacks other than claws.
+  </p>
+
+  <p><emphasis>Power cell.</emphasis></p>
+</speak>

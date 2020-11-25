@@ -1,0 +1,11 @@
+<speak>
+  <p><emphasis>Body.</emphasis></p>
+  <p>Hard outer casing to protect synthetic muscle and operational systems.</p>
+
+  <p><emphasis>Eye.</emphasis></p>
+  <p>
+    <s>
+      Hitting this component deals greater damage to the machine.
+    </s>
+  </p>
+</speak>

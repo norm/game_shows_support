@@ -1,0 +1,27 @@
+<speak>
+  <p><emphasis>Longleg</emphasis></p>
+  <p>Weakness to shock</p>
+
+  <p><emphasis>Concussion sack</emphasis></p>
+  <p>
+    Destroying this component disables ranged sonic attacks,
+    and triggers a compressed air explosion.
+  </p>
+
+  <p><emphasis>Alarm signal antenna</emphasis></p>
+  <p>
+    Destroying this component disables the ability to call in reinforcements.
+  </p>
+
+  <p><emphasis>Power cell</emphasis></p>
+  <p>
+    Shooting this component with Shock arrows will trigger an explosion
+    electrifying anything in the area.
+  </p>
+
+  <p><emphasis>Wing</emphasis></p>
+  <p>
+    Destroying this component disables the charge attack.
+  </p>
+
+</speak>

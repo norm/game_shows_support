@@ -1,0 +1,51 @@
+<speak>
+<p>
+Report, Biosphere Degradation, August 2065. Confidential.
+</p><p>
+<emphasis>CHIEF FINDINGS</emphasis>
+</p><p>
+Despite increased tactical proficiency of elite and civilian guard units and
+many hard-won engagements in the Central European, Antarctic, and "Pacific
+reach" theaters, the Faro Plague's rate of advance has not slowed, nor has its
+biomass consumption rate.
+</p><p>
+Damage to the biosphere has already exceeded 2038 levels by every measure, and
+grows worse by the day.
+</p><p>
+Extinction Timeline projections remain unchanged, with oh ay cee predicted for
+mid-November 2065, annihilation of exposed human populations in February 2066,
+extinction of macrobiotic land organisms by the end of March 2066, and
+extinction of marine life in early 2068.
+</p><p>
+Continued secrecy re Project Zero Dawn, the utter silence regarding its
+mechanisms of action and completion date, make it impossible to predict Zero
+Dawn's impact (or lack of impact) on the Extinction Timeline.
+</p><p>
+<emphasis>ATMOSPHERIC COLLAPSE</emphasis>
+</p><p>
+Atmospheric oxygen depletion and toxic emissions remain the greatest
+environmental threat to Operation Enduring Victory as well as the wider
+civilian population and animal life. Operational Atmospheric Collapse (oh ay
+cee) is currently predicted for mid-November 2065, after which military
+personnel will require rebreathing apparatuses to operate in the open, and
+civilians will only be able to survive inside sealed structures. [The
+requirements for air scrubbing and recycling in facilities is addressed in
+Addendum ay linked to this report.]
+</p><p>
+<emphasis>POTABLE WATER SHORTAGES</emphasis>
+</p><p>
+Major water treatment facilities are already struggling to process water
+sources compromised by rainfall heavily contaminated by toxins emitted by the
+consumption of the Eastern Hemisphere. Following the necessary shutdown of all
+nano-scrubbing functionality, waste water recycling is already beyond
+capacity.
+</p><p>
+<emphasis>MILITARY RESPONSE ESCALATION</emphasis>
+</p><p>
+Addenda linked to this document cover the short-term effects of 'scorched
+earth' engagements in defense of the Western Seaboard and the ongoing effects
+of the Oceanic Economic Zone's use of nuclear weapons to delay the enemy's
+initial advance across the Pacific theater 
+<prosody volume='x-soft' rate='x-slow' pitch='x-low'>data corrupted</prosody>
+</p>
+</speak>

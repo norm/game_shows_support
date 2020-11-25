@@ -1,0 +1,36 @@
+# ///
+#     [summary]
+#         active: Production/Oversight/Analysis
+#         active: Additive/Manufacture/Type
+#         alert: Intrusion/Source:External
+#         active: Countermeasure/Phase-shift
+#         alert: Intrusion/Denied
+# ///
+
+<speak>
+  <p>Summary</p>
+  <p>
+    <emphasis>Active</emphasis>
+  </p>
+  <p>
+    Production. Oversight. Analysis. Additive. Manufacture. Type.
+  </p>
+  <p>
+    <emphasis>Alert</emphasis>
+  </p>
+  <p>
+    Intrusion. Source external.
+  </p>
+  <p>
+    <emphasis>Active</emphasis>
+  </p>
+  <p>
+    Countermeasure. Phase shift.
+  </p>
+  <p>
+    <emphasis>Alert</emphasis>
+  </p>
+  <p>
+    Intrusion. Denied.
+  </p>
+</speak>

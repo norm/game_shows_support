@@ -1,0 +1,32 @@
+<speak>
+  <p>
+    All Personnel Currently Assigned to Company E, 5th Battalion, 3rd Civilian
+    Guard Brigade, Aurora Zone:
+  </p>
+  <p>
+    1. Report to Verticarrier Bay Onyx at oh five hundred hours and board
+       assigned vert. Departure at oh five thirty hours.
+  </p>
+  <p>
+    2. Arrive in Beira Mozambique at approx. zero hundred hours local time.
+       Lodging assignments and duty schedules to be received upon landing and
+       intake.
+  </p>
+  <p>
+    3. Assist eff ay dee emm personnel and Mozambican civilian battalions in A)
+       construction of defensive obstacles along the channel coast and B)
+       ballistic perimeter shielding around the Aeroporto Internacional de
+       Beira.
+  </p>
+  <p>
+    4. Upon completion of construction duties, participate in combat and base
+       defense training operations in anticipation of enemy contact.
+  </p>
+  <p>
+    5. As always: Comport yourself so as to be a credit to your unit, your
+       country, the goals of Operation Enduring Victory, and yourself.
+  </p>
+  <p>
+    special orders end.
+  </p>
+</speak>

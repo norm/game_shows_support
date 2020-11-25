@@ -1,0 +1,38 @@
+# [summary]
+# active: Production/Oversight/Analysis
+# active: Additive/Manufacture/Type
+# alert: Intrusion/Source:External
+# active: Countermeasure/Phase-shift
+# alert: Intrusion/Denied
+# alert: Intrusion/Source:External
+# alert: Countermeasure/Phase-shift
+# alert: Breach/Firewall 3706:403
+# alert: Reboot/Purge...Successful
+# alert: Intrusion/Denied
+
+
+<speak>
+  <p>Summary</p>
+
+  <p><emphasis>Active</emphasis></p>
+  <p>Production. Oversight. Analysis. Additive. Manufacture. Type.</p>
+
+  <p><emphasis>Alert</emphasis></p>
+  <p>Intrusion. Source external.</p>
+
+  <p><emphasis>Active</emphasis></p>
+  <p>Countermeasure. Phase shift.</p>
+
+  <p><emphasis>Alert</emphasis></p>
+  <p>Intrusion. Denied.</p>
+
+  <p><emphasis>Alert</emphasis></p>
+  <p>
+    Intrusion. Source external. Countermeasure. Phase shift.
+    Breach. Firewall three seven zero six, four zero three.
+    Reboot. Purge.
+  </p>
+  <p>Successful.</p>
+  <p>Intrusion denied.</p>
+
+</speak>

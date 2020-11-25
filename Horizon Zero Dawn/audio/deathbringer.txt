@@ -1,0 +1,60 @@
+<speak>
+  <p><emphasis>Deathbringer.</emphasis></p>
+  <p>Weaknesses to fire and shock, strong against corruption.</p>
+
+  <p><emphasis>Repeater cannon turret.</emphasis></p>
+  <p>
+    Destroying this component disables the cannon attacks.
+  </p>
+
+  <p><emphasis>Cooling rods.</emphasis></p>
+  <p>
+    This component is exposed when the machine overheats.
+    Destroying this component causes high damage and the machine
+    to overheat faster.
+  </p>
+
+  <p><emphasis>Core.</emphasis></p>
+  <p>
+    This component is exposed when the machine overheats.
+    Hitting it when exposed causes massive damage.
+  </p>
+
+  <p><emphasis>Flame thrower.</emphasis></p>
+  <p>
+    Destroying this component disables the flame thrower attacks.
+  </p>
+
+  <p><emphasis>Grenade launcher.</emphasis></p>
+  <p>
+    Destroying this component disables the grenade launcher attacks.
+  </p>
+
+  <p><emphasis>Heat vents.</emphasis></p>
+  <p>
+    This component is exposed when the machine overheats.
+    Destroying this component causes high damage and the machine
+    to overheat faster.
+  </p>
+
+  <p><emphasis>Gun turret.</emphasis></p>
+  <p>
+    Hitting this component deals greater damage to the machine.
+  </p>
+
+  <p><emphasis>Swarm launcher.</emphasis></p>
+  <p>
+    Hitting this component disables the swarm launcher attack.
+  </p>
+
+  <p><emphasis>Stabiliser.</emphasis></p>
+  <p>
+    Hitting this component deals greater damage to the machine
+    and can cause the machine to fall on its side.
+  </p>
+
+  <p><emphasis>Heavy cannon turret.</emphasis></p>
+  <p>
+    Destroying this component disables the cannon turret attack.
+  </p>
+</speak>

@@ -1,0 +1,40 @@
+# 17:32:17 - ORBIT 2T9 INITIATED: CYCLE 803217
+# 17:32:18 - ROUTING QUERY SENT
+# 17:32:19 - NO RESPONSE GPRIME
+# 17:33:43 - PING INERT AGENTS
+# 17:33:44 - 21/26 DORMANT
+
+<speak>
+  <p>
+    <emphasis>
+      Observer log 
+      <break time="250ms" />
+      yew ess dash double yew dash 19
+    </emphasis>
+  </p>
+  <p>
+    17:32:17
+    <break time="500ms" />
+    orbit 2T9 initiated: cycle eight zero three two one seven
+  </p>
+  <p>
+    17:32:18
+    <break time="500ms" />
+    routing query sent
+  </p>
+  <p>
+    17:32:19
+    <break time="500ms" />
+    no response gee prime
+  </p>
+  <p>
+    17:33:43
+    <break time="500ms" />
+    ping inert agents
+  </p>
+  <p>
+    17:33:44
+    <break time="500ms" />
+    21 slash 26 dormant
+  </p>
+</speak>
