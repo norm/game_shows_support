@@ -38,6 +38,20 @@ using Amazon Polly.
     ./generate audio
 
 
+## Editing/reviewing annotations
+
+Annotations can be easily edited/reviewed later using the
+[`annotations`](bin/annotations) script. It works from most-recent to
+least-recent, and can match only empty files or ones matching a specific
+pattern (typically the date).
+
+    # edit only empty files
+    ./generate annotations empty
+
+    # edit only a specific day
+    ./generate annotations 2020-11-20
+
+
 ## Keeping track with [Things][th]
 
 The scripts [`add_to_things`](bin/add_to_things), 
