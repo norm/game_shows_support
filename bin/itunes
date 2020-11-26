@@ -1,0 +1,110 @@
+#!/bin/bash -euo pipefail
+
+function main {
+    # main chapters
+    find_videos_between 1 99
+
+    # behind the scenes
+    find_videos_between 101 199
+
+    if [ -z "${DRY_RUN:-}" ]; then
+        status "== {yellow}{bold}installing"
+        rsync -avP *m4v "$TV_HOST:$TV_LOCATION"
+        ssh $TV_HOST "media-itunes-add $TV_LOCATION/*m4v"
+    fi
+}
+
+function find_videos_between {
+    local from="$1"
+    local to="$2"
+    local last=0
+
+    for seq in $(seq $from $to); do
+        [ $last != 0 ] && break
+
+        chapter=$(printf '%02d' $seq)
+        for video in ${chapter}\ *.mp4; do
+            jpg="$( echo "$video" | sed -e 's/.mp4/.jpg/')"
+            subs="$( echo "$video" | sed -e 's/.mp4/.sbv/')"
+            txt="$( echo "$video" | sed -e 's/.mp4/.txt/')"
+            title="$( echo "$video" | sed -e 's/.mp4//' | cut -d\  -f2-)"
+            itunes_video="$( echo "$video" | sed -e 's/.mp4/.m4v/')"
+            ffmd="$(mktemp)"
+            srt="$(mktemp).srt"
+
+            [ ! -f "$video" ] && last=1 && break
+            have_file "$subs" || continue
+            have_file "$txt" || continue
+            have_file "$jpg" || continue
+
+            newer "$(stamp "$itunes_video")" \
+                "$(stamp "$video")" \
+                "$(stamp "$txt")" \
+                "$(stamp "$subs")" \
+                    && continue
+
+            duration="$(duration "$video")"
+            status "== {green}$itunes_video [$duration]"
+            [ -n "${DRY_RUN:-}" ] && continue
+
+            chapters_as_ffmetadata "$txt" $duration > "$ffmd"
+            ffmpeg \
+                -loglevel error \
+                -i "$subs" \
+                "$srt"
+
+            ffmpeg \
+                -loglevel error \
+                -stats \
+                -y \
+                -i "$video" \
+                -i "$ffmd" \
+                -i "$srt" \
+                -map_metadata 1 \
+                -c:v copy \
+                -c:a copy \
+                -c:s mov_text \
+                -brand mp42 \
+                "$itunes_video"
+
+            status -t "Tagging $itunes_video..."
+            AtomicParsley "$itunes_video" \
+                --overWrite \
+                --title "$title" \
+                --artist "$GAME_SHOW_NAME, Season 1" \
+                --album "$GAME_SHOW_NAME, Season 1" \
+                --TVShowName "$GAME_SHOW_NAME" \
+                --TVSeasonNum 1 \
+                --TVEpisodeNum $chapter \
+                --TVEpisode $chapter \
+                --stik 'TV Show' \
+                --description "$(sed -e '/^[0-9]/d' "$txt")" \
+                --artwork poster.jpg \
+                    > /dev/null
+
+            rm "$srt" "$ffmd"
+            status -ct ''
+        done
+    done
+}
+
+function have_file {
+    local must_have="$1"
+
+    if [ ! -f "$must_have" ]; then
+        status "{magenta}   $must_have missing"
+        return 1
+    fi
+}
+
+function newer {
+    local target="$1"
+    shift
+
+    for stamp in "$@"; do
+        [ $stamp -gt $target ] && return 1
+    done
+    return 0
+}
+
+main

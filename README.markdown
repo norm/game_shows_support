@@ -97,3 +97,27 @@ such as "capture footage",
 ![Example chapter in Things](chapter.png)
 
 [th]: http://culturedcode.com/things/
+
+
+## Describing the chapters
+
+Chapter (meaning an episode of a show) descriptions and chapter (meaning a
+subsection of a single video file) timings are stored in matching `.txt`
+files, with a structure like so:
+
+    In Chapter 1 we are introduced to the world, the Nora tribe, and Rost
+    teaches a young child how to hunt the machines.
+
+    0:00 Naming ceremony
+    5:54 She's an outcast, to be shunned
+    7:58 A Gift from the Past
+    28:58 Lessons of the Wild
+    47:30 We'd best get started then
+    52:13 End screen
+
+This will serve as both a copy-and-pastable description for YouTube, and
+create video chapter markers when the rendered chapter videos are imported to
+iTunes.
+
+    # create and copy files for iTunes (so I can watch them on my Apple TV)
+    ./generate itunes

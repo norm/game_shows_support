@@ -1,0 +1,50 @@
+#!/usr/bin/python
+
+import sys
+
+file=sys.argv[1]
+duration=sys.argv[2]
+
+with open(file) as handle:
+    lines = [line for line in handle.readlines()]
+
+print(';FFMETADATA1')
+print('major_brand=mp42')
+print('minor_version=1')
+print('compatible_brands=isommp41mp42')
+print('encoder=Lavf58.45.100\n')
+
+previous=0
+previous_name=''
+for line in lines:
+    if not line[0].isdigit():
+        continue
+    (time, name) = line.split(' ', 1)
+
+    units=time.split(':')
+    if len(units) == 2:
+        units.insert(0, 0)
+
+    seconds=int(units[0]) * 3600 + int(units[1]) * 60 + int(units[2])
+
+    if previous:
+        print("[CHAPTER]")
+        print("TIMEBASE=1/1")
+        print("START=%d" % previous)
+        print("END=%d" % seconds)
+        print("title=%s" % previous_name)
+
+    previous=seconds
+    previous_name=name
+
+units=duration.split(':')
+if len(units) == 2:
+    units.insert(0, 0)
+
+seconds=int(units[0]) * 3600 + int(units[1]) * 60 + int(units[2])
+
+print("[CHAPTER]")
+print("TIMEBASE=1/1")
+print("START=%d" % previous)
+print("END=%d" % seconds)
+print("title=%s" % previous_name)
