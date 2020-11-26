@@ -49,6 +49,17 @@ word.
     ./generate captions
 
 
+## Creating thumbnail videos
+
+First, create a video `_thumbnails.mp4` which uses a 1-second freeze frame
+from each chapter of the show, with the logo and names overlaid in the regular
+pattern. This video is then used to produce the `.jpg` files used as thumbnails
+on YouTube.
+
+    # make thumbnails for all videos currently rendered
+    ./generate thumbnails
+
+
 ## Editing/reviewing annotations
 
 Annotations can be easily edited/reviewed later using the

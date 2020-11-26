@@ -1,0 +1,54 @@
+#!/bin/bash -euo pipefail
+#
+# Generate thumbnail images by taking stills from a specific video.
+
+function main {
+    # main chapters
+    find_videos_between 1 99
+
+    # behind the scenes
+    find_videos_between 101 199
+}
+
+function find_videos_between {
+    local from="$1"
+    local to="$2"
+    local last=0
+
+    for seq in $(seq $from $to); do
+        [ $last != 0 ] && break
+
+        chapter=$(printf '%02d' $seq)
+        for video in ${chapter}\ *.mp4; do
+            jpg="$( echo "$video" | sed -e 's/.mp4/.jpg/')"
+
+            [ ! -f "$video" ] && last=1 && break
+            [ "$(stamp "$jpg")" -gt "$(stamp "$video")" ] && continue
+
+            capture_thumbnail $seq "$jpg"
+        done
+    done
+}
+
+function capture_thumbnail {
+    index="$1"
+    image="$2"
+
+    local minutes=$((index / 60))
+    local seconds=$((index % 60))
+
+    status "== {bold}{green}$image"
+    if [ -z "${DRY_RUN:-}" ]; then
+        ffmpeg \
+            -y \
+            -accurate_seek \
+            -ss ${minutes}:${seconds} \
+            -loglevel error \
+            -i _thumbnails.mp4 \
+            -frames:v 1 \
+            -q:v 1 \
+                "$image"
+    fi
+}
+
+main
