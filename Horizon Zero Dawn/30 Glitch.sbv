@@ -1,22 +1,14 @@
-0:00:21.910,0:00:23.208
+0:00:21.910,0:00:26.386
 [Computer]
-Genetic profile confirmed.
+Genetic profile confirmed. Entry authorised.
 
-0:00:23.210,0:00:26.388
+0:00:26.390,0:00:30.460
 [Computer]
-Entry authorised.
+Greetings, Doctor Sobeck. Please, step inside.
 
-0:00:26.390,0:00:27.458
+0:01:06.087,0:01:14.569
 [Computer]
-Greetings, Doctor Sobeck.
-
-0:00:29.120,0:00:30.460
-[Computer]
-Please, step inside.
-
-0:01:08.239,0:01:14.569
-[Computer]
-Doctor Sobeck you are 355,510 days overdue for your meeting with Mr Faro.
+Doctor Sobeck, you are 355,510 days overdue for your meeting with Mr Faro.
 
 0:01:15.230,0:01:17.359
 [Computer]
@@ -35,6 +27,7 @@ What's going on?
 Forget about travelling light.
 
 0:03:30.240,0:03:33.558
+[first recorded voice]
 The protocols used polyphasic entangled waveforms.
 
 0:03:33.560,0:03:38.069
@@ -53,11 +46,11 @@ So that's what we delivered.
 [second recorded voice]
 You don't code something you can't crack.
 
-0:03:44.340,0:03:46.338
+0:03:44.340,0:03:46.050
 [second recorded voice]
 All we need is a backdoor.
 
-0:03:46.340,0:03:49.338
+0:03:46.050,0:03:49.338
 [second recorded voice]
 Upload the latest service update and the problem goes away.
 
@@ -67,21 +60,22 @@ You specifically forbade us from leaving anything resembling a backdoor in code.
 
 0:03:54.750,0:03:58.418
 [first recorded voice]
-Every protocol, the black court's standard your words.
+Every protocol to Black Quartz standard, your words.
 
 0:03:58.419,0:04:03.188
 [first recorded voice]
-Look, if you need me to fudge some projections, it's nothing we haven't done before.
+Look, if you need me to fudge some projections,
+it's nothing we haven't done before.
 
 0:04:03.189,0:04:05.550
 [second recorded voice]
-I don't need fudged projections.
+I don't need fudged projections!
 
 0:04:05.909,0:04:10.349
 [second recorded voice]
 I need a way to reassert control over the Hartz-Timor swarm.
 
-0:04:10.590,0:04:11.438
+0:04:10.590,0:04:12.555
 [first recorded voice]
 I don't know what to tell you, Ted.
 
@@ -89,9 +83,12 @@ I don't know what to tell you, Ted.
 [first recorded voice]
 You're asking the impossible.
 
-0:04:14.689,0:04:22.350
-So codes.
-They needed codes of some kind to control the machines, but they got out of control.
+0:04:14.689,0:04:16.269
+So, codes.
+
+0:04:16.269,0:04:22.350
+They needed codes of some kind to control the machines,
+but they got out of control.
 
 0:04:22.910,0:04:24.149
 Sounds bad.
@@ -102,34 +99,52 @@ I can't spare the weight.
 0:06:12.540,0:06:13.850
 A Deathbringer.
 
-0:06:14.629,0:06:15.949
-Or a statue, anyway.
+0:06:14.629,0:06:16.934
+Or a statue of one, anyway.
 
 0:06:17.040,0:06:20.519
 A machine built to kill. And they honoured it?
 
-0:06:20.519,0:06:25.949
+0:06:20.519,0:06:27.315
 [Hologram]
-"Welcome to Faro Automated Solutions, where all the problems of tomorrow are being solved today."
+Welcome to Faro Automated Solutions, where
+all the problems of tomorrow are being solved today.
 
-0:06:25.949,0:06:42.639
+0:06:27.315,0:06:33.635
 [Hologram]
-"With over 25,000 human employees based in nations and corporate holdings across the globe, Faro leads the world in every sector of self sustaining, fully automated technology, from revolutionary consumer products close to home,"
+With over 25,000 human employees
+based in nations and corporate holdings across the globe,
 
-0:06:42.639,0:06:58.250
+0:06:33.635,0:06:39.758
 [Hologram]
-"Like the Faro Focus, to the dynamic Chariot line of peace-keeping robots halting bloodshed in conflict zones across the globe, Faro remains committed to making the future smarter, brighter, safer, and always surprising."
+Faro leads the world in every sector
+of self sustaining, fully automated technology.
+
+0:06:39.758,0:06:44.233
+[Hologram]
+From revolutionary consumer products close to home,
+like the Faro Focus,
+
+0:06:44.233,0:06:50.565
+[Hologram]
+to the dynamic Chariot line of peace-keeping robots
+halting bloodshed in conflict zones across the globe,
+
+0:06:50.565,0:06:58.250
+[Hologram]
+Faro remains committed to making the future
+smarter, brighter, safer, and always surprising.
 
 0:06:58.439,0:07:04.240
 [Hologram]
-"Faro.
-Automated solutions for every problem of life, a smart solution."
+Faro Automated Solutions.
+For every problem of life, a smart solution.
 
 0:07:04.509,0:07:06.550
 [Aloy]
 So they made the Focus.
 
-0:07:06.639,0:07:09.079
+0:07:06.639,0:07:11.639
 25,000 people? That's bigger than a tribe.
 
 0:07:11.639,0:07:16.189
@@ -150,7 +165,7 @@ It was a corporation.
 
 0:08:02.439,0:08:04.750
 [voice from Focus]
-A group of people, not unlike a tribe
+A group of people, not unlike a tribe.
 
 0:08:06.060,0:08:07.649
 [voice from Focus]
@@ -172,15 +187,18 @@ They'll help you understand.
 [Ted Faro]
 Now I know this must seem like a bizarre change in direction.
 
-0:15:25.840,0:15:30.950
+0:15:25.840,0:15:28.510
 [Ted Faro]
 I mean, we're Faro Automated Solutions, right?
+
+0:15:28.510,0:15:30.950
 [Ted Faro]
 Number one robotics firm in the world.
 
 0:15:31.139,0:15:36.469
 [Ted Faro]
-Why would we clear our production slate to fabricate human operated vehicles and weapons systems?
+Why would we clear our production slate to fabricate
+human operated vehicles and weapons systems?
 
 0:15:36.470,0:15:38.250
 [Ted Faro]
@@ -194,19 +212,22 @@ All I can say at this juncture is…
 [Ted Faro]
 …trust me.
 
-0:15:44.139,0:15:46.649
+0:15:44.139,0:15:52.840
 [Ted Faro]
-We will be exploiting a massive uh, 
-growth opportunity by retooling and reallocating capacity according to my plan.
+We will be exploiting a massive uh, growth opportunity
+by retooling and reallocating capacity according to my plan.
 
 0:15:52.840,0:15:59.950
 [Ted Faro]
-So I will need revised projections of mass fabrication velocity across every pipeline within 36 hours.
+So I will need revised projections of mass fabrication
+velocity across every pipeline within 36 hours.
 
-0:16:00.039,0:16:08.090
+0:16:00.039,0:16:02.808
 [Aloy]
-So they were making machines then they stopped to make other kinds of weapons.
-Why?
+So they were making machines.
+
+0:16:02.808,0:16:08.090
+Then they stopped to make other kinds of weapons. Why?
 
 0:16:38.539,0:16:39.750
 The air.
@@ -220,8 +241,8 @@ Nothing natural.
 0:17:34.160,0:17:35.740
 Should have brought a cart.
 
-0:18:07.130,0:18:08.490
-Another cave in, but I could get through.
+0:18:07.130,0:18:11.014
+Another cave-in, but I could get through.
 
 0:20:14.339,0:20:16.009
 Looks like I can climb here.
@@ -229,62 +250,85 @@ Looks like I can climb here.
 0:21:00.019,0:21:02.349
 I bet I can use that as a ramp to get back up.
 
-0:21:38.940,0:21:39.660
+0:21:40.264,0:21:41.522
 Made it.
 
 0:22:48.140,0:22:54.838
 [Hologram]
-The FSP5 Khopesh provides a one size fits all solution to main battle force capability.
+The FSP5 Khopesh provides a one-size-fits-all solution
+to main battle force capability.
 
-0:22:54.839,0:23:05.660
+0:22:54.839,0:22:59.029
 [Hologram]
-Metamaterial construction delivers unmatched recoil dampening, allowing you to field any weapon package that conforms to your budget needs and conflict resolution profile.
+Metamaterial construction delivers unmatched recoil dampening.
 
-0:23:05.660,0:23:12.759
+0:22:59.029,0:23:05.489
 [Hologram]
-Patented biomass conversion systems allow extended emergency operations with minimal environmental impact.
+Allowing you to field any weapon package that conforms
+to your budget needs and conflict resolution profile.
 
-0:23:12.799,0:23:21.639
+0:23:05.489,0:23:12.759
 [Hologram]
-Multilinear target processing provides simultaneous real-time threat analysis and legal review for autonomous domestic operations
+Patented biomass conversion systems allow
+extended emergency operations with minimal environmental impact.
 
-0:23:21.640,0:23:26.160
+0:23:12.799,0:23:20.771
 [Hologram]
-Or control can be slaved to the swarm's neural network for weapons-free force application.
+Multilinear target processing provides simultaneous real-time threat analysis
+and legal review for autonomous domestic operations.
 
-0:23:26.210,0:23:32.950
+0:23:20.771,0:23:26.160
+[Hologram]
+Or control can be slaved to the swarm's neural network
+for weapons-free force application.
+
+0:23:26.210,0:23:31.419
 [Hologram]
 Either way, when it's time to call out the big guns, it's time to call Khopesh.
 
-0:23:33.230,0:23:37.369
+0:23:31.823,0:23:33.303
 [Aloy]
 The Deathbringer.
+
+0:23:33.303,0:23:37.369
 So this was the heavy hitter. "Main battle force" indeed.
 
-0:23:51.619,0:23:59.789
+0:23:50.502,0:23:52.796
 [Hologram]
-The BOR7 Horus. Imagine your complete engagement ecosystem comprehensively managed by a high-speed learning machine network.
+The BOR7 Horus.
 
-0:23:59.940,0:24:06.088
+0:23:52.796,0:23:59.789
 [Hologram]
-Whether your need is to replace battlefield losses or intensify force projection, the Horus's onboard
+Imagine your complete engagement ecosystem comprehensively managed
+by a high-speed learning machine network.
+
+0:23:59.940,0:24:04.636
 [Hologram]
-manufacturing capabilities mean you'll never get stuck waiting for the next arms delivery.
+Whether your need is to replace battlefield losses or intensify force projection,
+
+0:24:04.636,0:24:11.839
+[Hologram]
+the Horus's onboard manufacturing capabilities mean
+you'll never get stuck waiting for the next arms delivery.
 
 0:24:11.839,0:24:21.038
 [Hologram]
-Simply redefine your force parameters and the Horus will fabricate additional units to fill the ranks for an affordable per unit licencing fee.
+Simply redefine your force parameters and the Horus will fabricate additional units
+to fill the ranks for an affordable per-unit licencing fee.
 
-0:24:21.039,0:24:35.400
+0:24:21.039,0:24:29.491
 [Hologram]
-Meanwhile, the biomass conversion systems of other Chariot line models allow them to keep the Horus fuelled, repaired, and ready.
-[Hologram]
-Extending its operational tolerances beyond that of any competing titan-class platform.
+Meanwhile, the biomass conversion systems of other Chariot line models
+allow them to keep the Horus fuelled, repaired, and ready.
 
-0:24:35.539,0:24:37.538
+0:24:29.491,0:24:35.400
 [Hologram]
-That's the Horus advantage.
-Always regulating, always ready.
+Extending its operational tolerances beyond that
+of any competing titan-class platform.
+
+0:24:35.539,0:24:40.440
+[Hologram]
+That's the Horus advantage. Always regulating, always ready.
 
 0:24:40.440,0:24:44.339
 [Hologram]
@@ -294,40 +338,65 @@ The future of automated warfare made real today.
 [Aloy]
 The Metal Devil.
 
-0:24:46.640,0:24:51.660
+0:24:46.640,0:24:49.598
 So these were Faro machines too. 
 
-0:24:52.329,0:24:54.369
+0:24:49.598,0:24:54.369
 "Manufacturing capabilities" — they could make more of themselves.
 
-0:24:54.700,0:24:56.500
+0:24:54.369,0:24:56.748
 Then how would you ever stop them?
 
-0:25:03.740,0:25:20.160
+0:25:03.740,0:25:10.272
 [Hologram]
-The ACA3 Scarab combines conventional and information warfare capabilities in one package. Designed for high-speed, all-terrain reconnaissance, it boasts the world's highest survivability rating of any scout class autonomous agent.
+The ACA3 Scarab combines conventional
+and information warfare capabilities in one package.
 
-0:25:20.299,0:25:30.239
+0:25:10.272,0:25:14.473
 [Hologram]
-Maybe it's the Scarab's emergency biomass conversion systems that ensure it always makes it back to base, even if fuel supply lines have been interdicted.
+Designed for high-speed, all-terrain reconnaissance.
+
+0:25:14.473,0:25:20.160
+[Hologram]
+It boasts the world's highest survivability rating
+of any scout-class autonomous agent.
+
+0:25:20.299,0:25:27.118
+[Hologram]
+Maybe it's the Scarab's emergency biomass conversion systems
+that ensure it always makes it back to base.
+
+0:25:27.118,0:25:30.239
+[Hologram]
+Even if fuel supply lines have been interdicted.
 
 0:25:30.240,0:25:35.818
 [Hologram]
 Or maybe it's the Scarab's ability to slave enemy robots to its own network.
 
-0:25:35.819,0:25:50.139
+0:25:35.819,0:25:38.312
 [Hologram]
 Now that's force multiplication.
-Add a prehensile manipulator arm that can handle a host of functions. 
-From 360-degree less lethal riot management to surgical repairs of allied Chariot line models.
+
+0:25:38.312,0:25:42.996
+[Hologram]
+Add a prehensile manipulator arm that can handle a host of functions.
+
+0:25:42.996,0:25:50.139
+[Hologram]
+From 360-degree less lethal riot management,
+to surgical repairs of allied Chariot line models.
 
 0:25:50.140,0:25:54.180
 [Hologram]
 And you've got the workhorse of any cutting edge peace-keeping fleet.
 
-0:25:54.440,0:25:59.309
+0:25:54.440,0:25:56.175
 [Aloy]
-The Corruptor. "Slave enemy robots to its own network".
+The Corruptor.
+
+0:25:56.175,0:25:59.309
+"Slave enemy robots to its own network".
 
 0:26:00.140,0:26:03.579
 Sounds like its talking about how it corrupts machines.
@@ -356,7 +425,7 @@ Gonna be a long way up.
 0:31:30.839,0:31:32.849
 Frozen metal most of the way.
 
-0:31:33.039,0:31:34.419
+0:31:33.039,0:31:35.578
 You're not making this easy, Doctor Sobeck.
 
 0:32:01.460,0:32:05.670
@@ -377,27 +446,37 @@ Now I wish that I could relay that the crisis has been…
 [Ted Faro]
 …exaggerated, but it's not.
 
-0:34:42.250,0:34:46.338
+0:34:42.250,0:34:45.428
 [Ted Faro]
-The peacekeepers have not responded to stand down codes, and by all signs
+The peacekeepers have not responded to stand down codes.
 
-0:34:46.340,0:34:48.789
+0:34:45.428,0:34:51.139
 [Ted Faro]
-they appear to be replicating at a precipitous rate.
+And by all signs they appear to be replicating at a… precipitous rate.
 
-0:34:51.139,0:35:03.038
+0:34:51.139,0:34:55.433
 [Ted Faro]
-Now what I can promise you and absolutely assure you is that I am already devoting every possible resource towards reaching a speedy conclusion to this issue.
+Now what I can promise you and absolutely assure you…
 
-0:35:03.039,0:35:11.708
+0:34:55.433,0:35:03.038
 [Ted Faro]
-So when you hear the bad talk about us, against this company, in the days, maybe weeks, to come, just bear in mind that we will get past this.
+…is that I am already devoting every possible resource
+towards reaching a speedy conclusion to this issue.
+
+0:35:03.039,0:35:06.711
+[Ted Faro]
+So when you hear the bad talk about us, against this company,
+
+0:35:06.711,0:35:11.708
+[Ted Faro]
+in the days, maybe weeks, to come,
+just bear in mind that we will get past this.
 
 0:35:11.710,0:35:14.659
 [Ted Faro]
 And a day's coming when none of this will matter.
 
-0:35:16.130,0:35:17.429
+0:35:16.130,0:35:20.239
 [Aloy]
 "Peacekeepers" — that's what they called their machines?
 
@@ -416,7 +495,7 @@ A way up.
 0:42:31.539,0:42:34.119
 All it takes is a few good handholds.
 
-0:42:43.110,0:42:45.130
+0:42:43.110,0:42:47.695
 All right, made it. Wonder what we'll find?
 
 0:43:08.840,0:43:10.449
@@ -431,9 +510,11 @@ I'll need it to get to the armour in that ancient ruin I found.
 0:44:53.989,0:44:55.699
 Should've brought a cart.
 
-0:46:10.039,0:46:16.070
+0:46:10.039,0:46:12.972
 [Computer]
 All data has been erased from this device.
+
+0:46:12.972,0:46:16.070
 [Computer]
 Do you wish to deploy Alpha privileges to recover purged data?
 
@@ -441,7 +522,7 @@ Do you wish to deploy Alpha privileges to recover purged data?
 [Aloy]
 Yes, I believe I do.
 
-0:46:20.389,0:46:21.360
+0:46:20.389,0:46:22.560
 [Computer]
 A file has been recovered.
 
@@ -457,7 +538,7 @@ It's been years.
 [Elisabet Sobeck]
 Where's your legal team, Ted?
 
-0:46:47.070,0:46:48.068
+0:46:47.070,0:46:51.254
 [Ted Faro]
 No need, I dropped all 18 lawsuits the moment you landed.
 
@@ -465,7 +546,7 @@ No need, I dropped all 18 lawsuits the moment you landed.
 [Ted Faro]
 I assume your data confirms this?
 
-0:46:55.579,0:46:56.068
+0:46:55.579,0:46:58.460
 [Elisabet Sobeck]
 Alright, this promises to be interesting.
 
@@ -473,21 +554,23 @@ Alright, this promises to be interesting.
 [Ted Faro]
 Perhaps we could have lunch brought in.
 
-0:47:01.260,0:47:01.968
+0:47:01.260,0:47:02.214
 [Ted Faro]
-You know, get reacquainted
+You know, get reacquainted…
+
+0:47:02.214,0:47:04.659
 [Elisabet Sobeck]
 I know you Ted, you've screwed something up.
 
-0:47:01.969,0:47:05.348
+0:47:04.659,0:47:07.624
 [Elisabet Sobeck]
 Something big, or you wouldn't have eaten the crow necessary to get me here.
 
-0:47:08.179,0:47:09.900
+0:47:08.313,0:47:09.900
 [Elisabet Sobeck]
 So spit it out.
 
-0:47:10.880,0:47:12.099
+0:47:10.880,0:47:15.139
 [Ted Faro]
 There's … a glitch in the Chariot line.
 
@@ -495,7 +578,7 @@ There's … a glitch in the Chariot line.
 [Elisabet Sobeck]
 Your killer robots?
 
-0:47:16.579,0:47:17.358
+0:47:16.579,0:47:18.972
 [Ted Faro]
 Peacekeepers, yes, those.
 
@@ -503,7 +586,7 @@ Peacekeepers, yes, those.
 [Elisabet Sobeck]
 So shut them down.
 
-0:47:21.880,0:47:22.398
+0:47:21.880,0:47:24.301
 [Ted Faro]
 Obviously Liz, we would if we could.
 
@@ -519,7 +602,7 @@ Are you telling me a swarm has gone rogue, Ted?
 [Ted Faro]
 It's worse than that.
 
-0:47:33.550,0:47:35.099
+0:47:32.640,0:47:35.099
 [Elisabet Sobeck]
 [sighs] Show me the data then.
 
@@ -530,168 +613,248 @@ And I'll take that lunch, alone.
 0:47:41.880,0:47:46.449
 Ted Faro brought Elisabet Sobeck here? But they hated each other.
 
-0:47:48.079,0:47:48.900
+0:47:48.079,0:47:50.679
 [Computer]
 Another file has been recovered.
 
 0:47:53.929,0:47:56.489
+[Elisabet Sobeck]
 This isn't a "glitch".
 
 0:47:56.860,0:47:58.318
+[Elisabet Sobeck]
 It's a catastrophe.
 
 0:47:58.320,0:47:59.699
+[Ted Faro]
 Fully aware.
 
 0:48:00.570,0:48:01.668
+[Ted Faro]
 It's bad.
 
-0:48:01.670,0:48:02.778
+0:48:01.670,0:48:02.366
+[Elisabet Sobeck]
 Bad?
 
-0:48:02.780,0:48:03.408
+0:48:02.366,0:48:03.408
+[Ted Faro]
 Jesus, Liz.
 
 0:48:03.409,0:48:05.318
+[Elisabet Sobeck]
 It's not bad, Ted.
 
 0:48:05.320,0:48:07.068
+[Elisabet Sobeck]
 It's apocalyptic.
 
-0:48:07.070,0:48:14.788
+0:48:07.070,0:48:09.369
+[Elisabet Sobeck]
 You built a line of killer robots…
-Peacekeepers.
+
+0:48:09.369,0:48:10.928
+[Ted Faro]
+Peacekeepers!
+
+0:48:10.928,0:48:13.317
+[Elisabet Sobeck]
 …that consume biomass as fuel!
-In emergencies.
+
+0:48:13.317,0:48:14.788
+[Ted Faro]
+In emergencies!
 
 0:48:14.789,0:48:17.238
+[Elisabet Sobeck]
 And you made them capable of self-replication!
 
 0:48:17.239,0:48:20.078
+[Ted Faro]
 Limited self-manufacture, controlled.
 
 0:48:20.079,0:48:21.389
+[Elisabet Sobeck]
 Not any more.
 
 0:48:21.659,0:48:23.608
+[Elisabet Sobeck]
 The glitch severed chain of command.
 
-0:48:23.610,0:48:34.619
+0:48:23.610,0:48:26.538
+[Elisabet Sobeck]
 The only nation this swarm answers to now is itself.
+
+0:48:26.538,0:48:27.774
+[Ted Faro]
 You, you think I di–
+
+0:48:27.774,0:48:29.523
+[Elisabet Sobeck]
 Everything else is just food!
+
+0:48:29.523,0:48:34.619
+[Elisabet Sobeck]
 And at the rate it's replicating, Ted, it will strip the Earth bare in fifteen months.
 
-0:48:35.170,0:48:36.068
+0:48:35.170,0:48:37.239
+[Elisabet Sobeck]
 We're not talking the fall of civilisation.
 
 0:48:37.239,0:48:39.118
+[Elisabet Sobeck]
 We're talking extinction.
 
 0:48:39.119,0:48:40.280
+[Ted Faro]
 I get it, Liz.
 
-0:48:41.170,0:48:41.708
+0:48:41.170,0:48:43.570
+[Ted Faro]
 So how do I stop it while it's contained?
 
 0:48:43.570,0:48:45.820
-If not contained, it can't be!
+[Elisabet Sobeck]
+It's not contained, it can't be!
 
 0:48:46.650,0:48:48.280
-You know what I mean.
+[Ted Faro]
+You know what I mean!
 
-0:48:48.570,0:48:53.889
+0:48:48.570,0:48:51.436
+[Elisabet Sobeck]
 Right, before the truth gets out, you mean.
+
+0:48:51.436,0:48:53.889
+[Ted Faro]
 Liz, I will do anything you say.
 
-0:48:54.139,0:48:55.248
+0:48:54.139,0:48:57.772
+[Ted Faro]
 Keep working it, and whatever you recommend, I'll do.
 
 0:48:58.949,0:49:00.889
+[Elisabet Sobeck]
 I'm gonna hold you to that, Ted.
 
-0:49:08.179,0:49:08.858
+0:49:08.179,0:49:14.760
 The Faro robots threatened all life on Earth, but somehow she defeated them.
 
 0:49:14.760,0:49:18.989
-The world of the Old Ones fell, but life went on or we wouldn't be here.
+The world of the Old Ones fell but life went on, or we wouldn't be here.
 
-0:49:20.860,0:49:21.840
+0:49:20.860,0:49:23.495
 [Computer]
 A final file has been recovered.
 
 0:49:29.710,0:49:31.780
+[Ted Faro]
 "Project Zero Dawn"?
 
-0:49:33.639,0:49:34.849
+0:49:33.639,0:49:37.369
+[Ted Faro]
 Jesus, Liz. There has to be another way.
 
-0:49:37.369,0:49:41.050
+0:49:37.369,0:49:40.604
+[Elisabet Sobeck]
 If there were a nicer way to fix your mess, I would have proposed it.
 
-0:49:41.969,0:49:43.070
+0:49:40.604,0:49:43.070
+[Ted Faro]
 But this? This?!
 
-0:49:43.769,0:49:45.778
-When I asked you to find a cure,
-I didn't expect it to be worse than the disease.
+0:49:43.769,0:49:48.134
+[Ted Faro]
+When I asked you to find a cure, I didn't expect it to be worse than the disease.
 
-0:49:48.099,0:49:49.599
+0:49:48.134,0:49:49.599
+[Elisabet Sobeck]
 It's not, Ted.
 
 0:49:49.840,0:49:52.618
+[Elisabet Sobeck]
 It may be grim, but it's our only chance.
 
 0:49:52.619,0:49:54.389
+[Elisabet Sobeck]
 Now sign the proposal.
 
-0:49:55.269,0:49:55.808
+0:49:55.269,0:49:57.256
+[Ted Faro]
 Sign it? I can't sign that!
 
 0:49:57.840,0:49:59.190
+[Elisabet Sobeck]
 Yes, you can.
 
-0:49:59.469,0:50:05.610
+0:49:59.469,0:50:03.626
+[Ted Faro]
 That? Liz, I cannot in good conscience sign that.
+
+0:50:03.626,0:50:05.610
+[Elisabet Sobeck]
 You've got a choice, Ted.
 
 0:50:05.860,0:50:06.880
+[Ted Faro]
 I know.
 
 0:50:06.940,0:50:11.130
+[Elisabet Sobeck]
 I'm speaking to you from a VTOL en-route to U.S. Robot Command.
 
 0:50:13.190,0:50:17.048
+[Elisabet Sobeck]
 In fifteen minutes, I meet with General Harris and the rest of the Joint Chiefs.
 
-0:50:17.050,0:50:18.039
+0:50:17.050,0:50:20.510
+[Ted Faro]
 Wh—what?! Are you crazy?
 
 0:50:20.510,0:50:22.678
+[Elisabet Sobeck]
 Now your choice is what I tell them.
 
 0:50:22.679,0:50:28.880
-Sign and I'll tell them the wealthiest corporation on Earth has guaranteed the funds necessary to build Zero Dawn.
+[Elisabet Sobeck]
+Sign and I'll tell them the wealthiest corporation on Earth
+has guaranteed the funds necessary to build Zero Dawn.
 
-0:50:29.739,0:50:33.128
+0:50:29.739,0:50:32.137
+[Elisabet Sobeck]
 Exactly as I've designed it.
 
-0:50:33.130,0:50:38.289
-Or don't sign and I will make sure they and everyone else on this planet knows the real cause of the glitch.
+0:50:32.137,0:50:38.289
+[Elisabet Sobeck]
+Or don't sign and I will make sure they,
+and everyone else on this planet, knows the real cause of the glitch.
 
-0:50:39.260,0:50:40.699
-Jesus, Liz. You don't have to threaten me. I'll sign.
+0:50:39.260,0:50:40.824
+[Ted Faro]
+Jesus, Liz.
+
+0:50:42.065,0:50:43.858
+[Ted Faro]
+You don't have to threaten me.
+
+0:50:45.513,0:50:46.810
+[Ted Faro]
+I'll sign.
 
 0:50:52.150,0:50:54.050
+[Elisabet Sobeck]
 Look on the bright side, Ted.
 
-0:50:54.559,0:50:55.928
+0:50:54.559,0:50:57.583
+[Elisabet Sobeck]
 From here on out you get to do what you've always been good at.
 
-0:50:55.929,0:51:00.369
+0:50:57.583,0:51:00.369
+[Elisabet Sobeck]
 Footing the bill while others get their hands dirty.
 
-0:51:04.559,0:51:05.980
+0:51:04.559,0:51:06.187
+[Ted Faro]
 God forgive me.
 
 0:51:11.460,0:51:14.570
@@ -700,11 +863,11 @@ What made her solution so terrible?
 0:51:14.860,0:51:17.190
 What did she do to stop the robots?
 
-0:51:18.889,0:51:20.800
+0:51:18.889,0:51:24.110
 [Computer]
 Executive access detected. Express lift opened.
 
-0:51:30.630,0:51:32.179
+0:51:29.389,0:51:32.179
 This, this doesn't add up.
 
 0:51:32.519,0:51:34.468
@@ -716,22 +879,23 @@ She lived ages ago.
 0:51:36.960,0:51:39.908
 All this searching and I'm still no closer.
 
-0:51:39.909,0:51:41.528
+0:51:39.909,0:51:42.852
 [voice from Focus]
 That's your reaction to everything you just learned?
 
-0:51:41.530,0:51:45.289
+0:51:42.852,0:51:45.289
 [voice from Focus]
 To whine like a spoiled child?
 
-0:51:46.159,0:51:48.078
+0:51:46.159,0:51:49.154
 You should really try talking that way to me face to face!
 
 0:51:49.530,0:51:51.309
 As you wish.
 
 0:51:52.619,0:51:58.409
-Do you really have no idea how monumental are the discoveries you just made, Aloy?
+Do you really have no idea how monumental
+are the discoveries you just made, Aloy?
 
 0:51:59.239,0:52:01.320
 I expected more of you.
@@ -739,14 +903,15 @@ I expected more of you.
 0:52:01.550,0:52:04.480
 So, you have a face.
 
-0:52:05.150,0:52:08.408
+0:52:05.150,0:52:07.168
 Got a name to go with it?
 
-0:52:08.409,0:52:11.199
+0:52:07.168,0:52:11.199
 Of all the questions you could ask right now, that's the one you choose?
 
 0:52:13.250,0:52:19.190
-I've spent decades searching the ruins of the Old Ones, trying to solve the mystery of what happened to them.
+I've spent decades searching the ruins of the Old Ones,
+trying to solve the mystery of what happened to them.
 
 0:52:19.449,0:52:23.438
 For years I've suspected that Faro robots destroyed their civilisation.
@@ -761,13 +926,18 @@ And in minutes you uncover more ancient knowledge than I have in a lifetime.
 And what you want to know is my name?
 
 0:52:33.230,0:52:39.260
-If you're so smart, why do you know so little after a lifetime scratching around in the dirt?
+If you're so smart, why do you know so little
+after a lifetime scratching around in the dirt?
 
 0:52:39.349,0:52:41.698
 It's not my fault you're bad at what you do.
 
-0:52:41.699,0:52:49.148
-I came to these ruins looking for Elisabet Sobeck, not because of the things she did centuries ago, but because people are trying to kill me right now, today!
+0:52:41.699,0:52:44.615
+I came to these ruins looking for Elisabet Sobeck.
+
+0:52:44.615,0:52:50.182
+Not because of the things she did centuries ago,
+but because people are trying to kill me right now, today!
 
 0:52:51.030,0:52:53.598
 I've got bigger problems to deal with than your crap.
@@ -781,42 +951,48 @@ You just graduated from whining to throwing a temper tantrum.
 0:52:59.139,0:53:01.690
 I'm sure Elisabet would be proud.
 
-0:53:02.150,0:53:08.338
+0:53:02.150,0:53:07.554
 You have no idea what I've been through, how hard it's been.
 
-0:53:08.340,0:53:11.368
+0:53:07.554,0:53:11.368
 My whole life I grew up not knowing who I am or where I came from.
 
-0:53:11.369,0:53:17.588
-And then come the Eclipse trying to kill me just because I look like this Elisabet Sobeck woman.
+0:53:11.369,0:53:15.976
+And then come the Eclipse trying to kill me,
+just because I look like this Elisabet Sobeck woman.
 
-0:53:17.590,0:53:19.940
-And they killed the man who raised you, and you were found in the mountain as a baby.
+0:53:15.976,0:53:19.940
+And they killed the man who raised you,
+and you were found in the mountain as a baby.
 
 0:53:20.250,0:53:22.708
 I already know this through your Focus.
 
 0:53:22.710,0:53:28.059
-You've been getting a free ride on my Focus, risking nothing while I risk everything.
+You've been getting a free ride on my Focus,
+risking nothing while I risk everything.
 
 0:53:28.250,0:53:33.880
-All I have to do is take this thing off my head and you'll be blind, deaf, and dumb.
+All I have to do is take this thing off my head
+and you'll be blind, deaf, and dumb.
 
-0:53:33.949,0:53:38.090
+0:53:33.949,0:53:36.966
 So quit complaining and answer my questions.
 
-0:53:38.869,0:53:41.748
+0:53:36.966,0:53:41.914
 Very well. Sylens. That's my name.
 
-0:53:42.949,0:53:45.360
+0:53:41.914,0:53:45.360
 Now, why don't you try asking another question?
 
-0:53:45.550,0:53:52.000
+0:53:45.550,0:53:47.585
 Something less trivial.
+
+0:53:47.585,0:53:52.000
 Every time I take a step forward, the answer slipped farther from my grasp.
 
-0:53:53.449,0:53:54.948
-You just don't understand.
+0:53:52.704,0:53:54.948
+[sighs] You just don't understand.
 
 0:53:54.949,0:53:57.210
 It's not that I don't understand, Aloy.
@@ -834,13 +1010,15 @@ Maybe then you'll realise just how big your problems really are.
 0:54:10.469,0:54:13.389
 Alright Sylens, you've made your point.
 
-0:54:14.639,0:54:20.168
-I came to these ruins hoping to learn more about this Elisabet Sobeck, and I have.
+0:54:14.639,0:54:20.336
+I came to these ruins hoping to learn more
+about this Elisabet Sobeck, and I have.
 
-0:54:20.170,0:54:28.908
-But I still don't understand my connection to her, or why the Eclipse is trying to kill me, or who Hades is…
+0:54:20.336,0:54:28.081
+But I still don't understand my connection to her,
+or why the Eclipse is trying to kill me, or who Hades is…
 
-0:54:28.909,0:54:31.800
+0:54:28.081,0:54:31.800
 No answers, just one question after another.
 
 0:54:31.840,0:54:35.518
@@ -855,15 +1033,18 @@ I'm a lone wanderer who left his tribe behind a long time ago.
 0:54:46.340,0:54:50.250
 An explorer of forbidden places, a searcher of lost knowledge.
 
-0:54:50.389,0:54:54.348
+0:54:50.389,0:54:52.012
 Exactly as I said.
+
+0:54:52.012,0:54:54.348
 Why do you know so much about the Eclipse?
 
 0:54:54.349,0:54:57.400
 I happen to know a lot about a lot of things.
 
 0:54:58.030,0:55:02.750
-If what you're really asking is whether I work for the Eclipse or anyone else, I don't.
+If what you're really asking is whether I work
+for the Eclipse or anyone else, I don't.
 
 0:55:03.210,0:55:05.750
 I'm nothing if not independent.
@@ -874,14 +1055,16 @@ You've been using my Focus to spy on me.
 0:55:08.610,0:55:10.108
 How is that possible?
 
-0:55:10.110,0:55:15.158
+0:55:10.110,0:55:12.925
 Every Focus emits a signal.
 
-0:55:15.159,0:55:16.159
+0:55:12.925,0:55:16.159
 A voice that only other Focuses can hear.
 
-0:55:16.199,0:55:22.118
+0:55:16.199,0:55:18.116
 I know how to string those voices together.
+
+0:55:18.116,0:55:22.118
 How to make them talk to each other, to communicate even over vast distances.
 
 0:55:22.119,0:55:23.988
@@ -893,11 +1076,13 @@ Years of study and experimentation.
 0:55:27.969,0:55:31.750
 In principle, it's not so different from how you override machines.
 
-0:55:32.340,0:55:37.298
+0:55:32.340,0:55:34.384
 I override Focuses.
+
+0:55:34.384,0:55:37.298
 And you can spy through other Eclipse's Focuses too?
 
-0:55:37.300,0:55:38.469
+0:55:37.300,0:55:38.510
 Usually.
 
 0:55:39.739,0:55:45.838
@@ -909,51 +1094,60 @@ That thing that spoke to me outside, that made that Focus explode?
 0:55:51.530,0:55:52.760
 That was Hades?
 
-0:55:54.239,0:55:56.948
+0:55:54.239,0:55:58.520
 The Eclipse describe him as a buried shadow, some kind of devil.
 
-0:55:56.949,0:56:02.679
+0:55:59.141,0:56:02.679
 It didn't seem like a person or a machine.
 
 0:56:03.420,0:56:07.039
 More like a phantom with a terrible voice.
 
-0:56:07.130,0:56:08.860
+0:56:07.130,0:56:11.667
 All that certain is that he wants you dead.
 
-0:56:09.489,0:56:18.338
+0:56:11.667,0:56:15.355
 Because of my connection to Elisabet, has to be.
+
+0:56:15.355,0:56:19.168
 Hades is using the Eclipse to resurrect Faro robots.
 
-0:56:18.340,0:56:23.978
-You said you've known for some time that Faro war machines destroyed the civilisation of the Old Ones.
+0:56:19.168,0:56:23.978
+You said you've known for some time that
+Faro war machines destroyed the civilisation of the Old Ones.
 
-0:56:23.980,0:56:30.789
-The evidence pointed that way,
-but until now, I never knew the full scope of their danger.
+0:56:23.980,0:56:26.229
+The evidence pointed that way.
 
-0:56:30.889,0:56:37.039
+0:56:26.229,0:56:30.789
+But until now, I never knew the full scope of their danger.
+
+0:56:30.889,0:56:33.741
 That they could process organic matter into fuel.
-Or that the Horus class could manufacture more robots,
 
-0:56:37.630,0:56:39.308
-like a cauldron on legs.
+0:56:33.741,0:56:37.039
+Or that the Horus class could manufacture more robots.
+
+0:56:37.742,0:56:39.308
+Like a cauldron on legs.
 
 0:56:39.309,0:56:44.378
-But the robots we've seen so far, the Corruptors and Deathbringers,
-they don't do those things.
+But the robots we've seen so far,
+the Corruptors and Deathbringers, they don't do those things.
 
 0:56:44.380,0:56:45.860
 Not yet, anyway.
 
-0:56:46.619,0:56:50.638
+0:56:46.619,0:56:49.811
 So far, we haven't encountered any that are undamaged.
 
-0:56:50.639,0:56:52.468
+0:56:49.811,0:56:52.468
 At full power who knows what they're capable of?
 
-0:56:52.469,0:56:58.039
+0:56:52.469,0:56:55.576
 But if Elisabet found a way to stop them centuries ago…
+
+0:56:55.576,0:56:58.039
 In some of the ancient data I've recovered,
 
 0:56:58.909,0:57:02.480
@@ -971,17 +1165,25 @@ Wasting time.
 0:57:09.230,0:57:13.428
 Is there any chance that Elisabet Sobeck could still be alive somehow?
 
-0:57:13.429,0:57:18.650
+0:57:13.429,0:57:15.292
 It's highly unlikely.
-Sobeck couldn't have been my mother.
-She lived ages ago.
 
-0:57:19.719,0:57:27.769
-Some of the ancient data I've recovered includes mentions of life extension techniques, pharmaceuticals mostly, an ancient word for medicine.
+0:57:15.292,0:57:18.650
+She couldn't have been my mother if she lived centuries ago.
 
-0:57:28.429,0:57:36.840
+0:57:19.719,0:57:24.388
+Some of the ancient data I've recovered includes mentions of life extension techniques.
+
+0:57:24.388,0:57:27.769
+Pharmaceuticals mostly, an ancient word for medicine.
+
+0:57:28.429,0:57:32.506
 But some were still trying to perfect ways of freezing and unfreezing people.
+
+0:57:33.100,0:57:34.957
 Freezing and unfreezing people?
+
+0:57:34.957,0:57:36.840
 Cryogenics, they called it.
 
 0:57:37.230,0:57:39.039
@@ -997,39 +1199,45 @@ I can't definitively rule out that she found a way to make herself immortal.
 The only way to find out is to keep going, to keep making discoveries.
 
 0:57:51.199,0:57:57.340
-Thanks to you, we've only just now learned that Faro robots once threatened to end life on Earth.
+Thanks to you, we've only just now learned
+that Faro robots once threatened to end life on Earth.
 
 0:57:57.429,0:57:59.039
 But it didn't happen.
 
-0:57:59.070,0:58:01.128
+0:57:59.070,0:58:03.445
 The Old Ones' civilisation was destroyed but life, life was saved.
 
-0:58:06.619,0:58:08.510
+0:58:03.445,0:58:08.646
 Obviously. So what did Elisabet do?
 
-0:58:09.219,0:58:11.948
+0:58:09.219,0:58:13.190
 How did she stop the robots before all was lost?
 
-0:58:13.190,0:58:14.338
+0:58:13.190,0:58:15.334
 What was Project Zero Dawn?
 
-0:58:14.340,0:58:22.808
+0:58:15.334,0:58:17.600
 Exactly the question.
-Elisabet told Ted Faro she was headed for a place called U.S. Robot Command
 
-0:58:22.809,0:58:27.519
-to tell people about Zero Dawn.
+0:58:17.600,0:58:24.755
+Elisabet told Ted Faro she was headed for a place called
+"U.S. Robot Command" to tell people about Zero Dawn.
+
+0:58:24.755,0:58:27.519
 The place still exists as a ruin.
 
-0:58:28.099,0:58:33.488
+0:58:28.099,0:58:30.537
 The Oseram call it the Grave-Hoard.
+
+0:58:30.868,0:58:33.488
 "Grave-Hoard"? Cheery name.
 
-0:58:33.489,0:58:38.528
-You'll find it in the eastern mountains, buried under the tangled coils of a Metal Devil.
+0:58:33.489,0:58:37.537
+You'll find it in the eastern mountains,
+buried under the tangled coils of a Metal Devil.
 
-0:58:38.530,0:58:41.178
+0:58:37.537,0:58:41.178
 Or a BOR7 Horus rather, as we're learning to call them.
 
 0:58:41.179,0:58:43.070
@@ -1038,17 +1246,15 @@ I'll contact you when you get there.
 0:58:43.420,0:58:44.880
 I can't wait.
 
-0:58:52.710,0:58:56.210
+0:58:52.710,0:58:56.913
 Some day we'll meet in person and your manners had better be improved.
 
-0:59:07.719,0:59:10.598
+0:59:07.719,0:59:11.757
 Well, getting down will be a lot faster than getting up here at least.
 
-0:59:10.599,0:59:11.579
-At least
-
-0:59:13.320,0:59:15.530
+0:59:13.320,0:59:15.867
 U.S. Robot Command next.
 
-0:59:16.239,0:59:17.949
+0:59:15.867,0:59:17.949
 To learn the secrets of Zero Dawn.
+

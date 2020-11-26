@@ -1,20 +1,21 @@
-0:00:21.039,0:00:26.238
-Elisabet told Ted Faro she was headed for a place called U.S. Robot Command
-to tell people about Zero Dawn.
+0:00:21.039,0:00:28.156
+Elisabet told Ted Faro she was headed for a place called
+"U.S. Robot Command" to tell people about Zero Dawn.
 
-0:00:26.239,0:00:30.949
+0:00:28.156,0:00:30.949
 The place still exists as a ruin.
 
-0:00:31.530,0:00:35.479
+0:00:31.530,0:00:34.139
 The Oseram call it the Grave-Hoard.
 
-0:00:35.789,0:00:36.919
+0:00:34.139,0:00:36.919
 "Grave-Hoard"? Cheery name.
 
-0:00:36.920,0:00:41.969
-You'll find it in the eastern mountains, buried under the tangled coils of a Metal Devil.
+0:00:36.920,0:00:40.988
+You'll find it in the eastern mountains,
+buried under the tangled coils of a Metal Devil.
 
-0:00:41.969,0:00:44.609
+0:00:40.988,0:00:44.609
 Or a BOR7 Horus rather, as we're learning to call them.
 
 0:00:44.609,0:00:46.549
@@ -24,9 +25,9 @@ I'll contact you when you get there.
 I can't wait.
 
 0:01:45.040,0:01:46.680
-The Eclipse.
+Ugh, Eclipse.
 
-0:01:46.829,0:01:47.759
+0:01:46.829,0:01:49.890
 [Sylens, through Focus]
 I'm not showing any Focuses at that location.
 
@@ -38,9 +39,12 @@ Shouldn't be anything you can't handle on your own.
 [Sylens, through Focus]
 Carry on.
 
-0:01:53.909,0:01:54.980
+0:01:53.909,0:01:55.099
 [Aloy]
-Thanks. On my own, alright.
+Thanks.
+
+0:01:55.099,0:01:56.937
+On my own, alright.
 
 0:02:54.740,0:02:56.150
 Got their attention!
@@ -58,16 +62,16 @@ That does it.
 0:08:16.459,0:08:18.490
 Time to take a look around the room.
 
-0:09:42.799,0:09:45.399
+0:09:42.799,0:09:47.970
 "Operation Enduring Victory" — what did that mean?
-
-0:09:46.299,0:09:47.539
 
 0:09:47.970,0:09:51.190
 Whatever it was, doesn't seem to have turned out very well.
 
-0:10:03.990,0:10:06.669
+0:09:59.663,0:10:05.006
 [sirens, sounds of battle]
+
+0:10:05.006,0:10:06.669
 [Sgt. Guliyev]
 Say again Lieutenant?
 
@@ -75,13 +79,18 @@ Say again Lieutenant?
 [Lt. Murell]
 It got through. Titan is through the defenses, still on approach.
 
-0:10:16.610,0:10:17.549
-[Cpl. Acosta]
-A live one, and it's pissed!
+0:10:11.751,0:10:15.093
+[sirens, sounds of battle]
 
-0:10:18.940,0:10:20.579
+0:10:15.093,0:10:18.940
+[Cpl. Acosta]
+Ah, crap. A live one, and it's pissed!
+
+0:10:18.940,0:10:21.994
 [Sgt. Guliyev]
 We got no mobility in here, it'll punch right through us.
+
+0:10:21.994,0:10:26.467
 [Lt. Murell]
 We hold the hatch at all costs. Then push back out!
 
@@ -89,63 +98,84 @@ We hold the hatch at all costs. Then push back out!
 [Aloy]
 A battle, frozen in ice and time.
 
-0:10:43.309,0:10:49.289
+0:10:43.309,0:10:47.137
 [Cpl. Mills]
 Looks like quite an enduring victory we put our foot in today.
+
+0:10:47.137,0:10:49.289
 [Lt. Murell]
 Contact in 30 seconds.
 
-0:10:50.509,0:10:52.319
+0:10:49.900,0:10:53.212
 [Cpl. Mills]
 Hey, think that's enough time for Sobeck to finish Zero Dawn?
+
+0:10:53.212,0:10:55.616
 [laughter]
 
-0:10:56.539,0:11:02.149
+0:10:56.285,0:11:01.753
 [Cpl. Mills]
 If this is really it, I got to say it's been an honour to serve beside … these tanks.
+
+0:11:01.753,0:11:05.360
 [laughter]
 
-0:11:05.590,0:11:06.830
+0:11:05.360,0:11:06.909
 [Sgt. Guliyev]
 Here it comes…
 
-0:11:06.909,0:11:08.070
+0:11:06.909,0:11:09.140
 [Lt. Murell]
 Brace for contact!
+
+0:11:09.140,0:11:17.572
 [sounds of battle]
 
-0:11:17.929,0:11:19.470
+0:11:17.929,0:11:19.693
 [Aloy]
 Are you getting this Sylens?
 
-0:11:20.789,0:11:21.909
+0:11:20.789,0:11:22.266
 Sylens?
 
-0:12:06.549,0:12:07.538
+0:12:06.549,0:12:09.049
 [Lt. Murell]
 Titan inbound, same play as Akron.
 
-0:12:09.049,0:12:09.689
+0:12:09.049,0:12:10.403
 [Lt. Murell]
 Base defense locks it down.
 
-0:12:10.169,0:12:11.479
+0:12:10.403,0:12:13.486
 [Lt. Murell]
 We engage, sever the limbs, blast out the foundries.
 
-0:12:11.480,0:12:13.950
+0:12:13.486,0:12:16.044
 [Cpl. Mills]
 Another day in the life!
+
+0:12:16.044,0:12:18.298
 [Sgt. Guliyev]
 Wrecking time, Recalls!
-[Acosta]
+
+0:12:18.298,0:12:21.897
+[Cpl. Acosta]
 9th MRB on point! Hoo-rah!
+
+0:12:29.748,0:12:39.626
 [sounds of battle]
-[Wandari]
+
+0:12:39.626,0:12:40.926
+[Sgt. Wandari]
 Yana!
+
+0:12:40.926,0:12:43.976
 [screams]
 
-0:12:49.139,0:12:50.360
+0:12:43.976,0:12:47.756
+[sounds of battle]
+
+0:12:48.604,0:12:50.360
 [Aloy]
 Sylens, you getting this?
 
@@ -153,7 +183,7 @@ Sylens, you getting this?
 [Sylens, through Focus]
 What is it?
 
-0:12:52.129,0:12:53.679
+0:12:52.129,0:12:56.279
 [Aloy]
 All these soldiers, they died here.
 
@@ -182,12 +212,12 @@ Log: Third battle of California-Marine.
 [Cpl. Acosta]
 The swarm came in from the Pacific, and…
 
-0:16:19.139,0:16:19.899
+0:16:19.139,0:16:25.073
 [Cpl. Acosta]
 I don't know if it was the local minutemen or the Crazy 15th,
 but they'd set the garbage patch alight.
 
-0:16:26.649,0:16:28.350
+0:16:25.475,0:16:28.350
 [Cpl. Acosta]
 Man, the sea was on fire.
 
@@ -199,21 +229,24 @@ That stuff was… pff.
 [Cpl. Acosta]
 The first wave of bots came in covered in burning sludge.
 
-0:16:35.509,0:16:39.969
+0:16:35.509,0:16:40.281
 [Cpl. Acosta]
-That bought us an hour or two of slaughtering them on the beaches before the swarm recalculated.
+That bought us an hour or two of slaughtering them
+on the beaches before the swarm recalculated.
 
-0:16:39.970,0:16:45.359
+0:16:40.281,0:16:44.097
 [Cpl. Acosta]
 We pulled them inland, back through the Cal-Mar sprawl.
+
+0:16:44.097,0:16:46.876
 [Cpl. Acosta]
 Dropped buildings on them, EMP'd the grid.
 
-0:16:45.360,0:16:49.759
+0:16:47.500,0:16:49.759
 [Cpl. Acosta]
 Standard operating procedure.
 
-0:16:51.029,0:16:55.980
+0:16:49.759,0:16:55.980
 [Cpl. Acosta]
 Huh, the last time I was in California, I was five, six?
 
@@ -221,7 +254,7 @@ Huh, the last time I was in California, I was five, six?
 [Cpl. Acosta]
 The light was like that vintage social net filter that was everywhere in the forties.
 
-0:17:08.940,0:17:11.759
+0:17:07.200,0:17:11.759
 [Cpl. Acosta]
 Log: First battle of the Eastern Seaboard wall.
 
@@ -233,11 +266,12 @@ Had a long run up to it.
 [Cpl. Acosta]
 This was before Cal-Mar, and projections were a lot worse for the East.
 
-0:17:18.740,0:17:22.038
+0:17:18.740,0:17:23.688
 [Cpl. Acosta]
-For three weeks we kept getting scrambled out to some coastal 'burg to train Minutemen.
+For three weeks we kept getting scrambled out
+to some coastal 'burg to train Minutemen.
 
-0:17:23.980,0:17:26.838
+0:17:23.688,0:17:26.838
 [Cpl. Acosta]
 It was always raining, on account of Europe already being torched.
 
@@ -245,17 +279,15 @@ It was always raining, on account of Europe already being torched.
 [Cpl. Acosta]
 Block after block of prefab barracks.
 
-0:17:29.740,0:17:32.068
+0:17:29.740,0:17:33.629
 [Cpl. Acosta]
 They were still printing barracks right up until the hour the main force hit.
 
-0:17:32.069,0:17:34.950
+0:17:33.629,0:17:38.517
 [Cpl. Acosta]
-The Minutemen?
+The Minutemen? We ran combat drills with them in the streets where they'd lived.
 
-0:17:35.039,0:17:42.759
-[Cpl. Acosta]
-We ran combat drills with them in the streets where they'd lived.
+0:17:38.606,0:17:42.759
 [Cpl. Acosta]
 Trying to pretend they might live to die somewhere else if they paid attention.
 
@@ -265,7 +297,8 @@ Nothing worse than the ones who actually bought into it.
 
 0:17:46.140,0:17:51.838
 [Cpl. Acosta]
-Hopeful, pestering us with questions about Zero Dawn, like we know something they don't.
+Hopeful, pestering us with questions about Zero Dawn,
+like we know something they don't.
 
 0:17:51.839,0:17:57.259
 [Cpl. Acosta]
@@ -277,50 +310,58 @@ Except they learn from every fight.
 
 0:18:00.240,0:18:03.160
 [Cpl. Acosta]
-Us? I'm not so sure.
+And us? I'm not so sure.
 
 0:18:13.819,0:18:15.420
 [Aloy]
 What was this place?
 
-0:18:35.069,0:18:35.689
+0:18:35.069,0:18:43.514
 [Lt. Murell]
-Recalls, I've been instructed to remind you of Article 115 of base policy regarding unauthorised use of processor cycles.
+Recalls, I've been instructed to remind you of Article 115 of base policy
+regarding unauthorised use of processor cycles.
 
-0:18:43.490,0:18:56.549
+0:18:43.514,0:18:52.676
 [Lt. Murell]
 Specifically, 115c: "Any holographic simulation not directly related to operational training or efficiency."
+
+0:18:52.676,0:18:56.549
 [Lt. Murell]
 Consider yourself reminded and enjoy your gaming.
 
-0:19:17.640,0:19:18.509
+0:19:17.640,0:19:19.334
 [Sgt. Guliyev]
 Thanks for the mails, you.
 
-0:19:20.140,0:19:21.019
+0:19:20.140,0:19:22.313
 [Sgt. Guliyev]
 Time goes fast on active duty.
 
-0:19:22.640,0:19:24.989
+0:19:22.640,0:19:27.175
 [Sgt. Guliyev]
 Four months with the Wreckin' Recalls, I don't know, twenty drops?
 
-0:19:25.819,0:19:33.338
+0:19:27.175,0:19:30.816
 [Sgt. Guliyev]
 In and out of the West Coast, fighting with these civilian enlistees.
+
+0:19:30.816,0:19:33.338
+[Sgt. Guliyev]
 Scrappy guys and gals.
 
 0:19:33.339,0:19:38.940
 [Sgt. Guliyev]
-Their training is basically "Here's a DEW, when you see a bit, hit it."
+Their training is basically "Here's a DEW, when you see a bot, hit it."
 
-0:19:39.640,0:19:43.598
+0:19:39.640,0:19:42.056
 [Sgt. Guliyev]
 But somehow it's all coming together.
+
+0:19:42.056,0:19:45.784
 [Sgt. Guliyev]
 Between us and the 6th MRB, we took down a Horus at Lithium Beach.
 
-0:19:43.599,0:19:47.608
+0:19:45.784,0:19:47.608
 [Sgt. Guliyev]
 Pulled out before its buddies arrived.
 
@@ -328,55 +369,66 @@ Pulled out before its buddies arrived.
 [Sgt. Guliyev]
 But to see a big one go down?
 
-0:19:49.940,0:19:51.539
+0:19:49.940,0:19:51.592
 [Sgt. Guliyev]
 I hope it make the news, honey.
+
+0:19:51.592,0:19:55.015
 [Sgt. Guliyev]
 Showed everyone we're gonna have a shot at turning this around.
 
-0:19:54.940,0:19:58.709
+0:19:55.015,0:20:01.385
 [Sgt. Guliyev]
-We just need to give Projects Zero Dawn the time it needs,
+We just need to give Project Zero Dawn the time it needs,
 then everything will be the way it used to be.
 
-0:20:06.319,0:20:08.420
+0:20:06.319,0:20:09.758
 [Sgt. Guliyev]
 I know it's been days, honey, I'm so sorry.
 
-0:20:10.759,0:20:15.950
+0:20:09.758,0:20:15.950
+[Sgt. Guliyev]
 Deployments are getting real long, and tougher every time.
 
-0:20:16.269,0:20:20.899
+0:20:16.269,0:20:19.250
+[Sgt. Guliyev]
 The swarm's getting better at predicting us.
 
-0:20:20.900,0:20:27.630
+0:20:19.250,0:20:24.367
+[Sgt. Guliyev]
 Less of us now, and we have to put in ten times the work for every one gone.
+
+0:20:24.367,0:20:30.396
+[Sgt. Guliyev]
 Like a family business on hard times, only this isn't my family.
 
 0:20:30.880,0:20:32.409
+[Sgt. Guliyev]
 It's not with you.
 
-0:20:32.410,0:20:33.899
-I still try to see you.
-
-0:20:33.900,0:20:37.349
-The life we had in the eyes of the people out there.
+0:20:32.410,0:20:37.348
+[Sgt. Guliyev]
+I still try to see you, the life we had, in the eyes of the people out there.
 
 0:20:37.430,0:20:42.160
+[Sgt. Guliyev]
 I remember when they were glad to see us, when they still had hope.
 
 0:20:42.640,0:20:44.950
+[Sgt. Guliyev]
 It all seems to be slipping away.
 
 0:20:45.029,0:20:47.849
+[Sgt. Guliyev]
 I don't even recognise the places we're defending.
 
-0:20:49.079,0:20:52.359
+0:20:49.079,0:20:53.839
+[Sgt. Guliyev]
 The only thing I know I'm still fighting for is you.
 
 0:20:53.839,0:20:58.609
-For Zero Dawn to turn this around.
-Whatever the hell that is.
+[Sgt. Guliyev]
+For Zero Dawn to turn this around. Whatever the hell that is.
 
 0:21:12.619,0:21:14.980
 The furnishings were metal.
@@ -390,13 +442,13 @@ It was the Metal World.
 0:21:19.690,0:21:21.200
 Guess they were used to it.
 
-0:23:34.109,0:23:35.500
+0:23:33.100,0:23:35.500
 Hmm, just one bed.
 
 0:23:36.210,0:23:37.950
 Maybe their War Chief's room.
 
-0:25:23.000,0:25:24.200
+0:25:23.000,0:25:26.609
 Red light, guess that means no power.
 
 0:25:30.369,0:25:33.039
@@ -414,52 +466,56 @@ Maybe I should try scanning objects in this area.
 0:26:21.599,0:26:23.440
 Huh, that's informative.
 
-0:26:40.410,0:26:43.019
+0:26:40.410,0:26:44.625
 Three power lines, three sources. That makes one.
 
-0:27:02.039,0:27:02.849
-Me.
-
-0:27:07.880,0:27:09.558
+0:27:07.880,0:27:12.839
+[Mike]
 Hey, y'all wanted to know how I remember the geotherm system reboot?
 
 0:27:12.839,0:27:14.599
+[Mike]
 Goes like this.
 
 0:27:14.740,0:27:21.838
+[Mike]
 Bird flies north in summer, east in spring, west in fall, and south in winter.
 
 0:27:21.839,0:27:27.160
+[Mike]
 Didn't expect to hear nature poetry from the lips of Mike the GT Tech, now did ya?
 
 0:27:27.410,0:27:30.390
+[Mike]
 As usual, I defy expectations.
 
 0:27:45.420,0:27:47.670
 That's two, one more.
 
 0:28:19.539,0:28:20.660
-Okay, that did.
+Okay, that did it.
 
-0:29:17.609,0:29:21.430
+0:29:17.609,0:29:21.510
 Tools being used, and voices. More Eclipse.
+
+0:29:21.510,0:29:23.616
 Must be another way in.
 
-0:29:36.329,0:29:37.750
+0:29:35.794,0:29:37.750
 Ah, another power cell.
 
 0:29:38.039,0:29:40.210
 This should help me get to that ancient armour.
 
-0:30:00.150,0:30:00.598
+0:30:00.150,0:30:01.813
 It's them alright.
 
-0:30:02.170,0:30:03.879
+0:30:01.813,0:30:05.396
 They're not looking for answers, just weapons.
 
-0:31:37.339,0:31:38.589
+0:31:37.339,0:31:38.990
 [Eclipse thug]
-Gone one, right here.
+Got one, right here.
 
 0:32:14.740,0:32:16.599
 Keep quiet now.
@@ -470,559 +526,665 @@ I'd have to ditch something.
 0:34:51.039,0:34:52.969
 Forget about travelling light.
 
-0:36:42.809,0:36:43.639
-Dig.
-
-0:37:18.530,0:37:19.388
+0:37:18.530,0:37:20.369
+[Sgt. Guliyev]
 Thanks for the mails, you.
 
 0:37:21.030,0:37:23.179
+[Sgt. Guliyev]
 Time goes fast on active duty.
 
-0:37:23.530,0:37:28.248
+0:37:23.530,0:37:26.161
+[Sgt. Guliyev]
 Four months with the Wreckin' Recalls.
+
+0:37:26.161,0:37:28.562
+[Sgt. Guliyev]
 Fighting with these civilian enlistees.
 
-0:37:28.250,0:37:34.668
+0:37:28.562,0:37:32.003
+[Sgt. Guliyev]
 Scrappy guys and girls, that's all coming together.
+
+0:37:32.003,0:37:34.668
+[Sgt. Guliyev]
 Between us and the 6th MRB we took down a Horus.
 
-0:37:34.670,0:37:35.688
+0:37:34.670,0:37:36.580
+[Sgt. Guliyev]
 I hope it made the news, honey.
 
-0:37:35.690,0:37:38.840
+0:37:36.580,0:37:38.840
+[Sgt. Guliyev]
 Showed everyone we're turning this around.
 
-0:37:38.929,0:37:40.438
+0:37:38.929,0:37:42.847
+[Sgt. Guliyev]
 We just need to give Project Zero Dawn the time it needs.
 
-0:37:47.820,0:37:49.949
-I know it's been days, honey.
+0:37:47.820,0:37:51.208
+[Sgt. Guliyev]
+I know it's been days, honey, I'm so sorry.
 
-0:37:50.030,0:37:50.888
-I'm so sorry.
-
-0:37:50.889,0:37:52.280
+0:37:51.208,0:37:54.147
+[Sgt. Guliyev]
 Deployments are getting real long.
 
-0:37:53.969,0:37:56.398
-We have to put in the work for every one.
+0:37:54.147,0:37:56.398
+[Sgt. Guliyev]
+We have to put in for work for every one.
 
-0:37:56.400,0:37:57.658
+0:37:56.400,0:37:57.927
+[Sgt. Guliyev]
 Like a family business.
 
-0:37:57.659,0:38:00.418
+0:37:57.927,0:38:00.418
+[Sgt. Guliyev]
 I still see you in the eyes of the people out there.
 
-0:38:00.420,0:38:01.818
-They were glad to see us.
-
-0:38:01.820,0:38:03.788
-They still had hope.
+0:38:00.420,0:38:03.786
+[Sgt. Guliyev]
+They were glad to see us, they still had hope.
 
 0:38:03.789,0:38:06.139
-I'm still fighting for you.
+[Sgt. Guliyev]
+I'm still fighting…for…you.
 
-0:38:11.179,0:38:50.940
-Status report, 9th Mechanised Response Brigade.
-Commanding officer Lieutenant Fiona Murell.
-Unit morale continues to be adversely impacted by outbound engagements against the Faro Plague.
-Especially when said engagements occur in sectors where civilian guard enlistees have been heavily engaged.
-The scope and nature of fatalities suffered by civilian guard and unarmed civilians in these sectors defy description.
+0:38:11.179,0:38:17.732
+[Lt. Murell]
+Status report, 9th Mechanised Response Brigade,
+commanding officer Lieutenant Fiona Murell.
+
+0:38:17.732,0:38:25.353
+[Lt. Murell]
+Unit morale continues to be adversely impacted
+by outbound engagements against the Faro Plague.
+
+0:38:25.353,0:38:33.371
+[Lt. Murell]
+Especially when said engagements occur in sectors
+where civilian guard enlistees have been heavily engaged.
+
+0:38:33.371,0:38:44.922
+[Lt. Murell]
+The scope and nature of fatalities suffered by civilian guard
+and unarmed civilians in these sectors defy description.
+
+0:38:44.922,0:38:50.940
+[Lt. Murell]
 And witnessing it is generating a pervasive sense of hopelessness in the unit.
 
 0:38:50.989,0:39:06.239
+[Lt. Murell]
 Accordingly, I once again request that deployments of the 9th MRB be temporarily refocused on facilities that are mission critical to Project Zero Dawn.
 
 0:39:06.500,0:39:15.269
-And once again, I request an immediate update on the status of Project Zero Dawn's timeline.
+[Lt. Murell]
+And once again, I request an immediate update
+on the status of Project Zero Dawn's timeline.
 
-0:39:21.690,0:39:22.829
+0:39:21.690,0:39:25.809
+[Roshana Guliyev]
 Ames, I don't even know if you're alive any more.
 
 0:39:25.809,0:39:30.530
+[Roshana Guliyev]
 The mails I get from you, they say they're from you, but they don't sound…
 
-0:39:31.219,0:39:37.908
+0:39:31.219,0:39:34.035
+[Roshana Guliyev]
 They sound recycled.
+
+0:39:34.035,0:39:37.908
+[Roshana Guliyev]
 Phrases put together, and you don't say anything about the news I pass on.
 
-0:39:37.909,0:39:40.718
+0:39:37.909,0:39:43.820
+[Roshana Guliyev]
 The containment zone, the rebreathers, the rioting, 1Earth.
 
-0:39:43.820,0:39:45.918
-What happened in the Dallas Bubble, Ames, that wasn't the robots.
+0:39:43.820,0:39:48.019
+[Roshana Guliyev]
+What happened in the Dallas Bubble, Ames? That wasn't the robots.
 
 0:39:48.019,0:39:53.318
-They won't even give me a straight answer when I demand to know if you're still alive.
+[Roshana Guliyev]
+They won't even give me a straight answer
+when I demand to know if you're still alive.
 
 0:39:53.320,0:39:58.818
+[Roshana Guliyev]
 They just say if your messages keep coming then you're still "operational".
 
 0:39:58.820,0:40:00.929
 [Roshana Guliyev]
 It is not fair, Ames.
 
-0:40:01.010,0:40:06.320
+0:40:01.010,0:40:04.851
+[Roshana Guliyev]
 It's not fair that you won't be with me when the lights go out.
+
+0:40:04.851,0:40:06.320
+[Roshana Guliyev]
 I love you.
 
 0:40:06.409,0:40:08.019
 [Aloy]
 That's so sad.
 
-0:40:13.210,0:40:14.098
-Ames.
-
-0:40:14.099,0:40:16.009
-I know I mail you too much.
+0:40:13.210,0:40:16.008
+[Roshana Guliyev]
+Ames, I know I mail you too much.
 
 0:40:16.010,0:40:18.159
+[Roshana Guliyev]
 I'm just proud of what you're doing.
 
-0:40:18.210,0:40:23.388
+0:40:18.210,0:40:20.005
+[Roshana Guliyev]
 Everyone back home is.
+
+0:40:20.005,0:40:24.459
+[Roshana Guliyev]
 We got moved inland ten kilometres, just as a precaution they say.
 
-0:40:23.389,0:40:26.028
+0:40:24.459,0:40:29.110
+[Roshana Guliyev]
 School's still in session, so I get to keep my eye on Andras and Reggie.
 
-0:40:29.110,0:40:36.288
-We never know where when you're fighting.
+0:40:29.110,0:40:31.918
+[Roshana Guliyev]
+We never know where or when you're fighting.
+
+0:40:31.918,0:40:36.288
+[Roshana Guliyev]
 But when the VTOLs go over, all the kids run out and wave.
 
 0:40:36.289,0:40:38.228
+[Roshana Guliyev]
 I believe in you.
 
-0:40:38.230,0:40:44.650
+0:40:38.230,0:40:42.805
+[Roshana Guliyev]
 I knew nothing's ever gonna be the same, but I believe in you.
+
+0:40:42.805,0:40:44.650
+[Roshana Guliyev]
 I believe in us.
 
 0:43:44.000,0:43:45.380
 Full already.
 
-0:44:00.190,0:44:02.010
+0:44:02.777,0:44:04.597
 What is this?
 
-0:44:02.239,0:44:04.710
+0:44:06.298,0:44:09.393
 [Sylens, through Focus]
-It's a map.
+That? It's a map.
 
-0:44:04.989,0:44:07.000
+0:44:11.044,0:44:13.290
 [Aloy]
 A map of what?
 
-0:44:07.130,0:44:08.380
+0:44:13.557,0:44:17.034
 [Sylens, through Focus]
 Our world, the planet Earth, Aloy.
 
-0:44:11.789,0:44:13.739
+0:44:18.015,0:44:20.000
 [Sylens, through Focus]
 It's not flat like you thought.
 
-0:44:13.789,0:44:18.599
+0:44:20.000,0:44:22.078
 [Aloy]
 Why would I think that?
+
+0:44:22.078,0:44:25.226
 [Aloy]
 During eclipses the shadow cast on the moon is curved.
 
-0:44:19.159,0:44:20.909
+0:44:25.493,0:44:30.767
 [Aloy]
 So our world is a globe, and it looks like this from a distance.
 
-0:44:24.820,0:44:27.188
+0:44:31.377,0:44:34.236
 [Sylens, through Focus]
-We'll discuss this another time.
+Look, er, we'll discuss this another time.
 
-0:44:27.190,0:44:33.710
+0:44:34.236,0:44:36.568
 [Sylens, through Focus]
 Back to the matter at hand.
+
+0:44:36.568,0:44:41.204
 [Aloy]
 The Faro robots were spreading across the world, eating everything up.
 
-0:44:33.960,0:44:38.119
+0:44:41.204,0:44:45.893
 [Aloy]
 Somehow, Elisabet stopped them before it was too late.
 
-0:44:38.690,0:44:39.809
+0:44:46.095,0:44:47.214
 [Aloy]
 But how?
 
-0:46:46.110,0:46:47.349
+0:46:49.054,0:46:52.539
 The Eclipse, tampering with a Metal Devil.
 
-0:46:52.539,0:46:54.659
+0:46:55.171,0:46:57.514
 They don't think they can wake it, do they?
 
-0:47:20.730,0:47:23.849
+0:47:00.102,0:47:02.102
 Watch out!
+
+0:47:17.825,0:47:19.825
+Sun in Shadow!
+
+0:47:23.667,0:47:26.968
 Another Khopesh. And this one can move!
 
-0:48:56.969,0:48:58.889
+0:48:59.645,0:49:01.565
 [sighs] Then we do it the hard way. 
 
-0:55:14.039,0:55:17.050
+0:55:11.630,0:55:13.072
 Ah, that did it.
-So the soldiers long ago, they had to fight hundreds of those?
-All at once?
 
-0:55:30.780,0:55:32.250
+0:55:14.499,0:55:18.618
+So the soldiers long ago, they had to fight hundreds of those?
+
+0:55:18.618,0:55:20.306
+All at once!?
+
+0:55:33.635,0:55:35.105
 I'll tuck that away.
 
-0:56:40.170,0:56:41.739
+0:56:43.203,0:56:44.772
 I'll find a use for you.
 
-0:57:03.539,0:57:05.239
+0:57:06.260,0:57:07.960
 I can't spare the weight.
 
-0:57:26.610,0:57:27.880
-Ha, mine now!
+0:57:29.420,0:57:30.913
+Haha, mine now!
 
-1:02:42.900,1:02:44.178
+1:02:46.022,1:02:48.543
 [General Herres]
-Thank you, Dr Sobeck.
+Thank you, Dr Sobeck, you can take a seat.
 
-1:02:44.179,1:02:45.510
-[General Herres]
-You can take a seat.
-
-1:02:46.599,1:02:49.218
+1:02:48.543,1:02:52.117
 [Military Commander 4]
 Wha— you're going to thank her after what she just said?
 
-1:02:49.570,1:02:55.968
+1:02:52.117,1:02:57.076
 [General Herres]
-Dr Sobeck has made the situation very clear General, and given us an option.
+Dr Sobeck has made the situation very clear general,
+and given us an option.
+
+1:02:57.076,1:02:59.091
+[General Herres]
 We should all be thanking her.
 
-1:02:55.969,1:03:01.829
+1:02:59.091,1:03:02.369
 [Military Commander 4]
 It's just, I mean, my God!
+
+1:03:02.369,1:03:04.808
 [Military Commander 1]
 Maybe take this discussion offline.
 
-1:03:01.860,1:03:04.630
+1:03:04.808,1:03:07.726
 [General Herres]
 There's not going to be any discussion.
 
-1:03:04.800,1:03:13.219
+1:03:07.726,1:03:10.000
 [General Herres]
 You saw the numbers.
-[General Herres]
-Now Faro, he'll foot the bill, but his money can't buy the time necessary to complete Zero Dawn.
 
-1:03:13.300,1:03:14.489
+1:03:10.000,1:03:16.378
+[General Herres]
+Now Faro, he'll foot the bill, but his money can't buy
+the time necessary to complete Zero Dawn.
+
+1:03:16.378,1:03:17.567
 [General Herres]
 That…
 
-1:03:15.500,1:03:17.448
+1:03:18.415,1:03:20.357
 [General Herres]
 That can only be paid for in blood.
 
-1:03:17.449,1:03:19.358
+1:03:20.357,1:03:22.347
 [Military Commander 3]
 Oh, come on!
 
-1:03:19.360,1:03:22.298
+1:03:22.347,1:03:25.197
 [Military Commander 1]
 If we upgrade our fleet, crack the code somehow…
 
-1:03:22.300,1:03:23.929
+1:03:25.197,1:03:26.900
 [Elisabet Sobeck]
-Were you not listening?
+Were you not listening!?
 
-1:03:24.130,1:03:26.829
+1:03:26.900,1:03:29.599
 [Elisabet Sobeck]
 Robots can't do the fighting for you this time.
 
-1:03:26.900,1:03:30.838
+1:03:29.599,1:03:33.782
 [Elisabet Sobeck]
 When it comes to hacking, this rogue swarm is an apex predator.
 
-1:03:30.840,1:03:34.848
+1:03:33.782,1:03:37.600
 [Elisabet Sobeck]
 Anything automated you throw at it, they will hijack and take over.
 
-1:03:34.849,1:03:39.228
+1:03:37.600,1:03:42.127
 [Military Commander 2]
 But this? We'd be throwing civilians into a meat grinder!
 
-1:03:39.230,1:03:41.058
+1:03:42.127,1:03:47.755
 [General Herres]
 Commanders, the enemy we're facing self-replicates faster than we can kill it.
 
-1:03:44.900,1:03:50.699
+1:03:47.755,1:03:50.970
 [General Herres]
 And it eats biomass as fuel.
+
+1:03:50.970,1:03:53.554
 [General Herres]
 Zero Dawn is all we've got.
 
-1:03:53.099,1:03:57.448
+1:03:56.000,1:04:04.022
 [Military Commander 3]
 So we put a rail gun in the hand of every civilian strong enough to carry one,
 show them where the trigger is, and point them to the front?
 
-1:04:00.989,1:04:02.840
+1:04:04.022,1:04:05.873
 [Military Commander 3]
 How the hell do we sell that?
 
-1:04:03.090,1:04:05.909
+1:04:06.212,1:04:10.414
 [General Herres]
 By giving them something to fight for: Zero Dawn.
 
-1:04:05.909,1:04:15.889
+1:04:10.414,1:04:13.634
 [General Herres]
 The top secret super weapons programme that will save us.
-[General Herres]
-So long as humanity holds off the swarm long enough for Dr Sobeck and her team to finish it.
 
-1:04:16.460,1:04:22.119
+1:04:13.634,1:04:18.700
 [General Herres]
-The file I'm sending contains the war plan for Operation Enduring Victory.
+So long as humanity holds off the swarm long enough
+for Dr Sobeck and her team to finish it.
+
+1:04:19.458,1:04:23.780
+[General Herres]
+The file I'm sending contains the war plan for Operation: Enduring Victory.
+
+1:04:23.780,1:04:26.964
 [Military Commander 2]
 War plan?! This is a war crime!
 
-1:04:24.050,1:04:26.659
+1:04:26.964,1:04:29.683
 [General Herres]
 It may be ugly, but it's something.
 
-1:04:26.889,1:04:28.769
+1:04:29.683,1:04:31.802
 [General Herres]
 Consider the alternative.
 
-1:04:30.489,1:04:31.699
+1:04:33.542,1:04:40.799
 [General Herres]
-Dr Sobeck, I've secured use of a decommissioned orbital launch base outside Bryce, Utah, as the Zero Dawn staging area.
+Dr Sobeck, I've secured use of a decommissioned orbital launch base
+outside Bryce, Utah, as the Zero Dawn staging area.
 
-1:04:37.989,1:04:39.388
+1:04:40.799,1:04:43.921
 [General Herres]
-Plenty of space there.
+Plenty of space there. When can you get started?
 
-1:04:39.389,1:04:40.888
-[General Herres]
-When can you get started?
-
-1:04:40.889,1:04:44.398
+1:04:43.921,1:04:47.565
 [Elisabet Sobeck]
 I have already mailed you a list of Alpha and Beta candidates.
 
-1:04:44.400,1:04:47.718
+1:04:47.565,1:04:52.179
 [Elisabet Sobeck]
 Most are foreign nationals or subjects of corporate holdings, so extracting them…
 
-1:04:47.719,1:04:50.509
+1:04:52.179,1:04:56.441
 [General Herres]
-Leave that to me.
+Leave that to me. You'll get your dream team, count on it.
 
-1:04:50.510,1:04:53.550
-[General Herres]
-You'll get your dream team, count on it.
-
-1:04:54.050,1:04:55.409
+1:04:57.128,1:04:58.487
+[Elisabet Sobeck]
 Then I'll be off.
 
-1:05:02.219,1:05:03.820
+1:05:05.163,1:05:08.548
 "orbital launch base" — what is that?
 
-1:05:05.769,1:05:06.998
+1:05:08.981,1:05:10.701
 What did these people do?
 
-1:05:08.590,1:05:10.300
+1:05:11.623,1:05:13.333
 What did Elisabet do?
 
-1:05:32.400,1:05:34.699
+1:05:35.334,1:05:37.633
 I'd have to leave something else behind.
 
-1:05:44.989,1:05:49.748
+1:05:47.933,1:05:52.692
 [General Herres]
 Dr Sobeck. As projected the Wichita salient has collapsed.
 
-1:05:49.750,1:05:52.800
+1:05:52.800,1:05:55.850
 [General Herres]
 Five Horus-class titans have broken through.
 
-1:05:52.989,1:05:55.500
+1:05:55.978,1:05:58.489
 [General Herres]
 We predict contact in thirty-four hours.
 
-1:05:55.659,1:05:58.300
+1:05:58.489,1:06:01.422
 [Elisabet Sobeck]
 Everything is in position, General.
 
-1:05:59.090,1:06:01.418
+1:06:02.123,1:06:05.477
 [Elisabet Sobeck]
 It took a few shortcuts to pull everything together, but…
 
-1:06:02.679,1:06:05.548
+1:06:05.477,1:06:09.429
 [Elisabet Sobeck]
 Zero Dawn is functionally complete, good to go.
 
-1:06:06.969,1:06:10.090
+1:06:09.429,1:06:12.989
 [General Herres]
 Then Enduring Victory served its purpose after all.
 
-1:06:10.179,1:06:13.630
+1:06:12.989,1:06:16.619
 [Elisabet Sobeck]
 Yes. If we'd had even one day less…
 
-1:06:13.650,1:06:15.078
+1:06:16.619,1:06:19.271
 [General Herres]
 I've sent you an encoded file, doctor.
 
-1:06:15.079,1:06:18.900
+1:06:19.271,1:06:22.112
 [General Herres]
 Please do me the favour of archiving it.
 
-1:06:19.219,1:06:22.269
+1:06:22.112,1:06:25.213
 [Elisabet Sobeck]
 I'll see what I can do.
 
-1:06:22.380,1:06:23.478
+1:06:25.213,1:06:26.243
 [Elisabet Sobeck]
 What is it?
 
-1:06:23.480,1:06:24.989
+1:06:26.243,1:06:27.435
 [General Herres]
 A brief statement.
 
-1:06:25.619,1:06:27.108
+1:06:28.573,1:06:31.413
 [General Herres]
 An allocution of crimes I guess you'd call it.
 
-1:06:28.550,1:06:29.638
+1:06:31.413,1:06:33.608
 [Elisabet Sobeck]
 To what are you admitting guilt?
 
-1:06:30.650,1:06:40.900
+1:06:33.608,1:06:43.576
 [General Herres]
 Over the past sixteen months doctor, I have presided over the greatest wholesale slaughter of military personnel and civilians in the history of…
 
-1:06:41.480,1:06:42.650
+1:06:44.602,1:06:46.263
 [General Herres]
 history.
 
-1:06:43.280,1:06:49.699
+1:06:46.263,1:06:51.058
 [General Herres]
 Genghis Khan, Hitler, Stalin, Sorabella…
+
+1:06:51.058,1:06:54.650
+[General Herres]
 Add 'em all together they don't even come close.
 
-1:06:51.880,1:06:53.978
+1:06:54.650,1:06:56.968
 [Elisabet Sobeck]
 You didn't do the killing, general.
 
-1:06:53.980,1:06:55.460
+1:06:56.968,1:06:59.190
 [General Herres]
 No, not directly.
 
-1:06:56.380,1:07:03.510
+1:06:59.190,1:07:06.811
 [General Herres]
-But I didn't wind up the highest ranked military commander in the United States by resisting the automation of the armed forces.
+But I didn't wind up the highest ranked military commander in the United States
+by resisting the automation of the armed forces.
 
-1:07:04.079,1:07:08.639
+1:07:06.811,1:07:11.735
 [General Herres]
 Even before the swarm, doctor, I was helping death along.
 
-1:07:08.880,1:07:13.590
+1:07:11.735,1:07:16.936
 [General Herres]
 So instead of letting what I've done sink into the murk, forgotten,
 
-1:07:14.780,1:07:20.690
+1:07:17.471,1:07:20.000
 [General Herres]
 I've sent a file with all the details.
+
+1:07:20.000,1:07:23.857
 [General Herres]
 Let posterity judge my actions with clear vision.
 
-1:07:20.880,1:07:24.699
+1:07:23.857,1:07:30.345
 [Elisabet Sobeck]
-I'll do as you ask, general, but you should consider that
-were it not for your actions, our actions,
-there wouldn't be any posterity to judge us.
+I'll do as you ask, general, but you should consider
+that were it not for your actions…
 
-1:07:33.079,1:07:35.280
+1:07:30.345,1:07:35.832
+[Elisabet Sobeck]
+…our actions, there wouldn't be any posterity to judge us.
+
+1:07:35.832,1:07:38.397
 [General Herres]
 Perhaps. Dr Sobeck.
 
-1:07:35.380,1:07:36.730
+1:07:38.397,1:07:41.913
 [Elisabet Sobeck]
 At ease, General, and goodbye.
 
-1:07:38.880,1:07:40.199
+1:07:41.913,1:07:43.143
 [General Herres]
 Hell of a thing.
 
-1:07:56.579,1:07:58.460
+1:07:58.943,1:08:00.824
 Glad to be rid of that place.
 
-1:07:58.510,1:08:01.590
+1:08:00.824,1:08:03.834
 Now I just need to find the orbital launch base they talked about.
 
-1:08:01.639,1:08:04.009
+1:08:03.834,1:08:06.284
 I've checked my data and located the base.
 
-1:08:04.010,1:08:05.409
+1:08:06.284,1:08:07.834
 That's the good news.
 
-1:08:06.130,1:08:07.280
+1:08:07.834,1:08:09.600
 [sighs] And the bad?
 
-1:08:07.349,1:08:10.538
+1:08:09.600,1:08:14.067
 It's directly underneath the Citadel, the palace at Sunfall.
 
-1:08:12.570,1:08:14.489
+1:08:14.067,1:08:17.071
 The capital of the Shadow Carja.
 
-1:08:14.840,1:08:16.590
+1:08:17.071,1:08:19.034
 Not exactly convenient.
 
-1:08:16.859,1:08:21.278
+1:08:19.034,1:08:23.776
 The palace is crawling with Eclipse agents, many in positions of authority.
 
-1:08:21.279,1:08:24.009
+1:08:23.776,1:08:25.267
 All of them wearing Focuses.
+
+1:08:25.267,1:08:27.444
 The moment they see you Hades will too.
 
-1:08:24.010,1:08:31.599
-He'll issue another kill order, and this time the entire Shadow Carja military will be after you.
+1:08:27.444,1:08:32.714
+He'll issue another kill order, and this time
+the entire Shadow Carja military will be after you.
 
-1:08:31.600,1:08:34.168
+1:08:32.714,1:08:36.443
 So disable their Focuses, you've done it before.
 
-1:08:34.170,1:08:35.779
+1:08:36.443,1:08:38.002
 It's not that simple.
 
-1:08:36.039,1:08:42.998
-Too many Focuses in one place, each of them communicating with each other and back to Hades, a whole network of them.
+1:08:38.002,1:08:42.884
+Too many Focuses in one place, each of them
+communicating with each other and back to Hades.
 
-1:08:43.000,1:08:44.100
-A "network" — what's that?
+1:08:42.884,1:08:44.514
+A whole network of them.
 
-1:08:44.649,1:08:54.359
+1:08:44.514,1:08:46.400
+"Network" — what's that?
+
+1:08:46.400,1:08:51.125
 Er, imagine a vast, invisible web stretched across the land from end to end.
+
+1:08:51.125,1:08:52.634
 Connecting Focuses together.
+
+1:08:52.634,1:08:56.634
 Allowing them to communicate over vast distances instantaneously.
 
-1:08:54.369,1:08:59.000
+1:08:56.634,1:09:01.170
 Alright, so is there some way to cut the web down?
 
-1:09:01.170,1:09:02.708
+1:09:01.170,1:09:06.234
 Hmm. Crash the network? Audacious!
 
-1:09:02.710,1:09:09.760
+1:09:06.234,1:09:11.034
 Yes, there is a way, a weak point in the network.
 
-1:09:11.460,1:09:17.779
+1:09:11.034,1:09:12.134
 Point the way.
+
+1:09:13.637,1:09:16.143
 I'll send the location data to your Focus.
+
+1:09:16.277,1:09:20.369
 Head there, and I'll be in touch when you're close with more directions.
 
-1:09:19.079,1:09:22.818
+1:09:46.111,1:09:48.690
 What was Zero Dawn?
+
+1:09:48.690,1:09:51.456
 What sort of super weapon did Elisabet make?
 
-1:09:25.100,1:09:30.140
+1:09:52.839,1:09:59.717
 She stopped the machines but not before the world she knew,
 her civilisation ended.
 
-1:09:31.369,1:09:33.010
+1:10:00.920,1:10:03.962
 Let's hope it won't come to that again.
+
+1:10:07.887,1:10:11.189
 Now, how am I gonna get down from here?
+
