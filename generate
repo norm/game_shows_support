@@ -22,7 +22,42 @@ EOF
     exit 0
 }
 
-case "$1" in
+function backup_to_local_disk {
+    status "== {magenta}backup to local disk"
+
+    find . -name .DS_Store -exec rm {} \;
+
+    dryrun=''
+    [ -n "${DRY_RUN:-}" ] && dryrun='-n'
+
+    rsync $dryrun -avP --inplace \
+        --exclude "*/cache" \
+        --exclude "*/support" \
+        --exclude "*/*.m4v" \
+        . \
+        "$BACKUP_DIR/Game Shows/."
+}
+
+function backup_to_s3 {
+    status "== {magenta}backup to S3"
+
+    pushd "$BACKUP_DIR" >/dev/null
+
+    dryrun=''
+    [ -n "${DRY_RUN:-}" ] && dryrun='--dryrun'
+
+    aws s3 sync \
+        $dryrun \
+        --exclude old\* \
+        --exclude Game\ Shows/.git\* \
+        --exclude resolve-backups\* \
+            . \
+            "s3://$S3_BUCKET"
+
+    popd >/dev/null
+}
+
+case "${1:-}" in
     help) 
         usage
         ;;
@@ -43,11 +78,12 @@ if [ "${2:-}" = 'help' ]; then
     exit 0
 fi
 
-if [ -d "$1" ]; then
+if [ -d "${1:-}" ]; then
     show="$1"
     shift
 fi
 
+export BACKUP_DIR='/Volumes/ellison/video-capture'
 export CAPTURE_DIR='Movies'
 export CAPTURE_HOST='portsider'
 export GAME_SHOW_NAME="$show"
@@ -59,5 +95,22 @@ export TV_LOCATION="/files/tv/$(echo "$show" | sed -e 's/ /\\ /g')/Season\ 1"
 
 export PATH="$PWD/bin:$PATH"
 
-pushd "$show" >/dev/null
-exec "$@"
+case "${1:-all}" in
+    backup)
+        backup_to_local_disk
+        backup_to_s3
+        ;;
+
+    local_backup)
+        backup_to_local_disk
+        ;;
+
+    s3_backup)
+        backup_to_s3
+        ;;
+
+    *)
+        pushd "$show" >/dev/null
+        exec "$@"
+        ;;
+esac
