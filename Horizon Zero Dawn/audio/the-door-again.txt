@@ -1,0 +1,21 @@
+<speak>
+
+Okay, I've been hearing that some of our staff members are having trouble with
+our state-of-the-art, ultra-secure, and absolutely necessary lambent orbicular
+door access. So here's the S-L-O-W version, again:
+
+The thingy in the middle is the source node. Turn it on. Yeah, I know. Hard,
+right?
+
+Then you've got to turn the other nodes so that the data stream containing
+your credentials gets back to the source. Some nodes are used to buffer
+corrupt or suspect data, so avoid those. Shouldn't be too tough, because, you
+know, they're red. Like a stop sign. I'm guessing you were taught this in
+preschool, but with this crowd, who knows?
+
+Anyway, that's it. Get the data stream back to the source, and the door opens.
+It's really not that tough, but if you need me to, I'll hold your hand while
+you give it a try - actually, scratch that. Do it yourself, I'm not going to
+touch your hand.
+
+</speak>
