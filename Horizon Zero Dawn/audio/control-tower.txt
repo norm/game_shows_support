@@ -1,0 +1,15 @@
+<speak>
+  <p><emphasis>Control tower.</emphasis></p>
+  <p>Strong against everything.</p>
+
+  <p><emphasis>Cooling element.</emphasis></p>
+  <p>
+    Destroy to remove the ability to repair hostile machines.
+  </p>
+
+  <p><emphasis>Override point.</emphasis></p>
+  <p>
+    Overriding removes repair and resistance abilities, 
+    stuns hostile machines.
+  </p>
+</speak>
