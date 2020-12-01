@@ -4,20 +4,21 @@ Let me begin by spelling out "disaster" for you: a destructive event causing a
 level of disturbance unmanageable via the application of ordinary resources.
 What you have given us is distinctly ordinary.
 
-Dummies version: Give me what I need, or you'll be on autocar to Layoff City
+Dummies version: Give me what I need, or you'll be on an autocar to Layoff City
 quicker than you can say "Code Red."
 
 The list, one more time:
 
-3000 MREs (no lasagna!!!)
-30 military-grade flashlights (No more junk-store crap.)
-10 portable water pumps (Not five, not eight, TEN.)
-15 hydraulic jacks
-12 replacement drone propulsion units
-50 holographic microdrives (In a disaster -- see definition above -- it's
-absolutely critical to track all ingresses and egresses of the facility. I
-take our safety seriously, even if you don't.)
-50 almond-scented, extra-soft [DATA CORRUPTED]
-
+<s>3000 MREs, no lasagna</s>
+<s>30 military-grade flashlights, no more junk-store crap</s>
+<s>10 portable water pumps, not five, not eight, ten</s>
+<s>50 tubes of fungicide, we're working underground, spores happen</s>
+<s>15 hydraulic jacks</s>
+<s>12 replacement drone propulsion units</s>
+<s>50 holographic microdrives, in a disaster, see definition above, it's
+absolutely critical to track all ingresses and egresses of the facility</s>
+<s>I take our safety seriously, even if yew don't.</s>
+<s>50 almond-scented, extra-soft
+<prosody volume='x-soft' rate='x-slow' pitch='x-low'>data corrupted</prosody></s>
 
 </speak>
