@@ -1,12 +1,12 @@
 <speak>
 
-To: YNPF-All
-From: Kenny Chau
-Bcc: Dod Blevins 
-Date: December 3, 2046
-Subject: Hacking of menu board
+To YNPF-All,
+From Kenny Chau,
+Bcc Dodd Blevins,
+Date December 3, 2046,
+Subject Hacking of menu board.
 
-Attn: All staff
+Attn: All staff.
 
 At an assembly of our country's finest scientific minds, recruited to address
 a grave threat to national safety, it would be fair to expect more mature
@@ -20,13 +20,13 @@ Any further interference in the menu boards will necessitate my direct
 personal involvement.
 
 Dr. Kenny Chau
-Project Director
-------------------------------------------------
+Project Director.
 
-From: Kenny Chau
-To: Anita Sandoval
-Date: December 3, 2046
-Subject: Fwd: Hacking of menu board
+
+From Kenny Chau,
+To Anita Sandoval,
+Date December 3, 2046,
+Subject, Forward: Hacking of menu board.
 
 Anita, was it you? ;)
 
