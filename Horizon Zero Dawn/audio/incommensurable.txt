@@ -1,0 +1,21 @@
+<speak>
+
+PERSONAL LOG:
+
+I had an argument with Kenny this afternoon. When a couple's first fight
+hinges on the Turing Act, you know you're dealing with some real sexy nerds.
+
+I won the argument... I guess. But I'm less concerned whether or not I can
+pull this off than with the ethical implications of succeeding. I promised
+Kenny that the suite of coping mechanisms I've designed will help manage any
+emotional fallout from the software, but privately, I'm less confident. I'm a
+programmer, not a shrink.
+
+The minutiae of roboethics do start to seem less relevant when a refusal to
+supply Firebreak with the necessary conditions for its success comes at the
+cost of millions of lives. It's worth putting one consciousness at risk to
+save so many others, isn't it?
+
+Ugh. Trying to solve this with numbers makes me feel like a sociopath.
+
+</speak>
