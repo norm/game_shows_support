@@ -1,11 +1,11 @@
 <speak>
 
-"Last Girls on Earth" by Concrete Beach Party
-Recorded in the Overflow Basin Studios
-Laura Vogel on guitar
-Shelly Guerrera-McKenzie on vox
-Electronics/percussion courtesy the magical power of automation
-Loss of livelihood also courtesy the magical power of automation
-It's been real! XOXO! Byeeeeeeee!
+<s>"Last Girls on Earth" by Concrete Beach Party</s>
+<s>Recorded in the Overflow Basin Studios</s>
+<s>Laura Vogel on guitar</s>
+<s>Shelly Guerrera-Mackenzie on vox</s>
+<s>Electronics percussion courtesy the magical power of automation</s>
+<s>Loss of livelihood also courtesy the magical power of automation</s>
+<s>It's been real! Hugs and kisses! Byeeeeeeee!</s>
 
 </speak>

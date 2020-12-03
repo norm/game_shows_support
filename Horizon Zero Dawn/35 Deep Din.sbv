@@ -1,8 +1,9 @@
 0:00:21.039,0:00:22.648
-So the waters came fast?
+ALOY: So the waters came fast?
 
-0:00:22.649,0:00:24.588
-One day it was dry, the next the nearby river had risen and the entire basin was flooded.
+0:00:22.649,0:00:28.031
+LAULAI: One day it was dry, the next the nearby river
+had risen and the entire basin was flooded.
 
 0:00:28.710,0:00:30.449
 I don't understand it.
@@ -13,15 +14,19 @@ There was no rain, not even any clouds.
 0:00:33.460,0:00:36.750
 And yet the river rose higher than I'd ever seen it.
 
-0:00:37.549,0:00:41.149
+0:00:37.549,0:00:39.297
 And there it remains.
+
+0:00:39.297,0:00:42.912
 A flood without rain, that is strange.
 
 0:00:43.840,0:00:45.250
 Where is this place?
 
-0:00:45.439,0:00:49.079
+0:00:45.439,0:00:47.231
 I'll have a look if I'm in the area.
+
+0:00:47.231,0:00:49.079
 Just northwest of here.
 
 0:00:49.189,0:00:52.450
@@ -33,10 +38,10 @@ The flood waters aren't going anywhere.
 0:00:54.740,0:00:57.179
 How does one ask a river to relent?
 
-0:01:21.829,0:01:22.789
+0:01:21.829,0:01:25.373
 This must be the ruin Laulai was talking about, Deep Din.
 
-0:01:22.790,0:01:25.549
+0:01:26.070,0:01:27.886
 Flooded too, like she said.
 
 0:01:27.939,0:01:29.310
@@ -45,33 +50,35 @@ Snapmaws.
 0:01:30.000,0:01:32.150
 Probably came from somewhere up river.
 
-0:01:32.939,0:01:33.768
+0:01:32.939,0:01:36.760
 Follow the river, find the source. Seems simple enough.
 
-0:02:28.090,0:02:29.449
+0:02:25.180,0:02:28.019
 These mountains must be the Icerasps.
+
+0:02:28.019,0:02:30.925
 The Shaman's Path begins somewhere up above.
 
-0:03:26.000,0:03:28.000
+0:03:28.000,0:03:31.126
 There, that must be where the water is coming from.
+
+0:03:31.741,0:03:34.017
 Looks like something from the Old Ones.
 
-0:05:27.610,0:05:29.029
+0:05:27.610,0:05:29.398
 Well, somebody wanted in.
 
-0:05:29.939,0:05:32.470
+0:05:29.398,0:05:32.470
 Nearly blew this entire ledge off just to get through the door.
 
-0:05:46.629,0:05:49.579
-[Computer]
-Flooding detected, evacuation recommended.
+0:05:46.629,0:05:50.234
+COMPUTER: Flooding detected, evacuation recommended.
 
-0:05:50.339,0:05:53.689
-[Computer]
-Overflow basin compromised.
+0:05:50.339,0:05:52.529
+COMPUTER: Overflow basin compromised.
 
-0:05:54.579,0:05:55.949
-The "overflow basin" — is that the Din?
+0:05:52.529,0:05:56.113
+ALOY: The "overflow basin" — is that the Din?
 
 0:06:16.939,0:06:18.750
 Looks like a control centre.
@@ -82,9 +89,11 @@ What happened in here to start the water flowing?
 0:06:36.329,0:06:38.639
 I should be able to shut this place down from here.
 
-0:06:43.290,0:06:44.420
+0:06:39.295,0:06:41.282
 Ugh, someone made a mess of this.
-If I had the right parts, I'll bet I could get it working again.
+
+0:06:42.266,0:06:47.312
+Hmm, if I had the right parts, I'll bet I could get it working again.
 
 0:06:55.980,0:06:58.430
 The lock positions, helpful.
@@ -92,59 +101,74 @@ The lock positions, helpful.
 0:07:15.230,0:07:16.500
 A piece is missing.
 
-0:07:17.300,0:07:18.290
+0:07:17.300,0:07:19.110
 Not getting in there without it.
 
-0:07:26.620,0:07:27.660
+0:07:26.087,0:07:29.792
 Rough waters, no way I'd be able to swim.
 
 0:07:49.740,0:07:51.769
 Maybe my Focus will see something.
 
-0:07:52.139,0:07:54.050
+0:07:52.139,0:07:55.936
 Someone's been through here, not that long ago either.
-Help! I've … er … become trapped somehow.
-By the forge, I'm glad to hear another person stomping about in here.
-This blasted door is stuck.
-This is a perfect opportunity to do a good deed and clear your conscience
+
+0:07:55.936,0:08:01.096
+DISTANT VOICE: Help! I've … er … I've become trapped somehow.
+
+0:08:06.534,0:08:10.413
+DISTANT VOICE: By the forge,
+I'm glad to hear another person stomping about in here.
+
+0:08:11.192,0:08:13.597
+DISTANT VOICE: This blasted door is stuck.
+
+0:08:16.302,0:08:19.362
+DISTANT VOICE: This is a perfect opportunity to do a good deed.
+
+0:08:19.362,0:08:23.649
+DISTANT VOICE: And clear your conscience
 for whatever cruelties you may have committed.
 
-0:08:22.240,0:08:23.040
-Whoa!
+0:08:29.100,0:08:30.452
+Whoa! Ooof!
 
 0:08:31.939,0:08:33.250
-Are you all right?
+ALOY: Are you all right?
 
-0:08:38.210,0:08:43.289
+0:08:33.250,0:08:35.431
 [laughs]
+
+0:08:38.136,0:08:42.428
 You don't know how happy you just made me.
 
-0:08:43.539,0:08:46.149
+0:08:42.428,0:08:46.149
 Haha! For a moment, I thought my fire was snuffed.
 
-0:08:46.360,0:08:47.969
+0:08:46.360,0:08:48.688
 My forge gone cold, but no.
 
-0:08:48.169,0:08:48.808
+0:08:48.688,0:08:52.197
 Nope, not old Gildun.
 
-0:08:54.139,0:08:55.210
+0:08:54.139,0:08:57.055
 You're … welcome?
 
-0:09:00.940,0:09:02.589
+0:09:00.940,0:09:04.440
 Uh, wait, start from the beginning.
 
-0:09:04.440,0:09:06.739
+0:09:04.440,0:09:05.900
 What are you doing down here?
 
-0:09:06.740,0:09:08.089
+0:09:05.900,0:09:08.089
 Oh! My apologies.
 
 0:09:08.090,0:09:12.049
-When you mostly talk to yourself, you can tell your stories in whatever order you like.
+When you mostly talk to yourself,
+you can tell your stories in whatever order you like.
 
-0:09:12.279,0:09:14.528
-There's an artefact in that storage room that I simply must acquire.
+0:09:12.279,0:09:16.769
+There's an artefact in that storage room I simply must acquire.
 
 0:09:16.769,0:09:19.710
 But as you may have noticed, the door won't budge.
@@ -155,47 +179,54 @@ I took one of those roundish ringy whatsits from the wall beside the door.
 0:09:24.139,0:09:25.250
 No luck.
 
-0:09:25.289,0:09:27.428
+0:09:25.289,0:09:28.781
 So I had to go with that panel with the button, even less luck!
 
-0:09:27.429,0:09:33.450
+0:09:28.781,0:09:37.204
 My gentle experimentation caused the chamber to … um … flood. A little.
 
-0:09:37.450,0:09:38.359
+0:09:37.204,0:09:40.830
 So I pushed the button again, perhaps a little too enthusiastically.
 
 0:09:40.830,0:09:42.090
 Sparks and smoke!
 
-0:09:42.600,0:09:46.889
+0:09:42.600,0:09:45.480
 So you found the button that controls the flow of water.
+
+0:09:45.480,0:09:46.918
 Quite by accident.
 
-0:09:46.889,0:09:49.250
+0:09:46.918,0:09:48.300
 And then you broke that button.
+
+0:09:48.300,0:09:50.480
 Also quite by accident.
 
 0:09:50.700,0:09:53.970
-Now, obviously, I came here to investigate.
+GILDUN: Now, obviously, I came here to investigate.
 
-0:09:56.450,0:10:02.949
+0:09:53.970,0:10:01.251
 My cautious footsteps may have contributed, slightly, to the collapse of a bridge.
+
+0:10:01.825,0:10:08.186
 When the bridge began to collapse I may have, for the sake of expedience, abandoned the cumbersome ringy whatsit to the waves.
 
-0:10:06.710,0:10:12.149
+0:10:08.634,0:10:12.149
 By the time I thought to give up the endeavour, the door had closed behind me.
 
-0:10:13.090,0:10:14.158
+0:10:13.090,0:10:16.467
 And thusly do we come to the present moment.
 
-0:10:16.860,0:10:20.240
+0:10:16.467,0:10:20.240
 Well, there's no way we're getting into that storage room without another ring.
 
-0:10:20.340,0:10:21.719
+0:10:20.340,0:10:23.400
 It's part of a locking mechanism that controls the door.
 
-0:10:21.720,0:10:29.339
-I'll grant you that adds a heretofore undiscussed level of complexity to the proceedings.
+0:10:23.400,0:10:29.339
+I'll grant you that adds a heretofore undiscussed
+level of complexity to the proceedings.
 
 0:10:29.340,0:10:32.339
 You said something about an artefact?
@@ -203,8 +234,10 @@ You said something about an artefact?
 0:10:32.340,0:10:33.350
 Indeed!
 
-0:10:33.590,0:10:38.980
+0:10:33.590,0:10:37.567
 That storage room is brimming with treasures from the Old Ones.
+
+0:10:37.567,0:10:39.554
 But one in particular caught my eye.
 
 0:10:40.110,0:10:43.669
@@ -213,471 +246,530 @@ An intricate looking glass!
 0:10:44.120,0:10:46.450
 I've only seen one such device before.
 
-0:10:46.600,0:10:48.750
-My old mum brought one back for me from 
+0:10:46.600,0:10:48.914
+My old mum brought one back for me from … from …
 
-0:10:50.019,0:10:55.549
-wherever she got to that time.
+0:10:50.019,0:10:51.546
+… wherever she got to that time.
+
+0:10:51.546,0:10:58.132
 I remember holding it, staring into its face, seeing myself and…
 
-0:10:59.519,0:11:00.549
+0:10:59.519,0:11:03.129
 …and my mother just over my shoulder, smiling.
+
+0:11:03.129,0:11:06.575
 And one of these looking glasses it's in the storage room?
 
-0:11:06.879,0:11:11.439
+0:11:06.879,0:11:09.523
 Oh, yes, I'm quite sure.
+
+0:11:09.523,0:11:13.100
 I peered into that dim little chamber and there it was.
 
-0:11:11.440,0:11:15.370
+0:11:13.100,0:11:15.862
 I've wanted to find for so long, I…
 
 0:11:16.919,0:11:18.450
 How're we gonna get that ring?
 
-0:11:18.740,0:11:20.788
-Two sets of hands, girl.
+0:11:18.740,0:11:22.252
+Two sets of hands, girl. Two sets of hands!
 
-0:11:20.789,0:11:25.349
-Two sets of hands!
+0:11:22.253,0:11:25.349
 Behind us lie a pair of enormous gates.
 
-0:11:25.350,0:11:33.408
+0:11:25.350,0:11:29.356
 But I believe the gates must be operated in tandem.
+
+0:11:29.356,0:11:32.052
 Together we can dry this place out.
-I guess we'd better get started then.
+
+0:11:32.052,0:11:33.408
+Guess we'd better get started then.
 
 0:11:33.409,0:11:34.669
 I guess we'd better!
 
-0:11:47.289,0:11:47.849
-Up ahead, girl, see the valve?
+0:11:47.289,0:11:50.000
+GILDUN: Up ahead, girl, see the valve?
 
-0:11:48.360,0:11:51.808
-Time to put our hands to use.
+0:11:50.000,0:11:51.808
+GILDUN: Time to put our hands to use.
 
 0:11:51.809,0:11:53.350
-I'll take care of this one.
+GILDUN: I'll take care of this one.
 
 0:11:53.649,0:11:57.539
-There's another valve on the other side to lock the gate in place.
+GILDUN: There's another valve on the other side to lock the gate in place.
 
 0:11:57.740,0:12:01.250
-Would you mind heading across and, er, doing the honours?
+GILDUN: Would you mind heading across and, er, doing the honours?
 
-0:12:24.940,0:12:28.470
-You know, I'm reminded of a delve I undertook out near The Claim.
-A stone ruin, cloud-tall and lake-wide.
-Must have been thirteen levels on that monstrosity, but no walls.
-Just great stone columns bearing the weight of the level above.
-Filled with row upon row of those enormous, rusted-out Old World carts,
-you know the ones with four wheels?
-I've scraped through a hundred of those carts but the only things I've ever seen inside is birds nests.
-You don't suppose that's what they're for do you?
-Why would the Old Ones want to cart around families of birds?
-A tub of stagnant water, charming.
+0:12:24.940,0:12:29.262
+GILDUN: You know, I'm reminded of a delve I undertook out near The Claim.
 
-0:13:20.460,0:13:21.219
-Marvellous, you made it!
+0:12:29.795,0:12:33.086
+GILDUN: A stone ruin, cloud-tall and lake-wide.
 
-0:13:22.330,0:13:23.389
-Now grab that valve and give it a spin!
+0:12:33.086,0:12:36.746
+GILDUN: Must have been thirteen levels on that monstrosity, but no walls.
 
-0:13:23.389,0:13:25.899
-On it.
+0:12:37.320,0:12:41.456
+GILDUN: Just great stone columns bearing the weight of the level above.
+
+0:12:42.317,0:12:46.954
+GILDUN: Filled out with row upon row
+of those enormous, rusted-out Old World carts.
+
+0:12:47.528,0:12:49.736
+GILDUN: You know the ones with four wheels?
+
+0:12:50.269,0:12:52.726
+GILDUN: I've scraped through a hundred of those carts.
+
+0:12:52.972,0:12:55.670
+GILDUN: But the only things I've ever seen inside is birds nests.
+
+0:12:56.736,0:13:00.222
+GILDUN: You don't suppose that's what they're for do you?
+
+0:13:00.222,0:13:03.115
+ALOY: A tub of stagnant water, charming.
+
+0:13:03.115,0:13:06.203
+GILDUN: Why would the Old Ones want to cart around families of birds?
+
+0:13:20.460,0:13:22.330
+GILDUN: Marvellous, you made it!
+
+0:13:22.330,0:13:24.701
+GILDUN: Now grab that valve and give it a spin!
+
+0:13:24.701,0:13:25.899
+ALOY: On it.
 
 0:13:26.909,0:13:30.789
-A little more now and I should be able to get the blasted thing moving.
+GILDUN: A little more now and I should be able to get the blasted thing moving.
 
-0:13:33.830,0:13:34.329
-There!
-
-0:13:34.330,0:13:36.360
-You should be able to lower the gate.
+0:13:33.830,0:13:36.360
+ALOY: There, you should be able to lower the gate.
 
 0:13:37.340,0:13:38.528
-Right you are.
+GILDUN: Right you are.
 
-0:13:38.529,0:13:39.450
+0:13:38.528,0:13:42.509
+GILDUN: Now, when I get this gate down, you'll need to turn the valve again.
 
-0:13:39.450,0:13:44.599
-Now, when I get this gate down, you'll need to turn the valve again.
+0:13:42.509,0:13:45.700
+GILDUN: Gotta lock this thing in place.
 
-0:13:44.600,0:13:45.700
-Gotta lock this thing in place.
+0:13:58.529,0:13:59.583
+ALOY: One gate down!
 
-0:13:58.529,0:14:03.259
-One gate down.
-Halfway through then, aren't we?
-To the second gate!
+0:13:59.583,0:14:03.259
+GILDUN: Halfway through then, aren't we? To the second gate!
 
 0:14:11.899,0:14:15.299
-A ladder is a rare and special thing, girl.
+GILDUN: A ladder is a rare and special thing, girl.
 
-0:14:15.340,0:14:18.450
-You can depend on it to take you exactly where you need to go and no further.
+0:14:15.340,0:14:20.000
+GILDUN: You can depend on it to take you
+exactly where you need to go and no further.
 
-0:14:24.879,0:14:29.720
-Hmm, I'd wager the valves for the second sluice gate are somewhere above us.
+0:14:24.879,0:14:29.757
+GILDUN: Hmm, I'd wager the valves for the 
+second sluice gate are somewhere above us.
 
-0:14:30.700,0:14:31.950
-But how are we gonna get up there?
+0:14:29.757,0:14:31.950
+GILDUN: But how are we gonna get up there?
 
-0:14:32.039,0:14:33.509
-Let me look around, see what I can find.
+0:14:32.039,0:14:34.903
+ALOY: Let me look around, see what I can find.
 
-0:14:51.940,0:14:53.269
-Looks like I could jump across on that rickety rusting platform.
-Might find a way up.
+0:14:37.101,0:14:41.388
+ALOY: Looks like I could jump across on that rickety rusting platform.
 
-0:14:54.570,0:14:55.499
-Nice jump!
+0:14:42.249,0:14:43.718
+ALOY: Might find a way up.
 
-0:14:55.500,0:14:57.590
-Nice, what am I saying? That was stupendous!
+0:14:51.500,0:14:53.659
+GILDUN: Nice jump!
+
+0:14:53.659,0:14:57.590
+GILDUN: [laughs] Nice, what am I saying? That was stupendous!
 
 0:14:57.639,0:15:01.339
-I've never seen such absolute disregard for personal safety.
+GILDUN: I've never seen such absolute disregard for personal safety.
 
-0:15:01.340,0:15:02.509
-Thanks, I think?
+0:15:01.340,0:15:03.616
+ALOY: Thanks, I think?
 
-0:15:11.950,0:15:15.450
-You're close, girl. Just spring across the gap.
+0:15:11.663,0:15:15.450
+GILDUN: Oh, you're close, girl. Just spring across the gap.
 
 0:15:19.440,0:15:21.490
-Ha, you're right above me.
+GILDUN: Ha?! You're right above me!
 
 0:15:21.529,0:15:23.450
 Just send that ladder on down.
 
-0:15:31.029,0:15:31.239
-Look out below!
+0:15:25.434,0:15:27.147
+ALOY: Look out below!
 
-0:15:31.240,0:15:33.168
-Now we've done this once before.
+0:15:31.029,0:15:33.168
+GILDUN: Now we've done this once before.
 
-0:15:33.169,0:15:37.850
-Should be as easy as falling down a hole.
-If you take the valve on the other side…
+0:15:33.169,0:15:35.649
+GILDUN: Should be as easy as falling down a hole.
 
-0:15:45.139,0:15:45.950
-If it's set up the same way on this side, I should look for an access tunnel.
+0:15:35.649,0:15:37.850
+GILDUN: If you take the valve on the other side…
 
-0:15:46.929,0:15:48.750
-[Gildun, in the distance]
-This? This is my sort of delve.
+0:15:38.047,0:15:42.056
+ALOY: If it's set up the same way on this side, I should look for an access tunnel.
 
-0:15:49.490,0:15:50.730
-[Gildun, in the distance]
-A thousand little problems to solve.
-[Gildun, in the distance]
-A million minute and invisible factors.
-[Gildun, in the distance]
-My father used to say to me "Gildling" — he'd call me Gildling — "Gildling" he'd say.
-[Gildun, in the distance]
-"Don't make the delve harder than it needs to be."
-[Gildun, in the distance]
-"The best delves are done in half the time it takes a campfire to sputter out."
-[Gildun, in the distance]
-Now, my father was a great man, mind you.
-[Gildun, in the distance]
-But dead wrong when it came to choosing a rubric by which to judge delve quality.
-[Gildun, in the distance]
-To find yourself stuck, then unstuck.
-[Gildun, in the distance]
-To fail, then succeed!
-[Gildun, in the distance]
-To get lost, and to find yourself!
-[Gildun, in the distance]
-That's what makes a delve!
-[Aloy]
-Uh-huh, Gildun.
+0:15:45.267,0:15:48.933
+GILDUN: This? This is my sort of delve.
 
-0:16:59.019,0:17:00.649
-Okay, Gildun, turn the valve!
+0:15:48.933,0:15:51.192
+GILDUN: A thousand little problems to solve.
+
+0:15:51.192,0:15:53.871
+GILDUN: A million minute and invisible factors.
+
+0:15:54.363,0:16:00.167
+GILDUN: My father used to say to me "Gildling"
+— he'd call me Gildling — "Gildling" he used to say,
+
+0:16:00.864,0:16:03.656
+GILDUN: "Don't make the delve harder than it needs to be."
+
+0:16:03.656,0:16:07.492
+GILDUN: "The best delves are done in
+half the time it takes a campfire to sputter out."
+
+0:16:08.230,0:16:10.705
+GILDUN: Now, my father was a great man, mind you.
+
+0:16:10.705,0:16:15.458
+GILDUN: But dead wrong when it came
+to choosing a rubric by which to judge delve quality.
+
+0:16:15.458,0:16:18.913
+GILDUN: To find yourself stuck, then unstuck.
+
+0:16:18.913,0:16:21.718
+GILDUN: To fail, then succeed.
+
+0:16:21.718,0:16:25.385
+GILDUN: To get lost, and to find yourself.
+
+0:16:25.385,0:16:27.942
+GILDUN: That's what makes a delve!
+
+0:16:27.942,0:16:29.334
+ALOY: Uh-huh, Gildun.
+
+0:16:58.609,0:17:00.649
+ALOY: Okay, Gildun, turn the valve!
 
 0:17:02.120,0:17:05.049
-It's not working!
+GILDUN: It's not working!
 
-0:17:06.940,0:17:08.369
-Damn thing's too heavy.
+0:17:06.653,0:17:08.611
+GILDUN: Damn thing's too heavy.
 
-0:17:08.980,0:17:09.568
-Glance behind me, would you?
+0:17:08.611,0:17:10.388
+GILDUN: Glance behind me, would you?
 
-0:17:09.759,0:17:11.799
-You see anything big and, er, broken?
+0:17:10.388,0:17:13.644
+GILDUN: See anything big and, er, broken?
 
-0:17:16.000,0:17:17.039
-Looks like part of the counterweight broke off.
+0:17:15.426,0:17:17.640
+ALOY: Looks like part of the counterweight broke off.
 
-0:17:17.640,0:17:18.739
-If I can get up there, my weight might be enough to get it moving again.
+0:17:17.640,0:17:21.035
+ALOY: If I can get up there, my weight might be enough to get it moving again.
 
-0:17:21.680,0:17:22.419
-Hang on, okay? I've got a plan.
+0:17:21.814,0:17:24.141
+ALOY: Hang on, okay? I've got a plan.
 
-0:17:27.289,0:17:28.250
-I need to get up higher.
-Could climb up that wreckage, that's pretty much what I do now.
-Can't jump straight to the counterweight from here.
-But I could climb higher, get above it.
-[Gildun]
-Stop! The drop's too far, girl!
-[Gildun]
-Oh, [laughs] controlled falling, very clever.
+0:17:24.141,0:17:25.593
+ALOY: I need to get up higher.
 
-0:18:21.539,0:18:22.710
-Going down!
+0:17:26.618,0:17:30.267
+ALOY: Could climb up that wreckage, that's pretty much what I do now.
 
-0:18:47.039,0:18:48.269
-Almost low enough to jump.
-You can make it.
+0:17:55.847,0:17:58.446
+ALOY: Can't jump straight to the counterweight from here.
 
-0:18:48.329,0:18:51.029
-Let's see another one of those mad leaps!
+0:17:59.594,0:18:01.863
+ALOY: But I could climb higher, get above it.
 
-0:18:55.039,0:18:56.049
-Got it.
+0:18:12.467,0:18:14.674
+GILDUN: Stop! The drop's too far, girl!
 
-0:18:56.150,0:18:57.349
-We're good to go.
+0:18:14.674,0:18:19.437
+GILDUN: Oh, [laughs] controlled falling, very clever.
+
+0:18:21.663,0:18:22.915
+ALOY: Going down!
+
+0:18:44.907,0:18:46.409
+ALOY: Almost low enough to jump.
+
+0:18:47.024,0:18:48.269
+GILDUN: You can make it!
+
+0:18:48.329,0:18:51.767
+GILDUN: Let's see another one of those mad leaps! Haha!
+
+0:18:55.039,0:18:57.349
+ALOY: Got it. We're good to go.
 
 0:18:59.640,0:19:01.759
-You were a sight to see.
+GILDUN: You were a sight to see.
 
-0:19:02.049,0:19:03.039
-Bounding from metal rust trap to metal rust trap.
-[laughs]
+0:19:02.049,0:19:06.851
+GILDUN: Bounding from metal rust trap to metal rust trap. [laughs]
 
-0:19:07.410,0:19:08.900
-Still a bit of water, but low enough wouldn't you say?
-Now then, er, where is that ring?
+0:19:07.410,0:19:10.388
+GILDUN: Still a bit of water, but low enough wouldn't you say?
 
-0:19:13.539,0:19:14.799
-Good question. Well, at least I should be able to swim now.
+0:19:10.757,0:19:12.989
+GILDUN: Now then, er, where is that ring?
 
-0:19:19.230,0:19:22.639
-Snapmaw! It's a Snapmaw! Very, very big Snapmaw!
+0:19:12.989,0:19:16.931
+ALOY: Good question. Well, at least I should be able to swim now.
 
-0:19:22.640,0:19:26.328
-I see it, Gildun!
-Very big, very, very big.
+0:19:16.931,0:19:22.640
+GILDUN: Snapmaw! It's a Snapmaw! Very, very big Snapmaw!
+
+0:19:22.640,0:19:24.125
+ALOY: I see it, Gildun!
+
+0:19:24.125,0:19:26.328
+GILDUN: Very big, very, very big.
 
 0:19:26.329,0:19:28.029
-Just stay out of the way.
+ALOY: Just stay out of the way!
 
-0:20:01.029,0:20:02.029
-Forge forgive me, what if that Snapmaw swallowed that ring we're after?
-Just gobbled it right up?
+0:20:00.701,0:20:05.158
+GILDUN: Forge forgive me, what if that Snapmaw swallowed that ring we're after?
+
+0:20:05.158,0:20:08.301
+GILDUN: Just gobbled it right up?
 
 0:20:28.039,0:20:30.549
-We'll find out after I've killed it.
+ALOY: We'll find out after I've killed it!
 
-0:20:34.990,0:20:35.368
-Is it dead? Just tell me when it'd dead, would you?
+0:20:33.309,0:20:36.329
+GILDUN: Is it dead? Just tell me when it'd dead, would you?
 
 0:20:36.329,0:20:37.480
-It's dead.
+ALOY: It's dead.
 
-0:20:38.339,0:20:39.549
-Ha! Marvellous.
+0:20:37.480,0:20:39.549
+GILDUN: Ha! Marvellous.
 
-0:20:39.799,0:20:45.578
-So the uh ring, maybe if you pry its jaws open and reach inside.
+0:20:40.000,0:20:45.779
+GILDUN: So the uh ring, maybe if you pry its jaws open and reach inside.
 
-0:20:45.579,0:20:47.160
-I can't look.
+0:20:45.779,0:20:47.160
+GILDUN: I can't look.
 
-0:21:19.369,0:21:20.450
-You were right, this thing did swallow the ring.
+0:21:19.369,0:21:22.582
+ALOY: You were right, this thing did swallow the ring.
 
-0:21:24.299,0:21:29.309
-Haha! That's the old Gildun intuition in action!
-It's never led me astray.
+0:21:23.069,0:21:27.412
+GILDUN: Haha! That's the old Gildun intuition in action!
+
+0:21:27.412,0:21:29.309
+GILDUN: It's never led me astray.
 
 0:21:29.440,0:21:33.049
-Sure, it's chosen routes could be a bit circuitous, but…
+GILDUN: Sure, it's chosen routes could be a bit circuitous, but…
 
-0:21:33.579,0:21:35.969
-Never mind! To the storage room! To the spoils!
+0:21:33.579,0:21:37.527
+GILDUN: Never mind! To the storage room! To the spoils!
 
 0:21:39.359,0:21:41.328
-Ooh, what's in here?
+GILDUN: Ooh, what's in here?
 
-0:21:41.329,0:21:42.828
-More old world treasures perhaps?
+0:21:41.329,0:21:43.566
+GILDUN: More old world treasures perhaps?
 
-0:21:42.829,0:21:46.469
-This place is full of surprises.
+0:21:43.566,0:21:46.265
+GILDUN: This place is full of surprises.
 
-0:21:46.470,0:21:47.269
-Could we have a look?
+0:21:46.265,0:21:47.269
+GILDUN: Could we have a look?
 
 0:21:47.269,0:21:49.229
-Didn't you want to get into the storage room?
+ALOY: Didn't you want to get into the storage room?
 
-0:21:49.230,0:21:55.479
-I do fervently, but well, I got time to poke my nose in if you do.
+0:21:49.230,0:21:52.118
+GILDUN: I do, fervently!
 
-0:22:06.700,0:22:08.889
-We drained enough water for what we need to do, but…
+0:21:52.118,0:21:56.463
+GILDUN: But, well, I got time to poke my nose in if you do.
 
-0:22:10.220,0:22:15.099
-I wonder if I could empty out the whole dam.
+0:22:06.700,0:22:09.709
+ALOY: We drained enough water for what we need to do, but…
 
-0:22:15.589,0:22:18.119
-Pipes, valves, maybe I can drain the rest of the water from here.
+0:22:10.220,0:22:12.679
+ALOY: I wonder if I could empty out the whole dam.
+
+0:22:12.679,0:22:18.119
+ALOY: Pipes, valves, maybe I can drain the rest of the water from here.
 
 0:22:22.730,0:22:24.660
-Perhaps my Focus can help me.
+ALOY: Perhaps my Focus can help me.
 
 0:22:40.839,0:22:42.849
-Sure are a lot of valves.
+ALOY: Sure are a lot of valves.
 
 0:22:43.140,0:22:45.160
-Should check my Focus first.
+ALOY: Should check my Focus first.
 
-0:22:47.490,0:22:49.598
-Alright, time to get the flow going to the right place.
+0:22:46.711,0:22:49.598
+ALOY: Alright, time to get the flow going to the right place.
 
-0:22:50.240,0:22:53.139
-I say this as a man typically enamoured of complexities, but…
+0:22:49.598,0:22:53.713
+GILDUN: I say this as a man typically enamoured of complexities, but…
 
-0:22:53.140,0:22:56.859
-This looks like it might be a little much for me.
+0:22:54.575,0:22:56.859
+GILDUN: This looks like it might be a little much for me.
 
-0:22:57.210,0:22:58.169
-Don't worry, I think I've got this.
-Music to my ears!
+0:22:57.210,0:22:59.295
+ALOY: Don't worry, I think I've got this.
 
-0:23:01.930,0:23:03.549
-To each job its proper tools.
+0:22:59.295,0:23:03.549
+GILDUN: Music to my ears! To each job its proper tools.
 
-0:23:03.559,0:23:05.479
-Toothpicks make horrible arrows as the saying goes.
+0:23:03.559,0:23:07.078
+GILDUN: Toothpicks make horrible arrows as the saying goes.
 
 0:23:26.099,0:23:27.549
-That's not quite right.
+ALOY: That's not quite right.
 
 0:23:35.440,0:23:37.349
-Looks like I'm on the right track.
+ALOY: Looks like I'm on the right track.
 
 0:23:52.819,0:23:54.259
-Something's not right.
+ALOY: Something's not right.
 
 0:24:07.039,0:24:09.289
-You got a confident mind, girl.
+GILDUN: You got a competent mind, girl.
 
 0:24:09.500,0:24:11.769
-A mind for nuance and finesse.
+GILDUN: A mind for nuance and finesse.
 
-0:24:11.769,0:24:13.759
-Not I, no indeed. Not Old Gildun.
+0:24:11.769,0:24:15.768
+GILDUN: Not I, no indeed. Not Old Gildun.
 
 0:24:39.809,0:24:41.950
-There, one step closer.
+ALOY: There, one step closer.
 
 0:24:45.619,0:24:49.640
-This job demands a certain degree of patience, doesn't it?
+GILDUN: This job demands a certain degree of patience, doesn't it?
 
 0:24:50.740,0:24:53.319
-I'm afraid I inherited my mother's restlessness.
+GILDUN: I'm afraid I inherited my mother's restlessness.
 
 0:24:56.339,0:24:57.460
-Getting there.
+ALOY: Getting there.
 
 0:25:24.099,0:25:25.759
-You've been at this a while, girl.
+GILDUN: You've been at this a while, girl.
 
 0:25:25.759,0:25:27.400
-No room to judge, mind.
+GILDUN: No room to judge, mind.
 
-0:25:29.890,0:25:30.839
-There, that should do it.
-I should head back and see if that took care of the rest of the water.
+0:25:29.267,0:25:31.116
+ALOY: There, that should do it.
+
+0:25:31.116,0:25:34.159
+ALOY: I should head back and see if that took care of the rest of the water.
 
 0:25:34.640,0:25:36.059
-Got it working, did you?
+GILDUN: Got it working, did you?
 
-0:25:36.839,0:25:38.150
-Of course you did!
+0:25:36.059,0:25:38.150
+GILDUN: [laughs] Of course you did!
 
-0:25:38.220,0:25:39.479
-Never met a conundrum you couldn't unconundrum, have ya?
+0:25:38.220,0:25:41.693
+GILDUN: Never met a conundrum you couldn't unconundrum, have ya?
 
-0:25:43.339,0:25:45.279
-The door's open. Guess it had sealed because of the flooding.
+0:25:41.693,0:25:45.601
+ALOY: The door's open. Guess it had sealed because of the flooding.
 
 0:25:56.440,0:25:58.509
-This must go down to the lower level.
+ALOY: This must go down to the lower level.
 
 0:26:42.839,0:26:45.250
-it stinks down here.
+ALOY: Ugh, it stinks down here.
 
-0:26:46.680,0:26:48.450
-You smell that?
+0:26:45.250,0:26:48.450
+GILDUN: [sniffs] Mmm-mmm, you smell that?
 
-0:26:49.029,0:26:50.538
-Smells like a forgeside morning in The Claim.
+0:26:49.029,0:26:51.973
+GILDUN: Smells like a forgeside morning in The Claim.
 
-0:26:56.829,0:26:57.759
-[Laura, recorded voice]
-See? Check this out!
+0:26:56.829,0:26:59.140
+RECORDING: LAURA: See? Check this out!
 
-0:26:59.140,0:27:02.240
-[Laura, recorded voice]
-We can just bang on this pipe, you know?
+0:26:59.140,0:27:04.009
+RECORDING: LAURA: We can just bang on this pipe, you know?
 [banging sounds]
 
-0:27:04.009,0:27:05.239
-[Shelly, recorded voice]
-Could we sample that, or…?
+0:27:04.009,0:27:05.691
+RECORDING: SHELLEY: Could we sample that, or…?
 
-0:27:05.240,0:27:07.819
-[Laura, recorded voice]
-Totally, like what about after the… uh, sorry, just a sec.
+0:27:05.691,0:27:10.852
+RECORDING: LAURA: Totally, like what about after the… uh, sorry, just a sec.
 
-0:27:13.640,0:27:14.509
-[Shelly, recorded voice]
-Laura?
+0:27:12.328,0:27:13.753
+RECORDING: SHELLEY: Laura?
 
-0:27:17.319,0:27:18.579
-[Laura, recorded voice]
-I, uh, I need to take a break.
+0:27:13.753,0:27:15.189
+RECORDING: LAURA: I, uh…
 
-0:27:20.740,0:27:21.910
-[Shelly, recorded voice]
-Laura? Hey! Laura!
+0:27:17.280,0:27:18.866
+RECORDING: LAURA: I need to take a break.
 
-0:27:28.970,0:27:30.619
-Looks like that's everything. I should head back up with Gildun.
+0:27:18.866,0:27:24.124
+RECORDING: SHELLEY: Laura? Hey! Laura!
+
+0:27:28.970,0:27:32.997
+ALOY: Looks like that's everything. I should head back up with Gildun.
 
 0:28:11.390,0:28:15.950
-So, as we circle back around to the matter of the supply room.
+GILDUN: So, as we circle back around to the matter of the supply room.
 
 0:28:42.440,0:28:43.909
-I can't wait, I can't wait, I can't wait!
+GILDUN: I can't wait, I can't wait, I can't wait!
 
 0:28:47.829,0:28:49.349
-Almost there!
+GILDUN: Almost there!
 
 0:28:52.980,0:28:58.160
-Soon I'll hold the looking glass in my hand, just like mom and I used to.
+GILDUN: Soon I'll hold the looking glass in my hand, just like mom and I used to.
 
-0:29:45.039,0:29:46.150
-Err, what, um…?
+0:29:45.039,0:29:48.773
+GILDUN: Err, what, um…?
 
 0:29:49.950,0:29:52.950
-What are you doing with your hands there, girl?
+GILDUN: What are you doing with your hands there, girl?
 
-0:30:09.359,0:30:11.160
-[laughs] I can't believe that worked!
+0:30:07.801,0:30:11.160
+GILDUN: [laughs] I can't believe that worked!
 
-0:30:11.240,0:30:12.568
-I thought you'd lost your mind, tickling the empty air like that.
+0:30:11.240,0:30:14.400
+GILDUN: I thought you'd lost your mind, tickling the empty air like that.
 
-0:30:16.789,0:30:17.699
+0:30:14.400,0:30:17.699
 Gildun? Everything okay?
 
 0:30:17.700,0:30:19.549
@@ -695,16 +787,16 @@ Right there in the window.
 0:30:28.009,0:30:28.769
 I would…
 
-0:30:31.339,0:30:32.299
+0:30:31.339,0:30:35.660
 Of course, a trick of the light. Nothing at all.
 
-0:30:37.859,0:30:38.859
+0:30:37.859,0:30:41.646
 I'm sorry, Gildun. It must have meant a lot to you.
 
-0:30:44.250,0:30:46.969
+0:30:41.646,0:30:47.994
 Oh well, much as any artefact of the Old Ones would mean to me, really.
 
-0:30:48.940,0:30:50.169
+0:30:48.940,0:30:51.030
 It's fine, I'm fine.
 
 0:30:52.039,0:30:55.578
@@ -719,43 +811,44 @@ The delve, not the treasure.
 0:31:01.220,0:31:03.319
 And what a delve it was!
 
-0:31:04.259,0:31:05.489
+0:31:04.259,0:31:06.883
 By the great blazing forge, I'll never forget that.
 
-0:31:08.009,0:31:09.470
+0:31:08.009,0:31:12.626
 Now then I, uh, believe we have some repairs to make.
 
 0:32:23.039,0:32:25.759
-[Shelley, recorded voice]
-I mean, this is it.
+RECORDING: SHELLEY: I mean, this is it.
 
 0:32:26.039,0:32:29.829
-[Shelley, recorded voice]
-We get to play together, what, maybe two more times?
+RECORDING: SHELLEY: We get to play together, what, maybe two more times?
 
-0:32:31.269,0:32:32.359
-[Laura, recorded voice]
-Nah, Shells. Farewell tour! Reunion tour in like, six months.
+0:32:29.829,0:32:35.395
+RECORDING: LAURA: Nah, Shells. Farewell tour! Reunion tour in like, six months.
 
-0:32:33.140,0:32:35.679
-[Laura, recorded voice]
-Bands do it all the time.
+0:32:35.395,0:32:37.237
+RECORDING: LAURA: Bands do it all the time.
 
-0:32:37.839,0:32:39.649
-[Shelley, recorded voice]
-For our adoring fans?
+0:32:37.934,0:32:39.649
+RECORDING: SHELLEY: For our adoring fans?
 
-0:32:39.650,0:32:42.450
-[Laura, recorded voice]
-It's not that hard to stay in touch, Shelley. We could practice in holospace.
-[Shelley, recorded voice]
-People always say that.
+0:32:39.650,0:32:42.073
+RECORDING: LAURA: It's not that hard to stay in touch, Shelley.
+
+0:32:42.073,0:32:44.198
+RECORDING: LAURA: We could practice in holospace.
+
+0:32:44.198,0:32:45.894
+RECORDING: SHELLEY: People always say that.
 
 0:32:55.180,0:32:58.450
 Okay, let's fix the panel and shut this place down.
 
-0:33:39.039,0:33:42.960
-Ohhh that's a whole lot prettier, isn't it?
+0:33:39.039,0:33:42.715
+GILDUN: Ohhh that's a whole lot prettier, isn't it?
+
+0:33:42.715,0:33:44.182
+[laughs]
 
 0:33:46.039,0:33:47.099
 What does it mean?
@@ -763,63 +856,73 @@ What does it mean?
 0:33:47.930,0:33:50.579
 It means it worked.
 
-0:33:51.670,0:33:53.549
+0:33:51.670,0:33:55.353
 By the forge, you are a wonder!
 
-0:33:53.829,0:33:58.939
-Do you hear that often? I'd hazard a guess you do.
+0:33:55.353,0:33:58.939
+Do you hear that often? I'll hazard a guess you do.
 
-0:33:58.940,0:34:00.739
+0:33:58.940,0:34:01.589
 I've heard something like that once or twice.
 
-0:34:01.589,0:34:10.170
+0:34:01.589,0:34:03.300
 Oh, she's modest now?
-A master of the arts of the Old Ones,
-a delver to shame the entire Claim, and she wants to be modest. Ha!
+
+0:34:03.300,0:34:08.022
+A master of the arts of the Old Ones, a delver to shame the entire Claim!
+
+0:34:08.022,0:34:10.170
+And she wants to be modest. Ha!
 
 0:34:10.679,0:34:13.289
 It's not like I did it alone, Gildun.
 
-0:34:17.440,0:34:18.960
+0:34:15.062,0:34:18.960
 No. No, I suppose not.
 
-0:34:20.940,0:34:22.340
+0:34:20.940,0:34:23.693
 So what's next for you, on your way back to The Claim?
 
-0:34:22.429,0:34:28.710
+0:34:23.898,0:34:27.206
 And deprive the people of Song's Edge the story of this encounter?
+
+0:34:27.206,0:34:28.710
 Perish the thought!
 
-0:34:29.530,0:34:34.349
+0:34:29.530,0:34:31.644
 I'll stay there a while longer.
+
+0:34:31.644,0:34:34.349
 But a story is best told by all who encountered it.
 
 0:34:34.699,0:34:36.659
 Come and lend a hand, won't you?
 
-0:34:43.440,0:34:47.320
-[Computer]
-Overflow basin empty, interior accessible. Minimal flood damage.
+0:34:43.440,0:34:47.251
+COMPUTER: Overflow basin empty, interior accessible.
 
-0:34:47.349,0:34:53.138
-Sounds like the basin has dried out too, maybe I'll take a look.
+0:34:47.251,0:34:49.189
+COMPUTER: Minimal flood damage.
 
-0:34:53.139,0:34:55.400
-Another adventure so soon? You're braver than me!
+0:34:49.189,0:34:53.138
+ALOY: Sounds like the basin has dried out too, maybe I'll take a look.
 
-0:34:57.380,0:34:59.300
-But there was no question of that. [laughs]
+0:34:53.139,0:34:56.999
+GILDUN: Another adventure so soon? You're braver than me!
+
+0:34:56.999,0:35:00.190
+GILDUN: But there was no question of that. [laughs]
 
 0:35:05.230,0:35:06.679
-You go on ahead.
+GILDUN: You go on ahead.
 
 0:35:07.099,0:35:11.250
-I'm gonna stand right here and bask in our victory for a while longer.
+GILDUN: I'm gonna stand right here and bask in our victory for a while longer.
 
 0:35:54.039,0:35:55.349
 Water's lower.
 
-0:35:56.019,0:35:58.989
+0:35:56.019,0:35:59.440
 And going by that sound, I think Laulai's already at the Din.
 
 0:36:37.730,0:36:39.349
@@ -831,13 +934,13 @@ The shape looks familiar.
 0:39:16.679,0:39:18.179
 She wasn't kidding about the sound.
 
-0:39:42.679,0:39:43.179
+0:39:40.467,0:39:42.031
 I've been seen.
 
 0:40:10.010,0:40:11.269
 It felt that!
 
-0:42:09.550,0:42:10.289
+0:42:09.550,0:42:11.027
 Right on target.
 
 0:43:48.400,0:43:51.349
@@ -852,15 +955,17 @@ Must be the entrance to this "Din".
 0:47:16.489,0:47:17.559
 Ouch!
 
-0:48:32.039,0:48:36.698
-[Laura, recorded voice]
-Live from the illustrious Overflow Basin Studios,
-it's Concrete Beach Party! A-one, a-two, a-one-two-three-four!
+0:48:32.039,0:48:36.573
+RECORDING: LAURA: Live from the illustrious Overflow Basin Studios
 
-0:49:29.590,0:49:30.908
+0:48:36.573,0:48:42.847
+RECORDING: LAURA: it's Concrete Beach Party!
+A-one, a-two, a-one-two-three-four!
+
+0:49:29.590,0:49:31.113
 You look happy to be playing again.
 
-0:49:30.909,0:49:34.878
+0:49:31.113,0:49:34.878
 I don't know what you did, but the water drained in the snap of a short song.
 
 0:49:34.880,0:49:36.800
@@ -869,7 +974,7 @@ What do you think of the music?
 0:49:36.929,0:49:39.389
 I've never heard anything else like it.
 
-0:49:39.510,0:49:42.168
+0:49:39.510,0:49:45.734
 That's because there's no other place with such resonance,
 such intonation that rattles your ribs with its power.
 
@@ -879,17 +984,21 @@ And of course, no-one else knows these pipes like I do.
 0:49:50.570,0:49:54.389
 I learned them by ear before I could walk, strapped to my father's back.
 
-0:49:55.570,0:50:02.800
-Thank you for draining the waters, not just for myself, but for my ancestors and their songs.
+0:49:55.570,0:49:58.055
+Thank you for draining the waters.
+
+0:49:58.055,0:50:02.800
+Not just for myself, but for my ancestors and their songs.
 
 0:50:03.659,0:50:08.710
-Please take this as a token of our gratitude.
+Please, take this as a token of our gratitude.
 
-0:50:27.519,0:50:28.440
-Let's see, what shall I play next?
+0:50:26.289,0:50:29.342
+LAULAI: Let's see, what shall I play next?
 
-0:50:29.960,0:50:31.000
-The echoes are different off wet stone, sound is warmer.
+0:50:29.342,0:50:33.401
+LAULAI: The echoes are different off wet stone, sound is warmer.
 
 0:50:34.139,0:50:39.670
-The sound of the pipes fills my heart with joy and sadness all at once.
+LAULAI: The sound of the pipes fills my heart with joy and sadness all at once.
+
