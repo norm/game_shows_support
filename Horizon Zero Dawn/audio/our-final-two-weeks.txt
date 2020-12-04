@@ -1,10 +1,11 @@
 <speak>
 
-To: all.staff
-From: Marni Jephords
-Subject: Addressing the rumors
+To all staff,
+From Marni Jephords,
+Subject, Addressing the rumors.
 
-Some of you have overheard portions of the... let's call them spirited...
+Some of you have overheard portions of the
+<break time="30ms" /> let's call them spirited <break time="30ms" />
 conversations I've been having with the charming Mr. Blevins in my office over
 the past week. So let's address the honking big elephant we're crammed into
 this room with: the park has been acquired by something called Firebreak, and
@@ -25,10 +26,10 @@ need your help over the next two weeks. Tours will continue through Friday, so
 I'm going to need guides. And even though regular ops at the gift shop are
 suspended, we've got a ton of surplus merch to box up and ship back to
 manufacturers, including about a bazillion unsold MonRec holofigurines (yes,
-MonRec wants everything but the display figs back, no I can't imagine why
+MonRec wants everything but the display figs back, no, I can't imagine why
 either).
 
-Please, you guys. Just give me two more weeks of your time. I can't shut this
+Please you guys. Just give me two more weeks of your time. I can't shut this
 place down alone.
 
 Best,

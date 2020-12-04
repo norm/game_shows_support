@@ -1,24 +1,29 @@
 <speak>
 
-Servitor says Ill get docked if I dont do the personal response assignment. K
-fine here you goooo robonag
+Servitor says I'll get docked if I dont do the personal response assignment. K
+fine here you go-oh-oh robonag.
 
-this trip sux yellowstone sux highschool sux
+this trip sux yellowstone sux highschool sux.
 
-Dropped my sandwich in some weird rainbow water and it got dissolved kinda
-wicked I guess but now Im hungry
+Dropped my sandwich in some weird rainbow water and it got dissolved
+<break time="15ms" /> kinda wicked I guess but now I'm hungry.
 
-Why are they always saying to admire the view who cares about a view. Dont
-make me look at things I dont want to look at
+Why are they always saying to admire the view
+<break time="15ms" /> who cares about a view.
+Dont make me look at things I dont want to look at.
 
-bears raccoons rabbits so many furry whocaresits 
+bears raccoons rabbits so many furry who cares its.
 
-Holocast here sux couldnt dl latest GobliNation patch til we got back on
-autobus and missed Shattered Chasm challenge my horde was so pissed
+Holocast here sux
+<break time="15ms" /> couldnt dl latest GobliNation patch til we got back on
+autobus and missed Shattered Chasm challenge
+<break time="15ms" /> my horde was so pissed.
 
-I hate nature 
+I hate nature.
 
-There, done, enjoy 
+There
+<break time="30ms" /> done
+<break time="30ms" /> enjoy.
 
 by BethFromAbove 
 
