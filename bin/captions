@@ -12,7 +12,7 @@ for seq in $(seq 1 99); do
         sbv="$( echo "$video" | sed -e 's/.mp4/.sbv/')"
         [ "$(stamp "$sbv")" -gt "$(stamp "$video")" ] && continue
 
-        status "== {bold}{green}$video [$(duration "$video")]"
+        status "++ {green}$video [$(duration "$video")]"
         [ -n "${DRY_RUN:-}" ] && continue
 
         # preserve existing captions

@@ -37,7 +37,7 @@ function capture_thumbnail {
     local minutes=$((index / 60))
     local seconds=$((index % 60))
 
-    status "== {bold}{green}$image"
+    status "++ {green}$image"
     if [ -z "${DRY_RUN:-}" ]; then
         ffmpeg \
             -y \

@@ -8,7 +8,7 @@ mapfile -t captures < \
 for capture in "${captures[@]}"; do
     file="$(basename "$capture")"
     escaped="$(echo "$capture" | sed -e 's/ /\\ /g')"
-    status "== {bold}{green}$file"
+    status "++ {green}$file"
     if [ -z "${DRY_RUN:-}" ]; then
         rsync \
             --inplace \

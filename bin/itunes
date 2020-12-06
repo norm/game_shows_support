@@ -38,7 +38,7 @@ function find_videos_between {
                     && continue
 
             duration="$(duration "$video")"
-            status "== {green}$itunes_video [$duration]"
+            status "++ {green}$itunes_video [$duration]"
             [ -n "${DRY_RUN:-}" ] && continue
 
             chapters_as_ffmetadata "$txt" $duration > "$ffmd"
@@ -98,7 +98,7 @@ function have_file {
     local must_have="$1"
 
     if [ ! -f "$must_have" ]; then
-        status "{magenta}   $must_have missing"
+        status "** {bold}{magenta}$must_have missing"
         return 1
     fi
 }

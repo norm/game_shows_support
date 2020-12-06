@@ -14,7 +14,7 @@ for text in audio/*txt; do
     [ "$(stamp $text)" -gt "$(stamp $mp3)" ] && generate=1
 
     if [ $generate -eq 1 ]; then
-        status "== {bold}{green}$mp3"
+        status "++ {green}$mp3"
         [ -n "${DRY_RUN:-}" ] && continue
 
         # strip comments

@@ -14,7 +14,7 @@ for mkv in raw/*mkv; do
     notes="$( echo "$mkv" | sed -e 's/^raw/footage/' -e 's/.mkv/.txt/')"
 
     if [ ! -f "$mp4" ]; then
-        status "== {bold}{green}$mp4 [$(duration "$mkv")]"
+        status "++ {green}$mp4 [$(duration "$mkv")]"
         [ -n "${DRY_RUN:-}" ] && continue
 
         # convert to mp4, boosting the volume
