@@ -1,0 +1,97 @@
+Episode: ideal length 50 mins, max ~ 1h 20m
+
+Opening credits
+    20s with 2s fade out
+    1s silence
+
+Recap
+    some audio only before video fade in
+    2s fade in
+    2s fade out
+    1s black after
+
+
+
+End map and card
+
+- fade out video for min. 2s
+- min. 2s black
+
+- map fade in 2s
+- map move 2s
+- map display
+  - min 10s for animated travel line
+      - mask paint soft edge 0.005, bg #e4de81
+      - mask paint soft edge 0.01, bg black
+  - text is Oita, 0.025, black outline 0.02, shadow
+  - min 5s for place was here 
+  - 2s for moving the map
+- map fade 2s
+
+- 2s black
+
+- end card clip, 24s total:
+  * 3s fade in
+  * 1s fade out
+
+
+End datapoint 
+
+- minimum 4s recap of where found
+- 20 frames cross dissolve
+- start menu noise at same point as cross dissolve
+- audio starts 1s from footage start
+
+
+New machine overlay
+
+- slice to create a new 4s segment
+- retime controls, and at 2s in freeze frame
+- at 3s start overlay, 1s fade in
+- start menu audio 10 frames before overlay
+- overlay opacity=90, transform x=-630, crop left=720
+- fade and cut actual audio at 3s, both ends
+
+
+Skills overlay
+
+opacity:     80%
+crop left:   1350
+crop right:  75
+crop top:    240
+crop bottom: 340
+
+
+Machine notebook overlay
+
+opacity:        80%
+crop left:      720
+transform left: -630
+
+
+Animal figurine overlay
+
+opacity:        80%
+crop:
+  left:         1235
+  right:        80
+  top:          150
+transform:
+  x:            -1100
+  y:            100
+fade:
+  in and out (15s) with the bottom-right notification
+
+
+Map zooms
+
+02:  @ 9.5    x -1965   y 3150
+03:  @ 9.0    x -1800   y 3250
+04:  @ 10.0   x -1900   y 4200
+05:  @ 8.5    x -1650   y 2850
+06:  @ 6.5    x -1500   y 1650
+07:  @ 4.0    x -909    y 698
+08:  @ 9.0    x -3333   y 300
+09:  @ 9.0    x -2450   y 620
+10:  @                    
+11:  @                    
