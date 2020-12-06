@@ -1,0 +1,19 @@
+#!/usr/bin/env bash -euo pipefail
+#
+# Clean the raw footage from the capture laptop.
+
+mapfile -t captures < \
+    <( ssh ${CAPTURE_HOST} ls ${CAPTURE_DIR}/\*mkv 2>/dev/null )
+
+for capture in "${captures[@]}"; do
+    file="$(basename "$capture")"
+    if [ -f "$BACKUP_DIR/Game Shows/$GAME_SHOW_NAME/raw/$file" ]; then
+        status -- "-- {cyan}$file removed"
+        if [ -z "${DRY_RUN:-}" ]; then
+            ssh ${CAPTURE_HOST} "rm '$capture'"
+            rm "raw/$file"
+        fi
+    else
+        status "** {magenta}{bold}$file not removed; not in local backup"
+    fi
+done

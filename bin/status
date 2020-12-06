@@ -46,7 +46,7 @@ elapsed=''
 newline="\\n"
 while getopts "ce:nst-" option; do
     case $option in
-        -)  shift ;;
+        -)  break ;;
         c)  clear=1 ;;
         e)  seconds=$((OPTARG % 60))
             minutes=$((OPTARG / 60 % 60))
@@ -86,4 +86,4 @@ text=$(
 )
 
 [ $clear = 1 ] && printf "%-$((columns - 1))s\r" ""
-printf "$prefix$elapsed$text$newline"
+printf -- "$prefix$elapsed$text$newline"
