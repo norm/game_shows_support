@@ -1,0 +1,12 @@
+02:40 machine notebooks:
+    - watcher
+    - strider
+    - grazer 
+    - scrapper
+    - sawtooth
+    - fire bellowback
+    - tallneck
+    - corruptor
+
+07:29 menu sfx
+09:24 menu music

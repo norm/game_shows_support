@@ -1,0 +1,36 @@
+00:02:30 Start of game
+00:08:10 Logo/new game screen
+00:13:06 Game starts
+00:34:50 Leave cave
+00:59:08 End of part one / start of part two
+01:01:58 First save point / walk to rost with pause to look around
+01:03:20 Conversation with rost (music on), brain flashpoint
+01:06:40 Zipline with pause to look around (music on)
+01:09:29 Campfire to find rost (music off)
+01:11:30 Campfire to find rost (music off, good take)
+01:12:00 Conversation with Rost (music off), brain flashpoint
+01:14:45 Zipline statement (music off), pause to look around
+01:16:30 "The embrace..." (music off, movement sounds)
+01:18:15 Conversation with rost (music off), heart flashpoint
+01:19:37 Conversation with rost (music off), fist flashpoint
+01:21:40 "The embrace..." (music off, movement off)
+01:27:20 Set Odd Grata as quest
+01:31:50 Set Odd Grata as quest, zipline statement with music, pause to look around
+01:36:00 Set Odd Grata as quest, zipline statement without music, pause to look around
+01:39:30 Set Odd Grata as quest, shorter zipline statement without music, no pause
+01:42:40 Leave campfire towards Odd Grata
+01:44:00 Approach Odd Grata
+01:58:05 Leave Odd Grata, hunt, get beads, get Strider parts
+02:16:30 Trade with Karst for Tripcaster, music on
+02:20:25 Set Tripcaster tutorial quest
+02:26:35 Bring rabbits to Odd Grata
+02:28:53 Leave Odd Grata
+02:29:35 Craft fire arrows
+02:30:20 Hear Olara
+02:32:00 Approach Rost, conversation with music
+02:38:40 Approach Rost, conversation without music
+02:45:30 Fight Sawtooth without music
+02:49:30 Loot Sawtooth, conversation with Rost without music
+02:51:20 Rost conversation "Last day in the embrace" without music
+02:52:36 LIBRARY skills menu sfx without music 
+02:52:50 New main quest mother's heart, save at fireplace

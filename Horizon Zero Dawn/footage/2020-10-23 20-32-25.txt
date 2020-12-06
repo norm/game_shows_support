@@ -1,0 +1,8 @@
+0:00:10 Thunderjaw north of Lone Light patrolling
+0:01:00 Sawtooth hoves into view
+0:01:38 Aloy overrides Sawtooth, attacks other Sawtooth and Lancehorns
+0:05:00 Aloy overrides Sawtooth again, tries to start things with Thunderjaw
+0:06:52 Aloy in grass, Thunderjaw walks by
+0:07:56 Aloy in closer grass, Thunderjaw walks over her, biffs her with foot,
+        starts fighting
+0:09:20 [death by Sawtooth]

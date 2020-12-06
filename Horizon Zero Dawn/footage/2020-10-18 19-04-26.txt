@@ -1,0 +1,60 @@
+0:00:40 from save point to Hunters Lodge
+0:03:00 (again)
+0:05:16 ravager notebook entry
+0:06:15 from save point, stop at merchant, upgrade weapons with coils,
+        to Hunters Lodge
+0:15:05 [voice] conversation with Ligan
+0:17:48 [voice] wander around Lodge
+0:19:14 [voice] conversation with Ahsis
+0:20:32 [voice] conversation with Talanah
+0:25:00 [voice] back to Ligan
+0:25:11 [voice] second conversation with Ligan
+0:29:50 [sfx] from save point to Hunters Lodge
+0:32:.. [sfx] from save point to Hunters Lodge
+              talk to Ahsis
+              talk to Talanah
+              to Ligan
+0:40:27 [sfx] talk to Ligan
+0:43:15 [sfx] walk to Palace
+0:44:.. [sfx+voice] still walking to Palace
+0:45:20 [sfx+voice] conversation with Erend, Avad, Marad
+0:47:12 [sfx+voice] first conversation with Avad, heart choice
+0:48:10 [sfx+voice] from Palace to warehouse
+0:49:50 [sfx+voice] break into warehouse (bad take)
+0:51:30 [sfx+voice] push blaze cutscene
+0:52:44 [sfx+voice] follow blaze trail
+0:55:40 [sfx+voice] see dervahl cutscene
+0:55:58 [sfx+voice] follow dervahl
+0:58:12 [sfx+voice] no bomb cutscene
+0:59:07 [sfx+voice] fight dervahl
+1:00:38 [sfx+voice] calls glinthawks cutscene
+1:01:10 [sfx+voice] fight glinthawks
+1:05:26 [sfx+voice] dervahl captured cutscene
+1:06:38 [sfx+voice] talk to Avad, aggressive choice, talk to Erend
+1:11:17 [sfx+voice] walk from Erend, unusable, went wrong way
+1:22:40 [sfx+voice] save point to merchant, sell, add weapon coils, 
+                    to Hunters Lodge, quick run through,
+                    to palace, conversation
+1:36:50 [sfx+voice] conversation with Avad, brain choice
+1:37:46 [sfx+voice] palace to warehouse
+1:39:18 [sfx+voice] break into warehouse (bad take)
+1:42:06 [sfx+voice] follow blaze trail
+1:48:13 [sfx+voice] fight dervahl
+1:49:00 [death]
+1:50:20 [death]
+1:50:45 [sfx+voice] fight, dervahl collapses in the right spot
+1:51:46 [sfx+voice] fight glinthawks, good fight
+1:57:00 [sfx+voice] dervahl captured cutscene
+1:58:32 [sfx+voice] talk to Avad, brain choice
+2:02:30 [sfx+voice] talk to Erend
+2:05:07 [sfx+voice] leave Meridian
+2:11:40 [sfx+voice] talk to Avad after fight, heart choice
+2:13:40 [sfx+voice] talk to Avad after fight, aggressive choice
+2:19:38 [sfx+voice] first conversation with Avad, aggressive choice
+2:21:10 [sfx+voice] first conversation with Avad, brain choice
+2:22:24 [sfx+voice] first conversation with Avad, heart choice
+2:27:30 [sfx+voice] break into warehouse 
+2:30:01 [voice] break into warehouse 
+2:33:20 [sfx] break into warehouse
+2:36:40 [music] full run through
+2:52:50 [death]

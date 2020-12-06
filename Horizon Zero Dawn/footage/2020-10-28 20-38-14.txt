@@ -1,0 +1,9 @@
+0:00:18 learn skill sfx
+0:00:28 equip weapon sfx
+0:11:06 from Xi to Meridian Village, Fernund
+0:31:33 from Meridian Village going north
+0:43:40 Shattered Kiln bandit camp and Nil
+0:56:05 back to Nil
+1:01:42 [save]
+        [music] Shattered Kiln
+1:12:46 Shattered Kiln to Maker's End (rejected)

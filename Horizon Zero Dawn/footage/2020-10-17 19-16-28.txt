@@ -1,0 +1,13 @@
+0:00:00 - [voice] Sun-Steps Tallneck 
+0:12:35 - [sfx, music] Sun-Steps Tallneck
+0:27:40 - leave Tallneck area, towards Brin
+0:37:04 - find Brin's homestead
+0:38:24 - talk to Brin
+0:43:55 - leave Brin for Sawtooth blood
+0:51:10 - deliver Sawtooth blood
+          (3 failed attempts to get Corruptor blood)
+1:07:15 - leave Brin for Corruptor blood
+1:26:30 - deliver Corruptor blood
+1:31:21 - save after Brin
+          (some aborted, one successful attempt to get to Pitchcliff 
+          without "seeing" a Rockbreaker)

@@ -1,0 +1,22 @@
+00:00:00 Sun-Ring, song of the evening, wide shot
+00:07:43 Conversation with Namman and grievers
+00:14:33 Leave Namman, explore Meridian
+00:20:55 Conversation with Studious Palas (mug collector)
+00:23:37 Exchange with merchant
+00:xx:xx Continue to explore Meridian
+00:33:40 [Into the Borderlands] Conversation with Blameless Marad, Avad, Erend (sfx + voice)
+00:48:02 Leave Sun Palace & Meridian
+00:51:30 [Into the Borderlands] Initial conversation with Blameless Marad (voice)
+00:53:30 [Into the Borderlands] Initial conversation with Blameless Marad (sfx)
+00:55:40 (music) Meridian wandering
+00:55:40 (music) Meridian wandering
+00:59:54 (music) [Into the Borderlands] Conversation with Blameless Marad, Avad, Erend
+01:13:50 {end card} Snapmaw footage
+01:33:10 {sfx} Drop item from inventory
+01:33:35 {datapoint} Reiker Building
+01:33:58 {datapoint} Founding of Meridian
+01:34:30 {datapoint} The Claim
+01:34:56 {datapoint} Bylaws of the Lodge
+01:35:26 {datapoint} Record of Redmaw 1
+01:35:58 {datapoint} Olin's Journal
+01:36:17 {datapoint} The Derangement
