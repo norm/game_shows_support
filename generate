@@ -45,6 +45,8 @@ function backup_to_s3 {
     aws s3 sync \
         $dryrun \
         --exclude old\* \
+        --exclude Game\ Shows/\*/raw/\* \
+        --exclude Game\ Shows/\*/useless/\* \
         --exclude Game\ Shows/.git\* \
         --exclude resolve-backups\* \
             . \
