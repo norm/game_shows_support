@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox='0 0 600 600'>
+
+<defs>
+  <radialGradient id='throw-shade'>
+    <stop offset='0%' stop-color='rgba(0,0,0,0.5)' />
+    <stop offset='100%' stop-color='rgba(0,0,0,0)' />
+  </radialGradient>
+</defs>
+<circle
+  cx='300' cy='300' r='300'
+  fill="url(#throw-shade)"
+/>
+
+<g transform='translate(200,-50) rotate(45)'>
+  <rect
+    x='240'
+    y='100'
+    width='155'
+    height='155'
+    stroke='white'
+    stroke-width='40'
+    fill='none'
+  />
+  <rect
+    x='215'
+    y='75'
+    width='205'
+    height='205'
+    stroke='black'
+    stroke-width='10'
+    fill='none'
+  />
+  <rect
+    x='265'
+    y='125'
+    width='105'
+    height='105'
+    stroke='black'
+    stroke-width='10'
+    fill='none'
+  />
+</g>
+</svg>

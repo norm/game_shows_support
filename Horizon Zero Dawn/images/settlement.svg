@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox='0 0 400 400'>
+<style>
+  path {
+    fill: white;
+    opacity: 1;
+    stroke-linejoin: round;
+    stroke-width: 10;
+    stroke: white;
+  }
+  line {
+    stroke-width: 4;
+    stroke: #999;
+  }
+  line.a {
+    stroke: purple;
+  }
+</style>
+
+<defs>
+  <radialGradient id='throw-shade'>
+    <stop offset='0%' stop-color='rgba(0,0,0,1)' />
+    <!--<stop offset='25%' stop-color='rgba(0,0,0,0.75)' />-->
+    <stop offset='100%' stop-color='rgba(0,0,0,0)' />
+  </radialGradient>
+</defs>
+
+<circle
+  cx='200' cy='200' r='200'
+  fill="url(#throw-shade)"
+/>
+
+<path
+  d='M150,90 l0,55 l35,0 l0,-55 z'
+/>
+<path
+  d='M215,90 l0,55 l35,0 l0,-55 z'
+/>
+<path
+  d='M200,35 l-65,65 l130,0 z'
+/>
+<line x1='145' y1='107' x2='190' y2='107' />
+<line x1='210' y1='107' x2='255' y2='107' />
+
+<path
+  d='M45,205 l0,45 l35,0 l0,-45 z'
+/>
+<path
+  d='M110,205 l0,45 l35,0 l0,-45 z'
+/>
+<path
+  d='M95,135 l-65,65 l130,0 z'
+/>
+<line x1='40' y1='207' x2='85' y2='207' />
+<line x1='105' y1='207' x2='150' y2='207' />
+
+<path
+  d='M150,305 l0,55 l35,0 l0,-55 z'
+/>
+<path
+  d='M215,305 l0,55 l35,0 l0,-55 z'
+/>
+<path
+  d='M200,245 l-65,65 l130,0 z'
+/>
+<line x1='145' y1='317' x2='190' y2='317' />
+<line x1='210' y1='317' x2='255' y2='317' />
+
+<path
+  d='M255,205 l0,45 l35,0 l0,-45 z'
+/>
+<path
+  d='M320,205 l0,45 l35,0 l0,-45 z'
+/>
+<path
+  d='M305,135 l-65,65 l130,0 z'
+/>
+<line x1='250' y1='207' x2='295' y2='207' />
+<line x1='315' y1='207' x2='360' y2='207' />
+
+
+</svg>
