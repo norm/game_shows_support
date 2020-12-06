@@ -11,6 +11,8 @@
 #     -e <seconds>
 #         prefix the line with "elapsed" time, formatted from the <seconds>
 #         argument given, eg "30s", "1m08s", "1h12m44s "
+#     -l
+#         print a newline before the status text
 #     -n
 #         no newline after the text
 #     -s
@@ -44,7 +46,7 @@ clear=0
 prefix=''
 elapsed=''
 newline="\\n"
-while getopts "ce:nst-" option; do
+while getopts "ce:lnst-" option; do
     case $option in
         -)  break ;;
         c)  clear=1 ;;
@@ -64,6 +66,7 @@ while getopts "ce:nst-" option; do
                     $days $hours $minutes $seconds
                 )
             ;;
+        l)  prefix="\\n" ;;
         n)  newline='' ;;
         s)  prefix="[$(date +%H:%M:%S)] " ;;
         t)  newline="\\r" ;;

@@ -23,8 +23,6 @@ EOF
 }
 
 function backup_to_local_disk {
-    status "== {magenta}backup to local disk"
-
     find . -name .DS_Store -exec rm {} \;
 
     dryrun=''
@@ -39,8 +37,6 @@ function backup_to_local_disk {
 }
 
 function backup_to_s3 {
-    status "== {magenta}backup to S3"
-
     pushd "$BACKUP_DIR" >/dev/null
 
     dryrun=''
@@ -107,6 +103,31 @@ case "${1:-all}" in
 
     s3_backup)
         backup_to_s3
+        ;;
+
+    all)
+        pushd "$show" >/dev/null
+        status "== {bold}{yellow}raw"
+        raw
+        status -l "== {bold}{yellow}footage"
+        footage
+        status -l "== {bold}{yellow}audio"
+        audio
+        status -l "== {bold}{yellow}captions"
+        captions
+        status -l "== {bold}{yellow}itunes"
+        itunes
+        popd >/dev/null
+
+        status -l "== {bold}{yellow}local_backup"
+        backup_to_local_disk
+        status -l "== {bold}{yellow}s3_backup"
+        backup_to_s3
+
+        pushd "$show" >/dev/null
+        status -l "== {bold}{yellow}clean"
+        clean
+        popd >/dev/null
         ;;
 
     *)
