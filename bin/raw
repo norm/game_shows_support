@@ -1,12 +1,20 @@
-#!/bin/bash -euo pipefail
+#!/usr/bin/env bash -euo pipefail
 #
 # Collect the raw footage from the capture laptop.
 
-if [ "$(ssh ${CAPTURE_HOST} echo ${CAPTURE_DIR}/\*mkv)" != "Movies/*mkv" ]; then
-    status "== {bold}{green}Fetch new videos"
-    [ -z "${DRY_RUN:-}" ] \
-        && rsync -avP --inplace ${CAPTURE_HOST}:${CAPTURE_DIR}/\*mkv raw \
-        || true
-else
-    status "== No new videos"
-fi
+mapfile -t captures < \
+    <( ssh ${CAPTURE_HOST} ls ${CAPTURE_DIR}/\*mkv 2>/dev/null )
+
+for capture in "${captures[@]}"; do
+    file="$(basename "$capture")"
+    escaped="$(echo "$capture" | sed -e 's/ /\\ /g')"
+    status "== {bold}{green}$file"
+    if [ -z "${DRY_RUN:-}" ]; then
+        rsync \
+            --inplace \
+            --partial \
+            --info=progress \
+                "${CAPTURE_HOST}:$escaped" \
+                raw
+    fi
+done
