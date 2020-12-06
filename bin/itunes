@@ -6,12 +6,6 @@ function main {
 
     # behind the scenes
     find_videos_between 101 199
-
-    if [ -z "${DRY_RUN:-}" ]; then
-        status "== {yellow}{bold}installing"
-        rsync -avP *m4v "$TV_HOST:$TV_LOCATION"
-        ssh $TV_HOST "media-itunes-add $TV_LOCATION/*m4v"
-    fi
 }
 
 function find_videos_between {
@@ -84,6 +78,18 @@ function find_videos_between {
 
             rm "$srt" "$ffmd"
             status -ct ''
+
+            status -t "Copying to $TV_HOST"
+            rsync \
+                --inplace \
+                --partial \
+                --info=progress \
+                    "$itunes_video" \
+                    "$TV_HOST:$TV_LOCATION"
+
+            status -t "Adding to iTunes"
+            escaped="$(echo "$itunes_video" | sed -e 's/ /\\ /')"
+            ssh $TV_HOST "media-itunes-add $TV_LOCATION/$escaped"
         done
     done
 }
