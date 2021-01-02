@@ -1,0 +1,16 @@
+<speak>
+  <p><emphasis>Fireclaw.</emphasis></p>
+  <p>Strong against fire, weakness to freeze.</p>
+
+  <p><emphasis>Fire sack.</emphasis></p>
+  <p>
+    Destroying this component disables the Fire attack of the claws.
+  </p>
+
+  <p><emphasis>Fire unit.</emphasis></p>
+  <p>
+    Destroying this component disables all Fire based attacks other than claws.
+  </p>
+
+  <p><emphasis>Power cell.</emphasis></p>
+</speak>
