@@ -1,21 +1,22 @@
 <speak>
 
-Incident Information Report: Firebreak Project
-Type: Property damage and personal injury
-Date of Incident: November 4, 2063
-Time of Incident: 04:11
-Reporter: Jørgen Holm
+Incident Information Report, Firebreak Project,
+Type, Property damage and personal injury,
+Date of Incident, November 4, 2063,
+Time of Incident, 04:11,
+Reporter, Jørgen Holm.
 
 As Official Incident Reporter for the Firebreak project, it is with great
 concern that I report of an incident at our facility.
 
 Incident began from a swarm of 35 seismic events beginning on 3rd and 4th of
-November, ~9.6 km (6 miles) NNW of Mammoth, WY. Included were four in the
-magnitude of 2 range, with the largest (magnitude 2.4) at 04:09 the 4th
+November, about 9.6 km (6 miles) north north west of Mammoth, WY.
+Included were four in the
+magnitude 2 range, with the largest (magnitude 2.4) at 04:09 the 4th
 November. Holographic modeling shows most quakes originating at the Hebgen
 Lake fault zone.
 
-As the project’s Senior Geoscientist, I advise this number and magnitude
+As the project’s Senior Geoscientist, I advise this number and magnitude in
 seismic events is a normal outcome from fluid movement through the caldera’s
 silicic magma reservoir, as well as changes of pressure coming in interactions
 between magma and super-cooled fluid. However, one can be never too careful in
@@ -28,7 +29,7 @@ feared the worst.
 
 Inspection of the zone showed the tragic loss of a 15 mL bottle of nail
 lacquer in deep crimson, shattered on the canteen floor. Lacquer also splashed
-on the surroundings at an area of approximately 1e6 m2. One chair was tipped
+on the surroundings at an area of approximately 1e6 metres squared. One chair was tipped
 over on its side, but happily I had the mechanical knowledge to right it
 without further incident. The bottle of nail lacquer is irreparable. Moreover,
 the Canteen Monitor suffered a cut to the left hand when picking up broken
