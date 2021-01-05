@@ -1,10 +1,10 @@
-0:00:22.089,0:00:23.890
-Sounds like you need a new chieftain.
+0:00:22.089,0:00:23.503
+ALOY: Sounds like you need a new chieftain.
 
-0:00:24.269,0:00:26.760
-Ha! There's an idea that's certain to win us friends.
+0:00:23.503,0:00:26.760
+OUREA:  Ha! There's an idea that's certain to win us friends.
 
-0:00:29.500,0:00:31.480
+0:00:27.488,0:00:31.480
 Hmm, you said you were a hunter.
 
 0:00:32.270,0:00:34.450
@@ -26,10 +26,10 @@ much less a bunch of Banuk that don't want me.
 0:00:53.200,0:00:56.009
 But you want to go to Thunder's Drum don't you?
 
-0:00:56.399,0:00:57.950
+0:00:56.399,0:01:01.741
 You heard the spirit, she's suffering, tormented by the Daemon.
 
-0:00:59.530,0:01:03.750
+0:01:01.741,0:01:03.750
 She longs to be free.
 
 0:01:04.540,0:01:10.759
@@ -42,21 +42,24 @@ I can't believe I'm agreeing to this.
 0:01:14.640,0:01:15.719
 Fine!
 
-0:01:32.239,0:01:35.049
+0:01:32.239,0:01:35.242
 BANUK: Look at what Ohlgrud did to this place.
+
+0:01:39.807,0:01:40.619
 BANUK: Hello.
 
-0:02:13.379,0:02:16.169
+0:02:10.826,0:02:16.169
 BANUK: I have no interest in the frozen Tallneck.
 Living machines are what's important to the hunt.
 
 0:03:33.590,0:03:38.250
-BANUK: Is there no end to the horrors the Daemon is willing to commit against us?
+BANUK: Is there no end to the horrors
+the Daemon is willing to commit against us?
 
 0:04:03.210,0:04:04.509
 These will keep.
 
-0:04:31.829,0:04:33.338
+0:04:31.055,0:04:33.338
 Cold, very cold, I get it!
 
 0:05:50.930,0:05:52.670
@@ -68,7 +71,7 @@ Save these for the trail.
 0:10:24.100,0:10:26.850
 A fistful of bluegleam's worth braving the cold.
 
-0:11:31.340,0:11:33.850
+0:11:28.826,0:11:33.850
 BANUK: The White Teeth have come to The Cut.
 Not every day you see one of the great weraks.
 
@@ -78,7 +81,7 @@ BANUK: The longer you sit, the darker the colours end up being.
 0:11:56.940,0:11:58.850
 This really catches the eye.
 
-0:12:16.039,0:12:17.669
+0:12:16.039,0:12:22.582
 BANUK: It's odd to see new machines in The Cut,
 but we mustn't let them frighten us. We're Banuk.
 
@@ -86,49 +89,46 @@ but we mustn't let them frighten us. We're Banuk.
 ALOY: Is this what you…
 KAMUT: Hush, hush!
 
-0:12:25.169,0:12:25.778
+0:12:25.169,0:12:28.134
 A Shaman's secrets are not spoken aloud.
 
-0:12:28.789,0:12:30.569
+0:12:28.134,0:12:30.569
 Is this what you wanted me to find?
 
-0:12:30.570,0:12:32.048
+0:12:30.570,0:12:35.379
 Bind it to your spear, use it to attach this for now.
 
-0:12:35.379,0:12:36.288
+0:12:35.379,0:12:36.909
 You'll find more, I'm sure.
 
 0:12:36.909,0:12:38.668
 Why are you helping me?
 
-0:12:38.669,0:12:40.329
+0:12:38.669,0:12:42.737
 The blue light is fading, the machine songs are ending, and…
 
-0:12:42.350,0:12:44.408
-And what does the Conclave do?
+0:12:42.737,0:12:47.834
+And what does the Conclave do? They sit, they chant, they observe.
 
-0:12:44.409,0:12:46.199
-The sit, they chant, they observe.
-
-0:12:46.200,0:12:48.939
+0:12:47.834,0:12:50.039
 No more! We must fight for it.
 
-0:12:50.039,0:12:51.049
+0:12:50.039,0:12:53.900
 And you? You are a fighter, we share a cause.
 
-0:12:51.149,0:12:56.139
+0:12:53.900,0:12:56.139
 I'm not sure we do.
 
 0:12:56.139,0:13:00.239
 I'm not even sure what the cause is, but I'm grateful.
 
-0:13:00.240,0:13:01.788
+0:13:00.240,0:13:03.435
 No need for thanks, only action.
 
 0:13:03.679,0:13:06.570
 Now I can attach modification parts to my spear.
 
-0:13:06.639,0:13:07.850
+0:13:06.639,0:13:10.558
 Works for me. Might as well get started improving my spear.
 
 0:14:07.720,0:14:10.389
@@ -146,84 +146,100 @@ Ah, there she is!
 0:15:16.409,0:15:18.558
 There's my other set of hands.
 
-0:15:18.559,0:15:19.639
+0:15:18.559,0:15:20.000
 How's your metal cooling, hmm?
 
-0:15:19.639,0:15:23.349
+0:15:20.000,0:15:24.634
 My, uh, metal is cooling pretty well Gildun, and yours?
 
-0:15:24.799,0:15:26.439
+0:15:24.634,0:15:27.135
 Ah, you know, nothing comes out of the forge perfect.
 
-0:15:27.679,0:15:29.019
+0:15:27.679,0:15:32.389
 Come, sit, I've got an old delving story that'll turn that red hair white.
 
-0:15:32.389,0:15:34.528
+0:15:32.389,0:15:34.867
 Hold that thought, Gildun. Another time, okay?
 
-0:15:34.529,0:15:36.250
+0:15:34.867,0:15:36.300
 Anytime you like.
 
-0:15:42.340,0:15:44.359
+0:15:39.590,0:15:42.373
 SHAMAN: We remember Banukai.
-SHAMAN: When the Old Ones were fresh in their graves and our numbers were still small, it was she who led us through the frozen wastes.
 
-0:15:51.870,0:16:07.798
-We also remember the Ravenous Tribe who delighted in sucking the marrow from our broken bones.
-Everywhere Banukai and her werak fled, the Ravenous Tribe were never far behind.
-Seeking a way to defeat them, Banukai went into the wastes and let the wind whip her cheeks. 
+0:15:42.373,0:15:51.870
+SHAMAN: When the Old Ones were fresh in their graves and our numbers
+were still small, it was she who led us through the frozen wastes.
 
-0:16:08.269,0:16:15.549
+0:15:51.870,0:15:58.959
+We also remember the Ravenous Tribe
+who delighted in sucking the marrow from our broken bones.
+
+0:15:58.959,0:16:06.281
+Everywhere Banukai and her werak fled,
+the Ravenous Tribe were never far behind.
+
+0:16:06.281,0:16:11.589
+Seeking a way to defeat them, Banukai went into the wastes
+and let the wind whip her cheeks.
+
+0:16:11.589,0:16:15.549
 And when the cold brought sleep she dreamt of light.
 
-0:16:15.720,0:16:17.579
+0:16:15.720,0:16:20.639
 She saw it behind the world, a great calming sheet of icy blue.
 
 0:16:20.639,0:16:22.529
 And she saw something new.
 
 0:16:22.639,0:16:26.799
-Herds of machines each filled with the same blue light.
+Herds of machines, each filled with the same blue light.
 
 0:16:27.210,0:16:30.839
 When she woke, she knew which star to follow.
 
-0:16:30.840,0:16:38.249
-She walked for many days and nights until she arrived at a temple built from sparkling ice.
-At the gates of the temple she was met by the machines from her dream.
-Who bowed to her as she entered.
+0:16:30.840,0:16:36.674
+She walked for many days and nights
+until she arrived at a temple built from sparkling ice.
 
-0:16:43.639,0:16:44.759
-Inside Banukai discovered the blue light bubbling from a hole in the snowy earth like a spring.
+0:16:36.674,0:16:43.639
+At the gates of the temple she was met by the machines
+from her dream, who bowed to her as she entered.
+
+0:16:43.639,0:16:50.409
+Inside Banukai discovered the blue light
+bubbling from a hole in the snowy earth like a spring.
 
 0:16:50.409,0:16:52.779
 "You bid me come," she said.
 
-0:16:53.429,0:16:55.259
+0:16:53.429,0:16:57.190
 "My people need aid. Will you provide it?"
 
-0:16:57.190,0:16:58.918
+0:16:57.190,0:17:07.289
 The machines whispered to Banukai,
 "we go where the light goes for we are its chosen vessels."
 
-0:17:07.289,0:17:09.269
+0:17:07.289,0:17:13.230
 "There is darkness in your heart, it cannot hold the light for long."
 
-0:17:13.230,0:17:15.970
+0:17:13.230,0:17:18.819
 "Carry it to your people if you must, but the cost will be great."
 
-0:17:18.819,0:17:26.579
+0:17:18.819,0:17:21.570
 Banukai waded into the pool.
-The light reared like a nest of snakes and struck Banukai, piercing her skin,
-filling her up.
 
-0:17:30.309,0:17:35.679
+0:17:21.570,0:17:29.751
+The light reared like a nest of snakes and struck Banukai,
+piercing her skin, filling her up.
+
+0:17:29.751,0:17:35.216
 Banukai did not scream, though she was in agony.
 
-0:17:35.680,0:17:37.660
+0:17:35.216,0:17:40.000
 Banukai did not collapse, though her limbs shook.
 
-0:17:37.740,0:17:43.469
+0:17:40.000,0:17:43.469
 She climbed from the pool and carried the light inside her.
 
 0:17:43.470,0:17:47.409
@@ -234,14 +250,16 @@ As she walked, the light struggled to push its way out of her,
 but the machines were there to aid her.
 
 0:17:53.309,0:18:01.588
-She sewed her body shut with their cables, patched herself with their metal,
-and kept the light within.
+She sewed her body shut with their cables,
+patched herself with their metal, and kept the light within.
 
-0:18:01.589,0:18:07.949
+0:18:01.589,0:18:05.220
 When she arrived the forces of the Ravenous Tribe had surrounded the camp.
+
+0:18:05.220,0:18:10.000
 Although the light had left her with a thousand wounds, Banukai charged.
 
-0:18:07.950,0:18:13.159
+0:18:10.000,0:18:13.159
 And because she held the light, the machines followed.
 
 0:18:13.160,0:18:18.038
@@ -251,37 +269,42 @@ The Ravenous Tribe killed many, but those in camp rushed to join the battle.
 They gathered pieces of the fallen machines and from them fashioned weapons.
 
 0:18:22.730,0:18:29.130
-And it was with these that Banukai's people repaid the suffering the Ravenous Tribe had brought upon them.
+And it was with these that Banukai's people
+repaid the suffering the Ravenous Tribe had brought upon them.
 
-0:18:29.440,0:18:31.339
+0:18:29.440,0:18:34.124
 When quiet descended, Banukai finally fell.
 
-0:18:35.710,0:18:38.779
+0:18:35.710,0:18:39.490
 The machines bowed their heads and the werak wept.
 
-0:18:39.490,0:18:41.910
+0:18:39.490,0:18:43.929
 The light she'd held within her drifted from her wounds and rose to the sky.
 
-0:18:44.200,0:18:45.660
-And for just a moment, before life left her, Banukai knew the truth of the blue light.
+0:18:43.929,0:18:52.661
+And for just a moment, before life left her,
+Banukai knew the truth of the blue light.
 
-0:18:54.539,0:18:56.049
+0:18:54.539,0:18:56.242
 And she felt peace.
 
-0:18:57.539,0:18:58.669
+0:18:57.539,0:19:00.000
 We remember Banukai.
 
-0:18:58.670,0:19:05.798
-The first to crawl from the cave beneath the world, who brought the machines to us.
+0:19:00.000,0:19:05.798
+The first to crawl from the cave beneath the world,
+who brought the machines to us.
 
-0:19:05.799,0:19:08.450
+0:19:05.799,0:19:11.583
 When we speak the name of our tribe we remember her.
 
 0:19:13.730,0:19:16.559
 And we will not forget.
 
-0:19:29.640,0:19:34.750
+0:19:29.640,0:19:32.128
 SHAMAN: We remember Banukai.
+
+0:19:32.128,0:19:38.231
 SHAMAN: When the Old Ones were fresh in their graves and our numbers were still small, it was she…
 
 0:20:21.240,0:20:23.139
@@ -290,25 +313,29 @@ SEKULI: What does the Outlander want?
 0:20:23.140,0:20:24.889
 ALOY: I'm looking for Sekuli.
 
-0:20:24.890,0:20:26.349
+0:20:24.890,0:20:29.018
 SEKULI: You found her. Come, come, let's get it over with.
 
-0:20:40.769,0:20:44.639
+0:20:40.769,0:20:42.702
 ALOY: Is this swaying or is it just me?
+
+0:20:42.702,0:20:44.639
 SEKULI: The wood bends with the wind.
 
 0:20:44.640,0:20:46.699
-Quite a view you've got up here.
+ALOY: Quite a view you've got up here.
 
 0:20:46.700,0:20:48.759
-It's a useful perspective.
+SEKULI: It's a useful perspective.
 
-0:20:48.980,0:20:57.220
-How fleeting we are in the world is so wide.
-From up here you can see how the light paints across the land, ever changing.
+0:20:48.980,0:20:52.060
+SEKULI: How fleeting we are, and the world is so wide.
 
-0:20:57.640,0:20:58.629
-That's a lesson: all our marks will pass.
+0:20:52.060,0:20:57.220
+SEKULI: From up here you can see how the light paints across the land, ever changing.
+
+0:20:57.640,0:21:00.250
+SEKULI: That's a lesson: all our marks will pass.
 
 0:21:00.250,0:21:03.489
 That outlook sounds a little depressing for a painter.
@@ -316,34 +343,41 @@ That outlook sounds a little depressing for a painter.
 0:21:03.490,0:21:05.660
 Haven't met many artists, have you?
 
-0:21:06.029,0:21:12.450
+0:21:06.029,0:21:10.442
 The Banuk rock paintings are impressive, but, um…
-You want to know what they mean.
 
-0:21:13.099,0:21:17.169
-That's not the right question, but I'll answer anyway.
+0:21:10.442,0:21:12.450
+SEKULI: You want to know what they mean.
 
-0:21:17.170,0:21:22.649
-Some are a call to the machines, the sacred shapes you see on metal casings or on a Cauldron door.
+0:21:13.099,0:21:16.800
+SEKULI: That's not the right question, but I'll answer anyway.
+
+0:21:16.800,0:21:22.649
+Some are a call to the machines,
+the sacred shapes you see on metal casings or on a Cauldron door.
 
 0:21:22.650,0:21:24.548
 Do the machines listen to the call?
 
-0:21:24.549,0:21:28.259
+0:21:24.549,0:21:25.734
 I don't know.
-Others like mine are a call to the tribe.
+
+0:21:25.734,0:21:28.259
+Others, like mine, are a call to the tribe.
 
 0:21:28.289,0:21:31.828
 You could say inspiration or prophecy.
 
-0:21:31.829,0:21:33.699
+0:21:31.829,0:21:35.500
 And sometimes even men listen if the painting is loud enough.
 
-0:21:33.700,0:21:36.788
+0:21:35.500,0:21:36.800
 Have you always been a painter?
 
-0:21:36.789,0:21:41.689
+0:21:36.800,0:21:41.189
 I've always painted, but I wasn't a painter until I was driven out of Ban-Ur.
+
+0:21:41.189,0:21:43.779
 Up there the markings are eternal.
 
 0:21:43.779,0:21:48.909
@@ -352,29 +386,31 @@ They paint over the same lines, the same colours, over and over.
 0:21:48.910,0:21:51.680
 As a child, I learned from copying them.
 
-0:21:52.069,0:21:55.939
+0:21:52.069,0:21:55.500
 As I grew, my heart sank at the familiarity.
 
-0:21:55.940,0:21:57.950
+0:21:55.500,0:21:57.950
 Song's Edge needs new stories.
 
-0:21:58.069,0:21:58.608
+0:21:58.069,0:22:02.779
 I scrubbed its past off this rock to start anew, but a new start needs new colours.
 
-0:22:02.779,0:22:06.959
+0:22:02.779,0:22:06.400
 Fresh pigments like none have seen.
+
+0:22:06.400,0:22:07.834
 Ourea said you two were friends.
 
-0:22:07.910,0:22:11.579
+0:22:07.834,0:22:11.579
 I paint about what I feel now, not the way things used to be.
 
-0:22:11.940,0:22:14.048
+0:22:11.940,0:22:14.867
 Ourea understood, most Banuk didn't.
 
-0:22:14.049,0:22:17.149
+0:22:14.867,0:22:18.774
 I would have been exiled if she hadn't had Aratak take me into their werak.
 
-0:22:18.079,0:22:20.739
+0:22:18.774,0:22:21.734
 These pigments you want, where should I look for them?
 
 0:22:21.779,0:22:27.959
@@ -385,25 +421,32 @@ crystals cling to the rocks and cliffs.
 I'll see what I can find for you.
 
 0:22:29.339,0:22:34.598
-Seek out the vibrant ones, a spring of sudden colour among snow or rock or metal.
+Seek out the vibrant ones,
+a spring of sudden colour among snow or rock or metal.
 
-0:22:34.599,0:22:35.909
+0:22:34.599,0:22:37.650
 That's its own reward. But I'd reward you as well.
 
-0:22:47.839,0:22:51.209
-These are perfect, and like all perfect things.
+0:22:47.839,0:22:54.383
+These are perfect, and like all perfect things,
 they must be watered down or ground into a paste.
+
+0:22:54.383,0:22:56.130
 Way of the world.
 
-0:22:56.289,0:23:02.990
+0:22:56.130,0:22:57.170
 I'll see you again.
+
+0:22:57.170,0:23:00.806
 If you do find any pigments out there, don't put them on your tongue.
+
+0:23:00.806,0:23:02.990
 I'm not even going to ask.
 
-0:23:13.890,0:23:15.318
+0:23:13.890,0:23:16.440
 I'll bet my name's all over Song's Edge.
 
-0:23:15.319,0:23:18.509
+0:23:16.440,0:23:18.509
 Might be time to challenge Aratak.
 
 0:24:18.710,0:24:22.269
@@ -412,51 +455,56 @@ My people have been telling tales of your accomplishments.
 0:24:23.769,0:24:28.660
 Seems you have taken a special interest in our stretch of snow, outlander.
 
-0:24:29.440,0:24:30.440
+0:24:29.440,0:24:34.231
 Yes, and apparently this is the only way I'll get to see all of it.
 
 0:24:36.200,0:24:37.950
 Is this a challenge?
 
-0:24:39.220,0:24:41.450
+0:24:38.988,0:24:40.251
 For the werak.
 
-0:24:42.440,0:24:43.639
+0:24:40.251,0:24:43.639
 You? Ha! This must be a joke!
 
-0:24:43.640,0:24:44.889
-It is not a joke Aratak!
+0:24:43.640,0:24:46.088
+OUREA: It is not a joke Aratak!
 
-0:24:53.859,0:24:56.160
-Now I see. The outlander's your pawn.
+0:24:51.615,0:24:56.160
+ARATAK: Now I see. The outlander's your pawn.
 
-0:24:57.279,0:24:58.909
-And with you backing her claim I have no choice but to accept.
+0:24:57.100,0:25:01.307
+ARATAK: And with you backing her claim I have no choice but to accept.
 
-0:25:03.440,0:25:09.900
-I expected better of you, sister.
-It was you who forbid me from Thunder's Drum, brother.
+0:25:03.440,0:25:06.378
+ARATAK: I expected better of you, sister.
+
+0:25:06.378,0:25:09.900
+OUREA: It was you who forbid me from Thunder's Drum, brother.
 
 0:25:12.039,0:25:13.599
-Brother and sister?
+ALOY: Brother and sister?
 
 0:25:14.509,0:25:17.069
-This is a little more complicated than I thought.
+ALOY: This is a little more complicated than I thought.
 
 0:25:17.140,0:25:18.920
-No, it's simple.
+ARATAK: No, it's simple.
 
 0:25:19.599,0:25:24.819
-You will meet me at the Frostfigures and I'll put a quick end to this mockery.
+ARATAK: You will meet me at the Frostfigures
+and I'll put a quick end to this mockery.
 
-0:25:32.420,0:25:34.569
+0:25:32.420,0:25:34.427
 I suppose I owe you an explanation.
 
-0:25:38.160,0:25:39.549
+0:25:36.187,0:25:39.549
 Yeah, I suppose you do.
 
-0:25:42.109,0:25:46.549
-So why didn't you tell me that you and Aratak are siblings?
+0:25:42.109,0:25:45.002
+ALOY: So why didn't you tell me that you and Aratak are siblings?
+
+0:25:45.002,0:25:46.549
 I thought I wouldn't have to.
 
 0:25:47.819,0:25:50.328
@@ -465,12 +513,14 @@ I'm surprised Aratak brought it up in front of a stranger.
 0:25:50.329,0:25:52.089
 He must be very angry.
 
-0:25:53.240,0:25:55.298
+0:25:53.240,0:25:54.867
 I'm not always best judge of…
+
+0:25:54.867,0:25:55.416
 People?
 
-0:25:55.299,0:25:57.579
-I prefer the company of spirits.
+0:25:55.416,0:25:57.579
+OUREA: I prefer the company of spirits.
 
 0:25:58.490,0:25:59.469
 Or simply my own.
@@ -481,7 +531,7 @@ I didn't want you to think of our pilgrimage of some sort of family squabble.
 0:26:02.720,0:26:05.239
 It's much more important than that.
 
-0:26:05.240,0:26:06.139
+0:26:05.240,0:26:08.809
 It's bold, I'll give you that, going after your own brother.
 
 0:26:08.809,0:26:10.838
@@ -493,21 +543,23 @@ He thinks I'm a child to be shoved to the back of the hunt.
 0:26:14.099,0:26:16.690
 He would forbid me from my destiny.
 
-0:26:17.849,0:26:18.710
+0:26:17.849,0:26:23.352
 And yet part of me did it knowing he would forgive me, eventually.
 
-0:26:25.230,0:26:28.399
+0:26:25.230,0:26:26.930
 He always does.
 
-0:26:28.400,0:26:31.929
+0:26:26.930,0:26:30.234
 Family drama aside, what's this challenge meant to be anyway?
 
-0:26:31.930,0:26:35.480
+0:26:30.234,0:26:33.077
 You and Aratak will hunt machines at the Frostfigures.
-The victor will be the fastest.
+
+0:26:33.077,0:26:35.480
+OUREA: The victor will be the fastest.
 
 0:26:36.140,0:26:37.479
-It won't be easy.
+OUREA: It won't be easy.
 
 0:26:37.480,0:26:39.209
 Nothing about this has been so far.
@@ -515,22 +567,22 @@ Nothing about this has been so far.
 0:26:39.210,0:26:42.450
 When you meet us at the starting point, I'll tell you more.
 
-0:26:43.500,0:26:46.709
+0:26:43.500,0:26:46.534
 It will be simpler to explain from the base of the hills.
 
-0:26:46.710,0:26:49.049
+0:26:46.534,0:26:49.049
 Ourea, it's not about who's related to who.
 
-0:26:49.390,0:26:50.578
+0:26:49.390,0:26:51.468
 I want to know what's inside Thunder's Drum.
 
-0:26:50.579,0:26:56.349
+0:26:51.468,0:26:56.349
 The spirit, the Daemon, and how it all connects the machines.
 
-0:26:57.339,0:27:01.960
+0:26:57.339,0:27:01.600
 But if we're gonna go through with this, I need you to be straight with me.
 
-0:27:03.140,0:27:04.759
+0:27:01.600,0:27:04.759
 I … underestimated you.
 
 0:27:06.029,0:27:07.490
@@ -548,13 +600,13 @@ So, off to risk my life in order to take charge of a Banuk hunting band.
 0:27:26.220,0:27:27.920
 Just what I always wanted.
 
-0:27:28.630,0:27:29.409
+0:27:28.630,0:27:30.000
 Frostfigures here I come.
 
-0:27:30.529,0:27:34.349
+0:27:30.000,0:27:34.349
 BANUK: These new machines, another horror visited upon us by the Daemon.
 
-0:27:35.940,0:27:37.118
+0:27:35.940,0:27:40.000
 BANUK: No reason to leave The Cut,
 the weather only gets hotter as you venture south.
 
@@ -565,21 +617,21 @@ OK, the Frostfigures should be just up there.
 The Frostfigures. Aratak and Ourea must be close.
 
 0:32:11.980,0:32:13.049
-Outlander!
+ARATAK: Outlander!
 
 0:32:17.640,0:32:22.289
-I have prevailed over such challenges before and fear none.
+ARATAK: I have prevailed over such challenges before and fear none.
 
 0:32:22.740,0:32:25.349
-But this one is foolish.
+ARATAK: But this one is foolish.
 
 0:32:25.839,0:32:27.589
-You're not Banuk.
+ARATAK: You are not Banuk.
 
 0:32:28.220,0:32:31.640
-You do not understand my responsibilities.
+ARATAK: You do not understand my responsibilities.
 
-0:32:34.140,0:32:35.549
+0:32:34.140,0:32:40.307
 I ask you, one hunter to another, withdraw.
 
 0:32:45.140,0:32:47.359
@@ -597,57 +649,62 @@ Then we'd better get on with this.
 0:32:56.539,0:32:57.869
 So be it!
 
-0:32:57.940,0:33:01.160
+0:32:57.940,0:33:00.623
 I will bury your insolent claim in the frozen ground!
 
-0:33:03.640,0:33:05.160
-Enough! Let us begin.
+0:33:00.623,0:33:01.601
+OUREA: Enough!
 
-0:33:06.839,0:33:09.390
-To hunt, to strive, that is the way of the Banuk and of the contest before you.
+0:33:03.613,0:33:04.967
+OUREA: Let us begin.
 
-0:33:14.640,0:33:15.769
-You will climb the Frostfigures from the east, Aratak from the west.
+0:33:06.839,0:33:13.104
+OUREA: To hunt, to strive,
+that is the way of the Banuk and of the contest before you.
+
+0:33:14.640,0:33:19.212
+OUREA: You will climb the Frostfigures from the east, Aratak from the west.
 
 0:33:19.740,0:33:23.420
-Each trail wends its way through deadly machines.
+OUREA: Each trail wends its way through deadly machines.
 
 0:33:23.599,0:33:27.190
-Hunters from the werak will be posted along the way.
+OUREA: Hunters from the werak will be posted along the way.
 
 0:33:27.299,0:33:31.049
-They will hail you, calling out machines for you to slay.
+OUREA: They will hail you, calling out machines for you to slay.
 
 0:33:32.220,0:33:38.299
-Your hunt will take you around the ridge to the centre,
+OUREA: Your hunt will take you around the ridge to the centre,
 where you must descend to the valley for your final kill.
 
-0:33:38.890,0:33:40.049
-Each time after your prey has fallen, you must launch a beacon such as this so that all our kin will see your progress.
+0:33:38.890,0:33:46.973
+OUREA: Each time after your prey has fallen, you must launch
+a beacon such as this so that all our kin will see your progress.
 
-0:33:48.440,0:33:50.459
-Kill machines, launch balloons. Got it.
+0:33:48.479,0:33:51.465
+ALOY: Kill machines, launch balloons. Got it.
 
 0:33:52.400,0:33:56.119
-So, the first of us to launch third balloon wins?
+ALOY: So, the first of us to launch third balloon wins?
 
-0:33:58.640,0:33:59.450
-Well, yes.
+0:33:58.640,0:34:01.500
+OUREA: Well, yes.
 
-0:34:02.930,0:34:04.289
-And as challenger your path to victory is harder.
+0:34:02.930,0:34:06.765
+OUREA: But as challenger your path to victory is harder.
 
-0:34:08.940,0:34:12.130
-If even one of your beacons comes in after Aratak's, he prevails.
+0:34:08.940,0:34:14.915
+OUREA: If even one of your beacons comes in after Aratak's, he prevails.
 
-0:34:19.320,0:34:21.349
-[laughs] You had your chance, outlander.
+0:34:17.773,0:34:21.349
+ARATAK: [laughs] You had your chance, outlander.
 
 0:34:22.239,0:34:23.460
-So did you.
+ALOY: So did you.
 
 0:34:25.309,0:34:27.460
-The hunt begins on my mark.
+OUREA: The hunt begins on my mark.
 
 0:34:32.579,0:34:33.849
 Now!
@@ -655,7 +712,7 @@ Now!
 0:34:39.739,0:34:41.849
 All right, gotta head up that mountain.
 
-0:34:48.179,0:34:51.960
+0:34:47.792,0:34:51.960
 Looks like there are a few ways to go up, and those rock paintings mark the path.
 
 0:35:05.639,0:35:07.250
@@ -664,150 +721,157 @@ Okay, up we go.
 0:35:36.639,0:35:38.960
 I seem to be on the right path.
 
-0:35:39.840,0:35:40.448
+0:35:39.840,0:35:41.608
 C'mon Aloy, time is wasting.
 
-0:36:03.199,0:36:04.150
+0:36:02.696,0:36:04.150
 Almost to the top.
 
 0:36:09.530,0:36:14.650
 BANUK: Alright challenger, you need to take out the herd below, every machine.
 
-0:36:15.420,0:36:16.198
-Kill a herd, okay, I can do that.
+0:36:15.420,0:36:18.055
+ALOY: Kill a herd, okay, I can do that.
 
-0:38:04.710,0:38:06.940
+0:38:03.201,0:38:06.940
 BANUK: I've dropped a ladder for you! Climb on up and launch your marker!
 
-0:38:15.989,0:38:16.978
-Alright, here we go.
+0:38:15.215,0:38:16.978
+ALOY: Alright, here we go.
 
 0:38:16.980,0:38:19.510
 BANUK: Now climb the ridge and launch your balloon.
 
-0:38:38.619,0:38:40.369
+0:38:38.619,0:38:41.491
 Aratak knows what he's doing. No time to waste.
 
 0:38:42.219,0:38:44.829
 BANUK: Take the rappel point to the next challenge.
 
-0:38:47.719,0:38:48.458
+0:38:47.719,0:38:50.000
 BANUK: Two Bellowbacks ahead challenger.
 
-0:38:51.610,0:38:53.739
+0:38:50.000,0:38:53.739
 BANUK: Kill them both, none of the other machines matter.
 
-0:38:54.610,0:38:55.278
-Alright, two dead Bellowbacks coming up!
+0:38:53.952,0:38:56.593
+ALOY: Alright, two dead Bellowbacks coming up!
 
-0:41:25.610,0:41:26.278
+0:41:25.610,0:41:27.245
 Right on target!
 
-0:41:32.769,0:41:33.960
+0:41:32.634,0:41:34.551
+ALOY: Got 'em both.
 BANUK: Here challenger, raise your marker!
-Now where's that balloon?
 
-0:41:52.309,0:41:53.098
+0:41:42.790,0:41:44.249
+ALOY: Now where's that balloon?
+
+0:41:52.309,0:41:54.413
 BANUK: Come on over here and launch your balloon!
 
-0:42:07.599,0:42:09.369
-I'm ahead, but only by a little. I gotta get moving.
+0:42:07.599,0:42:10.839
+ALOY: I'm ahead, but only by a little. I gotta get moving.
 
-0:42:12.400,0:42:12.648
+0:42:12.400,0:42:15.414
 BANUK: Now take the zip line and work your way down to the valley.
 
-0:42:24.199,0:42:25.498
-Storm's kicking up. Can't see much.
+0:42:24.199,0:42:26.658
+ALOY: Storm's kicking up. Can't see much.
 
-0:42:41.280,0:42:42.139
-Close now.
-Almost down.
+0:42:32.344,0:42:33.394
+ALOY: Close now.
 
-0:42:44.900,0:42:45.648
-Alright, to the last challenge.
+0:42:41.324,0:42:42.371
+ALOY: Almost down.
+
+0:42:44.900,0:42:47.002
+ALOY: Alright, to the last challenge.
 
 0:43:04.239,0:43:05.719
-Something's wrong.
+ARATAK: Something's wrong.
 
 0:43:05.789,0:43:09.510
-My kin should be here, driving in our final quarry.
-They're right behind us!
+ARATAK: My kin should be here, driving in our final quarry.
 
-0:44:07.989,0:44:08.710
+0:43:12.586,0:43:14.586
+BANUK: They're right behind us!
+
+0:44:07.334,0:44:09.252
 That's it, I'm already gone.
 
-0:46:02.989,0:46:03.710
+0:46:01.100,0:46:02.234
 I think I'm in the clear.
 
-0:48:09.989,0:48:10.710
+0:48:09.331,0:48:10.710
 Makes this a little easier.
 
-0:48:28.869,0:48:30.159
-So it's true.
+0:48:28.869,0:48:32.748
+SIGNUTAI: So it's true. Frostclaws, from Thunder's Drum.
 
-0:48:30.570,0:48:31.858
-Frostclaws from Thunder's Drum.
+0:48:33.329,0:48:35.630
+RUATUK: The attack cut short the competition.
 
-0:48:33.329,0:48:33.828
-The attack cut short the competition.
-
-0:48:35.630,0:48:37.929
-Naturally, there can be no result. It is void.
+0:48:35.630,0:48:39.476
+RUATUK: Naturally, there can be no result. It is void.
 
 0:48:47.469,0:48:49.590
-You saw what she did!
+ARATAK: You saw what she did!
 
-0:48:53.179,0:48:56.039
-She defeated the machines, not I.
+0:48:53.179,0:48:58.067
+ARATAK: She defeated the machines, not I.
 
-0:48:59.670,0:49:01.090
-It is proven, she is the better hunter.
+0:48:59.670,0:49:04.107
+ARATAK: It is proven, she is the better hunter.
 
-0:49:07.550,0:49:08.699
-We are Banuk. Survive, prevail, what else matters?
+0:49:07.550,0:49:14.234
+ARATAK: We are Banuk. Survive, prevail, what else matters?
 
-0:49:19.369,0:49:20.429
-My blood is in your teeth.
+0:49:19.369,0:49:23.562
+ARATAK: My blood is in your teeth.
 
-0:49:28.340,0:49:30.349
-I take my place behind you on the hunt.
+0:49:28.340,0:49:31.200
+ARATAK: I take my place behind you on the hunt.
 
-0:49:38.019,0:49:44.389
-No more hunters may make the ascent to Thunder's Drum.
-The way is closed to all but the chieftain and myself.
+0:49:37.900,0:49:40.526
+OUREA: No more hunters may make the ascent to Thunder's Drum.
 
-0:49:45.570,0:49:47.068
-It is not my place, but I would ask a boon.
+0:49:40.526,0:49:44.389
+OUREA: The way is closed to all but the chieftain and myself.
 
-0:49:49.269,0:49:50.889
-To accompany you, and my sister.
+0:49:45.570,0:49:48.809
+ARATAK: It is not my place, but I would ask a boon.
 
-0:49:53.639,0:49:55.250
-It might be permitted, but only if you do as I say.
+0:49:49.269,0:49:53.639
+ARATAK: To accompany you, and my sister.
+
+0:49:53.639,0:49:58.867
+OUREA: It might be permitted, but only if you do as I say.
 
 0:49:59.159,0:50:00.190
-No.
+ALOY: No.
 
 0:50:02.360,0:50:04.179
-Only if you do as I say.
+ALOY: Only if you do as I say.
 
 0:50:13.860,0:50:15.510
-Thunder's Drum awaits.
+OUREA: Thunder's Drum awaits.
 
-0:50:16.460,0:50:18.028
-There's a camp at its base, Longnotch it's called.
+0:50:16.460,0:50:19.111
+OUREA: There's a camp at its base, Longnotch it's called.
 
-0:50:19.579,0:50:21.110
-Meet us there when you're ready… chieftain.
+0:50:19.579,0:50:24.514
+OUREA: Meet us there when you're ready… chieftain.
 
 0:50:37.760,0:50:41.380
 A new outfit and a weapon like Aratak's.
 
-0:50:42.059,0:50:44.358
-I guess the chieftain gets the Chieftain's gear.
+0:50:41.595,0:50:44.358
+I guess the chieftain gets the chieftain's gear.
 
 0:50:44.360,0:50:48.389
-And now to Longnotch. Nothing to keep me from Thunder's Drum.
+And now to Longnotch. Nothing left to keep me from Thunder's Drum.
 
 0:51:24.760,0:51:27.619
 Think of summer sun, breeze through the trees.
+
