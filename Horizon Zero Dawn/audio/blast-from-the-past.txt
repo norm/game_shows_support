@@ -1,10 +1,10 @@
 <speak>
 
-To: Joshua Ardhuis
-From: Isla Perry
-Subject: Blast from the past
+To Joshua Ardhuis,
+From Isla Perry,
+Subject, Blast from the past.
 
-Josh, sweetie, I hope all's well with you and your mum. We really should keep
+Josh, sweetie, I hope all's fine with you and your mum. We really should keep
 in better touch.
 
 I've taken a post in New Zealand. With that programme they've got for young
@@ -13,21 +13,17 @@ At the moment I'm making a survey of the caldera at Taupo. Blast from the
 past, indeed.
 
 At any rate, I don't know if you already saw in the Wyoming news holo, but
-remember that fellow Dod Blevins? Of course you do. Well, they finally found
+remember that fellow Dodd Blevins? Of course you do. Well, they finally found
 what became of him. I've copied the good bit below.
 
-Hugs and snogs,
+Hugs and snogs, Isla.
 
-Isla
+Spring Thaw Reveals Body of Missing Man.
 
-----
-
-Spring Thaw Reveals Body of Missing Man
-
-The retreat of the winter snow has brought closure to a missing person case
+The retreat of the winter snows has brought closure to a missing person case
 that went unsolved for nearly fifteen years.
 
-Human remains identified as those of Dodger "Dod" Blevins, who disappeared in
+Human remains identified as those of Dodger "Dodd" Blevins, who disappeared in
 2046, were located at Purple Mountain inside the former Yellowstone National
 Park.
 
@@ -35,6 +31,6 @@ The previously undiscovered body emerged on Purple Mountain as a result of
 meltwater flows after an unusually warm winter. It was discovered by Faro
 servitors conducting a survey of the terrain. Authorities believe that the
 cause of death was an accident involving an antique vehicle designed for
-winter trav[DATA CORRUPTED]
+winter trav<prosody volume='x-soft' rate='x-slow' pitch='x-low'>data corrupted</prosody>
 
 </speak>

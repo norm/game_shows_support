@@ -1,12 +1,12 @@
 <speak>
 
-Assessment Form for Classification of Machine/Artificial Intelligences
+<p>Assessment Form for Classification of Machine/Artificial Intelligences</p>
 
-Confidential and proprietary to the MIE. No part of this document may be
+Confidential and proprietary to the Emm Eye Ee. No part of this document may be
 disclosed to a third party.
 
 Subject: CYAN (Firebreak facility)
-Assessment Date: June 7, 2062
+Assessment Date: June 7, 2062.
 
 Summary: Third test – subject sentience is assessed at 0.54 (within legal
 limits). Weighted against the results of the other tests, the subject’s prior
@@ -15,11 +15,11 @@ score of 0.61 is considered a false positive.
 Assessment derived from percentile scores in the following qualitative
 subtests:
 
-Pain response
-Humor response
-Emotional aptitude
-Aesthetic evaluation
-Morality evaluation
+Pain response,
+Humor response,
+Emotional aptitude,
+Aesthetic evaluation,
+Morality evaluation.
 
 See attached forms for detailed analysis and summary of testing criteria.
 

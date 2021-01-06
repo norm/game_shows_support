@@ -1,12 +1,14 @@
 <speak>
 
+Kenny Chau, personal log.
+
 After I put the pieces together about the swarm, there's a million things I
 could have done: Contemplated my own death, contacted everyone I've ever known
 and loved, gotten drunk. But, of course, being me, I obsessed about whether or
 not I should text Anita.
 
 Whatever resistance is being mounted against the war machines, she's part of
-it. Who am I, then, to bother her? Would she even be able to respond? If she's
+it. Who am I then to bother her? Would she even be able to respond? If she's
 dealing with the military, would her communications be monitored?
 
 But she saved me the trouble. Gotta admit, I was a little disappointed when
@@ -16,7 +18,7 @@ responses. Under any other circumstances, I would have refused. The very thing
 we had tried to keep secret for years, and she wants to share it?
 
 But I sent the log, because she wouldn't ask if she didn't need it. I can't
-understand why, though. Sounds like she's helping to develop an AI, but how
+understand why though. Sounds like she's helping to develop an AI, but how
 could that possibly help stop the swarm?
 
 I guess I'll never know.
@@ -29,8 +31,7 @@ In the end, I settled for an ineffectual confirmation, hoping against hope
 that she would cast aside my fears. Nope.
 
 KENNY: Is it as bad as I think it is?
-ANITA: Worse.
-ANITA: Go be with your sister, and tell CYAN that I said goodbye.
+ANITA: Worse. Go be with your sister, and tell CYAN that I said goodbye.
 
 So that's it. Untold destruction awaits. Billions of lives. My own, my
 family's. And yet my mind keeps coming back to Anita. I'll never see her
@@ -38,7 +39,7 @@ again, feel her touch, hear her voice. No final embrace, no closure.
 
 That desire to end things properly, that need, shames me when I think about my
 dithering over CYAN. I've gone over every possible scenario, every possible
-version of the speech, trying to predict how she'll react when I tell her...
+version of the speech, trying to predict how she'll react when I tell her, 
 well, what I need to tell her.
 
 But that's the thing - I can't predict her reaction for one very simple
