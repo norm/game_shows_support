@@ -1,16 +1,16 @@
 <speak>
 
-FROM: Major Garrow
-TO: Gen. Aaron Herres
-SUBJECT: UltraWeave Progress
+From Major Garrow,
+To Gen. Aaron Herres,
+Subject, UltraWeave Progress.
 
 General,
 
-You wanted fast, cheap and good, and that's what we're going to deliver. By
+You wanted fast, cheap, and good, and that's what we're going to deliver. By
 using a flexible nano-fiber weave instead of plating, and enhancing protection
 with a 400 eV hard light micro-projector, we've reduced our testing cycle from
 weeks to days, and I'm confident we can get the suit out by next month, with
-enough production to cover dozens of elite units, at least. Better yet, it
+enough production to cover dozens of elite units at least. Better yet, it
 will be half the weight, half the cost, and offer twice the mobility. All we
 need is the balance of our funding, a few more techs, and another experienced
 test subject. I know resources are stretched to the breaking point, but any

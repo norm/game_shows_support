@@ -1,0 +1,18 @@
+<speak>
+  <p><emphasis>Stormbird</emphasis></p>
+  <p>Strong against shock</p>
+
+  <p><emphasis>Blaze canister.</emphasis></p>
+
+  <p><emphasis>Engine.</emphasis></p>
+  <p>
+    Destroying this component disables the dive melee attack.
+  </p>
+
+  <p><emphasis>Freeze canister.</emphasis></p>
+
+  <p><emphasis>Lightning gun.</emphasis></p>
+  <p>
+    Destroying this component disables the ranged Shock attacks.
+  </p>
+</speak>
