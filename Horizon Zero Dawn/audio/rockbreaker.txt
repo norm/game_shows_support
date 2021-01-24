@@ -1,0 +1,20 @@
+<speak>
+  <p><emphasis>Rockbreaker.</emphasis></p>
+  <p>Strong against fire, weakness to freeze.</p>
+
+  <p><emphasis>Digging arm</emphasis></p>
+  <p>
+    Destroying these components disables the ability to burrow underground.
+  </p>
+
+  <p><emphasis>Exhaust port</emphasis></p>
+  <p>
+    Hitting this component deals greater damage to the machine.
+  </p>
+
+  <p><emphasis>Fuel sack</emphasis></p>
+  <p>
+    Destroying this component disables the ranged elemental attack,
+    and triggers an explosion.
+  </p>
+</speak>
