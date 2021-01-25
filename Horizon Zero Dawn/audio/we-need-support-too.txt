@@ -1,0 +1,15 @@
+<speak>
+
+FROM: Reception Staff
+TO: Admin
+SUBJECT: We Need Support Too!
+
+Reception staff continues to require additional support managing ZD candidates
+when they arrive at the facility. Many are frightened or confused. Some are
+highly agitated. These are not the sort of persons who are accustomed to
+having information withheld from them. At minimum, we need HUMAN translators
+(the lang-bots are NOT sufficient) and mild sedatives for the extreme cases.
+Any and all support would be welcome! Perhaps you could start by responding to
+one of these mails?
+
+</speak>
