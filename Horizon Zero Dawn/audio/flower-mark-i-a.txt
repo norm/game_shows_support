@@ -1,0 +1,25 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{Light of the moon}}
+#     {{Moves west, flowers' shadows}}
+#     {{Creep eastward.}}
+#   [function: true]
+# ///
+
+<speak>
+  <p><emphasis>Metal Flower</emphasis></p>
+
+  <p>
+    Code fragment downloaded:
+  </p>
+  <p>
+    Function true
+  </p>
+  <p>
+    Light of the moon
+    Moves west, flowers' shadows
+    Creep eastward.
+  </p>
+</speak>
