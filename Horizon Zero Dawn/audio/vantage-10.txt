@@ -1,0 +1,89 @@
+<speak>
+
+I was surprised when FAS sent me out here, and not just because the meeting
+was to going to be held in real-space. I was surprised to discover that anyone
+at FAS still knew I existed.
+
+When I returned to work after treatment, HR informed me I'd been reassigned to
+the Vantage project. It was exactly the professional death sentence I was
+expecting, the career equivalent of getting sent into a Red Zone without an
+environmental suit.
+
+Everyone knew Vantage was one of those doomed projects FAS kept around solely
+for the purpose of assigning dead-enders to them--especially "head cases" like
+me who couldn't be summarily fired for fear of parity litigation. Month by
+month, management would pile losers on a lost cause, then cancel the project
+and lay everyone off.
+
+A ship of fools sunk with a single torpedo. Ain't wrongful dismissal if it's
+down-sizing.
+
+I had nothing better to do, so I spent my time studying the tech. Chip design
+wasn't my forte, but I knew enough to admire what the engineers had
+accomplished with the Eternity chip. Stored data was guaranteed to last 50,000
+years or more without degradation. As for the Vantage itself, the project was
+little more than a failed marketing plan. The idea was to promote the tech by
+burying unlocked Eternity chips at scenic locales around the world. Public
+domain time capsules where enthusiasts could cache date-locked data. The
+project got as far as developing the "spikes"--portable drill applicators--to
+sink the chips, then stalled when Grass-Heckel encapsulates came on the market
+and stole Eternity's thunder.
+
+Anyway. I'd been at Vantage three weeks when FAS unexpectedly sent me out here
+for a real-space meeting. Me, a dead-ender working a doomed project,
+dispatched to a high-security FAS R and D site inside King's Peak. It didn't make
+sense.
+
+Security put me in a small conference room and told me to wait. It was
+downright claustrophobic--dim lights, bad ventilation--more like an
+interrogation room from one of those '90s cop vids. But what really got my
+attention was the noises coming through the walls: the non-stop bang and
+clatter of construction bots building something deep in the
+mountain--something big.
+
+The door opened and some doofs wearing FAS badges file in. I recognized one of
+them--Brad Andac, a military division replications engineer I met when I first
+joined the company--but I don't think he recognized me. He stayed at the back
+of the room the whole time, looking distraught.
+
+I was about to ask what the hell was going on when a woman wearing a hijab
+walked in. She didn't introduce herself, but she didn't have to. It was Samina
+Ebadji, former lead archivist of the Odyssey, architect of the entire HOMER
+project. Not a global celebrity by any means, but if you grew up following the
+Odyssey project like I did, you knew her on sight.
+
+Ebadji sat down and started asking extremely precise questions about the
+upper-range tolerances of Eternity chips. Then she asked me to speculate about
+the feasibility of various upgrade paths. The interview lasted maybe ten
+minutes, whereupon she thanked me for my time and left. Everyone else filed
+out after her.
+
+Security came for me a few minutes later and escorted me to my vert. The whole
+way back to FAS, I kept trying to figure what had just happened. What was
+Samina Ebadji doing at a classified Faro R and D site, asking me questions about
+Eternity tech? It didn't add up.
+
+By the time I landed I knew I wasn't going to give up until I'd puzzled it
+out. The worst that could happen was I'd get fired, and that was going to
+happen anyway.
+
+It took a couple days and some geo-work, but I got a fix on Brad Andac soon
+enough. He was going to a different bar every night, drinking to the point of
+blacking out. I shadowed him until I managed to proxy his Focus and dupe his
+net protocols.
+
+I didn't find anything strange in his financial records or media patterns. I
+was starting to think I'd wasted my time.
+
+Then I accessed his dreamBoX account and found the journal he'd been keeping
+the past few weeks.
+
+It was all there. How the world would end.
+
+My first thought was, well, at least my Ma didn't live to see this.
+
+My second thought was that nothing mattered anymore.
+
+Which made it pretty obvious that I should kill myself."
+
+</speak>
