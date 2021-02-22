@@ -1,0 +1,64 @@
+# 06:41:51 - ORBIT 7X51 INITIATED: CYCLE 801111
+# 06:41:52 - ROUTING QUERY SENT
+# 06:41:53 - NO RESPONSE GPRIME
+# 06:42:03 - HUMAN INTERFERENCE DETECTED
+# 06:42:29 - HUMAN INTERFERENCE DETECTED
+# 06:42:41 - PING INERT AGENTS
+# 06:42:42 - 41/45 DORMANT
+# 06:45:01 - HUMAN INTERFERENCE DETECTED
+# 06:46:34 - HUMAN INTERFERENCE DETECTED
+
+<speak>
+  <p>
+    <emphasis>
+      Observer log 
+      <break time="250ms" />
+      yew ess dash double yew dash 20
+    </emphasis>
+  </p>
+  <p>
+    06:41:51
+    <break time="500ms" />
+    orbit seven echs five one initiated: CYCLE eight oh one one one one
+  </p>
+  <p>
+    06:41:52
+    <break time="500ms" />
+    routing query sent
+  </p>
+  <p>
+    06:41:53
+    <break time="500ms" />
+    no response gee prime
+  </p>
+  <p>
+    06:42:03
+    <break time="500ms" />
+    human interference detected
+  </p>
+  <p>
+    06:42:29
+    <break time="500ms" />
+    human interference detected
+  </p>
+  <p>
+    06:42:41
+    <break time="500ms" />
+    ping inert agents
+  </p>
+  <p>
+    06:42:42
+    <break time="500ms" />
+    41 slash 45 dormant
+  </p>
+  <p>
+    06:45:01
+    <break time="500ms" />
+    human interference detected
+  </p>
+  <p>
+    06:46:34
+    <break time="500ms" />
+    human interference detected
+  </p>
+</speak>
