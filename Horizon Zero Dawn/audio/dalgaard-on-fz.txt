@@ -1,46 +1,46 @@
 <speak>
 
-Interview: Dalgaard Opens up about Far Zenith--a little
+<p>Interview: Dalgaard Opens up about Far Zenith, a little</p>
 
-February 28, 2061 - Osvald Dalgaard never stops smiling. Before last month,
+February 28, 2061. Osvald Dalgaard never stops smiling. Before last month,
 the Danish tech wunderkind was known primarily as the creator and CEO of
 AllSeeing.holo, the world's most popular holofilm sharing service. But for the
 past few weeks, Dalgaard has been the public face of Far Zenith, the
 self-described "futurist consortium" responsible for reviving the Odyssey
 colony ship project. Osvald seems an unlikely spokesman for a shadowy group of
-billionaires - but maybe that's the point. He is bright-eyed, handsome in a
-nerdy, rail-thin way, endlessly enthusiastic. When I arrive at the AllSeeing
+billionaires, but maybe that's the point. He is bright-eyed, handsome in a
+nerdy rail-thin way, endlessly enthusiastic. When I arrive at the AllSeeing
 offices for our interview, he glances behind me as if waiting for a holocamera
 crew to swarm in in my wake. "So this will be published as text? An article?"
-He speaks English with barely any accent at all. I nod, and his smile
-(impossibly) widens. "That is just incredible. Really, real super quaint. Love
+He speaks English with barely any accent at all. I nod and his smile
+impossibly widens. "That is just incredible. Really, real super quaint. Love
 it."
 
 Osvald's countenance may be exuberantly inviting, but the organization for
 which he serves as mouthpiece is anything but. To date, he is the only
 publicly acknowledged member of Far Zenith, which claims to comprise
-seventy-seven of the world's wealthiest persons. "It's more fun this way,
-don't you think?" asks Osvald. "The mystery. It's... what would you call it...
+seventy-seven of the world's wealthiest persons. "It's more fun this way
+don't you think" asks Osvald. "The mystery. It's, what would you call it,
 It's stagecraft. Far Zenith is as much performance art as it is a functional
-futurist endeavor. Although, it's that as well. I can tell you that there's
+futurist endeavor. Although it's that as well. I can tell you that there's
 nothing sinister about it. We are devoted not only to extending humanity's
-legacy beyond this solar system, but also to making the world... sexier, I
+legacy beyond this solar system, but also to making the world, sexier I
 suppose. More interesting. Far Zenith is science and transcendence, but it's
 also fashion. Rock and roll. You see?"
 
-Well, no I don't. But I don't tell Osvald that. Instead, I ask him a question
+Well, no I don't, but I don't tell Osvald that. Instead, I ask him a question
 that's been on the minds of a lot of people since Far Zenith purchased the
-unfinished colony ship. If the combined efforts of the US, China, India, Japan
+unfinished colony ship. If the combined efforts of the US, China, India, Japan,
 and the Western European Alliance couldn't finish the Odyssey, what makes Far
 Zenith think it can?
 
 "Ah," he says. "Here's where I get to blow your mind. Very exciting. We are
 not interested in escaping a dying world. For us this is not an act of panic
-or, ah... adrenal survival reflex. The Odyssey, under the stewardship of Far
-Zenith, will be a triumph, not a retreat. This is why we will succeed. Why we
-already have succeeded, really." Osvald makes it hard to press for answers.
-His answers are labyrinthine, but something in his tone and his body language
-makes them feel downright linear. How much of this is a put-on and - [DATA
-CORRUPTED].
+or, ah, adrenal survival reflex. The Odyssey, under the stewardship of Far
+Zenith will be a triumph not a retreat. This is why we will succeed. Why we
+already have succeeded really." Osvald makes it hard to press for answers.
+His answers are labyrinth eyen, but something in his tone and his body language
+makes them feel downright linear. How much of this is a put-on and 
+<prosody volume='x-soft' rate='x-slow' pitch='x-low'>data corrupted</prosody>
 
 </speak>
