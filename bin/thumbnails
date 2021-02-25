@@ -1,4 +1,4 @@
-#!/bin/bash -euo pipefail
+#!/usr/bin/env bash -euo pipefail
 #
 # Generate thumbnail images by taking stills from a specific video.
 

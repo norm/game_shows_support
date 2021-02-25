@@ -1,4 +1,4 @@
-#!/bin/bash -euo pipefail
+#!/usr/bin/env bash -euo pipefail
 #
 # Generate files from the raw captures (mkv) which is usable in Davinci
 # Resolve (mp4), adjusting the volume up to a sensible working level.

@@ -1,4 +1,4 @@
-#!/bin/bash -euo pipefail
+#!/usr/bin/env bash -euo pipefail
 #
 # Generate audio files from SSML text, via Amazon's Polly service.
 # Files will be generated when no mp3 exists, or if the text file is newer.

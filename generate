@@ -1,4 +1,4 @@
-#!/bin/bash -euo pipefail
+#!/usr/bin/env bash -euo pipefail
 
 DEFAULT_SHOW='Horizon Zero Dawn'
 show="$DEFAULT_SHOW"
@@ -68,7 +68,7 @@ esac
 if [ "${2:-}" = 'help' ]; then
     cat bin/$1 \
         | awk '
-            /bin.bash/{show=1; next}
+            /env.bash/{show=1; next}
             /^[^#]/{show=0}
             show
           ' \

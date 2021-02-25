@@ -1,4 +1,4 @@
-#!/bin/bash -euo pipefail
+#!/usr/bin/env bash -euo pipefail
 #
 # chapter_tasks
 #     add the standard set of tasks for a given chapter video to Things.

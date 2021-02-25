@@ -1,4 +1,4 @@
-#!/bin/bash -euo pipefail
+#!/usr/bin/env bash -euo pipefail
 #
 # Generate draft captions using Amazon Transcribe for rendered videos where no
 # captions exist or where the video file is newer than the caption file.
