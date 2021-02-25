@@ -1,0 +1,63 @@
+# ///
+#     [summary]
+#         active: Production/Oversight/Analysis
+#         active: Additive/Manufacture/Type
+#         alert: Intrusion/Source:External
+#         active: Countermeasure/Phase-shift
+#         alert: Countermeasure/Failed
+#         alert: Main/Production:External Override
+#         alert: Main/Production:Downloading...
+#         active: Additive/Manufacture/Type
+#         active: Main/Armament/Enhance 27:03
+#         active: Main/Armament/Enhance 14:31
+#         active: Main/Armament/Enhance 11:66
+#         active: Main/Armament/Enhance 97:41
+#         active: Main/Armament/Enhance 43:10
+#         active: Main/Production:Initiating...
+# ///
+
+<speak>
+  <p>Summary</p>
+  <p>
+    <emphasis>Active</emphasis>
+  </p>
+  <p>
+    Production. Oversight. Analysis. Additive. Manufacture. Type.
+  </p>
+  <p>
+    <emphasis>Alert</emphasis>
+  </p>
+  <p>
+    Intrusion. Source external.
+  </p>
+  <p>
+    <emphasis>Active</emphasis>
+  </p>
+  <p>
+    Countermeasure. Phase shift.
+  </p>
+  <p>
+    <emphasis>Alert</emphasis>
+  </p>
+  <p>
+    Countermeasure failed. Main production, external override.
+    Main production, downloading.
+  </p>
+  <p>
+    <emphasis>Active</emphasis>
+  </p>
+  <p>
+    Additive. Manufacture. Type.
+    Main armament enhance 27:03.
+    Main armament enhance 14:31.
+    Main armament enhance 11:66.
+    Main armament enhance 97:41.
+    Main armament enhance 43:10.
+  </p>
+  <p>
+    <emphasis>Active</emphasis>
+  </p>
+  <p>
+    Main production <break time="250ms" /> initiating...
+  </p>
+</speak>

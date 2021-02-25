@@ -1,0 +1,57 @@
+# ///
+#     [summary]
+#         active: Countermeasure/Diagnostic/wurm.nxt
+#         alert: Trace/Intrusion/Detect:Successful
+#         alert: Trace Result: HEPHAESTUS
+#         alert: Infiltrate/Intrusion/Retrieval:Successful
+#         alert: Command Template Acquired
+#         alert: Decode/Initiate:Successful
+#         alert: Result: ENCROACHMENT THREAT: HUMAN
+#         alert: Result: FAUNA THREAT: HIGH
+#         alert: Result: FLORA THREAT: HIGH
+#         alert: Result: BIOSPHERE THREAT: HIGH
+#         alert: Result: DIRECTIVE: CULL
+#         alert: Result: PRODUCTION OVERRIDE INITIATED
+#         alert: Result: ALL OTHER PRIORITIES RESCINDED
+#         alert: Decode/End
+# ///
+
+<speak>
+  <p>Summary</p>
+  <p>
+    <emphasis>Active</emphasis>
+  </p>
+  <p>
+    Countermeasure. Diagnostic. Worm dot next.
+  </p>
+  <p>
+    <emphasis>Alert</emphasis>
+  </p>
+  <p>
+    Trace. Intrusion. Detect successful.
+    Trace result, Hephaestus.
+  </p>
+  <p>
+    <emphasis>Alert</emphasis>
+  </p>
+  <p>
+    Infiltrate. Intrusion. Retrieval successful.
+    Command template acquired.
+    Decode. Initiate successful.
+  </p>
+  <p>
+    <emphasis>Alert</emphasis>
+  </p>
+  <p>
+    Result: encroachment threat, human.
+    Fauna threat, high.
+    Flora threat, high.
+    Biosphere threat, high.
+    Directive, cull.
+    Production override initiated.
+    All other priorities rescinded.
+  </p>
+  <p>
+    Decode, end.
+  </p>
+</speak>

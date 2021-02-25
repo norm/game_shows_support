@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox='0 0 800 400'>
+<style>
+  polyline {
+  stroke-width: 2;
+  stroke: black;
+  fill: white;
+  }
+  polyline.red {
+  stroke: red;
+  }
+</style>
+
+<polyline
+  points='150,300 400,50 650,300 575,300 400,125 225,300 150,300'
+/>
+<polyline
+  points='488,210 400,300 325,300 450,173'
+/>
+</svg>
