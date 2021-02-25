@@ -1,0 +1,27 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{Life, believe, is not a dream}}
+#     {{So dark as sages say;}}
+#     {{Oft a little morning rain}}
+#     {{Foretells a pleasant day.}}
+#     {{Sometimes there are clouds of gloom,}}
+#     {{But these are transient all;}}
+#     {{If the shower will make the roses bloom,}}
+#     {{O why lament its fall?}}
+#   [function: true]
+# ///
+
+<speak>
+
+Life, believe, is not a dream
+So dark as sages say;
+Oft a little morning rain
+Foretells a pleasant day.
+Sometimes there are clouds of gloom,
+But these are transient all;
+If the shower will make the roses bloom,
+O why lament its fall?
+
+</speak>

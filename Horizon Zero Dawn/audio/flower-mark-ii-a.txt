@@ -1,0 +1,19 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{When dawn hennas her hands with the blood}}
+#       {{of the horizon}}
+#     {{Let the new bride of the golden veil uncover}}
+#       {{her shining face...}}
+#   [function: true]
+# ///
+
+<speak>
+
+When dawn hennas her hands with the blood
+of the horizon,
+Let the new bride of the golden veil uncover
+her shining face...
+
+</speak>

@@ -1,0 +1,17 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{Sharing tree shade}}
+#     {{with a butterfly...}}
+#     {{friends in a previous life.}}
+#   [function: true]
+# ///
+
+<speak>
+
+Sharing tree shade
+with a butterfly...
+friends in a previous life.
+
+</speak>

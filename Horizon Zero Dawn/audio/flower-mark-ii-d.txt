@@ -1,0 +1,35 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{By its own nature}}
+#     {{It towers above}}
+#     {{The tangle of rivers}}
+#     {{Don't say it's a lot of dirt}}
+#     {{Piled high}}
+#     {{Without end; the mist of dawn}}
+#     {{The evening cloud}}
+#     {{Draw their shadows across it}}
+#     {{From the four directions}}
+#     {{You can look up and see it}}
+#     {{Green and steep and wild.}}
+#   [function: true]
+# ///
+
+<speak>
+
+By its own nature
+It towers above
+The tangle of rivers.
+
+Don't say it's a lot of dirt
+Piled high
+Without end; the mist of dawn,
+The evening cloud
+Draw their shadows across it.
+
+From the four directions
+You can look up and see it,
+Green and steep and wild.
+
+</speak>

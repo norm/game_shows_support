@@ -1,0 +1,17 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{Orchid breathing}}
+#     {{incense into}}
+#     {{butterfly wings.}}
+#   [function: true]
+# ///
+
+<speak>
+
+Orchid, breathing
+incense into
+butterfly wings.
+
+</speak>

@@ -1,0 +1,27 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{Low in the eastern sky}}
+#     {{Is set thy glancing eye;}}
+#     {{And though its gracious light}}
+#     {{Ne'er riseth to my sight,}}
+#     {{Yet every star that climbs}}
+#     {{Above the gnarled limbs}}
+#       {{Of yonder hill,}}
+#     {{Conveys thy gentle will.}}
+#   [function: true]
+# ///
+
+<speak>
+
+Low in the eastern sky
+Is set thy glancing eye;
+And though its gracious light
+Ne'er riseth to my sight,
+Yet every star that climbs
+Above the gnarled limbs
+Of yonder hill,
+Conveys thy gentle will.
+
+</speak>

@@ -1,0 +1,23 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{When you are so full of sorrow}}
+#     {{that you can't walk, can't cry anymore,}}
+#     {{think about the green foliage that sparkles after}}
+#     {{the rain. When the daylight exhausts you, when}}
+#     {{you hope a final night will cover the world,}}
+#     {{think about the awakening of a young child.}}
+#   [function: true]
+# ///
+
+<speak>
+
+When you are so full of sorrow
+that you can't walk, can't cry anymore,
+think about the green foliage that sparkles after
+the rain. When the daylight exhausts you, when
+you hope a final night will cover the world,
+think about the awakening of a young child.
+
+</speak>

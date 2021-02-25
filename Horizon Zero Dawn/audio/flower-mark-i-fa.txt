@@ -1,0 +1,9 @@
+<speak>
+  <p>
+    <s>When this pine sapling</s>
+    grows to flower
+  </p>
+  <p>
+    Who'll be here.
+  </p>
+</speak>

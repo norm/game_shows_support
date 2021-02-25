@@ -1,0 +1,17 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{Lightning flash—}}
+#     {{what I thought were faces}}
+#     {{are plumes of pampas grass.}}
+#   [function: true]
+# ///
+
+<speak>
+
+Lightning flash—
+what I thought were faces
+are plumes of pampas grass.
+
+</speak>

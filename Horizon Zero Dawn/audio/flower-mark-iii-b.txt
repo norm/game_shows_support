@@ -1,0 +1,29 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{...now the cordial clouds have shut all in,}}
+#     {{And gently swells the wind to say all’s well;}}
+#     {{The scattered drops are falling fast and thin,}}
+#     {{Some in the pool, some in the flower-bell.}}
+# 
+#     {{I am well drenched upon my bed of oats;}}
+#     {{But see that globe come rolling down its stem,}}
+#     {{Now like a lonely planet there it floats,}}
+#     {{And now it sinks into my garment’s hem.}}
+#   [function: true]
+# ///
+
+<speak>
+
+now the cordial clouds have shut all in,
+And gently swells the wind to say all’s well;
+The scattered drops are falling fast and thin,
+Some in the pool, some in the flower-bell.
+
+I am well drenched upon my bed of oats;
+But see that globe come rolling down its stem,
+Now like a lonely planet there it floats,
+And now it sinks into my garment’s hem.
+
+</speak>

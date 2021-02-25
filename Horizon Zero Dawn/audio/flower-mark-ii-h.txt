@@ -1,0 +1,19 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{I slumbered this spring morning, and missed the dawn,}}
+#     {{From everywhere I heard the cry of birds.}}
+#     {{That night the sound of wind and rain had come,}}
+#     {{Who knows how many petals then had fallen?}}
+#   [function: true]
+# ///
+
+<speak>
+
+I slumbered this spring morning, and missed the dawn,
+From everywhere I heard the cry of birds.
+That night the sound of wind and rain had come,
+Who knows how many petals then had fallen?
+
+</speak>

@@ -1,0 +1,28 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{The sky's face has turned dark, don't believe}}
+#       {{a cloud has come}}
+#     {{In the garden, snow changed the raven}}
+#       {{to a falcon of white}}
+#     {{Oh what designs might the magician of cold}}
+#       {{display?}}
+#     {{Like a mirror, the page of the water}
+#       {{is bound in ice...}}
+#   [function: true]
+# ///
+
+<speak>
+
+The sky's face has turned dark, don't believe
+a cloud has come
+In the garden, snow changed the raven
+to a falcon of white.
+
+Oh what designs might the magician of cold
+display?
+Like a mirror, the page of the water
+is bound in ice...
+
+</speak>

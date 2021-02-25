@@ -1,0 +1,16 @@
+# Code fragment downloaded: 
+# 
+# ///
+#   [function: true]
+#     {{Watching the river}}
+#     {{through a window of trees...}}
+#     {{spring rain falls.}}
+#   [function: true]
+# ///
+
+<speak>
+
+Watching the river through a window of trees,
+spring rain falls.
+
+</speak>

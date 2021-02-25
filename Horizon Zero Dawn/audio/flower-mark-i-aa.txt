@@ -1,0 +1,17 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{Light of the moon}}
+#     {{Moves west, flowers' shadows}}
+#     {{Creep eastward.}}
+#   [function: true]
+# ///
+
+<speak>
+  <p>
+    Light of the moon
+    Moves west, flowers' shadows
+    Creep eastward.
+  </p>
+</speak>

@@ -1,0 +1,31 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{I saw a mountain... its haughty peak}}
+#       {{and bunched spine vying with the worlds on high,}}
+#     {{Deflecting every salvo of the wind,}}
+#       {{and shouldering the starlight from the sky,}}
+#     {{Brooding above the dunes like some great thinker}}
+#       {{considering days to come as nights go by}}
+#     {{With black clouds wrapped about it for a turban}}
+#       {{and bangs of redhead lightning in its face.}}
+#     {{And through the night, that tongueless mountain}}
+#       {{uttered marvelous things...}}
+#   [function: true]
+# ///
+
+<speak>
+
+I saw a mountain... its haughty peak
+and bunched spine vying with the worlds on high,
+Deflecting every salvo of the wind,
+and shouldering the starlight from the sky,
+Brooding above the dunes like some great thinker
+considering days to come, as nights go by,
+With black clouds wrapped about it for a turban,
+and bangs of redhead lightning in its face.
+And through the night, that tongueless mountain
+uttered marvelous things...
+
+</speak>

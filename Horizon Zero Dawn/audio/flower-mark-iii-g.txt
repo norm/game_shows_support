@@ -1,0 +1,53 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{Spake full well, in language quaint and olden,}}
+#     {{One who dwelleth by the castled Rhine,}}
+#     {{When he called the flowers, so blue and golden,}}
+#     {{Stars, that in earth's firmament do shine.}}
+# 
+#     {{Stars they are, wherein we read our history,}}
+#     {{As astrologers and seers of eld;}}
+#     {{Yet not wrapped about with awful mystery,}}
+#     {{Like the burning stars, which they beheld.}}
+# 
+#     {{Wondrous truths, and manifold as wondrous,}}
+#     {{God hath written in those stars above;}}
+#     {{But not less in the bright flowerets under us}}
+#     {{Stands the revelation of his love.}}
+#   [function: true]
+# ///
+
+<speak>
+  <p><emphasis>Metal Flower</emphasis></p>
+
+  <p>
+    Code fragment downloaded:
+  </p>
+  <p>
+    Function true
+  </p>
+  <p>
+    Spake full well, in language quaint and olden,
+    One who dwelleth by the castled Rhine,
+    When he called the flowers so blue and golden,
+    Stars that in earth's firmament do shine.
+  </p>
+  <p>
+    Stars they are, wherein we read our history,
+    As astrologers and seers of eld;
+    Yet not wrapped about with awful mystery,
+    Like the burning stars which they beheld.
+  </p>
+  <p>
+    Wondrous truths and manifold as wondrous,
+    God hath written in those stars above;
+    But not less in the bright flowerets under us
+    Stands the revelation of his love.
+  </p>
+</speak>
+
+
+
+

@@ -1,0 +1,19 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{The moon's reflected on the river a few feet away,}}
+#     {{A lantern shines in the night near the third watch.}}
+#     {{On the sand, egrets sleep, peacefully curled together,}}
+#     {{Behind the boat I hear the splash of jumping fish.}}
+#   [function: true]
+# ///
+
+<speak>
+
+The moon's reflected on the river a few feet away,
+A lantern shines in the night near the third watch.
+On the sand, egrets sleep, peacefully curled together,
+Behind the boat I hear the splash of jumping fish.
+
+</speak>

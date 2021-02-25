@@ -1,0 +1,33 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{Even this morning, O Swan, awake,}}
+#     {{arise, follow me!}}
+#     {{There is a land where no doubt nor}}
+#     {{sorrow have rule: where the terror}}
+#     {{of Death is no more.}}
+# 
+#     {{There the woods of spring are a-bloom,}}
+#     {{and the fragrant scent "He is I"}}
+#     {{is borne on the wind:}}
+#     {{There the bee of the heart is deeply}}
+#     {{immersed, and desires no other joy.}}
+#   [function: true]
+# ///
+
+<speak>
+
+Even this morning, O Swan, awake,
+arise, follow me!
+There is a land where no doubt nor
+sorrow have rule: where the terror
+of Death is no more.
+
+There the woods of spring are a-bloom,
+and the fragrant scent "He is I",
+is borne on the wind:
+There the bee of the heart is deeply
+immersed, and desires no other joy.
+
+</speak>

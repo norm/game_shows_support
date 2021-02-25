@@ -1,0 +1,17 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{To tangle or untangle}}
+#     {{the willow...}}
+#     {{it's up to the wind.}}
+#   [function: true]
+# ///
+
+<speak>
+
+To tangle or untangle
+the willow...
+it's up to the wind.
+
+</speak>

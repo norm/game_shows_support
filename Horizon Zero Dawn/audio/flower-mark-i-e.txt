@@ -1,0 +1,17 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{Summer grasses:}}
+#     {{all that remains}}
+#     {{of soldiers' dreams.}}
+#   [function: true]
+# ///
+
+<speak>
+
+Summer grasses:
+all that remains
+of soldiers' dreams.
+
+</speak>

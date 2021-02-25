@@ -1,0 +1,27 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{In autumn rain, the grasses rot and die,}}
+#     {{Below the steps, the jueming's color is fresh.}}
+#     {{Full green leaves cover the stems like feathers,}}
+#     {{And countless flowers bloom like golden coins.}}
+#     {{The cold wind, moaning, blows against you fiercely,}}
+#     {{I fear that soon you'll find it hard to stand.}}
+#     {{Upstairs the scholar lets down his white hair,}}
+#     {{He faces the wind, breathes the fragrance, and weeps.}}
+#   [function: true]
+# ///
+
+<speak>
+
+In autumn rain, the grasses rot and die,
+Below the steps, the jueming's color is fresh.
+Full green leaves cover the stems like feathers,
+And countless flowers bloom like golden coins.
+The cold wind, moaning, blows against you fiercely,
+I fear that soon you'll find it hard to stand.
+Upstairs the scholar lets down his white hair,
+He faces the wind, breathes the fragrance, and weeps.
+
+</speak>

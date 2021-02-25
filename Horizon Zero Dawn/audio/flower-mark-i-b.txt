@@ -1,0 +1,17 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{Evening wind:}}
+#     {{water laps}}
+#     {{the heron's legs.}}
+#   [function: true]
+# ///
+
+<speak>
+
+Evening wind:
+water laps
+the heron's legs.
+
+</speak>

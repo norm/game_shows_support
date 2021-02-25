@@ -1,0 +1,17 @@
+# Code fragment downloaded:
+# 
+# ///
+#   [function: true]
+#     {{From the mind}}
+#     {{of a single, long vine}}
+#     {{one hundred opening lives.}}
+#   [function: true]
+# ///
+
+<speak>
+
+From the mind
+of a single long vine,
+one hundred opening lives.
+
+</speak>
