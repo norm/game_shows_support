@@ -8,12 +8,20 @@ mapfile -t captures < \
 for capture in "${captures[@]}"; do
     file="$(basename "$capture")"
     if [ -f "$BACKUP_DIR/Game Shows/$GAME_SHOW_NAME/raw/$file" ]; then
-        status -- "-- {cyan}$file removed"
+        status -- "-- {cyan}removing $file"
         if [ -z "${DRY_RUN:-}" ]; then
             ssh ${CAPTURE_HOST} "rm '$capture'"
             rm "raw/$file"
         fi
     else
-        status "** {magenta}{bold}$file not removed; not in local backup"
+        if [ "${1:-}" = 'force' ]; then
+            status -- "-- {cyan}removing $file (forced)"
+            if [ -z "${DRY_RUN:-}" ]; then
+                ssh ${CAPTURE_HOST} "rm '$capture'"
+                rm -f "raw/$file"
+            fi
+        else
+            status "** {magenta}{bold}$file not removed; not in local backup"
+        fi
     fi
 done
