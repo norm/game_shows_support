@@ -1,0 +1,77 @@
+# 23:00:00 - MONITORING SUPERCELL FORMATION
+# 23:00:16 - ORBIT 8F1 INITIATED: CYCLE 68208
+# 23:00:17 - ROUTING QUERY SENT
+# 23:00:18 - ROUTING RECEIVED FROM GPRIME
+# 23:01:20 - SUPERCELL FORMATION OVERHEAD
+# 23:01:36 - ELECTRICAL IMPACT
+# 23:01:40 - ELECTRICAL IMPACT
+# 23:01:42 - ELECTRICAL IMPACT
+# 23:02:20 - SURGE DAMAGE ASSESSMENT
+# 23:02:20 - LOCOMOTION SYSTEMS COMPROMISED
+# 23:02:20 - GYROSCOPIC SYSTEMS COMPROMISED
+# 23:02:20 - PROCESSING SYSTEMS COMPROMISED
+# 23:02:21 - STATUS REPORT SENT
+# 23:02:22 - INSTRUCTION RECEIVED FROM GPRIME: SUSPEND
+# 23:02:23 - INTERNAL SYSTEMS COMPR-
+
+<speak>
+  <p>
+    <emphasis>
+      Observer log 
+      <break time="250ms" />
+      yew ess dash double yew dash 10
+    </emphasis>
+  </p>
+  <p>
+    23:00:00 <break time="500ms" />
+    MONITORING SUPERCELL FORMATION
+  </p>
+  <p>
+    23:00:16 <break time="500ms" />
+    ORBIT 8F1 INITIATED: CYCLE six eight two zero eight
+  </p>
+  <p>
+    23:00:17 <break time="500ms" />
+    ROUTING QUERY SENT
+  </p>
+  <p>
+    23:00:18 <break time="500ms" />
+    ROUTING RECEIVED FROM GEE PRIME
+  </p>
+  <p>
+    23:01:20 <break time="500ms" />
+    SUPERCELL FORMATION OVERHEAD
+  </p>
+  <p>
+    23:01:36 <break time="500ms" />
+    ELECTRICAL IMPACT
+  </p>
+  <p>
+    23:01:40 <break time="500ms" />
+    ELECTRICAL IMPACT
+  </p>
+  <p>
+    23:01:42 <break time="500ms" />
+    ELECTRICAL IMPACT
+  </p>
+  <p>
+    23:02:20 <break time="500ms" />
+    SURGE DAMAGE ASSESSMENT.
+    LOCOMOTION SYSTEMS COMPROMISED.
+    GYROSCOPIC SYSTEMS COMPROMISED.
+    PROCESSING SYSTEMS COMPROMISED.
+  </p>
+  <p>
+    23:02:21 <break time="500ms" />
+    STATUS REPORT SENT
+  </p>
+  <p>
+    23:02:22 <break time="500ms" />
+    INSTRUCTION RECEIVED FROM GEE PRIME: SUSPEND
+  </p>
+  <p>
+    23:02:23 <break time="500ms" />
+    INTERNAL SYSTEMS COMM PURR
+  </p>
+
+</speak>
