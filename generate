@@ -117,6 +117,8 @@ case "${1:-all}" in
         audio
         status -l "== {bold}{yellow}captions"
         captions
+        status -l "== {bold}{yellow}thumbnails"
+        thumbnails
         status -l "== {bold}{yellow}itunes"
         itunes
         popd >/dev/null

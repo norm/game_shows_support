@@ -7,7 +7,7 @@ function main {
     find_videos_between 1 99
 
     # behind the scenes
-    find_videos_between 101 199
+    find_videos_between 100 199
 }
 
 function find_videos_between {
@@ -48,6 +48,13 @@ function capture_thumbnail {
             -frames:v 1 \
             -q:v 1 \
                 "$image"
+
+        # if the thumbnails video isn't long enough, ffmpeg
+        # will fail to make an image but still exit 0
+        if [ ! -f "$image" ]; then
+            status '{bold}{magenta}   could not make thumbnail'
+            exit 2
+        fi
     fi
 }
 
