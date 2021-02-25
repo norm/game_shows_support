@@ -32,6 +32,22 @@ for mkv in raw/*mkv; do
         subl "$notes"
         play "$mp4"
 
-        add_to_things "Annotate $(basename "$mp4")"
+        chose=0
+        while [ $chose = 0 ]; do
+            status -cnr "Keep: y/n? "
+            read -N1 -s keeper
+            echo -n $keeper
+            case $keeper in
+                n|N)    chose=1
+                        rm "$mp4" "$notes" "$mkv"
+                        ;;
+                y|Y)    chose=1
+                        add_to_things "Properly annotate $(basename "$mp4")"
+                        ;;
+                *)      sleep 1
+                        ;;
+            esac
+        done
+        echo ''
     fi
 done
