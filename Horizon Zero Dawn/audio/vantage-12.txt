@@ -3,7 +3,7 @@
 Last stop. After this, I'll have said everything I need to.
 
 It was just a routine launch, but for us it might as well have been Apollo 11.
-It was my first payload: a seeker/extractor with an upgraded propulsion system
+It was my first payload: a seeker-extractor with an upgraded propulsion system
 I'd designed.
 
 The vehicle was destined for M89282, an asteroid rich in ruthenium and
@@ -22,24 +22,24 @@ Even then I knew it wasn't true. The vehicle was headed for a rock, not a
 star. It was a routine launch, not some voyage of discovery. But my heart was
 too full to quibble. I just smiled and squeezed your hand back.
 
-It was the finest moment of my life. You and me, Ma. Onwards and upwards, the
+It was the finest moment of my life. You and me Ma. Onwards and upwards, the
 start of great things.
 
 But after you died and I broke down, the meaning of that night... changed.
 Everything that had seemed wonderful seemed to turn rotten and false.
 
-It seemed false because it was false. I'd never written anything across the
+It seemed false because it <emphasis>was</emphasis> false. I'd never written anything across the
 stars. Sure, I'd hoped to work on a project like that, a deep space probe or a
 colony ship. But it never happened, and now that my career was over, it never
 would.
 
 And then, when I found out about the plague, the memory haunted me even worse.
-Because it wasn't just me who failed to write a story across the stars, you
+Because it wasn't just me who failed to write a story across the stars you
 see. It was all of us. Our entire species.
 
 All our innovation, all our tech, all our striving... and it came to zero.
 
-I've been looking up the stars a lot, Ma. And the only story I see written
+I've been looking up at the stars a lot Ma. And the only story I see written
 across them is that we are small and insignificant and will soon disappear
 with hardly a trace left behind.
 
@@ -53,13 +53,13 @@ I have no reason to think that anyone or anything will survive to ever read
 it. But whether that happens or not, the truth of the story remains:
 
 That once upon a time, on a planet called Earth, there lived a boy named
-Bashar who loved his mother very, very much.
+Bashar who loved his mother very very much.
 
-Goodbye, Ma. I love you.
+Goodbye Ma. I love you.
 
-Bashar Mati
-Son of Aamaal and Bayhas Mati
-Stepson of Wyatt Mahante
-24 November 2064
+Bashar Mati,
+Son of Aamaal and Bayhas Mati,
+Stepson of Wyatt Mahante,
+24 November 2064.
 
 </speak>
