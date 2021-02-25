@@ -1,17 +1,17 @@
 <speak>
 
-FROM: Lounge Staff
-TO: Admin
-SUBJECT: Another Incident
+FROM Lounge Staff,
+TO Admin,
+SUBJECT, Another Incident.
 
 This morning's unfortunate incident with Dr. Popovich is another example of
 Reception's need for additional support. We appreciate that Zero Dawn is an
 immensely complicated project, but as the staff who serve on the "front line,"
 we're tired of being neglected. As we have already requested, we need human
-translators (fluent in Polish, for example) security staff (who can subdue
-enraged embryologists, for example) and dermal sedatives (to calm persons who
+translators, fluent in Polish for example, security staff, who can subdue
+enraged embryologists for example, and dermal sedatives, to calm persons who
 are screaming in Polish while hurling chairs and vases at reception staff, for
-example). Yes, most of the candidates are reasonably calm and well-behaved -
+example. Yes, most of the candidates are reasonably calm and well-behaved,
 but we need help handling the exceptions to that rule. Please respond.
 
 </speak>

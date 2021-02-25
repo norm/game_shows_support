@@ -1,6 +1,6 @@
 <speak>
 
-For Debriefing After Presentation 1
+<p>For Debriefing After Presentation 1</p>
 
 Candidates must be allowed to ask questions and be given the necessary time to
 fully absorb the information they have received.
@@ -25,6 +25,6 @@ Candidates should only be cleared to proceed to Presentation 2 if you believe
 their mental state is sufficiently stable.
 
 Note that real-time support will be available via your Focus. Security and
-medical crisis teams are [DATA CORRUPTED]
+medical crisis teams are <prosody volume='x-soft' rate='x-slow' pitch='x-low'>data corrupted</prosody>
 
 </speak>

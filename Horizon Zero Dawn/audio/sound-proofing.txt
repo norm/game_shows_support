@@ -1,10 +1,10 @@
 <speak>
 
-FROM: Lounge Staff
-TO: Admin
-SUBJECT: Sound Proofing?
+FROM Lounge Staff,
+TO Admin,
+SUBJECT, Sound Proofing?
 
-Would it possible to improve the sound-proofing between VR-1 and the lounge
+Would it be possible to improve the sound-proofing between VR-1 and the lounge
 area? Most of the candidates stay quiet during the presentation, but the ones
 who scream or sob can be plainly heard by candidates waiting their turn in the
 lounge.

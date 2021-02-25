@@ -1,8 +1,8 @@
 <speak>
 
-For Debriefing after Presentation 2
+<p>For Debriefing after Presentation 2</p>
 
-It is virtually important that candidates choose to participate in Project:
+It is vitally important that candidates choose to participate in Project
 Zero Dawn voluntarily and knowingly, without additional coercion and without
 value judgment on the part of the counselor.
 
@@ -23,7 +23,7 @@ that, while the reward of Elysium is not "fair," it will be earned. If
 possible, redirect their ethical misgivings towards greater commitment to the
 project.
 
-When candidates challenge the plausibility of Project: Zero Dawn, permit them
+When candidates challenge the plausibility of Project Zero Dawn, permit them
 to re-view Dr. Sobeck's presentation as many times as they wish and allow
 access to supplemental articles G01 through P20. Allow them to suspend the
 interview to fully process this documentation.
@@ -36,6 +36,6 @@ repeated consent when the procedure is scheduled to take place. No one will be
 euthanized against her or his will.
 
 Candidates who elect indefinite detention must be informed that they have 48
-hours to reverse their decision, after which the decision [DATA CORRUPTED]
+hours to reverse their decision, after which the decision <prosody volume='x-soft' rate='x-slow' pitch='x-low'>data corrupted</prosody>
 
 </speak>

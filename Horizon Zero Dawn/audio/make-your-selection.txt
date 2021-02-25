@@ -1,12 +1,12 @@
 <speak>
 
 You are now in possession of information regarding the true nature and purpose
-of Project: Zero Dawn, classified far above Top Secret. As such, we regret
+of Project Zero Dawn, classified far above Top Secret. As such, we regret
 that you cannot be allowed to leave this facility. There are three options
 available to you at this point. Please consider each carefully. Trained
 counselors are standing by to assist you in making your choice.
 
-1. PARTICIPATION
+<p>1. PARTICIPATION</p>
 
 You will be assigned to a sub-project team based on your area of expertise.
 You should be aware that the way forward will be difficult and the project's
@@ -16,9 +16,9 @@ monitored in real time. Upon successful completion of the project, you and
 your immediate family (or two persons of your choosing) will be transferred to
 the 'Elysium' sealed habitat to live out the remainder of your natural lives.
 
-2. INDEFINITE DETENTION
+<p>2. INDEFINITE DETENTION</p>
 
-Should you choose to decline participation in Project: Zero Dawn, you will be
+Should you choose to decline participation in Project Zero Dawn, you will be
 confined indefinitely. You will be given 48 hours to reconsider, after which
 your decision to refuse participation will be considered irrevocable. Every
 reasonable effort will be made to make your term of confinement as comfortable
@@ -27,7 +27,7 @@ death within 18 months due to the Faro Plague is inevitable. When the Zero
 Dawn facility is abandoned, detainees who wish not to opt for medical
 euthanasia will be released.
 
-3. MEDICAL EUTHANASIA
+<p>3. MEDICAL EUTHANASIA</p>
 
 The information you have just received understandably calls into question the
 purpose of continuing to live. If you would prefer to end your life at this
