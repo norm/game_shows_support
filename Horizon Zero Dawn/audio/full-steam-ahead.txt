@@ -1,10 +1,10 @@
 <speak>
 
-FROM: Elisabet Sobeck
-TO: Margo Shĕn
-SUBJECT: Full Steam Ahead
+FROM Elisabet Sobeck,
+TO Margo Shĕn,
+SUBJECT, Full Steam Ahead.
 
-Margo -
+<p>Margo,</p>
 
 If I doubted your brilliance in the slightest, I wouldn't have picked you as
 the HEPHAESTUS Alpha. You need to stop worrying about your age and

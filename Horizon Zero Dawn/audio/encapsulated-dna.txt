@@ -1,20 +1,20 @@
 <speak>
 
-FROM: Samina Ebadji
-TO: Elisabet Sobeck
-SUBJECT: Encapsulated DNA
+FROM Samina Ebah Gee,
+TO Elisabet Sobeck,
+SUBJECT, Encapsulated DNA.
 
-And the winner is: Encapsulated DNA.
+And the winner is, Encapsulated DNA.
 
 Over the past 10 days I performed an exhaustive review of data storage
-solutions. Magnetic. Optical. Quantum. Even that Eternity tech that FAS was
+solutions. Magnetic. Optical. Quantum. Even that Eternity tech that FAZ was
 shilling a year or so ago. But every other solution has one or more fatal
 shortcomings: too heavy to transport, too massive to install in the allotted
 space, too power-intensive over the centuries, too prone to failure past
 300-400 years, et cetera.
 
 Encapsulated DNA will easily hold the 40+ zettabytes we're projecting for
-APOLLO. There are still many details to finalize, or course. To start with, we
+APOLLO. There are still many details to finalize of course. To start with, we
 need to select the inert material in which we'll embed the molecules (already
 testing 16 candidate materials), as well as design and fabricate the power
 systems and sealed reliquaries that will keep the DNA at -18 degrees C for
@@ -26,7 +26,7 @@ the very building blocks of life to preserve human knowledge from mechanized
 extinction? It's not just ironic, but heroic - Life as the hero, beating back
 the forces of oblivion.
 
-In any case - much to do. Until next time -
+In any case - much to do. Until next time.
 
 Peace be with you,
 Samina

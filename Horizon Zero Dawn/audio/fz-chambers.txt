@@ -1,8 +1,8 @@
 <speak>
 
-FROM: Patrick Brochard-Klein
-TO: Elisabet Sobeck
-SUBJECT: FZ Chambers
+FROM Patrick Brochard-Klein,
+TO Elisabet Sobeck,
+SUBJECT, Eff Zed Chambers.
 
 The ectogenic chambers arrived two days ago.
 
@@ -11,14 +11,14 @@ documentation.
 
 They're a revelation. Astonishing.
 
-I don't know what you had to give Far Zenith in trade to get these chambers -
+I don't know what you had to give Far Zenith in trade to get these chambers,
 but it was worth it. In a single leap, their embryologists have vaulted past
 fifty years of technological shortcomings. The risks of ECMO - resolved.
 Nutrition delivery - resolved. Hormonal stability - resolved. Twelve other
 risk areas - resolved.
 
 Before I examined these chambers, I considered the Odyssey to be a fool's
-errand. But if the rest of FZ's technology is at this level, well... a human
+errand. But if the rest of Eff Zeds technology is at this level, well... a human
 colony around Sirius doesn't seem so impossible after all.
 
 Mass fabrication of the chambers will present a number of challenges, but I'm

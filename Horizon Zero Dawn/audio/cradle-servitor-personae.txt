@@ -1,24 +1,24 @@
 <speak>
 
-FROM: Patrick Brochard-Klein
-TO: Elisabet Sobeck
-SUBJECT: Cradle Servitor Personae
+FROM Patrick Brochard-Klein,
+TO Elisabet Sobeck,
+SUBJECT, Cradle Servitor Personae.
 
 Development of the artificial personae for Cradle servitors - nurturer,
 disciplinarian, healer - continues at a good pace. We are targeting Turing 0.4
 for these constructs; this should allow low-grade empathy and limited
 improvisation without undermining adherence to codified behavior sets.
 
-The stimulus-driven switching of personae, however, is proving to be a greater
+The stimulus-driven switching of personae however, is proving to be a greater
 software challenge than anticipated. Especially concerning are entrenched
 feedback loops between the disciplinarian and healer personae.
 
 I have also attached the reports from an incident where a servitor running the
 mother personae intervened on a disciplinarian servitor's behavior. A parental
-argument, if you will. Amusing on first glance, perhaps, but deeply
+argument, if you will. Amusing on first glance perhaps, but deeply
 concerning.
 
 I have attached a comprehensive plan for correcting these interactive protocol
-shortcomings. In just... [DATA CORRUPTED]
+shortcomings. In just <prosody volume='x-soft' rate='x-slow' pitch='x-low'>data corrupted</prosody>
 
 </speak>

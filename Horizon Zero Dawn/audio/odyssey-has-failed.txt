@@ -1,15 +1,15 @@
 <speak>
 
-FROM: Elisabet Sobeck
-TO: All-Alphas
-SUBJECT: Odyssey Has Failed
+FROM Elisabet Sobeck,
+TO All Alphas,
+SUBJECT, Odyssey Has Failed.
 
 All,
 
-Some terrible news, I'm afraid. Far Zenith has informed me that the Odyssey
+Some terrible news I'm afraid. Far Zenith has informed me that the Odyssey
 mission has failed. Last night, telemetry indicated a catastrophic antimatter
 containment failure as the drives spun up to depart the solar system. The
-ship, its crew, its cargo of zygotes and seeds, its alpha-build of APOLLO -
+ship, its crew, its cargo of zygotes and seeds, its alpha-build of APOLLO.
 all were lost.
 
 Zero Dawn is now the only hope for the continuation of the human species and

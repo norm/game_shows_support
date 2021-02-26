@@ -1,8 +1,8 @@
 <speak>
 
-FROM: Patrick Brochard-Klein
-TO: Elisabet Sobeck
-SUBJECT: Cradle Sealed
+FROM Patrick Brochard-Klein,
+TO Elisabet Sobeck,
+SUBJECT, Cradle Sealed.
 
 ELEUTHIA-01 was successfully sealed before the swarm advancing across Xinjiang
 province could detect it. Pingback from crucial systems is good. For our

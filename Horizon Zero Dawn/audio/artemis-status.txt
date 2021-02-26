@@ -1,14 +1,14 @@
 <speak>
 
-FROM: Charles Ronson
-TO: Elisabet Sobeck
-SUBJECT: ARTEMIS status
+FROM Charles Ronson,
+TO Elisabet Sobeck,
+SUBJECT, ARTEMIS status.
 
-It's coming along, Lis, I'm positive about it, if those words can still mean
+It's coming along Liz, I'm positive about it, if those words can still mean
 anything. Had my sleeves rolled up negotiating with frozen zoos for their
 samples - so many species trapped in ghoulish hologram dioramas, suspended in
 'what if's - more than fourteen thousand that went extinct between 2000 and
-2043 -
+2043.
 
 We've started mapping out primary succession, selecting the pioneer organisms
 for a balanced and sustainable biosphere - microorganisms and insects, rabbits
@@ -17,11 +17,11 @@ until our new generation can be entrusted with the duty of restoring them. So
 they can return to a world that - this time! - will understand the concept of
 conservation before it's too late.
 
-There's already been too many too lates. We lost a whole collection team
+There's already been too many too latesz. We lost a whole collection team
 during the swarm breakthrough in Myanmar. The samples we lost were... well,
 irreplaceable.
 
-But thanks to you, Lis, the circle of life will bend, not break. The Earth was
+But thanks to you Liz, the circle of life will bend, not break. The Earth was
 a lifeless rock before, and some day it will be again. But not now, not like
 this. Not on our watch.
 
