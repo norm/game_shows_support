@@ -1,8 +1,8 @@
 <speak>
 
-FROM: Director Evans
-TO: All
-SUBJECT: All Good Things...
+FROM Director Evans,
+TO All,
+SUBJECT, All Good Things...
 
 To All Staff,
 
@@ -12,10 +12,10 @@ twenty-four hours.
 
 As I'm sure you understand, exfiltration transport is not available. If you
 wish to abandon the facility and try your luck on foot, you may do so. Lock 2
-will unseal at 2100 hours and remain unsealed for 15 minutes. Godspeed.
+will unseal at 20 100 hours and remain unsealed for 15 minutes. Godspeed.
 
 For those who'd rather not die on our feet, there will be a gathering in the
-community room at 2200 hours, and Nurse Chana will make other means available.
+community room at 22 hundred hours, and Nurse Chana will make other means available.
 
 I want to underscore how proud I am of each and every person who served at
 this post. It is important to bear in mind that our sacrifices were not in
