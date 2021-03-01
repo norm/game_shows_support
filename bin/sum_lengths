@@ -1,0 +1,10 @@
+#!/usr/bin/env bash -euo pipefail
+
+total=0
+
+for f in "$@"; do
+    duration=$(duration -n "$f")
+    total=$((total + duration))
+    status -e $duration \[$duration\] $f
+done
+status -e $total \[$total\] TOTAL

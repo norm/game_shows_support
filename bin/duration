@@ -2,10 +2,17 @@
 #
 # Show the duration of a video.
 
+arg='-sexagesimal'
+
+if [ "${1:-}" = '-n' ]; then
+    arg=''
+    shift
+fi
+
 ffprobe \
     -v error \
     -show_entries format=duration \
     -of default=noprint_wrappers=1:nokey=1 \
-    -sexagesimal \
+    $arg \
     -i "$1" \
 | cut -d. -f1
