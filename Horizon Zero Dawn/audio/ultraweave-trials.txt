@@ -1,49 +1,50 @@
 <speak>
 
-UltraWeave Mk7.1 Trials, Oct 65
+<p>UltraWeave Mark 7 1 Trials, Oct 65.</p>
 
-Trial 49-B: 10/3/65
-Pass Threshold: 85/100
-Results:
-Ballistic Test: 91
-Shrapnel Test: 87
-Laser Test: 88
-Shield Integrity: 86
-Impact/Torso: 51
-Impact/Arms: 62
-Impact/Legs: 43
+Trial 49-B, 10/3/2065,
+Pass Threshold 85 of 100,
+Results.
 
-Notes: Weave is not tightening properly on local impact tests. We need to
+Ballistic Test 91,
+Shrapnel Test 87,
+Laser Test 88,
+Shield Integrity 86,
+Impact, Torso 51,
+Arms 62,
+Legs 43.
+
+Notes. Weave is not tightening properly on local impact tests. We need to
 optimize existing sensors or add more.
 
-Trial 51-K: 10/5/65
-Pass Threshold: 85/100
+Trial 51-K, 10/5/2065,
+Pass Threshold 85 of 100,
+Results.
 
-Results:
-Ballistic Test: 88
-Shrapnel Test: 91
-Laser Test: 87
-Shield Integrity: 87
-Impact/Torso: 67
-Impact/Arms: 75
-Impact/Legs: 81
+Ballistic Test 88,
+Shrapnel Test 91,
+Laser Test 87,
+Shield Integrity 87,
+Impact, Torso 67,
+Arms 75,
+Legs 81.
 
-Notes: Sensor optimization successful, but torso protection still lagging.
+Notes. Sensor optimization successful, but torso protection still lagging.
 Recommend increasing weave density.
 
-Trial 53-R: 10/6/65
-Pass Threshold: 85/100
+Trial 53-R, 10/6/2065,
+Pass Threshold 85 of 100,
+Results.
 
-Results:
-Ballistic Test: 92
-Shrapnel Test: 95
-Laser Test: 86
-Shield Integrity: 89
-Impact/Torso: 84
-Impact/Arms: 81
-Impact/Legs: 13
+Ballistic Test 92,
+Shrapnel Test 95,
+Laser Test 86,
+Shield Integrity 89,
+Impact, Torso 84,
+Arms 81,
+Legs 13.
 
-Notes: Getting there on the weave density and detection components, but an
+Notes. Getting there on the weave density and detection components, but an
 integration error on the left knee tanked the impact test. Ouch. Subject isn't
 going to be able to walk that one off. Surgery required.
 
