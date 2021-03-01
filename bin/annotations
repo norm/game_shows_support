@@ -31,6 +31,6 @@ for ((i=${#footage[@]}-1; i>=0; i--)); do
     status "++ {yellow}$text"
     [ -n "${DRY_RUN:-}" ] && continue
 
-    subl --new-window --wait "$text"
     play "$mp4"
+    subl --new-window --wait "$text"
 done

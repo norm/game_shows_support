@@ -1,5 +1,11 @@
-*/*mp4
-*/footage/*mp4
 */*m4v
+*/*mp4
 */audio/*mp3
+*/cache/
+*/footage/*m4a
+*/footage/*mp4
+*/images/map/
+*/raw/
+*/stock/
 */support/
+*/useless/
