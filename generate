@@ -1,6 +1,6 @@
 #!/usr/bin/env bash -euo pipefail
 
-DEFAULT_SHOW='Horizon Zero Dawn'
+DEFAULT_SHOW='Ezio Collection'
 show="$DEFAULT_SHOW"
 
 function usage {
