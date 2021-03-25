@@ -69,6 +69,7 @@ for seq in $(seq 1 99); do
         aws s3 cp "$job_file" "$transcript"
         aws s3 rm "$job_file"
         transcript_to_sbv "$transcript" > "$sbv"
+        mkdir -p support
         mv "$audio" "$transcript" support
         subl "$sbv"
         play "$video"

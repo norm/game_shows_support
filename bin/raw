@@ -15,6 +15,6 @@ for capture in "${captures[@]}"; do
             --partial \
             --info=progress \
                 "${CAPTURE_HOST}:$escaped" \
-                raw
+                raw/
     fi
 done
