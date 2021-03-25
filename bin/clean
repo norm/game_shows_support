@@ -7,7 +7,7 @@ mapfile -t captures < \
 
 for capture in "${captures[@]}"; do
     file="$(basename "$capture")"
-    if [ -f "$BACKUP_DIR/Game Shows/$GAME_SHOW_NAME/raw/$file" ]; then
+    if [ -f "$BACKUP_DIR/$GAME_SHOW_NAME/raw/$file" ]; then
         status -- "-- {cyan}removing $file"
         if [ -z "${DRY_RUN:-}" ]; then
             ssh ${CAPTURE_HOST} "rm '$capture'"
