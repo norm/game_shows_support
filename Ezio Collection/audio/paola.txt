@@ -1,0 +1,25 @@
+<speak>
+
+<p>
+  Date of Birth: 14 38, Profession, Madame of La Rosa Colta.
+</p>
+
+<p>
+  There isn't much information about Paola in the history books, but the
+  Florentine archives reveal that she was orphaned at age 8 when her parents
+  were killed at sea. Left with a choice between joining a nunnery and
+  prostitution, she began a life on the streets.
+</p>
+
+<p>
+  At 16, she vanishes from the records, only to reappear at age 20 when she
+  was arrested for murdering a city guard. On an interesting note, Giovanni
+  Auditore represented her in court, winning the case on a self-defense plea.
+</p>
+
+<p>
+  Released from prison, Paola went on to start her own brothel to protect
+  many other unfortunate women of the street.
+</p>
+
+</speak>

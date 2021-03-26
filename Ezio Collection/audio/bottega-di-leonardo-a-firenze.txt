@@ -1,0 +1,19 @@
+<speak>
+
+<p>
+  Leonardo da Vinci opened his own studio after completing his apprenticeship
+  to Verrocchio, one of the most successful Florentine artists of the day.
+</p>
+
+<p>
+  Between 1476 and 1481, Leonardo probably continued to collaborate with
+  Verrocchio, although no one is quite sure what he was working on. In 1481,
+  he was given his first commission by the monks of San Donato a Scoh peto, to
+  paint The Adoration of the Magi.
+</p>
+
+<p>
+  In true da Vinci style, he began the painting, but never finished it.
+</p>
+
+</speak>

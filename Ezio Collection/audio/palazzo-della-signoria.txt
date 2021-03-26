@@ -1,0 +1,22 @@
+<speak>
+
+<p>
+  Arnolfo di Cambio designed the Palazzo della Signoria (also known as the
+  Palazzo Vecchio) in 1299, for the rulers of Florence, the Signoria.
+</p>
+
+<p>
+  The Signoria was made up of nine members (or Priori) selected by the city’s
+  guilds, two from each district, and a Gonfalonier of Justice. Members were
+  supposed to be chosen by lot, but once the Medici family took power, only
+  their friends seemed to end up in the drawing. Government by the people,
+  right?
+</p>
+
+<p>
+  Interesting fact: The tower in front is off-centre because it was
+  incorporated into the Palazzo from an earlier structure. It contains two
+  small cells, one of which was used to imprison Cosimo de' Medici.
+</p>
+
+</speak>
