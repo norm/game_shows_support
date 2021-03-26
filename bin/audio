@@ -6,6 +6,8 @@
 # The text files can have embedded comments (lines starting with a #)
 # that are stripped before the audio is generated.
 
+voice=$(cat voice)
+
 for text in audio/*txt; do
     mp3="$( echo "$text" | sed -e 's/.txt/.mp3/')"
 
@@ -27,7 +29,7 @@ for text in audio/*txt; do
                 --endpoint-url "https://polly.eu-west-2.amazonaws.com/" \
                 --output-format mp3 \
                 --output-s3-bucket-name $S3_BUCKET \
-                --voice-id Joanna \
+                --voice-id ${voice:-Joanna} \
                 --text-type ssml \
                 --text "file://$input" 
         )
