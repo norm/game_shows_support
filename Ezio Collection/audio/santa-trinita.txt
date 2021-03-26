@@ -1,0 +1,22 @@
+<speak>
+
+<p>
+  Constructed over an existing church in 1258, Santa Trinita (Holy Trinity) is
+  known for its Sassetti chapel, which is decorated with frescos of the life
+  of Saint Francis by Domenico Ghirlandaio, a painter most famous for his
+  brief role as one of Michelangelo’s teachers.
+</p>
+
+<p>
+  Santa Trinita was the mother church of the Vallumbrosan order of monks, a
+  very serious group that strictly enforced both poverty and silence, for
+  life.
+</p>
+
+<p>
+  Despite the beauty of the Santa Trinita frescos, very few Vallumbrosan monks
+  are likely to have seen them, on account of the fact that the monks received
+  beatings for going outside their monasteries.
+</p>
+
+</speak>

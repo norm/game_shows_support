@@ -1,0 +1,15 @@
+<speak>
+
+<p>
+  Completed in 1473, the Palazzo Auditore is notable for its rusticated
+  stonework and Roman pilasters. Giovanni Auditore designed the palazzo
+  himself, based on initial sketches by Leone Battista Alberti.
+</p>
+
+<p>
+  Once built, the palazzo became a fixture of the Santa Maria Novella
+  district. Lorenzo de' Medici mentioned in a letter addressed to Giovanni
+  dated 14 74, that he admired the façade’s lack of “ostentation”.
+</p>
+
+</speak>

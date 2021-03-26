@@ -1,0 +1,27 @@
+<speak>
+
+<p>
+  Date of Birth, 14 36, profession, Banker, Advisor, Noble.
+</p>
+
+<p>
+  Giovanni Auditore was one of the pivotal figures in 15th Century Florentine
+  banking. In charge of overseeing the Medici bank branches across Italy, he
+  kept the Medici machine running while Lorenzo was busy with the government.
+  Extending his reach out into the international operation, it was Giovanni
+  who first noticed the problems with the Lyon bank, causing him to alert
+  Francesco Sassetti, which saved the branch.
+</p>
+
+<p>
+  Such great talent was well rewarded by Il Magnifico. Giovanni developed a
+  close friendship with Lorenzo de' Medici, becoming one of his closest
+  advisors. Successful negotiations to secure the Pope's support of the Medici
+  bank in 1471 were carried out by Giovanni.
+</p>
+
+<p>
+  Relieved and grateful, Lorenzo paid for Giovanni's palazzo, as a gift.
+</p>
+
+</speak>

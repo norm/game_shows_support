@@ -1,0 +1,23 @@
+<speak>
+
+<p>
+  Date of Birth: 14 61, profession, Student, Noble.
+</p>
+
+<p>
+  The third child of Giovanni and Maria Auditore, and the first girl in the
+  family, Claudia seems to have been a bit of a spoiled brat. It looks like
+  her parents had to raise her dowry by 1000 florins after she scared away all
+  her potential suitors.
+</p>
+
+<p>
+  A report from her school indicates she once attacked another girl for
+  looking at her boyfriend, and knocked her out cold.
+</p>
+
+<p>
+  On the plus side, she's Etseo's sister, so you should be safe.
+</p>
+
+</speak>

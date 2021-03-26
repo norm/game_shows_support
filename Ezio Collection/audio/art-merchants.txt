@@ -1,0 +1,18 @@
+<speak>
+
+<p>
+  The shops of Renaissance artists were usually small, and dealt mainly in
+  religious decorations for churches or homes. Artists were not considered
+  visionaries as they are today, but were treated merely as craftsmen, just
+  like carpenters and blacksmiths. The production of art was usually
+  cooperative.
+</p>
+
+<p>
+  The head of the shop was the master, who received commissions and oversaw
+  the assembly of the painting. He was expected to be a businessman and turn a
+  profit, usually creating copies of whatever religious paintings were in
+  vogue at the time.
+</p>
+
+</speak>

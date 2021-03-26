@@ -1,0 +1,11 @@
+<speak>
+
+<p>
+  Every Renaissance community needed a blacksmith. Swords, locks, pans,
+  knives, nails, and armour were all made from metal and all needed to be
+  shaped. In addition architectural ironwork flourished during the
+  Renaissance as blacksmiths began to apply their practical craft towards
+  making art.
+</p>
+
+</speak>

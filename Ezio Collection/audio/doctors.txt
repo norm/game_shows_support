@@ -1,0 +1,22 @@
+<speak>
+
+<p>
+  Diagrams of the human body and the printing press influenced Renaissance
+  medicine greatly, which had in turn been influenced by Arabic medicine
+  during the Middle Ages.
+</p>
+
+<p>
+  By the 15th Century, science had already begun its slow climb toward
+  becoming more relevant than spirituality in the field of healthcare.
+  However, many people stubbornly clung to old ways, visiting local mystics
+  instead of doctors.
+</p>
+
+<p>
+  After the plague ravaged Europe in 1350, many doctors dressed in special
+  plague gear to treat patients. To prevent contamination, they wore a cape
+  coated in wax, and a primitive gas mask in the shape of a beak.
+</p>
+
+</speak>

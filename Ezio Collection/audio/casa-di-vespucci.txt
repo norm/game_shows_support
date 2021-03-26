@@ -1,0 +1,10 @@
+<speak>
+
+<p>
+  Built by a distant great-great uncle of the famous Amerigo Vespucci in 1350,
+  the relatively unpresumptuous Vespucci residence is notable for displaying
+  the first painted façade in Florence, a style that was later done to death
+  in the Oltrarno district.
+</p>
+
+</speak>

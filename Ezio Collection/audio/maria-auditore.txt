@@ -1,0 +1,39 @@
+<speak>
+
+<p>
+  Date of Birth: 14 32, profession, Writer, Noble.
+</p>
+
+<p>
+  "I grow tired of these walls that surround me and am bored with safety. Now,
+  is the time to make a decision: I will go out there and see what my life may
+  truly be."
+</p>
+
+<p>
+  Maria wrote those words when she was 16, a week before she met Giovanni
+  Auditore.
+</p>
+
+<p>
+  Born into a powerful banking family, the Mozzi, Maria is one of the most
+  famous historical sources of the time period due to her multi-volume diary,
+  which has been translated by several notable scholars and is on display in
+  the Uffizi Gallery in Florence.
+</p>
+
+<p>
+  With funding from her parents, Maria opened up a bakery in the courtyard of
+  her family palazzo, which she transformed into an artistic gathering place.
+  It was there that she met "a man with such conviction I found myself rooted
+  to the spot, unable to look anywhere else". That man was Giovanni Auditore.
+</p>
+
+<p>
+  Maria and Giovanni were married in 1450. Maria's diary entries continue for
+  the next few decades, describing her patronage of several up-and-coming
+  artists and her trials as a mother, at which point she abruptly abandons her
+  writing, to the disappointment of historians everywhere.
+</p>
+
+</speak>

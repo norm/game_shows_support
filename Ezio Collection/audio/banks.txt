@@ -1,0 +1,19 @@
+<speak>
+
+<p>
+  With the advent of double entry bookkeeping, which allowed bankers to keep
+  track of their clients' deposits and withdrawals, and the proliferation of
+  many different types of Italian currency into the pool of circulation, banks
+  became an essential part of everyday Renaissance life.
+</p>
+
+<p>
+  Banks technically couldn't make money on their money, because the Catholic
+  Church forbade the charging of interest, but in practice this restriction
+  wasn't followed by bankers, or even by the Vatican which participated in
+  the banking system and required banks to pay the Pope "gifts" in proportion
+  to the amount of money he had deposited with them. As long as it isn't
+  called "interest", God won't notice right?
+</p>
+
+</speak>

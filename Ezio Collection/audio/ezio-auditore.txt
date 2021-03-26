@@ -1,0 +1,27 @@
+<speak>
+
+<p>
+  Date of Birth: 14 59, profession: Student, Noble.
+</p>
+
+<p>
+  In a diary entry from 1474, Maria Auditore one of the great Florentine
+  chroniclers and Etseo's mother, describes her son as "competitive, stubborn
+  and loud mouthed, but so passionate that it is impossible to fault him for
+  anything". Complaints to the city guard by several noble patricians seem to
+  suggest he was also something of a womanizer.
+</p>
+
+<p>
+  Tutored by the great banker Giovanni Tornabuoni, Ezio's school records cease
+  around age 17, at which point his name is connected with some terrible
+  crime.
+</p>
+
+<p>
+  It is impossible to discern what it could be from the records, there's very
+  little here, but afterward Ezio drops out of history entirely, as if he
+  never existed.
+</p>
+
+</speak>

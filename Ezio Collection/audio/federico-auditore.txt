@@ -1,0 +1,26 @@
+<speak>
+
+<p>
+  Date of Birth: 14 56, profession, Student, Noble.
+</p>
+
+<p>
+  Etseo's older brother and the eldest Auditore, Federico entered the Medici
+  bank as a clerk when he was 19. However, the bank logs indicate he mostly
+  dicked around rather than actually working.
+</p>
+
+<p>
+  One entry goes into detail. On September 17, 1475, a bag of gold florins
+  went missing: "After panic struck the bank, the elder Auditore approached
+  Francesco Sassetti, and with a smile revealed the location of the bag, which
+  had been hidden on the rooftop! If he weren't the son of Giovanni Auditore,
+  I'd speak to Lorenzo de' Medici and have him put in the stocks!"
+</p>
+
+<p>
+  Unsurprisingly, Federico was removed from the bank's payroll shortly after
+  his 20th birthday.
+</p>
+
+</speak>

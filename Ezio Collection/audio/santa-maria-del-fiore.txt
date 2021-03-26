@@ -1,0 +1,37 @@
+<speak>
+
+<p>
+  One of Italy’s largest churches and the largest landmark in Florence, Santa
+  Maria del Fiore is considered by many to be the first masterpiece of
+  Renaissance architecture.
+</p>
+
+<p>
+  Although the church was designed by Arnolfo di Cambio in 1296, the dome was
+  not started until the beginning of the 15th Century. With Cambio long dead,
+  none of the architects at that time had any idea how to construct such an
+  enormous structure, since the use of buttresses was forbidden in Florence
+  and mortar took several days to set.
+</p>
+
+<p>
+  But all was not lost. In an amazing comeback story, Filippo Brunelleschi, an
+  architect who had been defeated in an earlier bid to design the Baptistery
+  doors, won the competition to build the dome. He beat out Lorenzo Ghiberti,
+  the same artist he had lost to before.
+</p>
+
+<p>
+  Brunelleschi invented machines to hoist the bricks needed for the dome up to
+  the workers and was able to construct the entire dome without using centring
+  (a support structure to hold the dome in place while bricks were laid).
+  Containing over 4 million bricks, the dome was completed in 1436.
+</p>
+
+<p>
+  The lantern was added after Brunelleschi’s death in 1446, and supposedly
+  contains holy relics. However, there were several rumors that in fact an
+  entire tomb of unknown origin is located inside.
+</p>
+
+</speak>

@@ -1,0 +1,20 @@
+<speak>
+
+<p>
+  Date of Birth, 14 63, profession, Student, Noble.
+</p>
+
+<p>
+  The youngest of the Auditore children, Petrucio was described as "having a
+  weak constitution" by Giovanni Auditore in a letter to Lorenzo de' Medici
+  soon after the boy's birth.
+</p>
+
+<p>
+  Apparently, he didn't improve with time. Petrucio was pulled from school
+  due to illness when he was 12 and according to records from the family
+  doctor was confined to bed. No other data exists after that, so it is
+  probable that he eventually succumbed to his illness.
+</p>
+
+</speak>
