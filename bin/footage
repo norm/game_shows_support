@@ -28,7 +28,7 @@ for mkv in raw/*mkv; do
 
         # create annotation files for each video, and open
         # the video and text as a prompt to fill it out
-        touch "$notes"
+        [ ! -f "$notes" ] && cat footage/template.txt > "$notes"
         subl "$notes"
         play "$mp4"
 

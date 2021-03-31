@@ -112,6 +112,8 @@ case "${1:-all}" in
         raw
         status -l "== {bold}{yellow}footage"
         footage
+        status -l "== {bold}{yellow}annotations"
+        annotations empty
         status -l "== {bold}{yellow}audio"
         audio
         status -l "== {bold}{yellow}captions"

@@ -1,0 +1,23 @@
+# flags:
+#   a  aborted mission run
+#   b  bug; visual glitch, something else amusing
+#   d  database entry
+#   e  end card footage
+#   g  Glyph
+#   m  music on
+#   r  rejected
+#   s  sfx on
+#   v  voice on
+#   x  death
+# time,flags,mission/other description
+
+0:00:00,,
+0:00:00,,
+0:00:00,,
+0:00:00,,
+0:00:00,,
+0:00:00,,
+0:00:00,,
+0:00:00,,
+0:00:00,,
+0:00:00,,

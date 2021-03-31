@@ -6,7 +6,7 @@
 # Usage:
 #     annotations [empty | glob*]
 #
-#     empty   only edit empty annotation files
+#     empty   only edit unfinished annotation files
 #     glob*   only edit annotations that match the provided filename pattern
 
 footage=(footage/*mp4)
@@ -16,21 +16,25 @@ for ((i=${#footage[@]}-1; i>=0; i--)); do
     # skip rendered maps
     [[ "$mp4" = footage/*Map\ Base* ]] && continue
 
-    text="$( echo "$mp4" | sed -e 's/.mp4/.txt/')"
-    [ ! -f "$text" ] && touch "$text"
+    notes="$( echo "$mp4" | sed -e 's/.mp4/.txt/')"
+    [ ! -f "$notes" ] && cat footage/template.txt > "$notes"
 
     if [ "${1:-}" = empty ]; then
-        # only edit empty files
-        size=$(stat -f'%z' "$text")
-        [ "$size" -gt 0 ] && continue
+        size=$(stat -f'%z' "$notes")
+        placeholders=$(grep 0.00.00 "$notes" || true)
+
+        if [ "$size" -gt 10 -a -z "$placeholders" ]; then
+            continue
+        fi
+        [ "$size" -lt 10 ] && cat footage/template.txt > "$notes"
     else
         # only edit matching filenames
         [[ "$mp4" != *${1:-}* ]] && continue
     fi
 
-    status "++ {yellow}$text"
+    status "++ {yellow}$notes"
     [ -n "${DRY_RUN:-}" ] && continue
 
     play "$mp4"
-    subl --new-window --wait "$text"
+    subl --new-window --wait "$notes"
 done
