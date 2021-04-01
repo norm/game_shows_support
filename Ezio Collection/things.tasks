@@ -1,14 +1,15 @@
 Capture chapter %d footage
+Capture chapter %d music
 Capture chapter %d end card
 Edit chapter %d footage
-Create map for chapter %d
-Add any datapoints for chapter %d
+Add any database entries found in chapter %d
 Render chapter %d
 Generate and edit chapter %d captions
 Double-check chapter %d footage
 Create chapter %d thumbnail
 Upload chapter %d
+Set chapter %d details and end card positions
 Retime chapter %d captions 
-Add chapter %d details and end card
 Publish chapter %d
-Add chapter %d to HZD playlist
+Add chapter %d to EC playlist
+Write detailed thread about chapter %d
