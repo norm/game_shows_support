@@ -1,0 +1,20 @@
+0:00:01,avs,Special Delivery
+0:03:32,vs,Special Delivery
+0:10:11,d,Palazzo della Signoria
+0:12:07,avs,Jailbird
+0:17:27,vs,Jailbird
+0:30:00,vs,Family Heirloom
+0:38:22,vs,Last Man Standing
+0:41:20,vs,Start of Sequence 2
+0:46:56,d,La Rosa Colta
+0:48:05,g,Glyph 1
+0:53:30,vs,Fitting In
+0:58:57,vs,Ace Up My Sleeve
+1:13:30,avs,Judge Jury Executioner
+1:14:45,vs,Judge Jury Executioner
+1:22:13,d,Letter from Uberto Alberti
+1:23:48,d,Letter from Giovanni Auditore 4
+1:28:16,vs,Laying Low
+1:31:22,avs,Arrivaderci
+1:36:54,vs,Arrivaderci
+1:42:39,vs,Start of Sequence 3, Monteriggioni

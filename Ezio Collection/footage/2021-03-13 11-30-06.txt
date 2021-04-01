@@ -1,0 +1,35 @@
+0:00:01,,launch Game from PS4 menu
+0:04:57,msv,"My name is Desmond Miles"
+0:07:33,rmsv,leaving Abstergo
+0:19:34,rsv,hideout
+0:24:28,rsv,Boys Will Be Boys
+0:30:44,rsv,You Should See The Other Guy
+0:32:22,rsv,Sibling Rivalry
+0:34:04,rsv,Nightcap
+0:41:10,rsv,Paperboy
+0:42:14,d,Letter from Giovanni Auditore 1
+0:47:02,m,Activate Viewpoint
+0:53:55,asv,leaving Abstergo
+1:15:38,m,leaving Abstergo
+1:32:15,m,hideout
+1:39:00,m,Boys Will Be Boys
+1:44:54,m,You Should See The Other Guy
+1:46:10,m,Sibling Rivalry
+1:48:30,m,Nightcap
+1:54:30,am,Paperboy
+1:57:20,,visual setup of game
+2:12:17,v,leaving Abstergo
+2:23:40,s,leaving Abstergo
+2:34:22,sv,hideout
+2:42:42,rsv,Boys Will Be Boys
+2:48:45,rsv,You Should See The Other Guy
+2:50:20,rsv,Sibling Rivalry
+2:52:36,rsv,Nightcap
+2:59:30,d,Palazzo Auditore
+3:00:10,rsv,Paperboy
+3:01:20,d,Letter from Giovanni Auditore 1
+3:03:15,d,Tailors
+3:04:10,d,Tailors
+3:09:10,d,Art Merchants
+3:13:20,rsv,Beat A Cheat
+3:19:35,rsv,Petruccio's Secret

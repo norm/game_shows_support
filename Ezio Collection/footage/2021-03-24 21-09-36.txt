@@ -1,0 +1,21 @@
+0:00:01,sv,approaching Monteriggioni
+0:01:17,sv,Vieri outside Monteriggioni
+0:04:17,d,Monteriggioni
+0:06:05,asv,Casa Dolce Casa, aborted
+0:07:18,v,Casa Dolce Casa
+0:11:44,as,Casa Dolce Casa, aborted
+0:13:04,as,Casa Dolce Casa, aborted
+0:14:10,s,Casa Dolce Casa
+0:17:42,rsv,Casa Dolce Casa
+0:20:18,sv,Buy armour, blade, health
+0:23:12,sv,Second glyph 
+0:26:40,d,Mario Auditore 
+0:27:10,asv,Practice Makes Perfect, aborted
+0:30:33,asv,Practice Makes Perfect, aborted
+0:32:40,sv,Practice Makes Perfect
+0:40:46,sv,Go see Mother, leave Monteriggioni
+0:43:20,d,Caravan travel
+0:44:40,sv,Arrive San Gimignano, go to Mario
+0:45:20,asv,What Goes Around, aborted
+0:47:10,asv,What Goes Around, aborted
+0:57:17,b,guy flies into the air

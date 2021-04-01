@@ -1,0 +1,15 @@
+0:00:38,d,Mercenaries
+0:00:47,d,Doctors
+0:01:55,d,Courtesans
+0:02:35,d,Annetta
+0:03:22,d,Paola
+0:04:43,d,Uberto Alberti
+0:05:46,d,Letter from Uberto Alberti
+0:06:47,d,Vieri de' Pazzi
+0:07:39,d,Santa Croce
+0:09:35,d,Palazzo della Signoria
+0:10:31,d,Giotto's Campanile
+0:11:41,d,Villa Auditore
+0:12:37,d,Monteriggioni
+0:13:53,d,Codex Page 3
+0:14:12,d,Letter from Giovanni Auditore 4

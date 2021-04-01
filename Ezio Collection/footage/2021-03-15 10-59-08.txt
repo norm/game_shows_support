@@ -1,0 +1,33 @@
+0:00:01,sv,Boys Will Be Boys
+0:07:15,sv,You Should See The Other Guy
+0:09:00,fsv,Sibling Rivalry
+0:09:52,sv,Sibling Rivalry
+0:11:22,sv,Nightcap
+0:19:20,sv,Paperboy
+0:19:34,d,Letter from Giovanni Auditore 1
+0:21:39,d,Blacksmiths
+0:26:16,d,Tailors
+0:28:00,sv,Paperboy (end)
+0:28:25,d,Claudia Auditore
+0:29:10,sv,Beat A Cheat
+0:33:25,sv,Petruccio's Secret
+0:37:09,sv,Friend Of The Family
+0:38:42,d,Banks
+0:41:38,sv,Friend Of The Family (end)
+0:42:00,d,Leonardo da Vinci
+0:43:02,d,Giovanni Auditore
+0:43:41,d,Claudia Auditore
+0:44:00,d,Santa Maria del Fiore
+0:44:57,d,Petruccio Auditore
+0:45:18,d,Maria Auditore
+0:46:11,d,Bottega di Leonardo a Firenze
+0:46:40,d,Art Merchants
+0:47:07,d,Cristina Vespucci
+0:47:46,d,Federico Auditore
+0:48:10,d,Ezio Auditore
+0:48:41,d,Palazzo Auditore
+0:48:56,d,Casa di Vespucci
+0:49:10,d,Santa Trinita
+0:49:38,d,Ponte Vecchio
+0:50:27,d,San Giovanni District
+0:50:43,d,Firenze
