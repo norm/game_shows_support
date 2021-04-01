@@ -1,0 +1,25 @@
+#!/usr/bin/env -S bash -euo pipefail
+#
+# savedata
+#     backup and restore game save data
+#
+# Usage:
+#     savedata backup|restore <name>
+#
+#     backup    copy the game state from the USB to a directory <name>
+#     restore   copy the game state from directory <name> to the USB
+
+USB_DRIVE='PS4STATE'
+USB_DIR="PS4/SAVEDATA/5b3d959a7a3dc8cc/$GAME_ID"
+
+dryrun=''
+[ -n "${DRY_RUN:-}" ] && dryrun='-n'
+
+case "$1" in
+    backup)     rsync $dryrun -avP /Volumes/$USB_DRIVE/$USB_DIR/. saves/$2/.
+                ;;
+    restore)    rsync $dryrun -avP saves/$2/. /Volumes/$USB_DRIVE/$USB_DIR/.
+                ;;
+    list)       ls -l saves
+                ;;
+esac
