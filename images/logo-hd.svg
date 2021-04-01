@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox='0 0 1480 1000'>
+<style>
+  #unit-border,
+  #screen-border {
+    stroke: #444;
+    //opacity: 0.25;
+  }
+
+  #receiver path {
+    stroke: #444;
+  }
+  #receiver circle,
+  #receiver #base {
+    fill: #444;
+    stroke: #444;
+  }
+
+  #power-button rect,
+  #channel-button circle {
+    fill: #801014;
+  }
+</style>
+
+<g id='tv-body-fill'>
+  <rect
+    x='40' y='250'
+    width='1400' height='89'
+    stroke-width='0'
+    fill='#fff'
+  />
+  <rect
+    x='40' y='880'
+    width='1400' height='89'
+    stroke-width='0'
+    fill='#fff'
+  />
+  <rect
+    x='40' y='290'
+    width='60' height='670'
+    stroke-width='0'
+    fill='#fff'
+  />
+  <rect
+    x='1090' y='290'
+    width='350' height='670'
+    stroke-width='0'
+    fill='#fff'
+  />
+</g>
+
+<rect id='screen-border'
+  x='100' y='320'
+  width='1000' height='580'
+  stroke-width='40'
+  fill='none'
+  rx='50'
+/>
+
+<rect id='unit-border'
+  x='20' y='240'
+  width='1440' height='740'
+  stroke-width='40'
+  fill='none'
+  rx='100'
+/>
+
+<g id='power-button'>
+  <rect
+    x='1260' y='680'
+    width='40' height='200'
+    stroke-width='0'
+  />
+  <rect
+    x='1180' y='760'
+    width='200' height='40'
+    stroke-width='0'
+  />
+</g>
+
+<g id='channel-button'>
+  <circle id='button-left'
+    cx='1200' cy='460'
+    r='40'
+  />
+  <circle id='button-right'
+    cx='1360' cy='460'
+    r='40'
+  />
+  <circle id='button-top'
+    cx='1280' cy='380'
+    r='40'
+  />
+  <circle id='button-bottom'
+    cx='1280' cy='540'
+    r='40'
+  />
+</g>
+
+<g id='receiver'>
+  <path id='base'
+    d='M500,220 L700,220 A105,105 0 0 0 500,220'
+  />
+  <path id='antenna'
+    d='M350,30 L600,200 L850,30' 
+    stroke='#333'
+    stroke-width='20'
+    fill='none'
+  />
+  <circle
+    cx='350' cy='30'
+    r='30'
+  />
+  <circle
+    cx='850' cy='30'
+    r='30'
+  />
+</g>
+
+</svg>
