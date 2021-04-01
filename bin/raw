@@ -11,7 +11,8 @@ for capture in "${captures[@]}"; do
     status "++ {green}$file"
     if [ -z "${DRY_RUN:-}" ]; then
         rsync \
-            --inplace \
+            --perms \
+            --times \
             --partial \
             --info=progress \
                 "${CAPTURE_HOST}:$escaped" \
