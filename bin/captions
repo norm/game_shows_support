@@ -71,6 +71,8 @@ for seq in $(seq 1 99); do
         transcript_to_sbv "$transcript" > "$sbv"
         mkdir -p support
         mv "$audio" "$transcript" support
+        git add "$sbv"
+        git commit -m"Add draft captions for ${sbv%%.sbv}"
         subl "$sbv"
         play "$video"
     done
