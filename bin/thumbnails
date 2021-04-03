@@ -55,6 +55,8 @@ function capture_thumbnail {
             status '{bold}{magenta}   could not make thumbnail'
             exit 2
         fi
+
+        git add "$jpg"
     fi
 }
 

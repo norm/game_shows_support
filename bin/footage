@@ -43,6 +43,7 @@ for mkv in raw/*mkv; do
                         ;;
                 y|Y)    chose=1
                         add_to_things "Properly annotate $(basename "$mp4")"
+                        git add "$notes"
                         ;;
                 *)      sleep 1
                         ;;

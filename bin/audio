@@ -58,5 +58,6 @@ for text in audio/*txt; do
         aws s3 cp "$job_file" "$mp3"
         aws s3 rm "$job_file"
         play "$mp3"
+        git add "$text"
     fi
 done
