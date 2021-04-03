@@ -47,6 +47,7 @@ function backup_to_s3 {
         --exclude \*/cache\* \
         --exclude \*/support\* \
         --exclude \*/raw/\* \
+        --exclude \*/\*.m4v \
         --exclude .git\* \
             . \
             "s3://$S3_BUCKET"
