@@ -138,6 +138,11 @@ case "${1:-all}" in
 
     *)
         pushd "$show" >/dev/null
-        exec "$@"
+        "$@"
         ;;
 esac
+
+if [ -z "${DRY_RUN:-}" ]; then
+    echo ''
+    git status -bs
+fi
