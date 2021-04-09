@@ -1,0 +1,107 @@
+Hello. My name is Norm, and I am the creator of the Game Shows channel videos.
+
+This is a behind the scenes look at two short cinematic scenes featured in
+Chapter 54 of my Horizon Zero Dawn playthrough, where I made some changes
+rather than using the footage straight as it comes out of the game. And I'm
+going to explain why I spent more or less an entire working day on making
+those changes, rather than leaving the footage as it was.
+
+Bear in mind, this will include the ending of the mission, so if you haven't 
+yet watched that chapter, or played to that part of the game, this will spoil
+it for you, so maybe stop watching now.
+
+The sequence in question is Aloy being thrown into the Sun Ring by Helis,
+and her subsequent escape.
+
+Let's start with the game's version of the sequence.
+
+Once Helis has finished talking with Aloy, he walks away, we cut to a speech
+he gives the crowd, and Aloy is dropped into the pit to face the Behemoth.
+During the entire conversation with Helis there is no evidence that there
+is already a crowd in the Sun Ring. You don't see or hear anyone other than
+Helis and Aloy.
+
+In my edit of this sequence I fade to black, and before fading back up,
+overlay the crowd noise. This gives a sense that that time has passed, that
+the crowd has gathered, and also shows that the crowd is anxious for something
+to happen. This means when the camera returns to Aloy, the way she is sat and
+the expression on her face hopefully better conveys the impression that she
+has been sat there listening to the crowd eager for the spectacle of a fight.
+
+The next change I make is to the music. Now, Horizon makes great use of music,
+especially in cinematic sequences. In this sequence, we get drumbeats as Helis
+approaches his balcony to give a speech, which then stop as he starts talking.
+Then the drums return to punctuate some of his statements, and the appearance
+of the Corruptors.
+
+In my edit, I keep the music away until the point where Corruptors appear. I
+am using the music to emphasise their appearance, and that their presence is
+the real threat at this point in the game.
+
+I also take the time to remove any visual glitches. People and objects
+suddenly appearing as the game engine failed to load them quickly enough,
+textures changing. For example, here as the Corruptors come into the ring,
+some of the crowd are suddenly shifted across the screen, and everyone is
+floating in midair. 
+
+The thing is when you're playing a game, this is a one-off, and little
+annoyances like that are something you can generally live with. Indeed, you
+may not even notice, they go by so quickly. But my essential conceit with this
+channel is treating video game footage more like televisual content, such as
+trying to arrange the story into chapters. It is something you watch rather
+than control. So I want the end result to be as glitch free as possible.
+
+Now this isn't always easy to do, especially if it is on screen too long or is
+in a sequence without easy places to cut. For example, during the gameplay
+when Aloy has no weapons, I swung the camera around and the gates to the Sun
+Ring were missing. No matter how many times I captured this sequence, it kept
+happening, so in the end I left it in and timed it to appear just after Aloy
+says "there's no way out of this ring".
+
+You can also see it in Chapter 19, during the fight in Lone Light where
+an entire building is missing when the camera swings around and then suddenly
+pops back into place.
+
+After the fight, we get another cinematic sequence.
+
+In the original sequence, after getting onto the Strider and turning around,
+we cut to the cloud at the gates and three overridden Ravagers appear. Very
+impressive, crowd goes wild. But then we get a wide shot, and we see Sylens
+and Aloy on Striders, the Corruptors, and the newly made hole in the wall.
+Where are the Ravagers?
+
+Shooting, shooting, and if we rewind this and go frame by frame you can see
+the Ravagers appear on the edge of the picture just before it cuts. Then in
+this part, we've just seen Aloy ride past, so where is she here? Wide shot,
+and there she is with Sylens. Helis gets annoyed.
+
+Essentially, the scene introduces the Ravagers, whips them away, and then puts
+them back in again. Possibly because then there would be too many high
+resolution models on screen at once. 
+
+One of the problems I have when I make these videos is that as I am editing
+the footage I will end up watching a sequence like this many times, and
+continuity like this annoy me. So I end up having to quote-unquote fix the
+problem in order to calm my nerves.
+
+I change the order so that the Ravagers appear as Sylens and Aloy are running
+past the Corruptors. Crowd still goes wild.
+
+Then as disappear into the cloud, and then there's a fairly standard thing
+where the game fades to black. Because it is loading, you can't avoid things
+like that, so the game traditionally fades to black. But the crowd noise
+continues inexplicably. You get the mission ding, irritatingly without any
+text on screen. Babbling brook sound, and then the game has finished loading
+and fades back up to Aloy and Sylens having a conversation, adding more
+exposition to the game.
+
+In my edit, the crowd noise goes away, and there's no excessive wait. And one
+of the side effects of making small adjustments to video, trimming out two or
+three frames here because of a visual glitch, or taking out half a second or
+more where there's footage that you're just not including, the end result is
+that the music no longer lines up.
+
+In this case, that provides a useful side effect, where the music continues
+beyond the point where Aloy disappear into the dust cloud, and into the
+conversation. The music essentially connects them, gluing the cinematic
+and the conversation together.
