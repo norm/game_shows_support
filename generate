@@ -22,6 +22,9 @@ EOF
     exit 0
 }
 
+function _pushd { pushd "$1" >/dev/null; }
+function _popd  { popd       >/dev/null; }
+
 function backup_to_local_disk {
     find . -name .DS_Store -exec rm {} \;
 
@@ -34,10 +37,20 @@ function backup_to_local_disk {
         --exclude "*/*.m4v" \
         . \
         "$BACKUP_DIR/."
+
+    # highlight any differences between the backup dir and the main dir
+    # (shows files that can be deleted from the backup, for example)
+    backup_status=$(mktemp)
+    _pushd "$BACKUP_DIR"
+    git status -bs > $backup_status
+    _popd
+
+    colordiff -u <(git status -bs) $backup_status \
+        || true
 }
 
 function backup_to_s3 {
-    pushd "$BACKUP_DIR" >/dev/null
+    _pushd "$BACKUP_DIR"
 
     dryrun=''
     [ -n "${DRY_RUN:-}" ] && dryrun='--dryrun'
@@ -52,7 +65,7 @@ function backup_to_s3 {
             . \
             "s3://$S3_BUCKET"
 
-    popd >/dev/null
+    _popd
 }
 
 case "${1:-}" in
