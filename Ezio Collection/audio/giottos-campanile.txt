@@ -1,0 +1,23 @@
+<speak>
+
+<p>
+  Begun by Giotto di Bondone (the famous architect and painter) in 1334, this
+  famous gothic bell tower was incomplete when Giotto died. Andrea Pisano took
+  over and then in 1348 was felled by the Black Death.
+</p>
+
+<p>
+  In 1359, the tower was completed by Francesco Talenti, who deviated from
+  Giotto’s plan in his design of the upper three floors. He enlarged each
+  floor to match the previous according to perspective so when seen from
+  below, all three floors seem to be exactly the same size.
+</p>
+
+<p>
+  The tower is clad with white marble from Carrara, red marble from Siena and
+  green marble from Prato. It takes exactly 414 steps to reach the top,
+  perhaps predicting Charles Messier’s discovery of the Whirlpool Galaxy
+  exactly 414 years later. Or perhaps not.
+</p>
+
+</speak>

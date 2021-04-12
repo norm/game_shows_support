@@ -1,0 +1,28 @@
+<speak>
+
+<p>
+  Constructed in 1290, the Villa Auditore is an important medieval predecessor
+  to early Renaissance architecture. The Villa’s wonderful symmetry and
+  ordered geometry were a revelation for its time.
+</p>
+
+<p>
+  Not only concerned with aesthetics, Domenico Auditore, Ezio Auditore’s
+  great-grandfather, designed his home to double as a fortress and training
+  ground, looking out both over the city that it protects and the Tuscan
+  plains.
+</p>
+
+<p>
+  After a Florentine attack in 1320 left the façade damaged, the present
+  façade was erected and a painting gallery was added to the interior.
+</p>
+
+<p>
+  Domenico was more than just an architect and a warrior; he was also a
+  skilled engineer. Recently discovered hidden compartments and rooms with
+  mechanisms blocking entry are several unique features of the building that
+  make it a technological marvel as well as an architectural one.
+</p>
+
+</speak>

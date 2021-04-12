@@ -1,0 +1,17 @@
+<speak>
+
+<p>
+  Travel in the Renaissance was not the disgusting ordeal it is today.
+  Instead, it was merely terrifying. The countryside was filled with bandits,
+  causing most travellers to move in armed groups called caravans. Anxious
+  voyagers usually sewed valuables and gold into the soles of their shoes or
+  the lining of their jackets.
+</p>
+
+<p>
+  Guides called Vetturini were sometimes hired to help plot the root of the
+  caravans and book rooms at local inns, but those carriers were often working
+  with the bandits, just like travel agents today.
+</p>
+
+</speak>
