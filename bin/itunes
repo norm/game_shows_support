@@ -82,7 +82,10 @@ function find_videos_between {
                     "$TV_HOST:$TV_LOCATION"
 
             status -t "Adding to iTunes"
-            escaped="$(echo "$itunes_video" | sed -e 's/ /\\ /g')"
+            escaped="$(
+                echo "$itunes_video" \
+                    | sed -e 's/ /\\ /g' -e "s/'/\\\\'/g"
+            )"
             ssh $TV_HOST "media-itunes-add $TV_LOCATION/$escaped"
         done
     done
