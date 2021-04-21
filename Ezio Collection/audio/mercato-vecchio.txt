@@ -1,0 +1,23 @@
+<speak>
+
+<p>
+  The centre of Florentine business, the Mercato Vecchio served all the
+  shopping needs of the city. To quote Antonio Pucci, a 14th Century
+  Florentine poet: "Physicians dwelt around for every ill, And here were linen
+  cloths, and flax merchants, pork vendors, and apothecaries."
+</p>
+
+<p>
+  The Mercato was established first in Roman times as the site of the Forum,
+  and only in 1030 was first documented as a marketplace. Staple foods from
+  the countryside, like grain, were the most popular goods sold, followed by
+  wool.
+</p>
+
+<p>
+  However, if shoppers became bored with the basics, to quote a 15th Century
+  poet, Il Panormita: "There halfway down the street stands a happy whorehouse
+  which you will know by the very smell of the place."
+</p>
+
+</speak>

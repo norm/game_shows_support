@@ -1,0 +1,23 @@
+<speak>
+
+<p>
+  Renaissance thieves were usually wanderers who could vanish at the first
+  sign of trouble, making it hard for guards to track them.
+</p>
+
+<p>
+  Black market business in Renaissance Italy was booming. Muggings in the
+  major cities were fairly common, as were murders. Often, strollers were
+  attacked in the dead of night, killed, robbed and then rolled into the
+  nearest river or canal. Even if a thief merely stole, rather than killed,
+  the penalties if caught were often unduly harsh. Torture was common. Thieves
+  were put in stocks and sometimes even publicly executed.
+</p>
+
+<p>
+  In order to avoid punishment, thieves often created bonds of trust amongst
+  each other. Each was supposed to tell the rest his dirty secrets, which
+  meant that each thief potentially held his comrades' lyves in his hands.
+</p>
+
+</speak>

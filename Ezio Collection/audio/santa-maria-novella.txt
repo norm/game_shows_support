@@ -1,0 +1,21 @@
+<speak>
+
+<p>
+  The first great basilica in Florence, Santa Maria Novella was consecrated in
+  14 20 despite being unfinished. The famous humanist Leone Battista Alberti
+  designed the upper façade, completing the church in 1470.
+</p>
+
+<p>
+  However, Santa Maria Novella’s origins extend back before the Crusades to an
+  ancient oratory, located on the same site, with a hidden tomb underneath. As
+  of today, the tomb has not been uncovered.
+</p>
+
+<p>
+  On a related note, one of my favorite quotes is located inside the basilica,
+  written on the image of a tomb: “I was once what you are, and what I am you
+  will become”.
+</p>
+
+</speak>

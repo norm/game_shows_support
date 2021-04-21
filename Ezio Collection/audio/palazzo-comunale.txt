@@ -1,0 +1,14 @@
+<speak>
+
+<p>
+  Palazzo Comunale, San Gimignano’s town hall, was built as the seat of the
+  municipal government in 1288.
+</p>
+
+<p>
+  As befits the City of Towers, one of the council’s earliest acts inside
+  their new home was to construct the Torre Grossa on top. The Podestà took up
+  residence at the Palazzo Comunale in 1337.
+</p>
+
+</speak>

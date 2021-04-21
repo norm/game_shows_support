@@ -1,0 +1,23 @@
+<speak>
+
+<p>
+  Named after Saint Geminianus, who supposedly conjured up a dense fog to save
+  the city of Modena from Attila the Hun, San Gimignano was founded in the 3rd
+  Century. The city grew from the 10th Century onward as a stopping point
+  along the pilgrimage root to Rome.
+</p>
+
+<p>
+  In 1199, once its citizens grew wealthy, San Gimignano separated from the
+  bishops of Volterra and became self-governing. The city’s distinctive towers
+  were created as its wealthy citizens competed to display how much money was
+  actually in their pockets. In its heyday, the city had 72 towers.
+</p>
+
+<p>
+  But the plague of 13 48 decimated San Gimignano. Without money for upkeep,
+  the town started to fall apart. The council appealed to Florence, and
+  Florence took control.
+</p>
+
+</speak>

@@ -1,0 +1,23 @@
+<speak>
+
+<p>
+  Date of Birth: unknown, profession: Thief.
+</p>
+
+<p>
+  There is almost no trace of La Volpey (The Fox) in the history books. The
+  name's obviously a pseudonym, but for whom is anyone's guess. What small
+  data is available seems to be almost mythical.
+</p>
+
+<p>
+  La Volpey is reported to have robbed the Pope's carriage without any of his
+  guards noticing, including the Pope, who was sitting inside the carriage.
+  One night in 1467, he was seen on the rooftops of the Palazzo della
+  Signoria, the Palazzo Medici, and Santa Croce, all at the same time. Some
+  claim that he's immortal, never aging, while others say that his violet eyes
+  can see through buildings, perusing the contents inside.
+</p>
+
+
+</speak>
