@@ -1,0 +1,794 @@
+1
+00:00:34,719 --> 00:00:36,079
+Another signal.
+
+2
+00:01:05,219 --> 00:01:07,375
+The source of the signal must be close.
+
+3
+00:01:43,040 --> 00:01:45,549
+I have to climb up to the Tallneck's head.
+
+4
+00:02:10,340 --> 00:02:11,590
+The killers.
+
+5
+00:02:12,150 --> 00:02:13,599
+What are they doing here?
+
+6
+00:02:34,439 --> 00:02:38,254
+[Eclipse thug]
+What use is a Tallneck? They don't even fight.
+
+7
+00:03:33,280 --> 00:03:35,650
+[Eclipse thug]
+That nearly skewered me!
+
+8
+00:03:59,120 --> 00:04:00,419
+[Eclipse thug]
+To arms!
+
+9
+00:04:17,472 --> 00:04:20,222
+It looks like they're trying to capture the Tallneck.
+
+10
+00:05:56,887 --> 00:05:58,207
+[Eclipse thug]
+Whose body is this?
+
+11
+00:06:03,019 --> 00:06:04,339
+[Eclipse thug]
+This one's dead!
+
+12
+00:06:20,599 --> 00:06:21,810
+So they woke up.
+
+13
+00:06:28,139 --> 00:06:29,350
+[Eclipse priest]
+Who's shooting?
+
+14
+00:08:07,040 --> 00:08:08,319
+Move along now.
+
+15
+00:08:28,040 --> 00:08:29,250
+They're giving up.
+
+16
+00:11:41,639 --> 00:11:44,250
+Rost always said "patience".
+
+17
+00:12:05,759 --> 00:12:08,669
+Okay, I need to get up to the Tallneck's head.
+
+18
+00:14:27,539 --> 00:14:30,460
+I should be able to jump onto the Tallneck from here.
+
+19
+00:15:08,950 --> 00:15:11,570
+Okay, time to climb up to its head.
+
+20
+00:20:02,400 --> 00:20:03,960
+I'll find a use for you.
+
+21
+00:20:29,839 --> 00:20:31,160
+These are helpful.
+
+22
+00:20:31,289 --> 00:20:32,519
+Bitter, though.
+
+23
+00:24:37,783 --> 00:24:38,992
+Calm, calm.
+
+24
+00:26:30,140 --> 00:26:31,349
+Abandoned.
+
+25
+00:26:31,839 --> 00:26:33,589
+A lot of dead machines.
+
+26
+00:26:36,619 --> 00:26:39,950
+Are those tooth marks on that machine?
+
+27
+00:27:00,940 --> 00:27:02,160
+Who is that?
+
+28
+00:27:05,720 --> 00:27:07,349
+Tribal girl.
+
+29
+00:27:07,839 --> 00:27:10,470
+You're a hunter, machine hunter.
+
+30
+00:27:11,339 --> 00:27:13,089
+I can smell it on you.
+
+31
+00:27:13,119 --> 00:27:15,639
+Their oils and fluids.
+
+32
+00:27:15,640 --> 00:27:18,160
+Oh, your hands are stained.
+
+33
+00:27:18,589 --> 00:27:22,049
+Can I just scent your fingers?
+
+34
+00:27:22,240 --> 00:27:23,980
+Uhhh, no.
+
+35
+00:27:24,339 --> 00:27:26,910
+No, no, no, no, of course not, no.
+
+36
+00:27:27,069 --> 00:27:30,813
+Forgive me, my head, it's … it's addled.
+
+37
+00:27:30,814 --> 00:27:36,349
+Heavy with the taste of metal and lightning and prophecy.
+
+38
+00:27:37,890 --> 00:27:40,729
+Do you dream of the Metal World huntress?
+
+39
+00:27:40,730 --> 00:27:42,740
+That's what you Nora call it.
+
+40
+00:27:42,740 --> 00:27:44,939
+The ancient world?
+
+41
+00:27:44,940 --> 00:27:46,190
+Yes. Yes!
+
+42
+00:27:46,190 --> 00:27:47,739
+You've almost touched it.
+
+43
+00:27:47,740 --> 00:27:51,269
+You hunt the machine, strip the parts, reach into their guts.
+
+44
+00:27:51,269 --> 00:27:53,939
+Let the sacred fluids run out.
+
+45
+00:27:53,940 --> 00:27:57,029
+Spilling away into the earth, wasted.
+
+46
+00:27:57,650 --> 00:28:00,308
+Open your mouth to insight.
+
+47
+00:28:00,309 --> 00:28:02,818
+Drink up, that's what I did.
+
+48
+00:28:03,039 --> 00:28:04,210
+I'm Brin.
+
+49
+00:28:06,170 --> 00:28:11,549
+Uh, you're Banuk. Is this normal for your tribe?
+
+50
+00:28:11,640 --> 00:28:14,069
+My tribe? My tribe? My tribe?
+
+51
+00:28:14,069 --> 00:28:15,769
+No tribe!
+
+52
+00:28:16,539 --> 00:28:21,231
+The other Shaman said, "You've drunk in the machine spirit's madness."
+
+53
+00:28:21,231 --> 00:28:24,500
+They said, "This is not the way of things!"
+
+54
+00:28:24,839 --> 00:28:27,938
+Stripped me out on the ice, left me to die.
+
+55
+00:28:27,940 --> 00:28:30,858
+Said, "That's the way of things."
+
+56
+00:28:30,858 --> 00:28:33,299
+Cold unending.
+
+57
+00:28:34,140 --> 00:28:35,579
+They cast you out.
+
+58
+00:28:36,240 --> 00:28:37,660
+But you survived.
+
+59
+00:28:38,380 --> 00:28:40,000
+Perhaps.
+
+60
+00:28:40,000 --> 00:28:44,225
+I remember the chill, pressed in slow, spear-tipped.
+
+61
+00:28:44,225 --> 00:28:49,049
+Tallnecks gathering their great dark heads over me like a garland.
+
+62
+00:28:49,789 --> 00:28:52,449
+Then I was walking again.
+
+63
+00:28:52,450 --> 00:28:55,660
+Walking back to my once-tribe.
+
+64
+00:28:55,880 --> 00:29:01,349
+To return is to be forgiven, but I kept walking.
+
+65
+00:29:03,240 --> 00:29:04,660
+No-one stopped me.
+
+66
+00:29:05,200 --> 00:29:06,549
+Those wounds.
+
+67
+00:29:06,740 --> 00:29:09,490
+A Sawtooth gave them to you on the hunt didn't it?
+
+68
+00:29:09,539 --> 00:29:14,103
+Oh, not just any Sawtooth, not just a hunt.
+
+69
+00:29:15,339 --> 00:29:20,009
+I was low, quiet in the long grass, spear at the ready to bring it down.
+
+70
+00:29:20,009 --> 00:29:25,349
+Then the scent, the taste of its blood overcame me.
+
+71
+00:29:26,140 --> 00:29:28,769
+I pounced, wrestled it down, bit into it.
+
+72
+00:29:28,769 --> 00:29:33,910
+So close! A shiver through my teeth as they ground along the wires.
+
+73
+00:29:33,940 --> 00:29:36,759
+But its teeth won out.
+
+74
+00:29:36,839 --> 00:29:40,300
+You're lucky to be alive, I think.
+
+75
+00:29:40,300 --> 00:29:46,867
+Until the wounds mend, flower into scars, only my mind can wander.
+
+76
+00:29:46,867 --> 00:29:51,009
+But why not trade, huntress?
+
+77
+00:29:51,799 --> 00:29:53,750
+You bring me the blood.
+
+78
+00:29:54,009 --> 00:29:56,824
+I tell you what it reveals.
+
+79
+00:29:56,824 --> 00:30:00,009
+You really drink the blood of machines?
+
+80
+00:30:00,140 --> 00:30:04,950
+I heard tales of a tribe from the land where the sun goes at night.
+
+81
+00:30:05,440 --> 00:30:07,348
+They were suckled from the machines.
+
+82
+00:30:07,349 --> 00:30:08,939
+No, no, no, it's true.
+
+83
+00:30:08,940 --> 00:30:12,450
+Took wisdom and strength from it, drew closer to them.
+
+84
+00:30:13,079 --> 00:30:15,139
+Then the tales go dark.
+
+85
+00:30:15,140 --> 00:30:18,160
+A whole tribe disappeared.
+
+86
+00:30:18,339 --> 00:30:20,596
+Maybe because they all died?
+
+87
+00:30:20,596 --> 00:30:23,349
+Drinking machine blood can't be good for you.
+
+88
+00:30:23,410 --> 00:30:25,849
+Uh, first it made me sick.
+
+89
+00:30:26,299 --> 00:30:30,098
+Then came the visions, for days and nights.
+
+90
+00:30:30,099 --> 00:30:33,349
+Machine dreams, huntress.
+
+91
+00:30:33,440 --> 00:30:35,646
+These dreams you have…?
+
+92
+00:30:35,646 --> 00:30:39,107
+Oh, you're curious. Good!
+
+93
+00:30:39,109 --> 00:30:41,538
+It'll give you a long life.
+
+94
+00:30:41,539 --> 00:30:44,758
+I wish that for you. That's my blessing.
+
+95
+00:30:46,440 --> 00:30:51,398
+Now we're sworn, I'll tell you how the visions began.
+
+96
+00:30:53,119 --> 00:30:57,961
+All is silence. The sky is dark.
+
+97
+00:30:57,961 --> 00:31:00,851
+I gather up the world and peel it back.
+
+98
+00:31:00,851 --> 00:31:05,710
+Expose the ancient metal beneath, like skinning a rabbit.
+
+99
+00:31:06,420 --> 00:31:11,459
+It's warm to the touch, warm as the sun pressed against it.
+
+100
+00:31:11,460 --> 00:31:13,608
+I feel sound.
+
+101
+00:31:13,609 --> 00:31:16,595
+My heartbeat is the thunder of titans rising!
+
+102
+00:31:17,267 --> 00:31:20,449
+Machines bigger than mountains, stronger too!
+
+103
+00:31:20,450 --> 00:31:23,980
+The Metal World carried on their shoulders.
+
+104
+00:31:24,099 --> 00:31:27,002
+I'm not sure I like these visions of yours.
+
+105
+00:31:27,002 --> 00:31:29,210
+Th-th-th-they're an answer!
+
+106
+00:31:29,440 --> 00:31:32,549
+But to what questions?
+
+107
+00:31:33,690 --> 00:31:35,160
+I must know.
+
+108
+00:31:36,609 --> 00:31:38,259
+I'll share?
+
+109
+00:31:38,539 --> 00:31:43,180
+It's been interesting, but I should be on my way.
+
+110
+00:31:43,339 --> 00:31:45,808
+Roam far, huntress.
+
+111
+00:31:45,809 --> 00:31:50,450
+And remember, the blood is precious to me, yes.
+
+112
+00:31:51,920 --> 00:31:54,160
+Good hunting at the Ridge of Veils.
+
+113
+00:31:54,539 --> 00:31:58,679
+If you fell a Sawtooth bring me what spills, won't you?
+
+114
+00:31:58,680 --> 00:32:01,049
+Not enough metal in the rain water.
+
+115
+00:32:01,240 --> 00:32:02,950
+Not for my taste.
+
+116
+00:32:03,039 --> 00:32:05,049
+Or maybe too much.
+
+117
+00:34:30,539 --> 00:34:32,679
+Dust feels like it's under my skin.
+
+118
+00:37:51,268 --> 00:37:53,039
+Need to keep the upper hand.
+
+119
+00:38:23,530 --> 00:38:24,963
+The wire isn't long enough.
+
+120
+00:38:43,334 --> 00:38:45,009
+Now they're hunting me.
+
+121
+00:38:53,600 --> 00:38:56,619
+Brin says the blood is precious.
+
+122
+00:38:57,420 --> 00:38:58,139
+Okay.
+
+123
+00:39:37,320 --> 00:39:39,818
+Ah, huntress!
+
+124
+00:39:39,820 --> 00:39:42,199
+You've brought me the blood of the Sawtooth.
+
+125
+00:39:42,619 --> 00:39:46,329
+Yes, I smelled it a hill away.
+
+126
+00:39:48,320 --> 00:39:50,030
+Don't make me regret it.
+
+127
+00:39:50,570 --> 00:39:55,600
+No matter what you hear, what screams, keep your distance.
+
+128
+00:39:56,019 --> 00:39:57,840
+Starting to regret it.
+
+129
+00:40:01,110 --> 00:40:07,548
+Before the time of the Sawtooth, the machines ran as one pack.
+
+130
+00:40:07,548 --> 00:40:12,849
+Metal drumming on metal, keeping pace out to the lightning's edge.
+
+131
+00:40:14,340 --> 00:40:18,068
+The rumble of low storms, that's them in motion.
+
+132
+00:40:18,070 --> 00:40:20,878
+And then a confusion.
+
+133
+00:40:20,880 --> 00:40:23,130
+Something has changed.
+
+134
+00:40:23,710 --> 00:40:29,130
+The great direction breaks, splits off like a dead branch.
+
+135
+00:40:29,309 --> 00:40:36,079
+They're tumbling now. When they recover, violence is what they know.
+
+136
+00:40:36,809 --> 00:40:39,784
+Now metal screeches on metal.
+
+137
+00:40:39,784 --> 00:40:41,667
+A death dance.
+
+138
+00:40:41,667 --> 00:40:46,239
+Learned from wars before our eyes had learned to see.
+
+139
+00:40:46,239 --> 00:40:51,592
+The Sawtooth, the Ravager, they hunt in the long shadows of others.
+
+140
+00:40:51,592 --> 00:40:56,630
+Jagged shapes, old shapes, with bloody eyes.
+
+141
+00:40:57,329 --> 00:41:04,260
+And the machines no longer rise and swell as one thing, an all-thing.
+
+142
+00:41:04,610 --> 00:41:06,730
+You're quite the storyteller.
+
+143
+00:41:06,809 --> 00:41:08,710
+But what's it mean?
+
+144
+00:41:08,809 --> 00:41:14,519
+Oh, meaning is not for me to say. Only what I saw.
+
+145
+00:41:14,610 --> 00:41:16,590
+And you saw all that?
+
+146
+00:41:16,909 --> 00:41:18,248
+Yes!
+
+147
+00:41:18,250 --> 00:41:21,001
+Doesn't it make you wonder?
+
+148
+00:41:21,001 --> 00:41:23,361
+The machines that drive other machines mad.
+
+149
+00:41:23,361 --> 00:41:27,716
+Corruptors! It's their venom I must taste next.
+
+150
+00:41:28,150 --> 00:41:30,929
+Do you have any idea what that could do to you?
+
+151
+00:41:31,789 --> 00:41:33,928
+You've drunk it before, of course you have.
+
+152
+00:41:34,320 --> 00:41:37,973
+I found fallen ones on Coiled Canyon's cliffs.
+
+153
+00:41:37,973 --> 00:41:41,538
+Under the sun, it boiled inside them.
+
+154
+00:41:41,538 --> 00:41:45,730
+The vapour, intoxicating!
+
+155
+00:43:51,280 --> 00:43:52,489
+Save these for the trail.
+
+156
+00:46:04,039 --> 00:46:05,699
+Uh-oh, spotted!
+
+157
+00:47:43,269 --> 00:47:45,570
+Now they're hunting me.
+
+158
+00:48:04,933 --> 00:48:06,072
+Ha ha!
+
+159
+00:50:52,829 --> 00:50:54,570
+Ugh, the stink!
+
+160
+00:53:06,420 --> 00:53:07,469
+Stocking up.
+
+161
+00:54:43,383 --> 00:54:46,420
+Sunset, maybe a chance to rest.
+
+162
+00:56:39,610 --> 00:56:41,239
+They're scanning for me.
+
+163
+00:57:26,130 --> 00:57:27,739
+Can stop tensing up.
+
+164
+01:00:48,710 --> 01:00:51,019
+Just stay out of their way for now.
+
+165
+01:01:06,610 --> 01:01:09,879
+So did you smell this blood coming? It stinks.
+
+166
+01:01:09,909 --> 01:01:13,879
+The richest is not always the sweetest, huntress.
+
+167
+01:01:13,879 --> 01:01:19,729
+In the jungles of the Jewel a fruit grows but reeks of spoiled meat.
+
+168
+01:01:20,210 --> 01:01:23,901
+Taste it though, honey to the tongue!
+
+169
+01:01:26,809 --> 01:01:27,920
+No.
+
+170
+01:01:28,610 --> 01:01:30,519
+This is disgusting.
+
+171
+01:01:33,840 --> 01:01:37,792
+These Corruptors never belonged to the herds.
+
+172
+01:01:37,792 --> 01:01:43,940
+They crawl from beneath desert or rust, from the bones of old machines.
+
+173
+01:01:44,639 --> 01:01:46,958
+Sickness to spread.
+
+174
+01:01:46,960 --> 01:01:48,630
+That's how they came.
+
+175
+01:01:48,820 --> 01:01:54,579
+Cold metal runs hot, buckles with thorn cuts and tail stings.
+
+176
+01:01:55,369 --> 01:01:57,380
+A fever of obedience.
+
+177
+01:01:57,409 --> 01:02:00,038
+My ears are ringing!
+
+178
+01:02:00,039 --> 01:02:08,420
+I grasp at my tongue, an ingot falls out, stamped with circles and lines.
+
+179
+01:02:08,920 --> 01:02:14,998
+Directions, instructions, to break a machine's will.
+
+180
+01:02:15,000 --> 01:02:17,639
+I heard the metal screaming, huntress.
+
+181
+01:02:19,440 --> 01:02:21,809
+I leave the ingot where it falls.
+
+182
+01:02:21,980 --> 01:02:24,332
+This isn't for us to know.
+
+183
+01:02:24,332 --> 01:02:28,219
+Corruptor after Corruptor tramples it in their greedy tread.
+
+184
+01:02:28,460 --> 01:02:31,510
+That is how they work.
+
+185
+01:02:31,900 --> 01:02:32,940
+Kind of.
+
+186
+01:02:33,119 --> 01:02:35,219
+How do you know these things?
+
+187
+01:02:35,300 --> 01:02:37,659
+It's not what I know, huntress.
+
+188
+01:02:37,659 --> 01:02:40,139
+It's what the blood knows.
+
+189
+01:02:40,250 --> 01:02:43,420
+Am I the singer or the song?
+
+190
+01:02:43,869 --> 01:02:45,920
+I don't know what you are.
+
+191
+01:02:46,599 --> 01:02:48,610
+Maybe get some rest.
+
+192
+01:02:48,639 --> 01:02:52,719
+No rest when there's unknown journeys to prepare for.
+
+193
+01:02:53,199 --> 01:02:58,891
+Do you know of the hidden machines that hunt men deep in the Jewel?
+
+194
+01:02:59,500 --> 01:03:02,158
+Stalkers? Yes, I know of them.
+
+195
+01:03:03,349 --> 01:03:06,239
+Oh, Stalker blood next?
+
+196
+01:03:06,659 --> 01:03:08,809
+Sure, why not.
+
+197
+01:03:09,000 --> 01:03:14,920
+Change comes in rushes, huntress, like time around an arrow.
+

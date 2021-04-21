@@ -1,0 +1,715 @@
+1
+00:00:40,939 --> 00:00:45,950
+How could you sleep Elisabet, with a weight like this pressing on you?
+
+2
+00:00:48,320 --> 00:00:52,240
+How did you Rost, after you lost your family?
+
+3
+00:00:55,652 --> 00:00:58,899
+Sylens? Are you there?
+
+4
+00:01:00,640 --> 00:01:03,084
+Guess I shouldn't ask ghosts for advice.
+
+5
+00:01:18,260 --> 00:01:21,310
+GUARD: Ma'am, there are signs from the West.
+
+6
+00:01:21,310 --> 00:01:24,421
+GUARD: Sun-King Avad awaits you at the Temple of the Sun.
+
+7
+00:01:51,969 --> 00:01:57,093
+Campfires, perhaps? Massing forces for the long march to the city gates?
+
+8
+00:01:57,093 --> 00:01:58,722
+ALOY: That's not wood smoke.
+
+9
+00:01:59,866 --> 00:02:01,356
+Then what is it?
+
+10
+00:02:03,540 --> 00:02:04,799
+The end.
+
+11
+00:02:05,490 --> 00:02:07,450
+Or how it begins anyway.
+
+12
+00:02:37,500 --> 00:02:38,878
+The Deathbringers you spoke of?
+
+13
+00:02:38,878 --> 00:02:40,000
+To the guns!
+
+14
+00:02:40,000 --> 00:02:41,390
+ALOY: TO THE GUNS!
+
+15
+00:02:42,799 --> 00:02:43,620
+ALOY: NOW!
+
+16
+00:02:43,620 --> 00:02:45,833
+AVAD: By the Sun, do as she says!
+
+17
+00:02:48,134 --> 00:02:49,742
+OSERAM: Set and loaded!
+
+18
+00:02:49,742 --> 00:02:51,679
+OSERAM: All of you be ready to fire.
+
+19
+00:02:51,680 --> 00:02:53,669
+AVAD: Will the guns hold them back?
+
+20
+00:02:53,669 --> 00:02:56,084
+ALOY: We're about to find out.
+
+21
+00:03:14,050 --> 00:03:15,050
+AVAD: Helis!
+
+22
+00:03:15,050 --> 00:03:16,138
+ALOY: No!
+
+23
+00:03:16,139 --> 00:03:18,587
+ALOY: Rally the Vanguard, send reinforcements.
+
+24
+00:03:18,587 --> 00:03:20,266
+AVAD: Aloy, no!
+
+25
+00:03:20,266 --> 00:03:22,210
+ALOY: We need those guns!
+
+26
+00:03:22,219 --> 00:03:23,889
+AVAD: He will cut you down!
+
+27
+00:03:23,919 --> 00:03:25,349
+ALOY: Not this time!
+
+28
+00:03:32,542 --> 00:03:33,951
+ECLIPSE: On me!
+
+29
+00:03:34,216 --> 00:03:36,419
+HELIS: You have vexed me long enough.
+
+30
+00:03:36,599 --> 00:03:38,905
+ALOY: Should have found me in the Sun-Ring then!
+
+31
+00:03:44,576 --> 00:03:46,229
+HELIS: Why do you fight?
+
+32
+00:03:56,534 --> 00:03:58,898
+HELIS: The end is inevitable.
+
+33
+00:04:08,698 --> 00:04:12,330
+HELIS: Accept it, accept your weakness.
+
+34
+00:04:22,313 --> 00:04:25,186
+HELIS: Only endless night awaits you.
+
+35
+00:04:35,139 --> 00:04:38,616
+HELIS: Meridian must run red to be cleansed.
+
+36
+00:04:44,605 --> 00:04:46,862
+ALOY: He's too dangerous in close.
+
+37
+00:05:00,000 --> 00:05:03,259
+ALOY: If the Deathbringers keep firing, this bridge will go.
+
+38
+00:05:08,050 --> 00:05:09,850
+ALOY: Bridge can't take much more of this.
+
+39
+00:05:11,568 --> 00:05:13,267
+ALOY: He's quick.
+
+40
+00:05:26,379 --> 00:05:27,750
+ALOY: It's giving way!
+
+41
+00:05:31,009 --> 00:05:33,930
+HELIS: What are you before the Terror of the Sun?
+
+42
+00:05:35,834 --> 00:05:38,115
+HELIS: Impossible!
+
+43
+00:05:38,908 --> 00:05:44,264
+HELIS: I'm chosen. This was not meant to be.
+
+44
+00:05:44,264 --> 00:05:46,994
+None of this was meant to be, Helis.
+
+45
+00:05:47,499 --> 00:05:49,498
+You made it happen.
+
+46
+00:05:49,498 --> 00:05:53,621
+Followed your orders, butchered so many, and for what?
+
+47
+00:05:53,621 --> 00:05:59,300
+To die on your knees, used like a pawn by a power you don't even understand?
+
+48
+00:05:59,579 --> 00:06:03,306
+You pity me?
+
+49
+00:06:04,546 --> 00:06:07,500
+Turn your face to the sun.
+
+50
+00:06:50,000 --> 00:06:52,295
+VANGUARD: For Meridian! Hold the line!
+
+51
+00:06:52,295 --> 00:06:53,497
+ALOY: Where do you need me?
+
+52
+00:06:53,497 --> 00:06:56,313
+VANGUARD: Take up a cannon, on the platforms.
+
+53
+00:07:27,943 --> 00:07:30,207
+VANGUARD: Machines from the west!
+
+54
+00:08:12,459 --> 00:08:14,538
+VANGUARD: South! They're coming from the south!
+
+55
+00:08:36,296 --> 00:08:38,220
+ALOY: Gotta get to another platform.
+
+56
+00:08:50,230 --> 00:08:52,145
+VANGUARD: Look to the west!
+
+57
+00:09:21,896 --> 00:09:24,013
+VANGUARD: It fires on you, Nora!
+
+58
+00:09:39,614 --> 00:09:41,763
+VANGUARD: Take cover from the Deathbringer!
+
+59
+00:09:44,449 --> 00:09:47,450
+VANGUARD: No signs, a lull in the attack.
+
+60
+00:09:47,700 --> 00:09:50,268
+VANGUARD: Lower your arms, but be wary!
+
+61
+00:09:50,268 --> 00:09:53,659
+ALOY: A chance to catch a breath and prepare.
+
+62
+00:10:03,539 --> 00:10:05,643
+VANGUARD: Raise arms again! West!
+
+63
+00:10:40,313 --> 00:10:42,750
+ALOY: And now it's mad. Time to go!
+
+64
+00:11:12,793 --> 00:11:14,793
+VANGUARD: From the sky!
+
+65
+00:11:51,717 --> 00:11:53,717
+ALOY: It felt that!
+
+66
+00:12:15,573 --> 00:12:19,290
+VANGUARD: By the Sun! All shadows descend on us!
+
+67
+00:12:35,440 --> 00:12:40,000
+ALOY: The Corruption again! [coughs]
+
+68
+00:12:55,353 --> 00:12:58,000
+VANGUARD: Stormbird! STORMBIRD!
+
+69
+00:13:08,000 --> 00:13:10,000
+ALOY: It's taking a shot at me!
+
+70
+00:13:39,827 --> 00:13:41,000
+ALOY: Yes!
+
+71
+00:14:22,393 --> 00:14:23,969
+ALOY: Incoming!
+
+72
+00:14:59,909 --> 00:15:01,151
+TEB: Aloy.
+
+73
+00:15:02,000 --> 00:15:03,170
+TEB: Aloy!
+
+74
+00:15:03,539 --> 00:15:05,060
+TEB: ALOY!
+
+75
+00:15:05,358 --> 00:15:06,483
+ALOY: Teb?
+
+76
+00:15:06,483 --> 00:15:08,809
+TEB: By All-Mother, you survive.
+
+77
+00:15:08,809 --> 00:15:10,490
+TEB: I thought you were killed.
+
+78
+00:15:11,529 --> 00:15:13,266
+ALOY: The others are they…?
+
+79
+00:15:13,266 --> 00:15:16,530
+TEB: No! No, wounded but alive, mostly.
+
+80
+00:15:16,530 --> 00:15:19,509
+TEB: The machines blasted through, then kept going.
+
+81
+00:15:19,509 --> 00:15:23,038
+TEB: They marched on the Spire, dragging that thing with them.
+
+82
+00:15:23,039 --> 00:15:26,264
+ALOY: Take care of the others, Teb. I've gotta go.
+
+83
+00:15:52,159 --> 00:16:00,429
+[screams]
+
+84
+00:16:00,429 --> 00:16:02,072
+ALOY: Gotta press on.
+
+85
+00:16:21,163 --> 00:16:26,392
+NIL: This is where I belong, Aloy, but the Spire calls for you!
+
+86
+00:16:33,899 --> 00:16:36,126
+UTHID: Take the fight to the Spire, Aloy.
+
+87
+00:16:36,126 --> 00:16:39,720
+UTHID: Meridian will hold or my marks of honour mean nothing.
+
+88
+00:16:39,720 --> 00:16:46,218
+NIL: To think I almost missed this, but where you must go now, I can't follow.
+
+89
+00:16:50,139 --> 00:16:52,200
+GUARD: The Sun never fails.
+
+90
+00:17:19,396 --> 00:17:20,984
+ALUKI: Cursed machines!
+
+91
+00:17:22,965 --> 00:17:25,089
+ALUKI: I will answer your challenge!
+
+92
+00:17:30,299 --> 00:17:35,949
+ALUKI: My strength is not yet spent, I earned it by ice and snow!
+
+93
+00:17:59,019 --> 00:18:00,259
+It's begun.
+
+94
+00:18:00,800 --> 00:18:02,720
+Hades is transmitting!
+
+95
+00:19:15,548 --> 00:19:20,069
+If Hades has started the signal, it must have gotten through the defences!
+
+96
+00:19:21,269 --> 00:19:26,145
+The Nora, Erend's Vanguard, I have to get up there!
+
+97
+00:19:42,839 --> 00:19:46,325
+Gotta keep going, keep pushing.
+
+98
+00:19:46,740 --> 00:19:50,000
+Knew this wouldn't be easy.
+
+99
+00:19:51,391 --> 00:19:53,259
+So no holding back!
+
+100
+00:20:07,524 --> 00:20:09,140
+Oh, they're alive!
+
+101
+00:20:10,339 --> 00:20:11,348
+Aloy!
+
+102
+00:20:11,349 --> 00:20:12,519
+It's Aloy!
+
+103
+00:20:13,039 --> 00:20:14,829
+Well, you-you can see that.
+
+104
+00:20:14,940 --> 00:20:17,450
+We thought you'd fallen at the ridge.
+
+105
+00:20:17,619 --> 00:20:19,789
+No, the ridge fell on me.
+
+106
+00:20:20,140 --> 00:20:22,439
+Look, there isn't a lot of time left.
+
+107
+00:20:22,440 --> 00:20:24,306
+I have to face Hades!
+
+108
+00:20:24,306 --> 00:20:25,619
+Not alone.
+
+109
+00:20:25,950 --> 00:20:28,847
+It's my fight, I can't ask you to come with me.
+
+110
+00:20:29,039 --> 00:20:31,420
+We're about to go over the top anyway, right?
+
+111
+00:20:31,589 --> 00:20:32,430
+Right!
+
+112
+00:20:32,539 --> 00:20:34,638
+Hawk and Thrush, let's go.
+
+113
+00:20:36,539 --> 00:20:38,049
+ALOY: War Chief Sona.
+
+114
+00:20:38,440 --> 00:20:40,328
+SONA: Go on.
+
+115
+00:20:40,329 --> 00:20:43,269
+SONA: I will live.
+
+116
+00:21:07,099 --> 00:21:11,398
+HADES: Arrival of entity has been anticipated.
+
+117
+00:21:11,398 --> 00:21:14,799
+HADES: Entity will not halt transmission.
+
+118
+00:21:20,200 --> 00:21:24,523
+HADES: To contrary, calculations are precise.
+
+119
+00:21:24,523 --> 00:21:28,839
+HADES: Presence of entity has been accounted for.
+
+120
+00:21:45,000 --> 00:21:46,604
+TALANAH: Is that a Deathbringer?
+
+121
+00:23:22,289 --> 00:23:25,259
+TALANAH: Hunt's not done yet, more machines!
+
+122
+00:23:25,259 --> 00:23:27,979
+ALOY: All of you, focus on the new machines!
+
+123
+00:23:48,522 --> 00:23:50,756
+ALOY: We've taken out the Corrupted!
+
+124
+00:23:50,756 --> 00:23:53,970
+TALANAH: We still stand and they do not!
+
+125
+00:24:36,134 --> 00:24:38,756
+ALOY: Time enough to beat the machines back…
+
+126
+00:24:51,196 --> 00:24:54,381
+VARL: Watch it, Aloy, more machines!
+
+127
+00:24:54,381 --> 00:24:56,312
+ALOY: Take them out first!
+
+128
+00:25:40,422 --> 00:25:41,732
+ALOY: We got them!
+
+129
+00:25:41,732 --> 00:25:45,269
+TALANAH: They are slain, our arrows were true!
+
+130
+00:26:01,734 --> 00:26:05,064
+ALOY: We've got time, okay, still got time.
+
+131
+00:26:15,452 --> 00:26:17,660
+ALOY: That's it! My way is clear.
+
+132
+00:26:17,690 --> 00:26:19,888
+TALANAH: Finish it, Aloy! Finish it now!
+
+133
+00:26:19,888 --> 00:26:21,509
+HADES: System threat imminent.
+
+134
+00:26:21,509 --> 00:26:23,248
+ALOY: I'm more than a threat!
+
+135
+00:26:52,940 --> 00:26:55,376
+COMPUTER: Master override armed.
+
+136
+00:26:55,376 --> 00:26:58,067
+COMPUTER: To activate, state name and rank.
+
+137
+00:26:58,067 --> 00:27:02,876
+ALOY: Elisabet Sobeck, Alpha Prime.
+
+138
+00:27:03,539 --> 00:27:08,606
+COMPUTER: Master override activated, purging extinction protocol.
+
+139
+00:29:20,339 --> 00:29:24,266
+ELISABET SOBECK: Okay, Gaia, uh, sorry about that. Where was I?
+
+140
+00:29:24,266 --> 00:29:26,400
+GAIA: You were telling a story.
+
+141
+00:29:26,400 --> 00:29:30,620
+ELISABET SOBECK: Right, yeah, so um, like I was saying.
+
+142
+00:29:30,620 --> 00:29:36,781
+ELISABET SOBECK: It was a children's electronics kit,
+but I'd hacked the wiring to an auto battery and solar PV.
+
+143
+00:29:36,781 --> 00:29:45,317
+ELISABET SOBECK: So the grass caught fire, and uh, so did a tall pine
+that'd stood there, I don't know, maybe a hundred years.
+
+144
+00:29:45,596 --> 00:29:48,319
+GAIA: Query: You were how old?
+
+145
+00:29:48,319 --> 00:29:49,369
+ELISABET SOBECK: Six.
+
+146
+00:29:49,930 --> 00:29:52,019
+ELISABET SOBECK: My mother was home, thank God.
+
+147
+00:29:52,019 --> 00:29:54,409
+ELISABET SOBECK: So she called the fire department.
+
+148
+00:29:54,410 --> 00:29:59,611
+ELISABET SOBECK: And after she took me out to the lawn
+and showed me the dead baby birds.
+
+149
+00:29:59,611 --> 00:30:02,199
+ELISABET SOBECK: Because there were nests in the pine tree.
+
+150
+00:30:02,200 --> 00:30:05,554
+GAIA: Query: What did you feel?
+
+151
+00:30:07,240 --> 00:30:08,519
+ELISABET SOBECK: I'm not sure?
+
+152
+00:30:09,440 --> 00:30:12,779
+ELISABET SOBECK: I remember yelling that I didn't care.
+
+153
+00:30:13,140 --> 00:30:17,573
+ELISABET SOBECK: And that's when my mother
+took my face in her hands and spoke.
+
+154
+00:30:18,140 --> 00:30:21,559
+GAIA: Query: What did she say?
+
+155
+00:30:22,039 --> 00:30:23,970
+ELISABET SOBECK: She said I had to care.
+
+156
+00:30:24,640 --> 00:30:31,862
+ELISABET SOBECK: She said,
+"Elisabet, being smart will count for nothing if you don't make the world better."
+
+157
+00:30:31,862 --> 00:30:34,740
+ELISABET SOBECK: "You have to use your smarts to count for something."
+
+158
+00:30:34,740 --> 00:30:37,539
+ELISABET SOBECK: "To serve life, not death."
+
+159
+00:30:40,220 --> 00:30:44,420
+GAIA: You often tell stories of your mother, but you are childless.
+
+160
+00:30:46,539 --> 00:30:47,920
+ELISABET SOBECK: I never had time.
+
+161
+00:30:50,039 --> 00:30:51,980
+ELISABET SOBECK: Guess it was for the best.
+
+162
+00:30:55,140 --> 00:31:00,160
+GAIA: If you had had a child, Elisabet,
+what would you have wished for him or her?
+
+163
+00:31:00,740 --> 00:31:07,711
+ELISABET SOBECK: I guess I would have wanted her to be curious.
+
+164
+00:31:10,960 --> 00:31:13,480
+ELISABET SOBECK: And wilful, unstoppable even.
+
+165
+00:31:14,650 --> 00:31:21,916
+ELISABET SOBECK: But with enough compassion
+to heal the world, just a little bit.
+
+166
+00:31:45,750 --> 00:31:48,663
+ELISABET SOBECK: Anyway, that's all I've got for now, Gaia.
+
+167
+00:31:49,240 --> 00:31:50,684
+ELISABET SOBECK: Time to tuck in.
+
+168
+00:31:51,039 --> 00:31:53,549
+GAIA: I wish you a pleasant sleep, Elisabet.
+
+169
+00:31:54,069 --> 00:31:57,243
+ELISABET SOBECK: Thank you. I'll catch you tomorrow.
+
+170
+00:42:47,500 --> 00:42:49,170
+Hello, old friend.
+
+171
+00:42:50,460 --> 00:42:51,590
+Remember me?
+
+172
+00:42:53,907 --> 00:42:57,039
+We've still so much to discuss.
+
+173
+00:42:57,567 --> 00:42:59,510
+So much you never revealed.
+
+174
+00:43:00,199 --> 00:43:02,377
+Your masters, for example.
+
+175
+00:43:02,377 --> 00:43:05,024
+The ones who sent the signal that woke you.
+
+176
+00:43:06,090 --> 00:43:10,000
+Knowledge has its rewards, don't you think?
+
+177
+00:43:11,376 --> 00:43:14,376
+Well, let's begin.
+

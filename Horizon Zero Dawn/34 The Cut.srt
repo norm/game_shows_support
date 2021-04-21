@@ -1,0 +1,1683 @@
+1
+00:00:27,879 --> 00:00:30,289
+Now, how am I gonna get down from here?
+
+2
+00:00:38,119 --> 00:00:40,850
+Oh. This should be quite the ride.
+
+3
+00:01:05,130 --> 00:01:09,590
+Ha, I'd do that again if it weren't so much work to get back up there.
+
+4
+00:01:35,340 --> 00:01:37,640
+These look like Banuk markings.
+
+5
+00:01:38,180 --> 00:01:39,959
+Is this the way to their territory?
+
+6
+00:02:18,569 --> 00:02:21,949
+[Banuk wanderer]
+The wilds beyond, they're an unkind land.
+
+7
+00:02:35,330 --> 00:02:38,240
+Seems you're a long way from … anything.
+
+8
+00:02:38,689 --> 00:02:39,959
+Where does this trail lead?
+
+9
+00:02:39,960 --> 00:02:43,334
+For me it leads south, away from the Banuk.
+
+10
+00:02:43,334 --> 00:02:46,789
+Past the Grave-Hoard, Banukai watch over me.
+
+11
+00:02:46,919 --> 00:02:49,088
+This is the quickest way out of The Cut.
+
+12
+00:02:49,090 --> 00:02:52,348
+Instead of going all the way through Oseram territory.
+
+13
+00:02:52,349 --> 00:02:53,819
+What sort of place is The Cut?
+
+14
+00:02:53,819 --> 00:02:55,750
+It's on the edge of everywhere.
+
+15
+00:02:55,979 --> 00:03:01,100
+The edge of Ban-Ur, the edge of the mountains,
+the edge of other tribes territories.
+
+16
+00:03:01,100 --> 00:03:03,689
+It suffered in the war with the Carja.
+
+17
+00:03:04,449 --> 00:03:06,479
+But it suffered before that too.
+
+18
+00:03:07,030 --> 00:03:10,728
+Life there is a test, to survive out on the edge.
+
+19
+00:03:10,729 --> 00:03:14,538
+Not exactly homey. I can see why you'd want to move on.
+
+20
+00:03:14,539 --> 00:03:17,810
+I was named an envoy to the Carja king's court.
+
+21
+00:03:17,889 --> 00:03:19,599
+No-one else wanted to do it.
+
+22
+00:03:20,189 --> 00:03:21,448
+It's not so bad.
+
+23
+00:03:21,449 --> 00:03:26,469
+I just recount the songs from Ban-Ur, and the Carja draw their funny little glyphs.
+
+24
+00:03:26,800 --> 00:03:33,210
+I tell them of the machines' growing anger and the Carja king still offers aid,
+even though he knows the Banuk will not accept it.
+
+25
+00:03:33,909 --> 00:03:38,228
+What kind of strange machines, and what kind of curse?
+
+26
+00:03:38,229 --> 00:03:41,840
+Smoke comes off the mountain like a funeral pyre all day and night.
+
+27
+00:03:41,840 --> 00:03:44,658
+Machines tougher and crazier than anything in the South, I heard.
+
+28
+00:03:44,659 --> 00:03:47,780
+It's enough to make me look forward to Meridian.
+
+29
+00:03:47,939 --> 00:03:51,848
+Well, thanks for the warning. I'm curious about these machines, though.
+
+30
+00:03:51,849 --> 00:03:53,680
+And the warning rolled off you.
+
+31
+00:03:54,229 --> 00:03:57,349
+I understand, you adventurers are all alike.
+
+32
+00:03:57,639 --> 00:03:58,849
+Good luck!
+
+33
+00:04:00,599 --> 00:04:04,659
+Steam and smoke, guysers and funeral pyres, you'll see.
+
+34
+00:05:06,339 --> 00:05:07,589
+[Sylens, through Focus]
+What do you doing, Aloy?
+
+35
+00:05:08,339 --> 00:05:10,350
+[Sylens, through Focus]
+This path leads to The Cut.
+
+36
+00:05:10,639 --> 00:05:14,149
+[Sylens, through Focus]
+The Banuk have nothing to offer besides useless mysticism.
+
+37
+00:05:14,339 --> 00:05:17,514
+[Sylens, through Focus]
+The Eclipse won't stand idle while you waste time playing in the snow.
+
+38
+00:05:17,514 --> 00:05:19,149
+[Sylens, through Focus]
+Return to your task.
+
+39
+00:05:20,139 --> 00:05:24,763
+[Aloy]
+I was thinking, Rost used to tell me stories about the Banuk and their Shamans,
+
+40
+00:05:24,763 --> 00:05:27,585
+[Aloy]
+and how they thread blue cables through their skin.
+
+41
+00:05:27,585 --> 00:05:29,550
+[Aloy]
+Kind of like someone else we know, huh?
+
+42
+00:05:30,120 --> 00:05:33,119
+[Aloy]
+So maybe the real reason you want me to stay clear of the Banuk…
+
+43
+00:05:33,119 --> 00:05:35,189
+[Aloy]
+…is to stay clear of your past.
+
+44
+00:05:35,209 --> 00:05:39,550
+[Sylens, through Focus]
+It's the ancient past that concerns me Aloy, not my own.
+
+45
+00:05:40,000 --> 00:05:43,410
+[Sylens, through Focus]
+Which is why you should stop prattling and get back to what matters.
+
+46
+00:05:43,740 --> 00:05:46,477
+[Sylens, through Focus]
+But as usual, you'll do as you wish.
+
+47
+00:05:46,477 --> 00:05:48,350
+[Aloy]
+Mmm, touchy.
+
+48
+00:06:58,019 --> 00:06:59,689
+This one's a new predator.
+
+49
+00:06:59,689 --> 00:07:01,649
+Can see the heat coming off it.
+
+50
+00:10:35,133 --> 00:10:44,323
+[horn blares]
+
+51
+00:10:44,323 --> 00:10:46,454
+[in the distance]
+Outlander on the mountain!
+
+52
+00:10:46,919 --> 00:10:49,080
+[Aloy]
+Okay, that's a welcome, I guess.
+
+53
+00:10:54,750 --> 00:10:58,009
+[Aloy]
+All of the winters coming at once.
+
+54
+00:11:32,452 --> 00:11:35,546
+[Banuk guard]
+Ha! You sure you'll be warm enough up here, Nora?
+
+55
+00:11:36,659 --> 00:11:38,690
+[Aloy]
+I've worked up a sweat from the climb.
+
+56
+00:12:07,240 --> 00:12:09,679
+[Banuk guard]
+You made it to The Cut outlander.
+
+57
+00:12:09,730 --> 00:12:11,649
+[Banuk guard]
+Not that you'll stay long.
+
+58
+00:12:13,129 --> 00:12:16,556
+[Banuk guard]
+This is Song's Edge, biggest settlement in The Cut.
+
+59
+00:12:17,409 --> 00:12:20,799
+[Banuk guard]
+These are dangerous lands outlander, deadly even.
+
+60
+00:12:36,909 --> 00:12:40,649
+Smoke rising from the mountain, and the village too.
+
+61
+00:12:41,340 --> 00:12:42,659
+What's it for?
+
+62
+00:12:58,139 --> 00:13:03,149
+[Banuk Shaman]
+In times like these we must not forget the importance of ceremony.
+
+63
+00:13:06,019 --> 00:13:10,419
+[Banuk Shaman]
+Ourea's been gone a long time, but she will return.
+
+64
+00:13:11,139 --> 00:13:13,149
+[Banuk Shaman]
+We must believe she will return.
+
+65
+00:13:15,440 --> 00:13:19,183
+[Banuk villager]
+I do not think that our hunter's blood is on Aratak's hands.
+
+66
+00:13:19,183 --> 00:13:21,929
+[Banuk villager]
+He led them to a great challenge, that is all.
+
+67
+00:13:22,440 --> 00:13:26,149
+[Banuk Shaman]
+Young hunters have learned a lesson from Thunder's Drum.
+
+68
+00:13:26,809 --> 00:13:31,354
+[Banuk Shaman]
+Sometimes loss is the price of survival.
+
+69
+00:13:38,240 --> 00:13:43,750
+[Banuk Shaman]
+If you died on Thunder's Drum, your songs will not be forgotten.
+
+70
+00:14:03,120 --> 00:14:05,244
+[Aloy]
+Must be something big going on.
+
+71
+00:14:05,244 --> 00:14:07,750
+Most of the village is moving towards that smoke.
+
+72
+00:14:23,840 --> 00:14:28,960
+[Banuk Shaman]
+In times like these we must not forget the importance of ceremony.
+
+73
+00:14:40,639 --> 00:14:46,375
+[Banuk warrior]
+So many dead, at least we still have Aratak to guide us.
+
+74
+00:14:54,129 --> 00:14:56,467
+Get ready for a rare sight, Nora.
+
+75
+00:14:57,559 --> 00:15:00,750
+Burgrend, purveyor of necessities.
+
+76
+00:15:00,840 --> 00:15:06,450
+Most of the time the Banuk burn their dead, but not today.
+
+77
+00:15:12,720 --> 00:15:14,809
+Because the bodies couldn't be recovered.
+
+78
+00:15:14,809 --> 00:15:19,779
+Aye. A nasty business, all their best warriors lost.
+
+79
+00:15:21,139 --> 00:15:23,539
+So they're getting a different kind of send-off.
+
+80
+00:16:45,539 --> 00:16:49,460
+Grasp your grief, my hunters, and kill it!
+
+81
+00:16:50,740 --> 00:16:55,022
+For our kin seized the fate all Banuk long for.
+
+82
+00:16:55,539 --> 00:16:59,149
+Falling with their spears striking steel.
+
+83
+00:16:59,909 --> 00:17:03,834
+Their struggle is over now.
+
+84
+00:17:04,359 --> 00:17:11,160
+You have witnessed their spirits rise up
+into the blue sky and beyond to the blue light.
+
+85
+00:17:14,730 --> 00:17:19,089
+But our struggle is only beginning.
+
+86
+00:17:20,000 --> 00:17:26,589
+Soon we will again take up the hunt against
+the Daemon that frenzies the machines against us!
+
+87
+00:17:29,000 --> 00:17:35,834
+And so I ask you, can you summon the courage of our fallen kin?
+
+88
+00:17:36,240 --> 00:17:40,554
+Will you fight and die as well as they did?
+
+89
+00:17:40,555 --> 00:17:42,130
+[cheers]
+
+90
+00:17:42,130 --> 00:17:44,584
+My courage, my spear!
+
+91
+00:17:44,584 --> 00:17:45,683
+[cheers]
+
+92
+00:17:45,683 --> 00:17:48,681
+Our blood is in your teeth, Aratak!
+
+93
+00:17:49,342 --> 00:17:55,411
+We are Banuk, our enemies are prey.
+
+94
+00:18:01,589 --> 00:18:05,746
+"The Daemon that frenzies the machines"
+
+95
+00:18:05,746 --> 00:18:09,048
+Machines that wiped out their best.
+
+96
+00:18:09,049 --> 00:18:10,549
+And what do they want to do?
+
+97
+00:18:10,609 --> 00:18:12,259
+Go back up there!
+
+98
+00:18:12,839 --> 00:18:14,049
+Fools.
+
+99
+00:18:15,039 --> 00:18:20,569
+I've been up here for two long winters and I still can't make sense of the Banuk.
+
+100
+00:18:20,619 --> 00:18:21,889
+Take this ruckus.
+
+101
+00:18:21,890 --> 00:18:25,714
+It started with one of their Shamans, Ourea.
+
+102
+00:18:25,714 --> 00:18:30,699
+Spouting on about spirits and daemons up on Thunder's Drum.
+
+103
+00:18:30,700 --> 00:18:36,839
+So they marched their werak up there,
+and half of them get slaughtered by machines.
+
+104
+00:18:36,940 --> 00:18:39,618
+I don't know what Ourea found up there.
+
+105
+00:18:39,619 --> 00:18:41,880
+A Shaman's not going to talk to an outlander.
+
+106
+00:18:42,539 --> 00:18:46,318
+The machines in The Cut are getting more vicious, that's a fact.
+
+107
+00:18:46,319 --> 00:18:48,399
+It could be because of "the Daemon".
+
+108
+00:18:48,400 --> 00:18:52,069
+Or it could be because they all got indigestion for all I know.
+
+109
+00:18:52,430 --> 00:18:56,134
+But Ourea's not around to explain, she took off.
+
+110
+00:18:56,134 --> 00:18:59,549
+I thought the crazy might have gone with her, but no.
+
+111
+00:18:59,859 --> 00:19:04,259
+Here's big Aratak, gearing them up to do it all over again.
+
+112
+00:19:04,509 --> 00:19:06,489
+Everything's a test to them.
+
+113
+00:19:06,490 --> 00:19:10,389
+A hardship to endure, a challenge to survive.
+
+114
+00:19:10,390 --> 00:19:13,642
+Seems like they don't have much of a choice in a place like this.
+
+115
+00:19:13,642 --> 00:19:19,739
+Yeah, a land cold enough to crack teeth, filled with wild animals.
+
+116
+00:19:19,740 --> 00:19:23,509
+You think they'd accept a little reasonably priced aid.
+
+117
+00:19:23,509 --> 00:19:26,097
+Believe me, I've tried to convince them.
+
+118
+00:19:26,097 --> 00:19:30,049
+But a Banuk with nothing left to prove might just lie down and die.
+
+119
+00:19:30,109 --> 00:19:32,634
+Is Aratak a renowned warrior around here?
+
+120
+00:19:32,634 --> 00:19:34,108
+He's a werak chieftain.
+
+121
+00:19:34,109 --> 00:19:36,639
+His voice carries a lot of respect.
+
+122
+00:19:36,640 --> 00:19:38,108
+Not that you hear much of it.
+
+123
+00:19:38,109 --> 00:19:40,848
+Man talks about as much as a dead fish.
+
+124
+00:19:40,849 --> 00:19:45,548
+What are these "weraks" about, Burgrend? Some sort of tribe within the tribe?
+
+125
+00:19:45,549 --> 00:19:48,118
+Not like our clans back home.
+
+126
+00:19:48,119 --> 00:19:50,649
+You don't get born into these things.
+
+127
+00:19:50,650 --> 00:19:52,278
+They hold tryouts.
+
+128
+00:19:52,279 --> 00:19:56,899
+Prove you're best at something and you might get a place.
+
+129
+00:19:56,900 --> 00:20:01,583
+Some weraks come and go, some last as long as metal.
+
+130
+00:20:01,583 --> 00:20:07,929
+The whole Banuk territory, Ban-Ur, is just a bunch of the biggest, oldest weraks.
+
+131
+00:20:07,930 --> 00:20:11,750
+I'm not sure if I'm less confused or more confused.
+
+132
+00:20:11,750 --> 00:20:13,770
+[laughs]
+
+133
+00:20:13,770 --> 00:20:15,963
+Here's the sure thing.
+
+134
+00:20:15,970 --> 00:20:21,225
+Each werak has a chieftain and a Shaman, they make the decisions.
+
+135
+00:20:21,225 --> 00:20:28,759
+All well and good, except the chieftains are hardheaded,
+and the Shamans have their heads in the clouds.
+
+136
+00:20:28,829 --> 00:20:30,769
+You said you've lived out here for two winters?
+
+137
+00:20:30,769 --> 00:20:38,039
+Aye, back home some fur traders told me about this steel-forsaken heap of tents.
+
+138
+00:20:38,039 --> 00:20:41,206
+Good location, ripe for change.
+
+139
+00:20:41,206 --> 00:20:47,690
+When he and Ourea came to town with their werak it drew
+more Banuk to this little burg than I'd ever seen.
+
+140
+00:20:47,940 --> 00:20:49,640
+Know what else I saw, Aloy?
+
+141
+00:20:49,640 --> 00:20:54,160
+My own little trade route, stretching all the way back to The Claim.
+
+142
+00:20:54,440 --> 00:20:57,801
+"A great prophet is coming," they said.
+
+143
+00:20:58,707 --> 00:21:01,180
+I heard "profit".
+
+144
+00:21:01,240 --> 00:21:06,190
+Then he goes and leads them off to their death at the claws of angry machines.
+
+145
+00:21:06,640 --> 00:21:11,660
+If we could get through to enough of them,
+we could really put this place on the map.
+
+146
+00:21:11,660 --> 00:21:12,630
+"We"?
+
+147
+00:21:12,630 --> 00:21:17,570
+Me and my daugh– uh, my assistant. Varga.
+
+148
+00:21:17,570 --> 00:21:20,750
+My assistant and my daughter.
+
+149
+00:21:20,940 --> 00:21:23,939
+We seem to get along better as business partners.
+
+150
+00:21:23,940 --> 00:21:26,429
+Her mother wanted me to show her a trade.
+
+151
+00:21:26,430 --> 00:21:28,859
+She started tinkering with weapons.
+
+152
+00:21:29,240 --> 00:21:33,890
+Say when you need a break from this Banuk carry-on, stop in and see her.
+
+153
+00:21:34,009 --> 00:21:39,349
+You're both … er, um, how do I put it?
+
+154
+00:21:39,940 --> 00:21:40,634
+Women?
+
+155
+00:21:40,634 --> 00:21:43,239
+No, no, no, no, no! Independent!
+
+156
+00:21:43,240 --> 00:21:47,334
+Look for her at Longnotch, the easternmost Banuk camp.
+
+157
+00:21:47,334 --> 00:21:49,779
+Have you ever heard of a man named Sylens?
+
+158
+00:21:49,829 --> 00:21:54,439
+Tall, deadly serious, cables in his skin like a Shaman?
+
+159
+00:21:55,119 --> 00:21:59,432
+I've heard that name once or twice, but always whispered.
+
+160
+00:21:59,432 --> 00:22:02,549
+Like some boogeyman the Banuk want to forget.
+
+161
+00:22:02,779 --> 00:22:07,664
+I'm not sure what went down but
+I got the impression he messed with the Conclave.
+
+162
+00:22:07,664 --> 00:22:09,739
+Or they messed with him.
+
+163
+00:22:09,740 --> 00:22:10,529
+"Conclave"?
+
+164
+00:22:10,529 --> 00:22:14,740
+All the most important Shamans gather in Ban-Ur from time to time.
+
+165
+00:22:14,740 --> 00:22:17,579
+To keep up with the latest mumbo-jumbo.
+
+166
+00:22:17,940 --> 00:22:23,589
+No idea how they all fit into one tent without
+those crazy headdresses getting locked up on each other.
+
+167
+00:22:23,859 --> 00:22:26,071
+Ourea has been to that shindig.
+
+168
+00:22:26,071 --> 00:22:30,318
+But when I asked her what it's like she just gave me a dirty look.
+
+169
+00:22:30,319 --> 00:22:32,000
+I want to know more about this Daemon.
+
+170
+00:22:32,000 --> 00:22:33,900
+Uh-uh, it's crazy talk Aloy.
+
+171
+00:22:33,900 --> 00:22:35,439
+Or there's something to it.
+
+172
+00:22:35,440 --> 00:22:37,639
+Something connected to how the machines behave.
+
+173
+00:22:37,640 --> 00:22:40,049
+Then you need to find Ourea.
+
+174
+00:22:40,220 --> 00:22:44,019
+She was last seen headed for the mountains they call the Icerasps.
+
+175
+00:22:45,440 --> 00:22:50,269
+I've heard only the Shamans know the trail beyond those frozen peaks.
+
+176
+00:22:50,688 --> 00:22:55,275
+Mmm, but I do know where you could find her apprentice, Naltuk.
+
+177
+00:22:55,740 --> 00:22:59,220
+He went north of the river, chasing rumours.
+
+178
+00:22:59,380 --> 00:23:00,412
+Rumours?
+
+179
+00:23:00,412 --> 00:23:01,959
+Not the good kind.
+
+180
+00:23:01,960 --> 00:23:04,038
+Sudden attacks in the snow.
+
+181
+00:23:04,039 --> 00:23:06,209
+Strange new structures.
+
+182
+00:23:06,210 --> 00:23:10,629
+Some say a new machine like no-one's seen before.
+
+183
+00:23:10,630 --> 00:23:12,549
+Now I'm definitely interested.
+
+184
+00:23:13,119 --> 00:23:14,234
+Thanks for the talk, Burgrend.
+
+185
+00:23:14,234 --> 00:23:15,409
+Don't mention it.
+
+186
+00:23:15,409 --> 00:23:18,970
+I wonder if Aratak could tell me more about Ourea or Thunder's Drum.
+
+187
+00:23:19,640 --> 00:23:21,019
+Might be worth a shot.
+
+188
+00:23:24,039 --> 00:23:27,523
+[Banuk warrior]
+We've never faced anything like the machines that guard Thunder's Drum.
+
+189
+00:23:47,140 --> 00:23:51,549
+[Banuk village]
+None can remember a time when the Tallneck wasn't trapped in ice.
+
+190
+00:23:52,880 --> 00:23:55,538
+I do not want to hear this talk from you again.
+
+191
+00:23:55,539 --> 00:23:57,649
+Doubt is heavier than a week's snow.
+
+192
+00:23:57,650 --> 00:23:59,549
+Forgive me, my chieftain.
+
+193
+00:23:59,589 --> 00:24:01,358
+We will be ready for the next attempt.
+
+194
+00:24:01,359 --> 00:24:04,450
+But this will not be an attempt, it must be done.
+
+195
+00:24:04,529 --> 00:24:05,600
+Do you understand?
+
+196
+00:24:05,600 --> 00:24:06,440
+My chieftan.
+
+197
+00:24:06,440 --> 00:24:07,349
+Good.
+
+198
+00:24:07,440 --> 00:24:08,589
+Aratak.
+
+199
+00:24:11,990 --> 00:24:13,190
+Outlander.
+
+200
+00:24:13,539 --> 00:24:15,288
+I suppose you wish to speak?
+
+201
+00:24:15,289 --> 00:24:17,409
+You're set on going back to the mountain?
+
+202
+00:24:17,410 --> 00:24:19,219
+I've put my word to it.
+
+203
+00:24:19,220 --> 00:24:21,096
+Even with the risks being so great?
+
+204
+00:24:21,096 --> 00:24:23,630
+The risk of what, death?
+
+205
+00:24:24,083 --> 00:24:31,880
+It would be a worse fate to bow our heads to the challenge and say "too much".
+
+206
+00:24:32,039 --> 00:24:34,439
+Did your werak come from this place?
+
+207
+00:24:34,440 --> 00:24:40,549
+No, we rallied most of our hunters from across Ban-Ur
+to face the threat of the Daemon.
+
+208
+00:24:40,920 --> 00:24:46,660
+But I was born here and stayed to fight the Carja
+when others retreated into the mountains.
+
+209
+00:24:46,839 --> 00:24:51,620
+A few of my old warriors remained with me, those who survived.
+
+210
+00:24:52,000 --> 00:24:54,109
+There are other weraks in Song's Edge too?
+
+211
+00:24:54,109 --> 00:24:59,039
+Yes, the village has its own life for all Banuk who need trade or shelter.
+
+212
+00:24:59,039 --> 00:25:03,338
+After the war ended, it sprang up from what was once a campsite.
+
+213
+00:25:03,339 --> 00:25:05,720
+Quick as the bloom between frosts.
+
+214
+00:25:05,930 --> 00:25:10,049
+Perhaps it will last until the Carja seek war again.
+
+215
+00:25:10,339 --> 00:25:11,646
+One more thing, Aratak.
+
+216
+00:25:11,646 --> 00:25:15,730
+I wonder, will the mountains answer all your questions?
+
+217
+00:25:15,920 --> 00:25:18,588
+This Daemon you talked about?
+
+218
+00:25:18,589 --> 00:25:22,549
+If you are hardy enough, you can venture out and see the signs yourself.
+
+219
+00:25:23,440 --> 00:25:28,009
+It has changed the machines, made them fiercer, stronger.
+
+220
+00:25:28,009 --> 00:25:29,045
+But what is it?
+
+221
+00:25:29,045 --> 00:25:31,470
+A matter for the Shamans to debate.
+
+222
+00:25:31,529 --> 00:25:35,334
+Ourea knows about this Daemon, where would I talk to her?
+
+223
+00:25:35,349 --> 00:25:37,119
+She does a Shaman's work.
+
+224
+00:25:37,119 --> 00:25:40,049
+That is not for the eyes and ears of others.
+
+225
+00:25:40,119 --> 00:25:42,470
+Certainly not an outlander's.
+
+226
+00:25:42,539 --> 00:25:44,609
+Well, I guess that's it, then.
+
+227
+00:25:44,609 --> 00:25:47,054
+Good, I prefer deeds to words.
+
+228
+00:25:47,054 --> 00:25:48,436
+Right.
+
+229
+00:25:48,436 --> 00:25:49,828
+To your survival.
+
+230
+00:25:57,839 --> 00:26:02,150
+[Banuk warrior]
+Do we stand around and talk, or do we have responsibilities to attend to?
+
+231
+00:26:06,720 --> 00:26:11,217
+[Banuk villager]
+On top of all we've endured, we find ourselves beset by bandits.
+
+232
+00:26:14,009 --> 00:26:18,085
+[Laulai]
+Deep Din, silenced by rising waters.
+
+233
+00:26:21,440 --> 00:26:27,549
+[Banuk warrior]
+Shall we all die beneath the claws of the new machines
+just satisfy Aratak's crusade?
+
+234
+00:27:29,849 --> 00:27:30,990
+[Banuk villager]
+I don't see what's…
+
+235
+00:27:54,940 --> 00:27:56,380
+[Banuk villager]
+…wrong with the traditional paintings…
+
+236
+00:28:14,829 --> 00:28:18,099
+[Banuk villager]
+…Sekuli overcomplicates things.
+
+237
+00:28:25,521 --> 00:28:31,480
+[Laulai]
+One day, the stone of the Din was dry, the next, the flood came.
+
+238
+00:28:31,480 --> 00:28:33,549
+You seem sad, stranger.
+
+239
+00:28:34,079 --> 00:28:35,409
+I heard you mention a flood?
+
+240
+00:28:35,410 --> 00:28:40,599
+Yes, a sudden deluge, without rain or melt to explain it.
+
+241
+00:28:41,339 --> 00:28:44,406
+I'm Laulai, the drummer of Deep Din.
+
+242
+00:28:44,406 --> 00:28:48,000
+Or at least I was, until it disappeared under the waters.
+
+243
+00:28:48,000 --> 00:28:50,158
+"Deep Din" — what's that?
+
+244
+00:28:50,158 --> 00:28:53,390
+A hollow carved out by the Old Ones.
+
+245
+00:28:53,440 --> 00:28:57,639
+A chamber, a basin, and a musical instrument, all at once.
+
+246
+00:28:57,640 --> 00:29:00,049
+My life, my calling.
+
+247
+00:29:00,230 --> 00:29:05,259
+During the war, my father played the pipes to rally the Banuk against the Carja.
+
+248
+00:29:05,900 --> 00:29:10,318
+I'm the drummer now, but our battles are few and far between.
+
+249
+00:29:11,220 --> 00:29:13,734
+Mostly I play for the joy of it.
+
+250
+00:29:14,100 --> 00:29:18,544
+Pipes that carry a perfect tone beneath the sonorous basin.
+
+251
+00:29:18,544 --> 00:29:23,069
+A wondrous edifice the Old Ones used to carry music far and wide.
+
+252
+00:29:24,180 --> 00:29:31,034
+Of course, if the waters don't receed what's the point of joy, or remembering?
+
+253
+00:29:31,140 --> 00:29:32,709
+So the waters came fast.
+
+254
+00:29:32,710 --> 00:29:38,210
+One day it was dry, the next the nearby river
+had risen and the entire basin was flooded.
+
+255
+00:29:38,740 --> 00:29:40,490
+I don't understand it.
+
+256
+00:29:40,779 --> 00:29:43,528
+There was no rain, not even any clouds.
+
+257
+00:29:43,529 --> 00:29:46,799
+And yet the river rose higher than I'd ever seen it.
+
+258
+00:29:47,599 --> 00:29:49,326
+And there it remains.
+
+259
+00:29:49,326 --> 00:29:53,257
+A flood without rain, that is strange.
+
+260
+00:29:53,930 --> 00:29:55,299
+Where is this place?
+
+261
+00:29:55,519 --> 00:29:57,447
+I'll have a look if I'm in the area.
+
+262
+00:29:57,447 --> 00:29:59,147
+Just northwest of here.
+
+263
+00:29:59,147 --> 00:30:02,490
+Look all you like, but I don't see what good it'll do.
+
+264
+00:30:02,609 --> 00:30:04,769
+The flood waters aren't going anywhere.
+
+265
+00:30:04,839 --> 00:30:07,259
+How does one ask a river to relent?
+
+266
+00:30:08,339 --> 00:30:13,949
+[Banuk warrior]
+…where the great weraks go. Perhaps one day I will join them.
+
+267
+00:30:23,640 --> 00:30:29,240
+[Banuk warrior]
+Good hunting today, we reunited many machine spirits with the blue light.
+
+268
+00:31:27,440 --> 00:31:29,849
+Chill almost feels like sunburn.
+
+269
+00:31:48,380 --> 00:31:50,640
+[Kamut]
+Outlander, wait! Wait a moment.
+
+270
+00:31:50,640 --> 00:31:55,777
+[Banuk]
+Mix your yellow and your blue, that's how you get green.
+
+271
+00:31:57,600 --> 00:32:00,440
+That weapon of yours, outlander, that spear!
+
+272
+00:32:00,440 --> 00:32:02,950
+I can see the blue light upon it.
+
+273
+00:32:03,039 --> 00:32:05,579
+You're not the first to take an interest in it.
+
+274
+00:32:06,029 --> 00:32:07,308
+I've made it myself.
+
+275
+00:32:07,309 --> 00:32:08,679
+Your own design?
+
+276
+00:32:08,680 --> 00:32:11,119
+And yet you are not a Shaman.
+
+277
+00:32:11,240 --> 00:32:15,108
+Uh, no more of a tinker.
+
+278
+00:32:15,109 --> 00:32:20,630
+A tinker does not understand the spark in the metal,
+the song in the metal, like this.
+
+279
+00:32:20,940 --> 00:32:26,190
+But it could be improved upon, modified, with the help of the Old Ones.
+
+280
+00:32:26,440 --> 00:32:30,720
+Far north of here there is a cave, a shaft in the snow.
+
+281
+00:32:30,720 --> 00:32:34,239
+Within it is a nest of metal birds.
+
+282
+00:32:34,240 --> 00:32:38,308
+Find a bird that hasn't been stripped by Shamans past.
+
+283
+00:32:38,309 --> 00:32:42,019
+Look for a rail inside it, the length of your spear.
+
+284
+00:32:42,019 --> 00:32:43,788
+That's all I can tell you.
+
+285
+00:32:43,789 --> 00:32:46,916
+Get a rail from some metal birds in a cave.
+
+286
+00:32:46,916 --> 00:32:48,950
+Sounds perfectly normal.
+
+287
+00:32:49,640 --> 00:32:52,960
+[Kamut]
+A secret shared is kept beneath ice.
+
+288
+00:33:06,069 --> 00:33:09,000
+[Banuk]
+…then act surprised when the hunt eludes them.
+
+289
+00:33:29,339 --> 00:33:30,950
+[Banuk]
+…we will not bow to this…
+
+290
+00:33:45,930 --> 00:33:47,459
+[Banuk hunter 1]
+Any news from the hunt?
+
+291
+00:33:47,460 --> 00:33:50,450
+[Banuk hunter 2]
+The herd isn't roaming far from the camp.
+
+292
+00:33:50,799 --> 00:33:52,639
+[Banuk hunter 3]
+Keeping together this time.
+
+293
+00:33:52,639 --> 00:33:55,889
+[Banuk hunter 2]
+Then we wait, but I bet we'll see a stray.
+
+294
+00:33:55,890 --> 00:33:58,052
+[Banuk hunter 1]
+Alright, I'll keep watch tonight.
+
+295
+00:34:46,860 --> 00:34:50,000
+Outlanders. Carja outlanders.
+
+296
+00:34:50,000 --> 00:34:52,208
+[Carja outlander]
+…said her lover was killed by machines.
+
+297
+00:34:52,208 --> 00:34:56,287
+[Carja outlander]
+I'm sure it's a lie but with so many dying recently…
+
+298
+00:35:02,340 --> 00:35:07,578
+[Hishavan]
+May the sun grant you a portion of its wisdom, young huntress.
+
+299
+00:35:09,840 --> 00:35:12,408
+What brings you Carja so far from your home?
+
+300
+00:35:12,409 --> 00:35:15,670
+There's good machine hunting in The Cut, danger too.
+
+301
+00:35:15,739 --> 00:35:19,960
+Some have a taste for both, and they pay people like me well to guide them.
+
+302
+00:35:20,300 --> 00:35:21,898
+We've had a bad run this time.
+
+303
+00:35:21,900 --> 00:35:25,951
+Even after I brought this priest along to read the signs…
+
+304
+00:35:25,951 --> 00:35:30,005
+I did say the sun's light was cast quite red the night of the…
+
+305
+00:35:30,005 --> 00:35:33,550
+Not your concern though, huntress.
+
+306
+00:35:34,840 --> 00:35:38,630
+[Furahni]
+You're a long way from home too. Watch your back out there.
+
+307
+00:35:43,510 --> 00:35:48,530
+[Carja outlander]
+An Oseram tries to kill the Sun-King and a Nora saves his life!
+
+308
+00:36:52,030 --> 00:36:55,340
+Burgrend said Ourea's apprentice went north of the river.
+
+309
+00:36:55,649 --> 00:36:57,239
+Hopefully not too far.
+
+310
+00:37:54,730 --> 00:37:59,409
+That must be Naltuk looking out at that … tower.
+
+311
+00:37:59,409 --> 00:38:02,739
+It looks like it's sending out a pulse or signal.
+
+312
+00:38:07,179 --> 00:38:07,858
+Naltuk.
+
+313
+00:38:07,860 --> 00:38:08,949
+Who are you?
+
+314
+00:38:09,519 --> 00:38:10,528
+How did you find me?
+
+315
+00:38:10,530 --> 00:38:12,338
+Burgrend told me you'd be out here.
+
+316
+00:38:12,340 --> 00:38:13,739
+He's persistent.
+
+317
+00:38:14,219 --> 00:38:18,534
+I've told that Oseram a thousand times I don't need to buy anything.
+
+318
+00:38:18,534 --> 00:38:21,434
+And I'm not selling. I just need to find Ourea.
+
+319
+00:38:21,434 --> 00:38:22,639
+Well, you won't.
+
+320
+00:38:23,019 --> 00:38:25,607
+She's gone where only Shamans can tread.
+
+321
+00:38:26,460 --> 00:38:29,259
+She seeks guidance from the voice in the blue light.
+
+322
+00:38:29,260 --> 00:38:31,030
+That is her task.
+
+323
+00:38:31,969 --> 00:38:34,844
+And the task she gave me is to observe the Daemon's work.
+
+324
+00:38:35,599 --> 00:38:37,960
+To stop it spreading, if I can.
+
+325
+00:38:39,219 --> 00:38:41,610
+But what can I do about these towers?
+
+326
+00:38:42,059 --> 00:38:45,070
+In only a few weeks they've sprouted throughout The Cut.
+
+327
+00:38:45,969 --> 00:38:48,253
+The Daemon's energy pulses from them.
+
+328
+00:38:48,253 --> 00:38:51,530
+Rallies the machines, even repairs them.
+
+329
+00:38:51,570 --> 00:38:54,738
+Aratak said this Daemon was frenzying machines?
+
+330
+00:38:54,739 --> 00:38:55,829
+Look there.
+
+331
+00:38:55,920 --> 00:38:59,429
+Those with the purple markings, they belong to the Daemon.
+
+332
+00:39:00,090 --> 00:39:01,918
+They're stronger, more dangerous.
+
+333
+00:39:01,920 --> 00:39:05,639
+I've seen something like this before, a corruption.
+
+334
+00:39:06,320 --> 00:39:07,703
+But it wasn't from your Daemon.
+
+335
+00:39:07,703 --> 00:39:08,690
+You have?
+
+336
+00:39:09,210 --> 00:39:10,789
+Well, then you know more than I do.
+
+337
+00:39:11,619 --> 00:39:14,400
+These towers, were they part of your corruption?
+
+338
+00:39:14,400 --> 00:39:16,878
+No, those are new to me too.
+
+339
+00:39:16,880 --> 00:39:20,139
+Like I said, they empower the Daemon's machines.
+
+340
+00:39:20,320 --> 00:39:22,018
+They must be stopped.
+
+341
+00:39:22,019 --> 00:39:23,667
+Will you tell me where Ourea went?
+
+342
+00:39:23,667 --> 00:39:25,434
+You ask a lot of questions.
+
+343
+00:39:25,434 --> 00:39:27,318
+Only when I'm not getting the answers I need.
+
+344
+00:39:27,320 --> 00:39:31,139
+There's but one voice Ourea wants to hear right now, and it isn't yours.
+
+345
+00:39:31,679 --> 00:39:32,690
+I'm sorry.
+
+346
+00:39:32,880 --> 00:39:35,900
+Alright, you want to stop the spread of the Daemon's work?
+
+347
+00:39:35,900 --> 00:39:39,554
+I know how to get started — with my bow and spear.
+
+348
+00:39:39,554 --> 00:39:40,829
+Outlander, wait!
+
+349
+00:39:41,267 --> 00:39:42,969
+Won't you tell me your name?
+
+350
+00:39:43,679 --> 00:39:44,719
+Aloy.
+
+351
+00:39:44,719 --> 00:39:46,019
+Good.
+
+352
+00:39:46,019 --> 00:39:50,478
+If you fall to the Daemon's machines,
+at least I can properly recount your efforts to Ourea.
+
+353
+00:39:50,480 --> 00:39:54,050
+Thanks for the vote of confidence, but I won't fall.
+
+354
+00:39:54,360 --> 00:39:57,739
+And when I'm done, you're gonna tell me where she is.
+
+355
+00:40:14,068 --> 00:40:15,679
+Interesting.
+
+356
+00:40:15,679 --> 00:40:17,269
+Maybe I could override it.
+
+357
+00:41:05,246 --> 00:41:08,442
+I can kill the machines, but what about the tower?
+
+358
+00:41:09,386 --> 00:41:12,802
+I might be able to destroy it, or override it.
+
+359
+00:41:29,456 --> 00:41:33,363
+The tower won't stop, but I could override it.
+
+360
+00:41:58,570 --> 00:42:01,918
+Okay, then let's see if this tower will work for me.
+
+361
+00:44:30,782 --> 00:44:35,412
+So the tower helps heal the machines, and it can be overridden.
+
+362
+00:45:22,989 --> 00:45:24,409
+[Naltuk, in the distance]
+Let's talk about Ourea.
+
+363
+00:45:42,949 --> 00:45:45,500
+[Naltuk]
+You are quite the warrior.
+
+364
+00:45:59,230 --> 00:46:03,034
+Seems I can take care of the machines and towers, the Daemon's next.
+
+365
+00:46:03,070 --> 00:46:06,091
+You claimed its power for yourself, somehow.
+
+366
+00:46:06,380 --> 00:46:09,267
+Perhaps Ourea should meet you after all.
+
+367
+00:46:09,267 --> 00:46:11,590
+What she truly seeks is hope.
+
+368
+00:46:11,980 --> 00:46:14,699
+After what I just saw, you could show her that.
+
+369
+00:46:15,559 --> 00:46:19,253
+She's in retreat beyond those mountains, the Icerasps.
+
+370
+00:46:19,480 --> 00:46:21,989
+You'll have to walk the Shaman's Path to get there.
+
+371
+00:46:22,590 --> 00:46:24,467
+Burgrend told me you're Ourea's apprentice.
+
+372
+00:46:24,500 --> 00:46:31,034
+In her absence, I serve the chieftain and his werak
+as an advisor, a scout, a speaker for the blue light.
+
+373
+00:46:31,034 --> 00:46:32,178
+Lot of responsibilities.
+
+374
+00:46:32,179 --> 00:46:36,420
+I don't know if I can live up to Ourea's example, but I have to try.
+
+375
+00:46:36,750 --> 00:46:38,289
+I owe her that much.
+
+376
+00:46:39,179 --> 00:46:43,550
+She took a chance on me, an aspiring Shaman from the edge of the world.
+
+377
+00:46:43,550 --> 00:46:44,820
+No-one else would.
+
+378
+00:46:44,869 --> 00:46:47,509
+Were you with Ourea when they attacked the mountain?
+
+379
+00:46:47,510 --> 00:46:50,590
+I wish I had been, even with all that happened.
+
+380
+00:46:51,480 --> 00:46:54,789
+I'm no warrior, though, so she bid me wait.
+
+381
+00:46:55,869 --> 00:46:59,420
+When Ourea and the chieftain returned, I saw them argue bitterly.
+
+382
+00:46:59,849 --> 00:47:02,050
+I don't know what about exactly.
+
+383
+00:47:02,980 --> 00:47:06,650
+Then she came to me, gave me my task, and left us.
+
+384
+00:47:06,679 --> 00:47:09,068
+How do I cross this Shaman's Path?
+
+385
+00:47:09,070 --> 00:47:10,935
+Go to the Icerasps.
+
+386
+00:47:10,935 --> 00:47:15,920
+Then follow the markers through the ice caves
+and the waterfalls, and make the climb to the shrine.
+
+387
+00:47:16,380 --> 00:47:17,590
+But be careful.
+
+388
+00:47:17,880 --> 00:47:19,608
+The path is meant to be an ordeal.
+
+389
+00:47:19,610 --> 00:47:21,818
+The final trial of a young Shaman's training.
+
+390
+00:47:21,820 --> 00:47:23,708
+And I'll find Ourea at the end of it?
+
+391
+00:47:23,710 --> 00:47:28,163
+No, she goes further up, somewhere inside the mountain.
+
+392
+00:47:28,163 --> 00:47:33,625
+You'll know you've reached the end when you come to a shrine,
+a great machine covered in bluegleam.
+
+393
+00:47:33,625 --> 00:47:37,743
+A crystal that builds on the bodies of machines in the oldest ice.
+
+394
+00:47:38,400 --> 00:47:43,590
+We Banuk believe it's the stuff of the blue light frozen as it escapes their shells.
+
+395
+00:47:44,179 --> 00:47:47,828
+You might be more interested that merchants will trade well for it.
+
+396
+00:47:47,829 --> 00:47:51,219
+Shamans who complete the path take a piece of it as reward.
+
+397
+00:47:51,820 --> 00:47:56,766
+If you make it that far, you should too. You'll have earned it.
+
+398
+00:47:56,766 --> 00:48:02,159
+If you see her, would you tell her I have faith she will hear the voice again.
+
+399
+00:48:07,780 --> 00:48:12,438
+Alright, I guess I'm off to the Icerasps to find this Shaman's Path.
+
+400
+00:49:09,869 --> 00:49:11,309
+Never know when I might need these.
+

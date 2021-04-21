@@ -1,0 +1,736 @@
+1
+00:00:21,039 --> 00:00:22,838
+AIDABA: So you have marks for me?
+
+2
+00:00:22,839 --> 00:00:24,339
+ALOY: What do you mean?
+
+3
+00:00:24,339 --> 00:00:25,989
+From the Hunting Grounds.
+
+4
+00:00:26,089 --> 00:00:28,140
+Oh, right. You're new here.
+
+5
+00:00:28,140 --> 00:00:30,100
+What do you want with my marks?
+
+6
+00:00:30,140 --> 00:00:32,139
+You hunters and your badges.
+
+7
+00:00:32,140 --> 00:00:33,759
+I'm not gonna take them.
+
+8
+00:00:33,759 --> 00:00:35,649
+What do I do with these marks?
+
+9
+00:00:36,140 --> 00:00:41,031
+If you earn marks in all three trials
+at each of the five Hunting Grounds, come to me.
+
+10
+00:00:41,031 --> 00:00:43,143
+I can give you up to three weapons.
+
+11
+00:00:43,143 --> 00:00:44,850
+One for fifteen Half Suns,
+
+12
+00:00:44,850 --> 00:00:46,538
+one for fifteen Full Suns,
+
+13
+00:00:46,538 --> 00:00:49,339
+and one you'll love for all Blazing Suns!
+
+14
+00:00:49,340 --> 00:00:51,000
+I need a few more.
+
+15
+00:00:51,030 --> 00:00:51,809
+Okay.
+
+16
+00:00:51,810 --> 00:00:56,750
+Once you get marks from the trials at every Hunting Ground,
+come back and we'll see what I can give you.
+
+17
+00:01:12,299 --> 00:01:14,568
+Aren't you a little out of your way, Nora?
+
+18
+00:01:14,569 --> 00:01:18,000
+Your Sacred Lands don't extend this far.
+
+19
+00:01:18,219 --> 00:01:19,750
+I go where I like.
+
+20
+00:01:19,939 --> 00:01:21,349
+What do you do here?
+
+21
+00:01:21,390 --> 00:01:23,448
+I'm the keeper of these hunting grounds.
+
+22
+00:01:23,450 --> 00:01:27,849
+Which means, of course, that I'm the local representative of the Hunters Lodge.
+
+23
+00:01:28,540 --> 00:01:31,378
+I oversee the leverage trials here.
+
+24
+00:01:31,379 --> 00:01:34,790
+Not that a vagabond Nora has any chance of passing them.
+
+25
+00:01:34,840 --> 00:01:36,579
+You might be surprised.
+
+26
+00:01:36,590 --> 00:01:37,938
+I doubt it.
+
+27
+00:01:37,939 --> 00:01:39,849
+So how'd you wind up here?
+
+28
+00:01:39,980 --> 00:01:43,012
+I didn't "wind up" here, it's an honour.
+
+29
+00:01:43,340 --> 00:01:48,349
+I don't expect you to get it, but I'm
+well regarded at the Hunters Lodge back in Meridian.
+
+30
+00:01:48,430 --> 00:01:52,420
+So much so they sent you out here to pitch your tent in the wilds?
+
+31
+00:01:53,439 --> 00:01:57,709
+Are you going to take part in a trial or stand here prattling at me?
+
+32
+00:01:57,799 --> 00:01:59,338
+Tell me about the trials.
+
+33
+00:01:59,340 --> 00:02:02,618
+These hunting grounds offer the leverage trials.
+
+34
+00:02:02,620 --> 00:02:07,150
+They focus on gaining an edge by leveraging machines against each other.
+
+35
+00:02:07,439 --> 00:02:11,680
+You might, for instance, take a weapon from one machine and use it on another.
+
+36
+00:02:11,770 --> 00:02:15,849
+It's hard, but the firepower is often worth the risk.
+
+37
+00:02:15,939 --> 00:02:18,280
+Let me know which trail you're interested in.
+
+38
+00:02:20,729 --> 00:02:26,048
+For this trial you must use the cannon on a Ravager's back
+to take down other machines.
+
+39
+00:02:28,090 --> 00:02:30,849
+KEEPER: And so it's time to begin.
+
+40
+00:03:24,240 --> 00:03:27,273
+Heavy, it's hard too.
+
+41
+00:03:54,960 --> 00:03:56,250
+Needed that.
+
+42
+00:04:32,040 --> 00:04:33,639
+Back to your business.
+
+43
+00:04:50,410 --> 00:04:51,519
+I can't believe it.
+
+44
+00:04:51,519 --> 00:04:54,949
+You've earned a Blazing Sun on the first try.
+
+45
+00:05:03,399 --> 00:05:05,739
+I know who you are, girl.
+
+46
+00:05:05,740 --> 00:05:08,519
+The Nora who can control machines.
+
+47
+00:05:08,529 --> 00:05:11,149
+So I've got a trial just for you.
+
+48
+00:05:11,300 --> 00:05:14,349
+Use your spear to take control of two Ravagers.
+
+49
+00:05:14,350 --> 00:05:17,100
+Get them to help you take down a Thunderjaw.
+
+50
+00:07:27,240 --> 00:07:28,326
+Good hit!
+
+51
+00:08:01,269 --> 00:08:02,850
+I think I'm in the clear.
+
+52
+00:08:47,450 --> 00:08:48,548
+I can't believe it.
+
+53
+00:08:48,549 --> 00:08:51,960
+You've earned a Blazing Sun on the first try.
+
+54
+00:08:58,230 --> 00:09:02,799
+For this trial, you must use the Thunderjaw's cannon to destroy Ravagers.
+
+55
+00:09:16,039 --> 00:09:18,549
+KEEPER: Get out there and give it your best.
+
+56
+00:10:01,500 --> 00:10:03,330
+I've almost got you!
+
+57
+00:12:15,820 --> 00:12:17,409
+Now they're hunting me.
+
+58
+00:12:35,539 --> 00:12:36,678
+I can't believe it.
+
+59
+00:12:36,679 --> 00:12:40,049
+You've earned a Blazing Sun on the first try.
+
+60
+00:12:52,509 --> 00:12:53,879
+I'll be going now.
+
+61
+00:12:54,210 --> 00:12:55,399
+Uh-huh.
+
+62
+00:16:16,990 --> 00:16:17,990
+Glinthawks, they're never giving up scrap.
+
+63
+00:17:59,000 --> 00:18:00,000
+Aah.
+
+64
+00:18:53,497 --> 00:18:55,049
+I'll find a use for you.
+
+65
+00:21:04,839 --> 00:21:08,460
+Mmm, I waited for you.
+
+66
+00:21:08,819 --> 00:21:12,869
+Time passing pulls the anticipation tight as wire.
+
+67
+00:21:13,119 --> 00:21:15,667
+Ah, how many has it been now?
+
+68
+00:21:16,740 --> 00:21:18,607
+I don't keep count, Nil.
+
+69
+00:21:18,607 --> 00:21:22,600
+Don't keep count? Sometimes I just don't get you.
+
+70
+00:21:22,690 --> 00:21:25,660
+Are you like us or a little different?
+
+71
+00:21:25,789 --> 00:21:27,660
+Hopefully a little different.
+
+72
+00:21:28,099 --> 00:21:30,160
+That's what you're gonna tell yourself.
+
+73
+00:21:30,500 --> 00:21:31,960
+Shall we get started?
+
+74
+00:22:39,240 --> 00:22:40,660
+Full already.
+
+75
+00:23:11,589 --> 00:23:13,259
+Can't be too prepared.
+
+76
+00:23:52,960 --> 00:23:56,549
+BANDIT: Saw a herd of Shell-Walkers and thought it was my lucky day.
+
+77
+00:24:03,869 --> 00:24:07,686
+ALOY: That's an alarm. Would make enough noise to bring in more.
+
+78
+00:24:12,279 --> 00:24:13,869
+ALOY: That puts it out of action.
+
+79
+00:24:18,339 --> 00:24:19,299
+BANDIT: Get her!
+
+80
+00:24:27,515 --> 00:24:29,041
+BANDIT: Who knows where she is?
+
+81
+00:24:30,977 --> 00:24:33,648
+BANDIT: …got trouble, light the signal!
+
+82
+00:25:06,041 --> 00:25:07,646
+BANDIT: Die, die!
+
+83
+00:25:38,529 --> 00:25:41,740
+BANDIT: I missed! You're dead, dead!
+
+84
+00:26:00,039 --> 00:26:01,130
+ALOY: Hello!
+
+85
+00:26:05,954 --> 00:26:07,875
+ALOY: The bandit's captives.
+
+86
+00:26:15,539 --> 00:26:16,569
+BANDIT: Fight!
+
+87
+00:26:47,635 --> 00:26:52,990
+CARJA: Just because he failed to kill the Sun-King
+doesn't mean he's any less guilty, he should pay!
+
+88
+00:26:55,640 --> 00:27:01,822
+CARJA: So there are Oseram in the Sundom now.
+I get up, I work, same as always.
+
+89
+00:27:02,374 --> 00:27:06,243
+CARJA: Ugh, egg for breakfast and it's not sitting well with me.
+
+90
+00:27:32,619 --> 00:27:37,433
+CARJA: The Oseram have gone too far
+this time, Dervahl should die for his crimes.
+
+91
+00:27:42,339 --> 00:27:44,450
+CARJA: We owe you for defending the Sun-King.
+
+92
+00:27:48,740 --> 00:27:50,619
+ALOY: Forget about travelling light.
+
+93
+00:27:57,740 --> 00:28:00,079
+CARJA: If I got my hands on Dervahl…
+
+94
+00:28:40,839 --> 00:28:43,788
+CARJA: What reason do Oseram need for anything that they do?
+
+95
+00:28:46,339 --> 00:28:51,417
+CARJA: That crazy Oseram … 'til the machine rider stopped him.
+
+96
+00:28:57,150 --> 00:29:01,549
+CARJA: Didn't even hesistate. She stood between the assassin and our Sun-King.
+
+97
+00:29:28,509 --> 00:29:31,789
+These little moments are refreshing, aren't they?
+
+98
+00:29:31,940 --> 00:29:34,980
+That could be the least creepy thing you've said to me.
+
+99
+00:29:35,339 --> 00:29:42,009
+Aah, that glimpse of yourself in their eyes,
+just as the cloud of death passes across them.
+
+100
+00:29:42,009 --> 00:29:43,765
+Never mind, there it goes.
+
+101
+00:29:43,765 --> 00:29:47,239
+Ambushes, raiding parties, even corrupted machines!
+
+102
+00:29:47,240 --> 00:29:51,670
+The mortal wounds just open themselves to accept my arrows.
+
+103
+00:29:52,640 --> 00:29:54,490
+But you knew this already.
+
+104
+00:29:55,539 --> 00:29:58,259
+You've been walking on the edge of life and death.
+
+105
+00:29:59,039 --> 00:30:00,160
+I can tell.
+
+106
+00:30:00,240 --> 00:30:03,644
+Yeah, it's a long story.
+
+107
+00:30:03,644 --> 00:30:05,549
+With many quick endings, I hope.
+
+108
+00:30:05,763 --> 00:30:10,819
+You know, Nil, if you get tired of bandits, there is a group called "The Eclipse".
+
+109
+00:30:10,849 --> 00:30:13,049
+That's a political situation.
+
+110
+00:30:13,380 --> 00:30:19,019
+They're murderers, and they're raising an army of machines,
+that's a little more than politics.
+
+111
+00:30:19,019 --> 00:30:21,789
+Don't hate me for being single-minded.
+
+112
+00:30:22,009 --> 00:30:27,946
+Besides, I wouldn't bet on how long the Shadow Carja
+are gonna last if you're in for the kill.
+
+113
+00:30:28,279 --> 00:30:31,500
+Makes you wish you could kill them more than once doesn't it?
+
+114
+00:30:31,880 --> 00:30:33,838
+No, once is enough.
+
+115
+00:30:33,839 --> 00:30:38,789
+You're right, of course, once is enough when you really make it count.
+
+116
+00:30:38,789 --> 00:30:42,101
+What's the matter? You look disappointed.
+
+117
+00:30:42,101 --> 00:30:45,289
+Oh, the bandit clans have gone.
+
+118
+00:30:45,609 --> 00:30:51,104
+I hear another turned back at the southern plains
+just at a sniff of the legend we carved.
+
+119
+00:30:52,140 --> 00:30:56,000
+That's what all this bloodshed was for, to end the bandit threat.
+
+120
+00:30:56,009 --> 00:31:01,549
+But now there is nothing left to kill … unless? No, no.
+
+121
+00:31:01,930 --> 00:31:04,640
+I guess this is our last farewell.
+
+122
+00:31:05,019 --> 00:31:08,506
+After all we've been through this isn't the place for that.
+
+123
+00:31:09,210 --> 00:31:13,259
+There's a mesa south of Meridian with a view of the Spearshafts.
+
+124
+00:31:13,839 --> 00:31:15,259
+Meet me there.
+
+125
+00:33:03,200 --> 00:33:05,352
+Stocking up! [whistle]
+
+126
+00:33:24,399 --> 00:33:25,768
+I've been seen!
+
+127
+00:34:02,207 --> 00:34:05,351
+It'd be fascinating if they weren't looking for me. 
+
+128
+00:35:24,975 --> 00:35:26,409
+Gotta follow up!
+
+129
+00:40:00,000 --> 00:40:01,000
+Uh-oh!
+
+130
+00:42:01,361 --> 00:42:04,091
+Safe, for a few minutes anyway.
+
+131
+00:45:00,571 --> 00:45:01,941
+What is this place?
+
+132
+00:45:02,178 --> 00:45:03,775
+Sssh!
+
+133
+00:45:04,337 --> 00:45:06,160
+Er, what are you doing?
+
+134
+00:45:06,449 --> 00:45:09,900
+I was listening to the herd.
+
+135
+00:45:10,800 --> 00:45:13,008
+Have you come for the stealth trials?
+
+136
+00:45:13,367 --> 00:45:14,900
+I'm not sure.
+
+137
+00:45:14,900 --> 00:45:17,133
+You must decide.
+
+138
+00:45:17,600 --> 00:45:18,900
+Who are you?
+
+139
+00:45:18,900 --> 00:45:20,633
+I am the keeper of these grounds.
+
+140
+00:45:20,633 --> 00:45:22,633
+So how did you come to be here?
+
+141
+00:45:22,700 --> 00:45:27,767
+I was once, like many members of the Lodge, manoeuvring, hunting for status.
+
+142
+00:45:28,100 --> 00:45:31,567
+But my impatience hampered the true hunt.
+
+143
+00:45:31,700 --> 00:45:32,867
+Are you a member?
+
+144
+00:45:32,867 --> 00:45:35,900
+No, I am only a Fledgling.
+
+145
+00:45:36,267 --> 00:45:41,233
+I prefer the music of the wild over the cacophony of squawking birds.
+
+146
+00:45:41,233 --> 00:45:42,000
+I didn't know that, of course, until I came here.
+
+147
+00:45:42,000 --> 00:45:47,200
+It forced me to listen, to breathe.
+
+148
+00:45:47,867 --> 00:45:51,900
+And finally to master the art of stealth.
+
+149
+00:45:52,267 --> 00:45:55,867
+Don't you ever miss, you know, talking?
+
+150
+00:45:55,967 --> 00:45:57,067
+Not at the moment, no.
+
+151
+00:45:58,367 --> 00:45:59,833
+What are the trials?
+
+152
+00:46:00,000 --> 00:46:02,967
+I offer the stealth trials.
+
+153
+00:46:03,300 --> 00:46:07,233
+Some believe charging in with a mighty weapon makes them a hunter.
+
+154
+00:46:07,500 --> 00:46:11,000
+But it's a good way to fall under the hooves of a stampede.
+
+155
+00:46:11,700 --> 00:46:16,733
+A true hunter chooses the approach that best suits the kill.
+
+156
+00:46:17,200 --> 00:46:21,400
+Mastering stealth may well save your life.
+
+157
+00:46:21,600 --> 00:46:24,167
+Have you decided which trial you'll take?
+
+158
+00:46:24,333 --> 00:46:27,067
+Choose and I can give you the details.
+
+159
+00:46:29,367 --> 00:46:31,833
+The Watchers of the herd attack quickly.
+
+160
+00:46:31,967 --> 00:46:35,433
+Take them down while in stealth to prove your skill.
+
+161
+00:46:51,100 --> 00:46:53,633
+KEEPER: I start timing once you slide down a rope.
+
+162
+00:47:01,053 --> 00:47:03,000
+No need to draw attention.
+
+163
+00:47:21,317 --> 00:47:23,383
+Can't have you giving away the hunt.
+
+164
+00:49:00,320 --> 00:49:01,900
+I can get out of this.
+
+165
+00:49:20,800 --> 00:49:24,500
+Such skill from an outlander on your first attempt.
+
+166
+00:49:25,100 --> 00:49:28,100
+Take this Blazing Sun as your proof.
+
+167
+00:49:33,900 --> 00:49:37,233
+Shell-Walkers guard their cargo with their lives.
+
+168
+00:49:37,400 --> 00:49:41,800
+In this trial, you must loot four of their containers in the allotted time.
+
+169
+00:49:45,633 --> 00:49:47,400
+KEEPER: Let the trial begin.
+
+170
+00:51:17,287 --> 00:51:18,707
+I think I'm in the clear.
+
+171
+00:51:33,167 --> 00:51:36,900
+Such skill from an outlander on your first attempt.
+
+172
+00:51:37,467 --> 00:51:40,400
+Take this Blazing Sun as your proof.
+
+173
+00:51:45,067 --> 00:51:49,933
+Stalkers have defeated many hunters who favour brute force over patience.
+
+174
+00:51:50,167 --> 00:51:52,233
+Don't make that mistake.
+
+175
+00:51:53,367 --> 00:51:59,100
+If you're up to the task, defeat these Stalkers
+and you'll receive the mark you deserve.
+
+176
+00:52:01,000 --> 00:52:03,067
+KEEPER: Slide down a rope to start.
+
+177
+00:53:48,278 --> 00:53:50,000
+Low and quiet does it.
+
+178
+00:54:19,800 --> 00:54:23,500
+Such skill from an outlander on your first attempt.
+
+179
+00:54:24,067 --> 00:54:27,254
+Take this Blazing Sun as your proof.
+
+180
+00:54:27,254 --> 00:54:31,400
+With so many Suns you may wish to speak to Aidaba in Meridian.
+
+181
+00:54:31,833 --> 00:54:33,777
+She will have special gear for you.
+

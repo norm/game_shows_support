@@ -1,0 +1,1091 @@
+1
+00:00:32,649 --> 00:00:34,579
+Ezio, come in son.
+
+2
+00:00:36,250 --> 00:00:39,889
+I need these packages delivered to associates of mine in the city.
+
+3
+00:00:39,890 --> 00:00:44,907
+I also need you to retrieve a message for me
+from a pigeon coop not too far from here.
+
+4
+00:00:45,549 --> 00:00:47,685
+Va bene (alright), I'll get it done.
+
+5
+00:00:47,939 --> 00:00:49,654
+Come back here when you're finished.
+
+6
+00:00:50,119 --> 00:00:52,504
+There are some things we need to discuss.
+
+7
+00:00:52,504 --> 00:00:57,199
+And please, my son, stay out of trouble hmm?
+
+8
+00:02:23,099 --> 00:02:25,028
+You Giovanni's kid?
+
+9
+00:02:25,030 --> 00:02:29,146
+No idiota (idiot), he just happens to look exactly like the man.
+
+10
+00:02:29,439 --> 00:02:30,849
+Give it here.
+
+11
+00:02:32,669 --> 00:02:35,775
+Don't worry boy, we're not contagious.
+
+12
+00:02:36,139 --> 00:02:37,849
+Least I'm not.
+
+13
+00:03:34,319 --> 00:03:35,969
+MERCENARY: Here, over here.
+
+14
+00:03:39,939 --> 00:03:41,000
+EZIO: I have a delivery from—
+
+15
+00:03:41,000 --> 00:03:42,449
+Giovanni Auditore?
+
+16
+00:03:42,509 --> 00:03:43,239
+Yes.
+
+17
+00:03:43,240 --> 00:03:44,500
+MERCENARY: Were you followed?
+
+18
+00:03:44,620 --> 00:03:47,150
+EZIO: No. Why would I be followed?
+
+19
+00:03:47,150 --> 00:03:48,689
+Give me the package.
+
+20
+00:03:49,090 --> 00:03:52,090
+Tell your father that they're moving tonight. He should as well.
+
+21
+00:03:52,090 --> 00:03:54,837
+EZIO: Who's moving? What's going on here?
+
+22
+00:03:54,840 --> 00:03:57,134
+Wait, come back, explain yourself!
+
+23
+00:05:45,259 --> 00:05:47,914
+Father? Federico?
+
+24
+00:05:51,689 --> 00:05:54,133
+Oh! Ser Ezio, thank God.
+
+25
+00:05:54,310 --> 00:05:56,934
+What happened, where is everyone?
+
+26
+00:05:57,040 --> 00:06:01,778
+They took your father and brothers to the Palazzo della Signoria, to prison!
+
+27
+00:06:01,779 --> 00:06:03,633
+And my mother? My sister?
+
+28
+00:06:03,633 --> 00:06:04,689
+CLAUDIA: Ezio!
+
+29
+00:06:05,100 --> 00:06:06,377
+EZIO: Claudia!
+
+30
+00:06:09,410 --> 00:06:10,499
+EZIO: Are you all right?
+
+31
+00:06:10,500 --> 00:06:13,518
+CLAUDIA: Yes, but mother…
+
+32
+00:06:13,518 --> 00:06:18,234
+ANNETTA: She's in shock.They… when she resisted…
+
+33
+00:06:18,930 --> 00:06:20,449
+It's not safe here.
+
+34
+00:06:20,670 --> 00:06:22,539
+Is there some place you can take them?
+
+35
+00:06:22,540 --> 00:06:25,209
+Yes, yes! To my sister's.
+
+36
+00:06:25,209 --> 00:06:28,634
+Good, do that. In the meantime, I'll go see my father.
+
+37
+00:06:29,300 --> 00:06:33,243
+Be careful, Messer Ezio. The guards were looking for you as well.
+
+38
+00:12:12,440 --> 00:12:13,450
+GIOVANNI: Ezio.
+
+39
+00:12:14,039 --> 00:12:16,350
+Father, what's happened?
+
+40
+00:12:16,350 --> 00:12:18,809
+GIOVANNI: Took a bit of a beating, but I'm alright.
+
+41
+00:12:18,950 --> 00:12:20,560
+What of your mother and sister?
+
+42
+00:12:20,560 --> 00:12:22,049
+Safe now.
+
+43
+00:12:22,309 --> 00:12:23,667
+GIOVANNI: Annetta took them?
+
+44
+00:12:23,667 --> 00:12:26,418
+Yes… wait! You knew this would happen?
+
+45
+00:12:27,440 --> 00:12:29,950
+Not the way it did, and not this soon.
+
+46
+00:12:30,240 --> 00:12:31,778
+It doesn't matter now.
+
+47
+00:12:31,779 --> 00:12:34,178
+What do you mean, explain?
+
+48
+00:12:34,179 --> 00:12:36,227
+There's no time, listen closely.
+
+49
+00:12:36,409 --> 00:12:40,178
+Return to the house. In my office is a hidden door.
+
+50
+00:12:40,179 --> 00:12:42,621
+Use your talent to find it.
+
+51
+00:12:42,621 --> 00:12:46,750
+Beyond lies a chest, take everything you find inside.
+
+52
+00:12:47,029 --> 00:12:50,649
+Much of it may seem strange to you, but all of it is important.
+
+53
+00:12:50,700 --> 00:12:52,339
+Do you understand?
+
+54
+00:12:52,340 --> 00:12:53,350
+Yes.
+
+55
+00:12:53,539 --> 00:12:54,549
+Good.
+
+56
+00:12:55,240 --> 00:12:58,809
+Among the contents is a letter and with it some documents.
+
+57
+00:12:58,820 --> 00:13:01,563
+I need you to take these documents to Messer Uberto.
+
+58
+00:13:01,740 --> 00:13:03,859
+GIOVANNI: He was with me in the office this morning.
+
+59
+00:13:03,860 --> 00:13:08,038
+The Gonfaloniere, I remember. Now, please, tell me what's happening.
+
+60
+00:13:08,039 --> 00:13:11,867
+Are the Pazzi behind this? There was a note for you at the pigeon coop, it said—
+
+61
+00:13:11,867 --> 00:13:13,747
+GIOVANNI: Go Ezio! Go now!
+
+62
+00:15:13,604 --> 00:15:17,019
+Hmm, father said there was a door here.
+
+63
+00:16:28,034 --> 00:16:30,367
+I need to bring this to Messer Uberto.
+
+64
+00:16:52,139 --> 00:16:53,649
+GUARD: Traditore (Traitor)!
+
+65
+00:16:53,649 --> 00:16:56,100
+EZIO: Hey, what's with the swords?
+
+66
+00:16:56,370 --> 00:16:58,470
+EZIO: Aren't you supposed to arrest me?
+
+67
+00:16:58,789 --> 00:16:59,850
+GUARD: No.
+
+68
+00:17:01,467 --> 00:17:02,919
+EZIO: What do you want then?
+
+69
+00:17:06,019 --> 00:17:07,940
+GUARD: For you to die!
+
+70
+00:17:08,339 --> 00:17:10,970
+EZIO: Well, that's not going to happen.
+
+71
+00:17:11,039 --> 00:17:13,470
+EZIO: So why don't we explore other options?
+
+72
+00:17:13,470 --> 00:17:15,720
+GUARD: There are no other options.
+
+73
+00:19:19,053 --> 00:19:23,049
+Ezio Auditore? What are you doing here at this hour?
+
+74
+00:19:23,940 --> 00:19:26,560
+It… I don't…
+
+75
+00:19:26,560 --> 00:19:30,801
+Wait, child. Take a breath. Collect your thoughts.
+
+76
+00:19:31,180 --> 00:19:35,024
+My father and brothers have been imprisoned. I was told to bring you this.
+
+77
+00:19:35,916 --> 00:19:42,849
+Ah, I see now. It's a misunderstanding Ezio.
+
+78
+00:19:43,240 --> 00:19:44,950
+UBERTO: I'll clear everything up.
+
+79
+00:19:45,440 --> 00:19:46,369
+EZIO: How?
+
+80
+00:19:46,700 --> 00:19:54,954
+UBERTO: The documents you've given me contain evidence
+of a conspiracy against your family and against the city.
+
+81
+00:19:56,240 --> 00:20:01,049
+I'll present these papers at their hearing in the morning and they will be released.
+
+82
+00:20:01,140 --> 00:20:02,410
+Thank you, signore.
+
+83
+00:20:02,539 --> 00:20:04,357
+Of course, my child.
+
+84
+00:20:04,357 --> 00:20:07,831
+Do you need a place to stay? You're more than welcome here.
+
+85
+00:20:08,390 --> 00:20:11,200
+No grazie. I'll meet you at the piazza.
+
+86
+00:20:11,200 --> 00:20:15,385
+Don't worry, Ezio. Everything is going to be fine.
+
+87
+00:23:51,527 --> 00:23:53,782
+UBERTO: Giovanni Auditore!
+
+88
+00:23:54,079 --> 00:24:01,049
+UBERTO: You and your accomplices stand accused off the crime of treason!
+
+89
+00:24:01,339 --> 00:24:05,078
+UBERTO: Have you any evidence to counter this charge?
+
+90
+00:24:05,079 --> 00:24:08,664
+Yes, the documents that were delivered to you last night!
+
+91
+00:24:09,430 --> 00:24:13,209
+I'm afraid I know nothing of these documents.
+
+92
+00:24:13,210 --> 00:24:16,390
+He's lying! I need to get closer.
+
+93
+00:24:19,194 --> 00:24:29,759
+In the absence of any compelling evidence to the contrary,
+I am bound to pronounce you guilty.
+
+94
+00:24:30,539 --> 00:24:37,500
+You and your collaborators are hereby sentenced to death.
+
+95
+00:24:37,500 --> 00:24:40,048
+You are a traitor, Uberto, and one of them!
+
+96
+00:24:40,049 --> 00:24:44,610
+You may take our lives this day, but we will have yours in return! I swear!
+
+97
+00:24:44,610 --> 00:24:45,555
+We will—
+
+98
+00:24:46,400 --> 00:24:47,500
+Father!
+
+99
+00:24:49,178 --> 00:24:52,800
+There! Grab the boy! He's one of them.
+
+100
+00:24:53,970 --> 00:24:56,059
+I'll kill you for what you done!
+
+101
+00:24:56,059 --> 00:24:58,693
+Guards, arrest him!
+
+102
+00:25:05,725 --> 00:25:06,911
+Abbattetelo (Put him down).
+
+103
+00:25:09,476 --> 00:25:12,591
+You'd better run boy, and fast!
+
+104
+00:26:12,720 --> 00:26:14,450
+SHAUN: I've got a little request for you.
+
+105
+00:26:14,740 --> 00:26:19,749
+SHAUN: I've identified several strange markings
+that I've discovered right across Renaissance Italy.
+
+106
+00:26:19,750 --> 00:26:23,845
+SHAUN: Now, I don't know what they're doing there,
+but I want you to help me find out.
+
+107
+00:26:23,845 --> 00:26:28,129
+SHAUN: Rebecca has marked their general location
+in the database with an eye icon.
+
+108
+00:26:28,130 --> 00:26:31,448
+SHAUN: And she's made them glow as well. Keep an eye out.
+
+109
+00:26:39,598 --> 00:26:43,225
+ANNETTA: Ser Ezio, thank God. I've been looking everywhere for you.
+
+110
+00:26:43,519 --> 00:26:45,440
+EZIO: I couldn't stop them Annetta.
+
+111
+00:26:45,980 --> 00:26:49,599
+EZIO: I tried, I swear, but there were so many guards.
+
+112
+00:26:49,599 --> 00:26:52,994
+ANNETTA: Please, come with me. We need to get you off the streets.
+
+113
+00:26:53,539 --> 00:26:54,909
+EZIO: What of my mother and sister?
+
+114
+00:26:54,910 --> 00:26:57,430
+ANNETTA: They're safe. I'll bring you to them.
+
+115
+00:26:57,430 --> 00:27:00,599
+EZIO: No, it's too dangerous for us to travel together.
+
+116
+00:27:00,980 --> 00:27:02,950
+EZIO: Tell me where to go and I'll meet you there.
+
+117
+00:27:02,980 --> 00:27:06,220
+ANNETTA: My sister's house, just north of the Duomo.
+
+118
+00:27:06,390 --> 00:27:07,660
+EZIO: I'm on my way.
+
+119
+00:33:00,990 --> 00:33:02,818
+SHAUN: There's one of the symbols. What does it mean?
+
+120
+00:33:04,440 --> 00:33:06,759
+SHAUN: It must be there for a reason.
+
+121
+00:33:07,220 --> 00:33:09,049
+SHAUN: Can you take a closer look?
+
+122
+00:33:10,240 --> 00:33:15,748
+SHAUN: Hey, try using eagle vision. I've got all day.
+
+123
+00:33:17,440 --> 00:33:21,581
+REBECCA: Wait, That–that's not possible. This can't be!
+
+124
+00:33:22,400 --> 00:33:25,259
+REBECCA: Hold on, that's computer code.
+
+125
+00:33:26,240 --> 00:33:27,759
+REBECCA: Let me compile it.
+
+126
+00:33:28,309 --> 00:33:31,246
+REBECCA: Oh, shit. It's an encrypted file.
+
+127
+00:33:32,539 --> 00:33:35,450
+SHAUN: Upload it to my computer, I'm a master at decryption.
+
+128
+00:33:36,940 --> 00:33:40,747
+REBECCA: I can't, it's only compatible with the Animus itself.
+
+129
+00:33:42,289 --> 00:33:45,450
+SHAUN: Upload it to Desmond, then… can't believe this.
+
+130
+00:33:50,680 --> 00:33:55,869
+Hello? This is… er they–they call me Subject 16.
+
+131
+00:33:55,869 --> 00:34:00,317
+Listen, I don't have much time. There's something I have to show you.
+
+132
+00:34:00,690 --> 00:34:02,298
+We have been lied to this whole time.
+
+133
+00:34:02,299 --> 00:34:08,000
+Everything we know, everything we've been brought up to believe … it's wrong.
+
+134
+00:34:11,408 --> 00:34:17,228
+Okay, um, I've uploaded the evidence, the file that–that–that proves it all.
+
+135
+00:34:17,230 --> 00:34:23,516
+But I've split it into 20 pieces and locked each with a code.
+
+136
+00:34:23,516 --> 00:34:25,359
+Can't be too careful.
+
+137
+00:34:25,359 --> 00:34:28,932
+Queen Isabella… no, not her.
+
+138
+00:34:28,932 --> 00:34:33,219
+Uh, er, what century is it?
+
+139
+00:34:33,599 --> 00:34:36,198
+Uhh, never mind.
+
+140
+00:34:36,199 --> 00:34:40,579
+I've hidden the code to the first file inside this programme.
+
+141
+00:34:44,539 --> 00:34:47,329
+Find it, find them all.
+
+142
+00:34:47,329 --> 00:34:52,657
+And along the way, you'll begin to see the truth.
+
+143
+00:34:54,758 --> 00:34:57,880
+SHAUN: What the he—? How did this get inside our Animus?
+
+144
+00:34:58,820 --> 00:35:01,338
+LUCY: Oh. Oh! The memory core!
+
+145
+00:35:01,340 --> 00:35:05,999
+LUCY: We transferred Sixteen's memory data from Abstergo into the Animus 2.0.
+
+146
+00:35:05,999 --> 00:35:09,659
+LUCY: He must have hacked the machine
+when Vidic left him alone between sessions.
+
+147
+00:35:10,539 --> 00:35:12,230
+DESMOND: Hold on, wait a second.
+
+148
+00:35:12,230 --> 00:35:16,170
+DESMOND: The signs on the walls in Abstergo, the ones written in blood.
+
+149
+00:35:16,170 --> 00:35:18,056
+DESMOND: Those were clues!
+
+150
+00:35:18,056 --> 00:35:21,241
+DESMOND: He was telling us to look for them inside the Animus!
+
+151
+00:37:20,220 --> 00:37:22,780
+I think we have the wrong building.
+
+152
+00:37:22,780 --> 00:37:25,119
+No, no, this is it.
+
+153
+00:37:33,230 --> 00:37:36,268
+It is a pleasure to make your acquaintance Messer Ezio.
+
+154
+00:37:36,269 --> 00:37:40,288
+Annetta speaks quite highly of you, I can see why.
+
+155
+00:37:40,900 --> 00:37:43,250
+I appreciate the kind words Madonna.
+
+156
+00:37:43,250 --> 00:37:45,699
+Ti prego (Please), call me Paola.
+
+157
+00:37:45,769 --> 00:37:48,208
+Thank you for offering your home to my family, Paola.
+
+158
+00:37:48,210 --> 00:37:50,000
+It was the least I could do.
+
+159
+00:37:50,079 --> 00:37:52,451
+You must be tired. Perhaps you'd l—
+
+160
+00:37:52,451 --> 00:37:54,388
+No, grazie. I can't stay.
+
+161
+00:37:54,389 --> 00:37:56,800
+PAOLA: Why, where are you going?
+
+162
+00:37:57,829 --> 00:38:00,119
+To kill Uberto Alberti.
+
+163
+00:38:00,119 --> 00:38:05,260
+I understand your desire for vengeance, but the Gonfaloniere is a powerful man.
+
+164
+00:38:05,260 --> 00:38:07,067
+You are not a killer, Ezio.
+
+165
+00:38:07,067 --> 00:38:08,530
+Spare me the lecture.
+
+166
+00:38:08,719 --> 00:38:10,278
+But I can make you one.
+
+167
+00:38:10,280 --> 00:38:12,400
+And why are you going to teach me how to kill?
+
+168
+00:38:12,400 --> 00:38:17,183
+I'm not. I'm going to teach you how to survive. Come.
+
+169
+00:38:23,659 --> 00:38:26,148
+PAOLA: Discretion is paramount in my profession.
+
+170
+00:38:26,150 --> 00:38:30,309
+PAOLA: We must walk the streets freely, seen but unseen.
+
+171
+00:38:30,309 --> 00:38:35,210
+PAOLA: You too must learn to blend like us
+and become one with the city's crowds.
+
+172
+00:38:35,809 --> 00:38:38,030
+PAOLA: My girls will show you how.
+
+173
+00:38:44,619 --> 00:38:47,010
+COURTESAN: We'll take good care of you.
+
+174
+00:41:30,909 --> 00:41:37,320
+PAOLA: Bene. Now that you've learned to blend,
+I'll show you how to use it for more than just moving around.
+
+175
+00:41:37,909 --> 00:41:40,440
+PAOLA: Let's teach you how to steal.
+
+176
+00:41:54,610 --> 00:41:58,309
+PAOLA: Once you've stolen from someone Ezio, you mustn't linger.
+
+177
+00:42:47,400 --> 00:42:49,065
+You can go now, girls.
+
+178
+00:42:49,065 --> 00:42:50,436
+Aww, do we have to?
+
+179
+00:42:50,436 --> 00:42:51,915
+So innocent.
+
+180
+00:42:51,915 --> 00:42:53,440
+He's cute!
+
+181
+00:42:54,449 --> 00:42:59,969
+Now that you have learned how to approach the enemy,
+we need to find you a suitable weapon.
+
+182
+00:43:00,199 --> 00:43:02,018
+What would you have me use?
+
+183
+00:43:02,019 --> 00:43:05,038
+Ah, but you already have the answer.
+
+184
+00:43:05,039 --> 00:43:09,557
+Hey, my father's blade and bracer! How did you get them?
+
+185
+00:43:09,557 --> 00:43:13,858
+[laughs] By using the same skills I've just taught you.
+
+186
+00:43:13,860 --> 00:43:15,888
+It's not exactly in working condition.
+
+187
+00:43:15,889 --> 00:43:19,238
+I assume you're familiar with Leonardo da Vinci?
+
+188
+00:43:19,239 --> 00:43:22,139
+Si, but how does a painter factor into this?
+
+189
+00:43:22,139 --> 00:43:26,539
+He's far more than that. Bring him the pieces, you'll see.
+
+190
+00:43:28,809 --> 00:43:31,940
+Before I go, one last question, if I may?
+
+191
+00:43:31,940 --> 00:43:33,159
+Of course.
+
+192
+00:43:33,309 --> 00:43:37,010
+Why have you given your aid so readily to me, a stranger?
+
+193
+00:43:39,340 --> 00:43:41,179
+I too know betrayal.
+
+194
+00:49:16,269 --> 00:49:18,538
+Oh, Ezio Auditore!
+
+195
+00:49:18,539 --> 00:49:22,946
+I… I didn't expect to see you again, what with all that's happened.
+
+196
+00:49:23,322 --> 00:49:26,308
+Ah, where are my manners? Welcome back!
+
+197
+00:49:27,667 --> 00:49:29,708
+Now, how can I be of service?
+
+198
+00:49:29,710 --> 00:49:31,858
+I was hoping you could repair something of mine.
+
+199
+00:49:31,860 --> 00:49:34,592
+Of course! Come! This way.
+
+200
+00:49:35,230 --> 00:49:36,867
+Ah, che pasticcio (Oh, what a mess)…
+
+201
+00:49:36,867 --> 00:49:39,083
+Tutto il santo giorno che cerco (I've spent the whole day looking for)…
+
+202
+00:49:39,083 --> 00:49:40,809
+Let me clear a space.
+
+203
+00:49:41,869 --> 00:49:43,590
+Alright, let's see it.
+
+204
+00:49:46,469 --> 00:49:48,079
+Fascinating.
+
+205
+00:49:48,949 --> 00:49:50,200
+I don't know, Ezio.
+
+206
+00:49:50,200 --> 00:49:53,367
+Despite its age, the construction is rather advanced.
+
+207
+00:49:53,367 --> 00:49:55,579
+I've never seen anything quite like it.
+
+208
+00:49:55,739 --> 00:49:59,288
+I'm afraid there's not much I can do without the original plans.
+
+209
+00:49:59,288 --> 00:50:00,630
+Mi dispiace (I'm sorry).
+
+210
+00:50:01,667 --> 00:50:03,090
+Wait, wait, wait!
+
+211
+00:50:04,920 --> 00:50:06,291
+EZIO: What are you doing?
+
+212
+00:50:06,291 --> 00:50:08,778
+The contents of this page are encrypted.
+
+213
+00:50:08,780 --> 00:50:13,751
+But if my theory is correct, based on these sketches it may very well…
+
+214
+00:50:13,751 --> 00:50:15,098
+It may very well what?
+
+215
+00:50:15,099 --> 00:50:16,167
+Please sit.
+
+216
+00:50:16,167 --> 00:50:17,259
+Leonardo, I—
+
+217
+00:50:17,259 --> 00:50:18,234
+Ssh, ssh, ssh!
+
+218
+00:50:20,530 --> 00:50:21,918
+Remarkable!
+
+219
+00:50:21,920 --> 00:50:25,519
+LEONARDO: If we transpose the letters, and then select every third…
+
+220
+00:50:30,360 --> 00:50:32,539
+There, it's finished!
+
+221
+00:50:33,210 --> 00:50:35,500
+Huh? What's finished?
+
+222
+00:50:35,530 --> 00:50:36,628
+The blade.
+
+223
+00:50:36,630 --> 00:50:39,059
+I managed to decode that parchment of yours.
+
+224
+00:50:39,059 --> 00:50:41,429
+It showed me exactly what to do.
+
+225
+00:50:41,460 --> 00:50:44,138
+Now all that's left is to remove your ring finger.
+
+226
+00:50:44,139 --> 00:50:44,968
+Really?
+
+227
+00:50:44,969 --> 00:50:47,858
+LEONARDO: I'm sorry, but this is how it must be done.
+
+228
+00:50:47,860 --> 00:50:51,710
+The blade is designed to ensure the commitment of whoever wields it.
+
+229
+00:50:53,760 --> 00:50:56,433
+Bene, do it quickly.
+
+230
+00:50:58,667 --> 00:51:00,800
+Haha, I was only having fun, Ezio.
+
+231
+00:51:00,829 --> 00:51:04,090
+Though the blade once required a sacrifice, it's been modified.
+
+232
+00:51:04,090 --> 00:51:05,880
+You can keep your finger.
+
+233
+00:51:12,690 --> 00:51:14,048
+Incredible!
+
+234
+00:51:14,050 --> 00:51:17,900
+Yes, it is. Tell me, do you have other pages like this?
+
+235
+00:51:17,900 --> 00:51:19,710
+I'm sorry, only the one.
+
+236
+00:51:19,710 --> 00:51:24,538
+Listen, if you ever do happen across another one of these, please bring it to me.
+
+237
+00:51:24,539 --> 00:51:27,725
+You have my word. And thank you for fixing this.
+
+238
+00:51:27,745 --> 00:51:32,322
+OUTSIDE: By order of the Florentine guard, open this door!
+
+239
+00:51:32,322 --> 00:51:34,400
+Ehhh, just a moment.
+
+240
+00:51:34,960 --> 00:51:36,179
+Wait here.
+
+241
+00:51:39,659 --> 00:51:41,775
+GUARD: Are you Leonardo da Vinci?
+
+242
+00:51:41,775 --> 00:51:43,818
+LEONARDO: Si. How may I be of service?
+
+243
+00:51:43,820 --> 00:51:45,759
+GUARD: I need you to answer some questions.
+
+244
+00:51:45,760 --> 00:51:46,900
+LEONARDO: Certainly.
+
+245
+00:51:55,960 --> 00:51:57,388
+What seems to be the trouble?
+
+246
+00:51:57,389 --> 00:52:01,498
+A witness claims to have seen you consorting with an enemy of the city.
+
+247
+00:52:01,500 --> 00:52:05,159
+What? Me? Consorting? Preposterous!
+
+248
+00:52:05,159 --> 00:52:08,659
+When was the last time you saw or spoke with Ezio Auditore?
+
+249
+00:52:08,659 --> 00:52:09,473
+Who?
+
+250
+00:52:09,473 --> 00:52:11,760
+Non fare il finto tonto (Don't play dumb with me)!
+
+251
+00:52:11,849 --> 00:52:14,500
+We know you were close with the family.
+
+252
+00:52:14,849 --> 00:52:18,449
+Perhaps this will help to clear your head.
+
+253
+00:52:20,050 --> 00:52:21,670
+Ready to talk?
+
+254
+00:52:22,230 --> 00:52:23,780
+What about now?
+
+255
+00:52:28,750 --> 00:52:32,139
+GUARD: Tell me what I want to know and we can end this.
+
+256
+00:52:48,650 --> 00:52:49,958
+LEONARDO: Grazie Ezio.
+
+257
+00:52:49,960 --> 00:52:51,469
+EZIO: Sorry about that.
+
+258
+00:52:51,820 --> 00:52:54,638
+LEONARDO: Eh, I've grown accustomed to their abuses.
+
+259
+00:52:54,639 --> 00:52:55,938
+EZIO: What of the body?
+
+260
+00:52:55,940 --> 00:52:58,219
+LEONARDO: Bring it inside and put it with the others.
+
+261
+00:52:58,349 --> 00:52:59,398
+EZIO: Others?
+
+262
+00:52:59,400 --> 00:53:01,769
+LEONARDO: The city gives them to me, for research.
+
+263
+00:53:33,110 --> 00:53:34,170
+LEONARDO: Over there.
+
+264
+00:53:36,849 --> 00:53:37,418
+LEONARDO: See? Like it never happened.
+
+265
+00:53:38,949 --> 00:53:40,500
+EZIO: Thank you, Leonardo.
+
+266
+00:53:41,159 --> 00:53:42,309
+EZIO: For everything.
+
+267
+00:53:42,849 --> 00:53:47,940
+LEONARDO: Any time. And remember, if you find
+more of those strange pages, bring them to me.
+
+268
+00:53:47,940 --> 00:53:51,480
+LEONARDO: Should they contain new designs I will upgrade your blade as well.
+
+269
+00:53:51,480 --> 00:53:55,034
+EZIO: Of course, now I really should be getting back to Paola.
+
+270
+00:53:55,034 --> 00:53:56,880
+LEONARDO: Porgile i miei omaggi (Send her my regards).
+

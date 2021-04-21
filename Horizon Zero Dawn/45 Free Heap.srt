@@ -1,0 +1,828 @@
+1
+00:01:44,810 --> 00:01:46,650
+Keep quiet now.
+
+2
+00:02:05,890 --> 00:02:08,360
+That's it, I'm already gone.
+
+3
+00:03:41,340 --> 00:03:44,665
+CARJA OUTLANDER: By the Sun, I'm alive! Thank you, Nora.
+
+4
+00:03:47,389 --> 00:03:49,650
+CARJA OUTLANDER: You, please, can we talk?
+
+5
+00:03:49,870 --> 00:03:51,250
+ALOY: This will do nicely.
+
+6
+00:03:53,919 --> 00:03:57,392
+CARJA OUTLANDER: You saved me. Will you accept this as thanks?
+
+7
+00:06:15,672 --> 00:06:17,184
+Calm, calm.
+
+8
+00:06:24,481 --> 00:06:25,750
+CARJA OUTLANDER: Follow me!
+
+9
+00:06:53,000 --> 00:06:56,300
+OSERAM: Carja may like this heat but I sure don't.
+ALOY: They must be Oseram.
+
+10
+00:06:56,870 --> 00:06:58,910
+ALOY: They've put their stamp on this place.
+
+11
+00:07:05,139 --> 00:07:06,740
+OSERAM: Thinking about heading back to The Claim.
+
+12
+00:07:20,839 --> 00:07:27,048
+OSERAM: Look, I've got a pair of sturdy Oseram hands,
+and I know how to put them to use. There'll always be work for me.
+
+13
+00:07:33,410 --> 00:07:34,920
+ALOY: Someone over there?
+
+14
+00:07:43,490 --> 00:07:45,199
+Well, well.
+
+15
+00:07:45,199 --> 00:07:49,589
+Always told Dervahl a woman would undo him, and he had it coming.
+
+16
+00:07:50,000 --> 00:07:53,089
+Ha! I've calluses older than you.
+
+17
+00:07:53,139 --> 00:07:56,052
+I have calluses enough if you wanna test me.
+
+18
+00:07:56,052 --> 00:07:58,369
+Ha, she sparks!
+
+19
+00:07:58,370 --> 00:08:00,000
+I believe it, flamehair.
+
+20
+00:08:00,019 --> 00:08:01,310
+Petra Forgewoman.
+
+21
+00:08:01,639 --> 00:08:04,750
+Aaah, Aloy … machine hunter.
+
+22
+00:08:04,759 --> 00:08:07,125
+Mmm, machine hunter, eh?
+
+23
+00:08:07,125 --> 00:08:10,091
+Huh, I could have a use for you.
+
+24
+00:08:10,091 --> 00:08:13,453
+Straight of it is we're being muscled out of our own claim.
+
+25
+00:08:13,453 --> 00:08:16,559
+That's why I've been working on this scrap-spitting beast.
+
+26
+00:08:16,560 --> 00:08:18,259
+It's a dispute settler.
+
+27
+00:08:18,290 --> 00:08:20,350
+I've never seen anything like it.
+
+28
+00:08:20,540 --> 00:08:21,579
+Your design?
+
+29
+00:08:21,734 --> 00:08:23,889
+Mmm, see my face in it, can you?
+
+30
+00:08:23,889 --> 00:08:27,064
+This one's mother helped reclaim Meridian back in the day.
+
+31
+00:08:27,064 --> 00:08:29,660
+A job like that isn't done with strategy.
+
+32
+00:08:29,709 --> 00:08:35,000
+They needed to shake the walls,
+turn the Mad Sun King's army to blood and feathers.
+
+33
+00:08:35,340 --> 00:08:36,934
+What's that face for?
+
+34
+00:08:36,934 --> 00:08:39,049
+Weapons with such power.
+
+35
+00:08:39,590 --> 00:08:42,889
+It's not the weapon, flamehair, it's the wielder.
+
+36
+00:08:42,889 --> 00:08:47,120
+If that siege had touched the great elevator, they'd have answered to me.
+
+37
+00:08:48,620 --> 00:08:52,418
+Good work, that elevator. Story in every chain link.
+
+38
+00:08:52,419 --> 00:08:54,690
+I'll make you suffer them one day, if you like.
+
+39
+00:08:55,240 --> 00:08:57,950
+This beast doesn't have a story yet.
+
+40
+00:08:58,120 --> 00:09:01,147
+Too heavy to carry, eats metal like a Snapmaw.
+
+41
+00:09:01,409 --> 00:09:03,279
+What is this place, Petra?
+
+42
+00:09:03,279 --> 00:09:04,763
+The Free Heap.
+
+43
+00:09:04,763 --> 00:09:09,413
+Free, because we answer to no-one but ourselves,
+the metal, and the dust storms.
+
+44
+00:09:09,413 --> 00:09:10,969
+And the heap's back there.
+
+45
+00:09:10,970 --> 00:09:15,538
+A scrapyard, piled by Oseram past from the leavings of the Old Ones.
+
+46
+00:09:15,539 --> 00:09:18,387
+Breathe it in, get the smell in you.
+
+47
+00:09:18,387 --> 00:09:21,070
+Smoke, and sweat.
+
+48
+00:09:22,100 --> 00:09:24,509
+Living in the trees has dulled your senses.
+
+49
+00:09:24,509 --> 00:09:27,266
+I could taste five medals just in my spit.
+
+50
+00:09:27,266 --> 00:09:31,450
+So all this scrap was left by the ancients. Was it a battlefield?
+
+51
+00:09:31,501 --> 00:09:34,889
+Mmm, stockpile maybe, or a rubbish heap.
+
+52
+00:09:34,889 --> 00:09:37,200
+Packed so tight it all fused together.
+
+53
+00:09:37,470 --> 00:09:40,289
+Those Old Ones tossed away more than we'll ever know.
+
+54
+00:09:40,340 --> 00:09:43,739
+But don't you want to know? To understand what it all meant?
+
+55
+00:09:43,740 --> 00:09:49,339
+Nah. Some delvers spend their whole lives trying to make sense of it, not me.
+
+56
+00:09:49,340 --> 00:09:52,229
+What it means is there's good smelting here.
+
+57
+00:09:52,230 --> 00:09:56,634
+Yeah, don't need to understand a forest to chop down the trees for your arrows.
+
+58
+00:09:56,639 --> 00:09:59,580
+If you did, you'd know Ridge-Wood makes better shafts.
+
+59
+00:09:59,639 --> 00:10:03,789
+Oh, careful, you'll scald your tongue with that fire.
+
+60
+00:10:03,789 --> 00:10:05,709
+I don't pine for the Old Ones.
+
+61
+00:10:05,710 --> 00:10:08,289
+They had their time, their works are finished.
+
+62
+00:10:08,289 --> 00:10:11,879
+All their inventions are under mountains now, rust on bones.
+
+63
+00:10:11,879 --> 00:10:15,649
+My sisters and brothers of the forge will make a new world.
+
+64
+00:10:15,840 --> 00:10:18,009
+You run the forge and the town too?
+
+65
+00:10:18,039 --> 00:10:21,554
+The town is the forge! And everyone pulls their weight.
+
+66
+00:10:21,554 --> 00:10:25,299
+The right way to do it, without all the ealdormen having their say.
+
+67
+00:10:25,440 --> 00:10:31,834
+If we were back in The Claim — Oseram land — 
+three days argument any time someone wants to hammer in a bolt.
+
+68
+00:10:31,834 --> 00:10:33,309
+Sounds infuriating.
+
+69
+00:10:33,440 --> 00:10:36,869
+Oh, it is. But we like arguing.
+
+70
+00:10:36,899 --> 00:10:39,399
+You need hot air to keep a furnace burning.
+
+71
+00:10:39,580 --> 00:10:42,549
+Still, some traditions aren't up for debate.
+
+72
+00:10:42,570 --> 00:10:45,651
+I would have ended up "Petra Forgewife".
+
+73
+00:10:45,651 --> 00:10:47,289
+How'd you like the sound of that?
+
+74
+00:10:47,334 --> 00:10:49,990
+[laughs] I don't think it fits you.
+
+75
+00:10:50,139 --> 00:10:51,600
+Good answer.
+
+76
+00:10:51,639 --> 00:10:53,168
+That's why I left.
+
+77
+00:10:53,169 --> 00:10:55,257
+I was steel-young from the forge then.
+
+78
+00:10:55,257 --> 00:10:58,839
+Could make anything of myself before I cooled in my ways.
+
+79
+00:10:58,840 --> 00:11:01,250
+So you left your homeland and came here?
+
+80
+00:11:01,350 --> 00:11:03,429
+Went to Meridian, everyone does.
+
+81
+00:11:03,429 --> 00:11:05,788
+Joined the work gangs on the great elevator.
+
+82
+00:11:05,788 --> 00:11:09,048
+We finished just as the Mad King got a taste for blood.
+
+83
+00:11:09,049 --> 00:11:13,099
+So I spat and swore I'd find a place for everyone who stuck with me.
+
+84
+00:11:13,100 --> 00:11:15,590
+We lived job to job until the war ended.
+
+85
+00:11:15,870 --> 00:11:18,189
+Then we came upon this old Oseram camp.
+
+86
+00:11:18,190 --> 00:11:20,791
+Long abandoned, metal piled up high.
+
+87
+00:11:20,791 --> 00:11:24,383
+A place to start again, a place to leave my mark.
+
+88
+00:11:24,383 --> 00:11:29,620
+Ha, when I was your age, I thought the lasting mark came from the hardest strike.
+
+89
+00:11:29,690 --> 00:11:32,299
+I suppose you know better now that you're an elder?
+
+90
+00:11:32,299 --> 00:11:34,918
+Ha, trade secret.
+
+91
+00:11:34,919 --> 00:11:37,325
+You said you're being pushed out of your territory?
+
+92
+00:11:37,325 --> 00:11:39,079
+Out of the junk heap.
+
+93
+00:11:39,080 --> 00:11:44,439
+A pack of Scrappers came snuffling in
+just after we opened a good seam of weapon parts.
+
+94
+00:11:44,440 --> 00:11:47,928
+And now we've got a standoff with a gang of bandits at our foundry.
+
+95
+00:11:47,929 --> 00:11:49,419
+They blockaded us out.
+
+96
+00:11:49,419 --> 00:11:51,549
+They're sitting on our power cells.
+
+97
+00:11:51,740 --> 00:11:53,839
+Guess they like shiny things.
+
+98
+00:11:53,840 --> 00:11:58,515
+Well, to finish up our defences, I need those parts and cells.
+
+99
+00:11:58,515 --> 00:12:01,349
+In and out job, keep your hands clean.
+
+100
+00:12:01,440 --> 00:12:03,379
+I'm not afraid of getting them dirty.
+
+101
+00:12:03,379 --> 00:12:07,769
+Ha! Aren't you a blast of air from the bellows!
+
+102
+00:12:15,240 --> 00:12:20,000
+OSERAM: … like it … there's a man who knows how to …
+
+103
+00:12:21,639 --> 00:12:24,940
+OSERAM: The longer we stay here, the more it'll feel like home.
+
+104
+00:12:36,570 --> 00:12:40,880
+OSERAM: Is it just me or do the Carja people walk slow?
+Don't they have places to be?
+
+105
+00:12:51,940 --> 00:12:53,169
+OSERAM: Aren't you a sight!
+
+106
+00:13:21,190 --> 00:13:28,631
+BANDIT: If I had right of rule, I'd have taken the town first.
+More slaves for digging up lightning boxes.
+
+107
+00:13:29,179 --> 00:13:33,894
+BANDIT: Then make your claim for it when the others get here.
+Won't be long now.
+
+108
+00:13:49,450 --> 00:13:50,470
+BANDIT: Whoa!
+
+109
+00:15:32,570 --> 00:15:35,279
+ALOY: All this scrap, dragged here from who knows where and when.
+
+110
+00:17:15,899 --> 00:17:17,934
+BANDIT: They're gonna wipe us out!
+
+111
+00:17:25,658 --> 00:17:28,396
+BANDIT: If we don't rally, we're scrap.
+
+112
+00:18:51,453 --> 00:18:52,862
+ALOY: Alright.
+
+113
+00:19:11,685 --> 00:19:13,809
+ALOY: Bandits have a good defence.
+
+114
+00:19:13,839 --> 00:19:16,934
+ALOY: Better spot all their sentrys before I look for the power cells.
+
+115
+00:20:42,039 --> 00:20:43,769
+There, a power cell.
+
+116
+00:22:04,133 --> 00:22:09,019
+Okay, done. Now to get into the Scrappers run and find those weapon parts.
+
+117
+00:22:10,140 --> 00:22:13,424
+You'll get yours when the clan blows in, town's good as torched.
+
+118
+00:23:14,000 --> 00:23:15,000
+Okay.
+
+119
+00:24:33,039 --> 00:24:37,349
+Lots of Scrappers prowling, hope they haven't stripped the parts already.
+
+120
+00:24:47,740 --> 00:24:50,265
+The Scrappers made that pile.
+
+121
+00:24:50,265 --> 00:24:53,069
+Strange, are they nesting?
+
+122
+00:24:53,069 --> 00:24:56,093
+Now let me find something Petra can use, fast!
+
+123
+00:26:00,400 --> 00:26:01,660
+Oh, mine now!
+
+124
+00:27:43,859 --> 00:27:47,573
+Back to Petra, I've been in this scrap yard long enough.
+
+125
+00:29:28,339 --> 00:29:32,058
+Petra, I have the parts you wanted but there are more bandits coming.
+
+126
+00:29:32,059 --> 00:29:35,220
+The rest of their clan, they want to take the town.
+
+127
+00:29:35,329 --> 00:29:38,739
+Do they now? Hold this thing steady while I give it a voice.
+
+128
+00:29:38,740 --> 00:29:40,960
+Then we'll let it talk terms for us.
+
+129
+00:29:42,420 --> 00:29:44,329
+Now take it up and brace yourself.
+
+130
+00:29:44,329 --> 00:29:47,351
+Don't press it against your hips if you ever want to use those for…
+
+131
+00:29:47,351 --> 00:29:48,468
+Alright, alright, I got it.
+
+132
+00:29:49,756 --> 00:29:53,160
+ALOY: Heavy, all I can do to hold it up.
+
+133
+00:29:54,554 --> 00:29:56,062
+ALOY: Come on, then, if you're coming!
+
+134
+00:29:56,062 --> 00:29:59,527
+BANDIT: Run this forgedirt town red, boys!
+
+135
+00:29:59,527 --> 00:30:01,950
+PETRA: Heh, manners!
+
+136
+00:30:06,396 --> 00:30:09,710
+BANDIT: At 'em, boys!
+PETRA: Haha, she's working well so far!
+
+137
+00:30:23,662 --> 00:30:27,211
+PETRA: Room for improvement on the gun, no complaints about the gunner.
+
+138
+00:30:51,270 --> 00:30:55,097
+PETRA: Haha, anyone but a bandit clan would pull back now.
+
+139
+00:30:55,097 --> 00:30:57,875
+BANDIT: Come on, you bungheads, they only have one cannon!
+
+140
+00:31:37,349 --> 00:31:40,514
+PETRA: They're gathering under the bridge, Aloy, bring it down on 'em.
+
+141
+00:31:40,514 --> 00:31:42,234
+ALOY: What? It's your bridge.
+
+142
+00:31:42,234 --> 00:31:44,594
+PETRA: Bridges come and go, shoot it down.
+
+143
+00:31:45,939 --> 00:31:47,198
+ALOY: Oh boy.
+
+144
+00:31:47,198 --> 00:31:51,407
+PETRA: Whoa! Might have overdone it a little.
+
+145
+00:31:51,817 --> 00:31:55,178
+PETRA: Now I'm no soldier, but I'd call that a rout.
+
+146
+00:32:12,134 --> 00:32:15,193
+Oh, my teeth hurt from all that.
+
+147
+00:32:15,193 --> 00:32:19,334
+That's interesting. Need a leather strap to bite down on, perhaps.
+
+148
+00:32:19,334 --> 00:32:21,833
+We'll give those wretches a sky burial.
+
+149
+00:32:21,833 --> 00:32:24,653
+That's fancy talk for leaving them out for the birds.
+
+150
+00:32:24,653 --> 00:32:27,982
+More than they'd done for us if this thing didn't work.
+
+151
+00:32:28,300 --> 00:32:31,500
+Uh, if it didn't work? It could have not worked?!
+
+152
+00:32:31,500 --> 00:32:34,371
+It isn't finished, that's why we're testing it.
+
+153
+00:32:34,371 --> 00:32:37,674
+Now, now, you had your Nora toys to fight with.
+
+154
+00:32:38,234 --> 00:32:41,367
+Saying goes, "You can only trust metal."
+
+155
+00:32:41,367 --> 00:32:44,067
+But my trust was placed well in you.
+
+156
+00:32:44,067 --> 00:32:47,919
+You're owed Aloy Machinehunter. I won't forget it.
+
+157
+00:32:48,349 --> 00:32:49,999
+And neither will I, Petra.
+
+158
+00:32:51,339 --> 00:32:55,160
+ALOY: Whoa, still feel the lightning snap in my hair.
+
+159
+00:36:36,929 --> 00:36:39,629
+It'd be fascinating, if they weren't looking for me,
+
+160
+00:38:43,219 --> 00:38:44,139
+Up and go!
+
+161
+00:39:46,252 --> 00:39:48,942
+Damn dust, ugh!
+
+162
+00:40:37,179 --> 00:40:38,380
+Whoa, there.
+
+163
+00:41:00,309 --> 00:41:02,928
+I hunted that Thunderjaw you asked for.
+
+164
+00:41:02,928 --> 00:41:05,434
+I should be the one telling a story this time.
+
+165
+00:41:05,434 --> 00:41:10,870
+You carry it with you! Beamwire, burns, and bruises.
+
+166
+00:41:10,870 --> 00:41:13,276
+The salt lines of your sweat.
+
+167
+00:41:13,276 --> 00:41:17,929
+See, on your skin? Tiny metal flakes!
+
+168
+00:41:18,079 --> 00:41:21,280
+You mean it was a hard fight? How perceptive.
+
+169
+00:41:21,750 --> 00:41:25,230
+What signs you've shown me, huntress.
+
+170
+00:41:25,710 --> 00:41:29,288
+But now, the blood.
+
+171
+00:41:32,710 --> 00:41:36,897
+I followed red trails through a green world.
+
+172
+00:41:36,897 --> 00:41:41,550
+Thunderjaw, striding with the majesty of an old god.
+
+173
+00:41:42,090 --> 00:41:46,039
+These wicked parts, fashioned to kill men.
+
+174
+00:41:46,039 --> 00:41:50,260
+This great whole, made to haunt the sleep of children.
+
+175
+00:41:51,010 --> 00:41:56,320
+And I realise it is a young beast.
+
+176
+00:41:56,550 --> 00:42:01,610
+It was not there to see the first strange birds roost upon a metal skull.
+
+177
+00:42:01,880 --> 00:42:05,700
+It became because of us!
+
+178
+00:42:05,730 --> 00:42:09,778
+Hunters. I saw many, of tribes gone and yet to come.
+
+179
+00:42:09,780 --> 00:42:14,534
+I even saw you there, fiery haired, fierce, bared… 
+
+180
+00:42:14,534 --> 00:42:15,795
+What?
+
+181
+00:42:15,795 --> 00:42:18,909
+…bared of metal, huntress.
+
+182
+00:42:19,030 --> 00:42:23,936
+Bared of what we tore from their hides to be strong like them, savage like them.
+
+183
+00:42:24,467 --> 00:42:30,670
+We build our world in the machine's shadow,
+called them out with every strike of rock and hammer.
+
+184
+00:42:31,409 --> 00:42:37,670
+You think something — some machine — made the Thunderjaw because of us?
+
+185
+00:42:37,699 --> 00:42:44,088
+When you've tasted what I have, in the blood there's change.
+
+186
+00:42:44,090 --> 00:42:46,358
+Such a change!
+
+187
+00:42:46,360 --> 00:42:51,203
+It's colder than Ban-Ur, hotter than the Carja Sun!
+
+188
+00:42:51,570 --> 00:42:55,190
+Does any machine walk or crawl that you haven't drunk from?
+
+189
+00:42:55,190 --> 00:43:00,038
+In the mountains north, the Stormbirds.
+
+190
+00:43:00,038 --> 00:43:03,762
+Even the air in their passing crackles with potency!
+
+191
+00:43:03,762 --> 00:43:07,615
+In the sweep of their eyes, they see all.
+
+192
+00:43:08,679 --> 00:43:10,519
+Don't get too excited.
+
+193
+00:43:10,739 --> 00:43:15,034
+I'll get the Stormbird blood … maybe, we'll see.
+
+194
+00:43:15,034 --> 00:43:23,719
+They must know how the orbit slows,
+fades, falls, decays, and yet returns to more than zero.
+
+195
+00:43:23,800 --> 00:43:25,453
+Yeah, uh-huh.
+
+196
+00:43:26,210 --> 00:43:28,198
+You don't fear knowledge.
+
+197
+00:43:28,199 --> 00:43:30,420
+You reach into its flame.
+
+198
+00:43:30,789 --> 00:43:33,110
+It's always an experience with you.
+
+199
+00:43:33,300 --> 00:43:35,965
+Learn from the machines.
+
+200
+00:43:35,965 --> 00:43:41,963
+Be metal-still, run blood-hot, strike lightning-quick.
+
+201
+00:44:09,170 --> 00:44:10,599
+Hoping they'd miss me.
+
+202
+00:46:06,690 --> 00:46:08,998
+Aren't you a little out of your way, Nora?
+
+203
+00:46:09,000 --> 00:46:12,429
+Your Sacred Lands don't extend this far.
+
+204
+00:46:12,659 --> 00:46:14,069
+I go where I like.
+

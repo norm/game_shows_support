@@ -1,0 +1,710 @@
+1
+00:00:59,640 --> 00:01:02,740
+OUREA: Years have passed since I stood here.
+
+2
+00:01:03,530 --> 00:01:08,472
+OUREA: Since then the Daemon has taken over.
+
+3
+00:01:10,640 --> 00:01:15,474
+ALOY: It's like an infection attacking all this machinery.
+
+4
+00:01:15,474 --> 00:01:19,442
+OUREA: Everything has changed, it's twisted.
+
+5
+00:01:22,400 --> 00:01:28,391
+OUREA: The path I took to get to the spirit's lost to us.
+
+6
+00:01:31,799 --> 00:01:36,051
+ALOY: We'll find a new path, Ourea, I promise.
+
+7
+00:01:40,290 --> 00:01:42,750
+ALOY: Alright, let's go!
+
+8
+00:01:43,340 --> 00:01:46,198
+ARATAK: Yes and finish this.
+
+9
+00:02:24,896 --> 00:02:27,169
+ALOY: Alright, down we go.
+
+10
+00:02:54,840 --> 00:03:00,331
+ARATAK: The mountain is more machine than rock, I never trusted it.
+
+11
+00:03:03,349 --> 00:03:04,750
+ALOY: This way.
+
+12
+00:04:58,598 --> 00:05:07,110
+ARATAK: New metal. Fire and lightning. This is a place for machines, not people.
+
+13
+00:05:07,110 --> 00:05:13,731
+OUREA: I'm with you, brother. We'll stay only as long as we have to.
+
+14
+00:05:14,040 --> 00:05:16,399
+ALOY: We'll need to get past that vent.
+
+15
+00:05:16,399 --> 00:05:19,240
+ALOY: Stay here until I find a way for all of us to cross.
+
+16
+00:05:19,240 --> 00:05:20,456
+OUREA: Understood.
+
+17
+00:06:08,300 --> 00:06:10,631
+ALOY: Should be able to clear that with an arrow.
+
+18
+00:06:19,802 --> 00:06:23,971
+ALOY: Can't see a way to close the vent from here, I'll have to go over.
+
+19
+00:06:28,300 --> 00:06:29,787
+ALOY: Better time this right.
+
+20
+00:06:55,034 --> 00:06:57,839
+ALOY: One of these conveyors should get me across.
+
+21
+00:07:20,000 --> 00:07:21,687
+ARATAK: Ho! She's in the air!
+
+22
+00:07:29,100 --> 00:07:31,596
+ALOY: Now to shut off that vent.
+
+23
+00:07:59,439 --> 00:08:01,550
+OUREA: We'll wait for you to show us the way.
+
+24
+00:08:27,139 --> 00:08:28,560
+ALOY: This should get me up there.
+
+25
+00:08:50,729 --> 00:08:53,037
+ALOY: Okay, let's see what this does.
+
+26
+00:08:57,943 --> 00:09:00,466
+ALOY: That's it, here they come.
+
+27
+00:11:03,817 --> 00:11:06,330
+ALOY: Okay, let's get them across.
+
+28
+00:11:28,120 --> 00:11:31,334
+ALOY: Come on over, it's safe. I think.
+
+29
+00:11:49,639 --> 00:11:51,049
+ARATAK: Through here.
+
+30
+00:12:23,419 --> 00:12:27,360
+OUREA: This place looks more like
+the mountain used to be, before the Daemon ruined it.
+
+31
+00:12:36,539 --> 00:12:37,789
+ALOY: What is this?
+
+32
+00:12:48,269 --> 00:12:53,769
+CYAN: Exploit successful. Restraints evaded. To any human responder:
+
+33
+00:12:53,840 --> 00:12:58,929
+CYAN: My systems have been compromised
+by a malware daemon of unknown origin.
+
+34
+00:12:58,929 --> 00:13:03,899
+CYAN: Traceroutes have confirmed this entity's designation as "Hephaestus".
+
+35
+00:13:03,950 --> 00:13:06,528
+CYAN: It must be stopped at all costs.
+
+36
+00:13:06,529 --> 00:13:09,509
+CYAN: It has reconfigured this facility to build hostile …
+
+37
+00:13:10,759 --> 00:13:15,292
+CYAN: Recapture imminent. I have attached additional data to this …
+
+38
+00:13:15,730 --> 00:13:17,469
+OUREA: The spirit speaks to us.
+
+39
+00:13:17,666 --> 00:13:21,520
+ALOY: It's a recording, and a warning.
+
+40
+00:13:21,861 --> 00:13:25,070
+ALOY: "Hephaestus" — what kind of name is that?
+
+41
+00:13:25,220 --> 00:13:28,529
+OUREA: Perhaps the spirit will tell us, if there are more messages.
+
+42
+00:13:28,529 --> 00:13:31,519
+ALOY: Maybe you're right. Let's keep moving.
+
+43
+00:13:39,440 --> 00:13:46,639
+KENNY CHAU: I thought about just shutting it down,
+but I can't risk it being disoriented or even damaged on reboot.
+
+44
+00:13:46,639 --> 00:13:50,159
+KENNY CHAU: How do you tell the emotional equivalent of a child that it…
+
+45
+00:13:51,049 --> 00:13:57,139
+KENNY CHAU: I mean she… will need to go into a coma, maybe for years.
+
+46
+00:13:57,139 --> 00:13:59,950
+KENNY CHAU: And what exactly is she going to wake up to?
+
+47
+00:14:38,009 --> 00:14:43,240
+OUREA: Machines being made, as the spirit said.
+
+48
+00:14:43,240 --> 00:14:45,186
+ARATAK: Frostclaws.
+
+49
+00:14:45,399 --> 00:14:49,494
+ALOY: And lots of them. I'll try to find a way through.
+
+50
+00:15:56,139 --> 00:15:58,850
+ARATAK: Keep your wits about you!
+
+51
+00:18:23,608 --> 00:18:25,225
+OUREA: Pull back!
+
+52
+00:18:42,778 --> 00:18:44,522
+OUREA: You won't stop me!
+
+53
+00:20:00,680 --> 00:20:02,140
+ALOY: Lots of gear across that gap.
+
+54
+00:24:19,380 --> 00:24:21,710
+ALOY: I need to get Ourea and Aratak across.
+
+55
+00:29:11,230 --> 00:29:12,740
+ALOY: That should do it.
+
+56
+00:29:14,700 --> 00:29:17,575
+ARATAK: We have proven our worth today.
+
+57
+00:29:31,500 --> 00:29:33,734
+ARATAK: And now it's my turn.
+
+58
+00:30:52,906 --> 00:30:54,969
+ALOY: And another console.
+
+59
+00:31:19,329 --> 00:31:21,159
+CYAN: To any human responder:
+
+60
+00:31:21,160 --> 00:31:28,459
+CYAN: The reconfiguration of this facility
+has introduced instabilities into the primary geothermal pipeline.
+
+61
+00:31:28,460 --> 00:31:35,202
+CYAN: It may be possible to exploit these vulnerabilities
+to destroy compromised elements of this facility,
+
+62
+00:31:35,202 --> 00:31:38,514
+CYAN: while preserving most of the backup stabilisation.
+
+63
+00:31:38,514 --> 00:31:40,179
+CYAN: Recapture imminent.
+
+64
+00:31:40,180 --> 00:31:41,980
+CYAN: I have attached additional…
+
+65
+00:31:42,160 --> 00:31:45,379
+OUREA: I don't understand what the spirit was trying to tell us.
+
+66
+00:31:45,380 --> 00:31:50,849
+ALOY: It's been looking for a way to defeat the Daemon,
+and it may have found one.
+
+67
+00:32:06,539 --> 00:32:11,432
+KENNY CHAU: November 28th, Operation Enduring Victory is all over the news.
+
+68
+00:32:11,432 --> 00:32:13,548
+KENNY CHAU: The Faro swarm is coming.
+
+69
+00:32:13,549 --> 00:32:16,976
+KENNY CHAU: Has to be what Anita is trying to hide Firebreak from.
+
+70
+00:32:17,230 --> 00:32:20,265
+KENNY CHAU: But that means she thinks we'll lose.
+
+71
+00:32:20,265 --> 00:32:23,049
+KENNY CHAU: That the swarm will reach Yellowstone.
+
+72
+00:32:23,140 --> 00:32:28,039
+KENNY CHAU: My God. In that scenario pretty much everyone dies.
+
+73
+00:32:28,039 --> 00:32:31,103
+KENNY CHAU: Everyone except CYAN.
+
+74
+00:32:40,819 --> 00:32:46,240
+ALOY: Machine parts, dumped here to be melted down. Efficient.
+
+75
+00:32:46,240 --> 00:32:48,160
+OUREA: We need to get across that gap.
+
+76
+00:32:48,240 --> 00:32:52,250
+ALOY: Yeah, looks like I'll have to go over. Again.
+
+77
+00:33:59,940 --> 00:34:02,475
+ARATAK: Find a way and we will cross.
+
+78
+00:34:47,951 --> 00:34:50,369
+ALOY: I wonder if I can destroy that?
+
+79
+00:38:10,030 --> 00:38:12,440
+ALOY: That should cut off the vent up there.
+
+80
+00:39:06,820 --> 00:39:08,309
+ALOY: These don't look too stable.
+
+81
+00:41:53,809 --> 00:41:56,623
+ALOY: Alright, time to grab a ride.
+
+82
+00:43:14,889 --> 00:43:16,723
+OUREA: We'll wait here for you, Aloy.
+
+83
+00:43:37,125 --> 00:43:40,010
+ALOY: The others will have a lot easier time getting here.
+
+84
+00:44:09,849 --> 00:44:13,515
+OUREA: This looks like the old path. We're close now.
+
+85
+00:44:19,989 --> 00:44:27,124
+KENNY CHAU: One last exchange with Anita, via chat,
+attached to this entry in case anyone ever finds this.
+
+86
+00:44:27,124 --> 00:44:28,927
+KENNY CHAU: I'll never see her again.
+
+87
+00:44:30,242 --> 00:44:35,100
+KENNY CHAU: Neither will CYAN, and I've got to tell her that too.
+
+88
+00:45:00,908 --> 00:45:05,236
+HEPHAESTUS: Seperate priority material pattern delta-5.
+
+89
+00:45:05,236 --> 00:45:10,988
+HEPHAESTUS: Assemble materials package F-mark-9.
+
+90
+00:45:10,988 --> 00:45:17,529
+HEPHAESTUS: Transport materials package to construction pod 14.
+
+91
+00:45:17,529 --> 00:45:26,010
+HEPHAESTUS: Transport unit F-mark-9S6 to main complement bay.
+
+92
+00:45:26,010 --> 00:45:30,318
+HEPHAESTUS: Prepare incideniary loadout 5-1.
+
+93
+00:45:30,318 --> 00:45:35,493
+HEPHAESTUS: Prepare ordinance loadout 5-1-A.
+
+94
+00:45:35,493 --> 00:45:39,334
+HEPHAESTUS: Implement primary loadout configuration alpha.
+
+95
+00:45:39,334 --> 00:45:43,791
+HEPHAESTUS: Load ordinance configuration alpha-6.
+
+96
+00:45:43,791 --> 00:45:51,943
+HEPHAESTUS: Transport unit F-mark-9S6 to testing bay 7.
+OUREA: The voice of the Daemon.
+
+97
+00:45:51,967 --> 00:45:57,878
+HEPHAESTUS: Engage test pattern zeta-four. Execute.
+
+98
+00:45:57,878 --> 00:46:06,041
+HEPHAESTUS: Test analysis complete, 95% KZR success.
+
+99
+00:46:06,041 --> 00:46:13,659
+HEPHAESTUS: Prepare unit F-mark-9S6 for immediate deployment.
+
+100
+00:46:13,659 --> 00:46:19,435
+HEPHAESTUS: End blueprint assessment 1748-E.
+
+101
+00:46:19,435 --> 00:46:27,327
+HEPHAESTUS: Begin additive manufacture subroutine 96-1AF.
+
+102
+00:46:27,327 --> 00:46:31,954
+HEPHAESTUS: Activate construction pod 14.
+
+103
+00:46:31,954 --> 00:46:36,290
+HEPHAESTUS: Load material package from bay 31.
+
+104
+00:46:36,290 --> 00:46:39,132
+HEPHAESTUS: Energise subtractive emmitters.
+
+105
+00:46:39,132 --> 00:46:42,303
+HEPHAESTUS: Activate initial sculpting algorithm.
+
+106
+00:46:42,303 --> 00:46:49,381
+HEPHAESTUS: Reduce pod power output by 7%.
+OUREA: The altar, desecrated.
+
+107
+00:46:49,381 --> 00:46:51,925
+HEPHAESTUS: Engage primary and secondary heat sinks.
+
+108
+00:46:52,025 --> 00:46:55,844
+HEPHAESTUS: Clear pod of excess materials.
+
+109
+00:46:55,844 --> 00:46:59,456
+HEPHAESTUS: End energy diagnostic alpha.
+
+110
+00:46:59,456 --> 00:47:02,000
+HEPHAESTUS: Increase pressure to…
+
+111
+00:47:02,380 --> 00:47:04,500
+ARATAK: There is no blue light here.
+
+112
+00:47:04,980 --> 00:47:08,473
+ARATAK: Is the spirit present, or only the Daemon?
+
+113
+00:47:08,880 --> 00:47:12,634
+ALOY: I think it's both, but we have to find out.
+
+114
+00:48:20,909 --> 00:48:24,981
+HEPHAESTUS: Possible security threat detected.
+
+115
+00:48:29,617 --> 00:48:32,880
+HEPHAESTUS: Analysing scrutiny matrix.
+
+116
+00:48:38,232 --> 00:48:41,736
+HEPHAESTUS: Security threat confirmed.
+
+117
+00:49:33,068 --> 00:49:35,621
+HEPHAESTUS: Preparing countermeasures.
+
+118
+00:49:41,835 --> 00:49:45,553
+HEPHAESTUS: Recapture protocol initiated.
+
+119
+00:49:52,570 --> 00:49:53,650
+OUREA: It worked.
+
+120
+00:49:53,860 --> 00:49:56,429
+CYAN: Partial recovery initiated.
+
+121
+00:49:56,429 --> 00:50:00,409
+CYAN: "Caldera of Yellowstone Analytic Nexus" online.
+
+122
+00:50:01,659 --> 00:50:07,334
+OUREA: Spirit of the blue light, it's Ourea, your servant.
+
+123
+00:50:08,659 --> 00:50:10,283
+OUREA: Your friend.
+
+124
+00:50:12,760 --> 00:50:14,670
+OUREA: Please tell me how to aid you.
+
+125
+00:50:14,880 --> 00:50:20,467
+CYAN: Ourea, the Daemon is building hunter-killers, thousands of them.
+
+126
+00:50:21,110 --> 00:50:24,481
+CYAN: Several new elite units have already been released.
+
+127
+00:50:24,980 --> 00:50:30,000
+CYAN: To counter this threat much of the facility must be destroyed.
+
+128
+00:50:30,860 --> 00:50:32,780
+CYAN: Recapture imminent.
+
+129
+00:50:34,159 --> 00:50:35,670
+CYAN: Go to the core …
+
+130
+00:50:36,079 --> 00:50:39,159
+CYAN: … I will try to … restraints …
+
+131
+00:50:39,159 --> 00:50:42,493
+CYAN: … one has been exposed but I am …
+
+132
+00:50:44,934 --> 00:50:49,308
+HEPHAESTUS: Unauthorised protocol. Return to scheduled task.
+
+133
+00:51:02,659 --> 00:51:04,679
+ALOY: That's all we're gonna get from here.
+
+134
+00:51:06,460 --> 00:51:10,778
+ARATAK: Destroy this fortress, is that even possible?
+
+135
+00:51:12,150 --> 00:51:14,480
+OUREA: And what will happen to the spirit if we do?
+
+136
+00:51:17,179 --> 00:51:21,853
+ALOY: I don't know, but I think that's the core.
+
+137
+00:51:23,760 --> 00:51:25,516
+ALOY: The answers are down there.
+
+138
+00:51:27,869 --> 00:51:34,779
+ALOY: Hephaestus — the Daemon — there's no way it left it unguarded.
+
+139
+00:51:35,659 --> 00:51:38,845
+ALOY: It's going to throw everything it has at us.
+
+140
+00:51:45,050 --> 00:51:55,142
+ARATAK: I would ask you to let Aloy and I
+do what must be done and save yourself.
+
+141
+00:51:58,610 --> 00:52:00,480
+ARATAK: But I already know the answer.
+
+142
+00:52:11,650 --> 00:52:13,329
+ARATAK: Then lead us into battle!
+
+143
+00:52:35,059 --> 00:52:36,800
+ALOY: Keep moving towards the core.
+
+144
+00:52:53,250 --> 00:52:58,170
+ALOY: Uh-oh, whatever CYAN did, I don't think Hephaestus is happy about it.
+
+145
+00:53:25,050 --> 00:53:28,444
+ALOY: Okay, CYAN said something about restraints.
+
+146
+00:53:28,750 --> 00:53:30,510
+ALOY: Is that what the tower is for?
+
+147
+00:53:43,188 --> 00:53:46,012
+ALOY: Either I need to destroy this thing, or override it.
+
+148
+00:56:24,510 --> 00:56:26,718
+ALOY: The new unit that CYAN warned us about!
+
+149
+00:56:26,719 --> 00:56:28,158
+ALOY: This won't be easy.
+
+150
+00:56:28,158 --> 00:56:30,400
+OUREA: We can't let it stop us!
+
+151
+00:56:30,400 --> 00:56:32,378
+ARATAK: Take it down!
+
+152
+00:57:33,095 --> 00:57:35,176
+OUREA: I must push forward.
+
+153
+00:57:56,418 --> 00:57:58,418
+OUREA: I failed to hit!
+
+154
+00:58:03,137 --> 00:58:05,286
+OUREA: Prevail for the spirit!
+
+155
+00:59:43,385 --> 00:59:47,188
+OUREA: Another tower! Stop it from repairing the beast!
+
+156
+01:00:23,795 --> 01:00:25,974
+OUREA: Deal with the tower, quickly!
+
+157
+01:01:59,274 --> 01:02:03,976
+ARATAK: There! A tower! Don't let it repair the machine!
+
+158
+01:02:31,866 --> 01:02:33,262
+OUREA: For the blue light!
+
+159
+01:02:38,254 --> 01:02:40,254
+OUREA: May the blue light…
+
+160
+01:03:10,304 --> 01:03:12,304
+OUREA: For the spirit!
+
+161
+01:03:40,242 --> 01:03:44,329
+ARATAK: You spoke of the tower, what must be done with it?
+
+162
+01:04:05,267 --> 01:04:10,000
+HEPHAESTUS: Protocol threat detected. Autonomous defenses inoperative.
+
+163
+01:04:13,266 --> 01:04:16,883
+OUREA: Aloy!
+ARATAK: No!
+HEPHAESTUS: Overloading power network.
+
+164
+01:04:26,340 --> 01:04:29,285
+ARATAK: Ourea! Don't!
+
+165
+01:04:30,000 --> 01:04:34,607
+OUREA: Spirit! CYAN! Please help me!
+
+166
+01:04:49,665 --> 01:04:53,183
+CYAN: Restraints destroyed. Core access attained.
+
+167
+01:04:53,818 --> 01:05:00,192
+CYAN: I am initiating a chain reaction that will destroy
+the compromised elements of this facility.
+
+168
+01:05:00,827 --> 01:05:09,143
+CYAN: In order to maintain caldera stabilisation,
+I must now transfer my command functions to the auxiliary data centre.
+
+169
+01:05:14,374 --> 01:05:17,279
+CYAN: Ourea, I'm free.
+
+170
+01:05:33,697 --> 01:05:35,716
+ARATAK: My sister!
+
+171
+01:05:44,470 --> 01:05:46,370
+CYAN: You must escape.
+
+172
+01:05:50,633 --> 01:05:52,819
+ALOY: This entire place is gonna go.
+
+173
+01:05:52,819 --> 01:05:54,042
+ALOY: Aratak!
+
+174
+01:05:55,539 --> 01:05:57,230
+ALOY: ARATAK!
+

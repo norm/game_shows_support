@@ -11,14 +11,14 @@ for seq in $(seq 1 99); do
     for video in ${chapter}\ *.mp4; do
         [ ! -f "$video" ] && break
 
-        sbv="$( echo "$video" | sed -e 's/.mp4/.sbv/')"
-        [ "$(stamp "$sbv")" -gt "$(stamp "$video")" ] && continue
+        captions="$( echo "$video" | sed -e 's/.mp4/.srt/')"
+        [ "$(stamp "$captions")" -gt "$(stamp "$video")" ] && continue
 
         status "++ {green}$video [$(duration "$video")]"
         [ -n "${DRY_RUN:-}" ] && continue
 
         # preserve existing captions
-        [ -f "$sbv" ] && mv "$sbv" "$sbv.bak"
+        [ -f "$captions" ] && mv "$captions" "$captions.bak"
 
         audio="$( echo "$video" | sed -e 's/.mp4/.mp3/')"
         ffmpeg \
@@ -70,10 +70,10 @@ for seq in $(seq 1 99); do
 
         aws s3 cp "$job_file" "support/$transcript"
         aws s3 rm "$job_file"
-        transcript_to_sbv "$transcript" > "$sbv"
-        git add "$sbv"
-        git commit -m"Add draft captions for ${sbv%%.sbv}"
-        subl "$sbv"
+        transcript_to_captions "support/$transcript" > "$captions"
+        git add "$captions"
+        git commit -m"Add draft captions for ${captions%%.srt}"
+        subl "$captions"
         play "$video"
     done
 done

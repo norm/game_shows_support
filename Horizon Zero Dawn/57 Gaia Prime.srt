@@ -1,0 +1,2202 @@
+1
+00:00:20,965 --> 00:00:26,350
+SYLENS: So … you're even more extraordinary than I thought.
+
+2
+00:00:28,300 --> 00:00:29,608
+ALOY: I never had a mother.
+
+3
+00:00:29,609 --> 00:00:33,123
+SYLENS: What are you talking about? You had two, a dead woman and a machine.
+
+4
+00:00:33,579 --> 00:00:40,758
+ALOY: I'm not a person, I'm an instrument, manufactured by a machine.
+
+5
+00:00:41,640 --> 00:00:45,326
+ALOY: Born in destruction and fire.
+
+6
+00:00:46,119 --> 00:00:49,339
+SYLENS: To quench the flames and heal the world.
+
+7
+00:00:49,340 --> 00:00:52,939
+SYLENS: How tragic to learn you're a person of towering importance.
+
+8
+00:00:52,939 --> 00:00:55,439
+SYLENS: It seems you have a destiny to fulfil.
+
+9
+00:00:55,439 --> 00:00:59,259
+SYLENS: So when you're done feeling sorry for yourself, go to the Bitter Climb.
+
+10
+00:00:59,630 --> 00:01:02,450
+SYLENS: I'll be waiting above in Gaia Prime's ruins.
+
+11
+00:01:20,640 --> 00:01:24,939
+ALOY: Gaia's sacrifice, it did this?
+
+12
+00:01:24,939 --> 00:01:27,730
+ALOY: Cracked the inside of the mountain like it was an egg?
+
+13
+00:01:30,540 --> 00:01:33,100
+SYLENS, THROUGH FOCUS: Yes, yes, quickly now.
+
+14
+00:01:33,100 --> 00:01:35,250
+SYLENS: I've prepared the way ahead for you.
+
+15
+00:01:36,540 --> 00:01:38,349
+ALOY: So you've been in here before?
+
+16
+00:01:38,540 --> 00:01:40,828
+SYLENS: To a point. You'll see.
+
+17
+00:02:21,539 --> 00:02:25,740
+ALOY: You made a climbing path for me,
+but left an army of machines for me to deal with?
+
+18
+00:02:26,009 --> 00:02:28,888
+SYLENS: Since when were machines any obstacle for you?
+
+19
+00:02:29,539 --> 00:02:32,608
+SYLENS: If you could fly, I wouldn't have bothered with a climbing path either.
+
+20
+00:03:02,532 --> 00:03:05,240
+ALOY: Don't look down, don't look down.
+
+21
+00:03:06,700 --> 00:03:08,300
+ALOY: Ugh, dammit!
+
+22
+00:04:12,340 --> 00:04:16,350
+ALOY: This is exactly the kind of place I expected to find you in, Sylens.
+
+23
+00:04:16,470 --> 00:04:17,550
+SYLENS: Thank you.
+
+24
+00:04:18,000 --> 00:04:21,379
+SYLENS: It's one of many workshops I have constructed over the years.
+
+25
+00:04:36,639 --> 00:04:39,939
+For years I tried to get through this hatch.
+
+26
+00:04:40,540 --> 00:04:43,750
+I drilled, I burned, I blasted.
+
+27
+00:04:44,439 --> 00:04:47,810
+But we both know that you won't have any trouble getting through.
+
+28
+00:04:48,009 --> 00:04:50,399
+You make it sound like I should apologise.
+
+29
+00:04:50,509 --> 00:04:51,579
+Not at all.
+
+30
+00:04:52,819 --> 00:04:57,560
+It never occurred to me that the way through
+would not be with force, but with a key.
+
+31
+00:04:58,339 --> 00:05:00,199
+A key in human form.
+
+32
+00:05:01,829 --> 00:05:06,067
+The failure of imagination was mine, not yours.
+
+33
+00:05:06,350 --> 00:05:08,800
+Looks like you've spent a lot of time here.
+
+34
+00:05:08,889 --> 00:05:14,050
+Nineteen years ago, a great explosion destroyed this mountain.
+
+35
+00:05:15,139 --> 00:05:18,107
+Gaia's death, your birth.
+
+36
+00:05:19,439 --> 00:05:22,386
+The echo could be heard as far as The Claim.
+
+37
+00:05:22,386 --> 00:05:24,750
+Ash darkened the skies.
+
+38
+00:05:25,800 --> 00:05:29,449
+How they fretted in Meridian as they tried to read this omen.
+
+39
+00:05:30,639 --> 00:05:36,009
+The crater burned for weeks, but when it cooled
+I was the first to behold what lay within.
+
+40
+00:05:37,439 --> 00:05:42,550
+Over time the machines closed ranks to protect it. Useful.
+
+41
+00:05:43,769 --> 00:05:49,267
+Soon no-one dared to come here, except me.
+
+42
+00:05:49,267 --> 00:05:56,052
+In her message Gaia said we could restore her,
+but after seeing the damage, how could that be?
+
+43
+00:05:56,300 --> 00:06:01,850
+She said any effort to repair her must come after Hades is destroyed.
+
+44
+00:06:02,240 --> 00:06:03,379
+I concur.
+
+45
+00:06:04,319 --> 00:06:09,100
+Rebuilding the terraforming system now
+might allow Hades to use it as a weapon.
+
+46
+00:06:09,100 --> 00:06:15,156
+Because of Gaia's sacrifice it has been forced
+to search for means that are less … convenient.
+
+47
+00:06:15,439 --> 00:06:19,389
+But do you think it's even possible to restore Gaia?
+
+48
+00:06:19,439 --> 00:06:22,240
+You know what the cauldrons of capable of.
+
+49
+00:06:22,240 --> 00:06:26,180
+How they fabricate any technology necessary to create a machine.
+
+50
+00:06:26,800 --> 00:06:33,310
+By the same principle, it should be possible
+to replicate every technology necessary to repair Gaia.
+
+51
+00:06:33,870 --> 00:06:35,539
+But that would take years.
+
+52
+00:06:35,540 --> 00:06:38,349
+And we're counting the time we have left by the hour.
+
+53
+00:06:38,350 --> 00:06:42,649
+I thought you might actually be here this time, actually here.
+
+54
+00:06:42,740 --> 00:06:46,325
+Why? My presence is unnecessary.
+
+55
+00:06:46,810 --> 00:06:49,379
+You don't need my help to pass through this door.
+
+56
+00:06:49,810 --> 00:06:52,660
+You were the one born to do this, not me.
+
+57
+00:06:53,139 --> 00:06:58,160
+When you find the master override, you will gain the power to defeat Hades.
+
+58
+00:06:58,540 --> 00:07:00,649
+Everything depends on you.
+
+59
+00:07:08,120 --> 00:07:12,016
+COMPUTER: Genetic identity confirmed. Entry authorised.
+
+60
+00:07:12,455 --> 00:07:15,764
+COMPUTER: Greetings Doctor Sobeck, you are cleared to proceed.
+
+61
+00:07:38,110 --> 00:07:39,490
+SYLENS: Mind your footing.
+
+62
+00:08:12,139 --> 00:08:15,595
+MARGO SHĔN: Logging arrivals; Shĕn, Margo.
+
+63
+00:08:15,595 --> 00:08:20,000
+TRAVIS TATE: Welcome to frozen hell, population 10.
+
+64
+00:08:20,000 --> 00:08:22,439
+MARGO SHĔN: 11 counting Gaia.
+
+65
+00:08:22,639 --> 00:08:25,609
+TRAVIS TATE: Don't count your chicken embryos before they incubated, hun.
+
+66
+00:08:25,610 --> 00:08:27,350
+TRAVIS TATE: She's still firing up.
+
+67
+00:08:27,439 --> 00:08:29,790
+TRAVIS TATE: Be a while before you eat that omelette.
+
+68
+00:08:29,839 --> 00:08:34,891
+MARGO SHĔN: I'm vegan, Travis. You think we'd worked
+in the same secret base long enough for you to notice.
+
+69
+00:08:34,891 --> 00:08:38,239
+TRAVIS TATE: We weren't scheduled to shack up here for another three weeks.
+
+70
+00:08:38,240 --> 00:08:43,038
+TRAVIS TATE: You realise I just lost 350kg of pre-code smut comics in transit?
+
+71
+00:08:43,039 --> 00:08:45,479
+MARGO SHĔN: Wait, actual physical media?
+
+72
+00:08:45,480 --> 00:08:47,852
+MARGO SHĔN: Why didn't you have it digitised?
+
+73
+00:08:47,852 --> 00:08:51,450
+TRAVIS TATE: Can't beat the feel of physical media on your fingers.
+
+74
+00:08:52,019 --> 00:08:55,439
+TRAVIS TATE: And in here, we ain't gonna be touching a whole lot else.
+
+75
+00:08:55,440 --> 00:08:58,250
+TRAVIS TATE: Figured I was gonna pass the time archivin' 'em.
+
+76
+00:08:58,740 --> 00:09:00,139
+TRAVIS TATE: What about you?
+
+77
+00:09:00,139 --> 00:09:02,134
+MARGO SHĔN: Me? Work I guess.
+
+78
+00:09:02,134 --> 00:09:05,649
+MARGO SHĔN: My task queue stretches out for, like, three years.
+
+79
+00:09:05,730 --> 00:09:07,624
+MARGO SHĔN: There's a lot of sharp edges to round off.
+
+80
+00:09:07,624 --> 00:09:11,850
+MARGO SHĔN: After that, I hadn't really thought about it.
+
+81
+00:09:12,251 --> 00:09:16,156
+TRAVIS TATE: Ohhh, you will. You're what, thirty?
+
+82
+00:09:16,389 --> 00:09:19,289
+TRAVIS TATE: Reckon you'll be the one turning the lights off at the end.
+
+83
+00:09:19,340 --> 00:09:21,039
+TRAVIS TATE: Food for thought, huh, vegan?
+
+84
+00:09:21,039 --> 00:09:22,850
+MARGO SHĔN: This sucks forever.
+
+85
+00:09:22,940 --> 00:09:27,166
+TRAVIS TATE: Nah, not forever. Just the rest of your life.
+
+86
+00:11:24,840 --> 00:11:26,950
+ALOY: Guess that's my way across.
+
+87
+00:12:26,220 --> 00:12:30,090
+ALOY: This should be the last power cell I need
+to get to that ancient armour I found.
+
+88
+00:13:24,740 --> 00:13:28,850
+ALOY: It's, uh, held like this for nineteen years, right?
+
+89
+00:13:29,139 --> 00:13:30,149
+SYLENS: Well…
+
+90
+00:13:30,149 --> 00:13:31,659
+ALOY: Don't–don't answer.
+
+91
+00:14:02,240 --> 00:14:04,450
+ALOY: Oh, glad that's over.
+
+92
+00:14:47,600 --> 00:14:51,226
+ALOY: Not this way. Maybe further up the shaft.
+
+93
+00:15:47,279 --> 00:15:50,200
+ALOY: This must have been where they lived.
+
+94
+00:15:51,539 --> 00:15:53,163
+ALOY: What's left of it.
+
+95
+00:15:53,163 --> 00:15:57,049
+ALOY: Once this was all enclosed by rock and metal.
+
+96
+00:17:29,539 --> 00:17:32,143
+MARGO SHĔN: Record. I just woke up.
+
+97
+00:17:32,143 --> 00:17:36,536
+MARGO SHĔN: It's … I see the numbers, but can't make out the time.
+
+98
+00:17:36,536 --> 00:17:41,608
+MARGO SHĔN: I was dreaming of… I was giving a lecture in Q Hall.
+
+99
+00:17:41,609 --> 00:17:46,496
+MARGO SHĔN: Maybe it was something more shamanistic, I don't know.
+
+100
+00:17:46,680 --> 00:17:51,339
+MARGO SHĔN: An audience of shadowy faces under a blank, open sky.
+
+101
+00:17:52,029 --> 00:17:54,509
+MARGO SHĔN: I told them the world ended with a bang.
+
+102
+00:17:54,839 --> 00:17:56,630
+MARGO SHĔN: A plague of robots.
+
+103
+00:17:56,740 --> 00:18:02,259
+MARGO SHĔN: The last humans; we went out not with a whimper, but a whisper.
+
+104
+00:18:02,799 --> 00:18:04,085
+MARGO SHĔN: You know, in caves.
+
+105
+00:18:04,085 --> 00:18:08,049
+MARGO SHĔN: Ending like we started, huddled around a flickering glow.
+
+106
+00:18:08,130 --> 00:18:13,791
+MARGO SHĔN: Heads of state, the Fortune Fives,
+the leaders, lottery winners, and life cults.
+
+107
+00:18:13,791 --> 00:18:17,264
+MARGO SHĔN: All of them buried in their little shelters.
+
+108
+00:18:17,264 --> 00:18:20,300
+MARGO SHĔN: Some believing they'll live it out, someway, somehow.
+
+109
+00:18:20,300 --> 00:18:24,514
+MARGO SHĔN: Or Elysium, or us here at Gaia Prime, no different.
+
+110
+00:18:24,740 --> 00:18:31,049
+MARGO SHĔN: A multitude of tiny societies taking hold, flaring, dying.
+
+111
+00:18:31,640 --> 00:18:35,696
+MARGO SHĔN: Some will be beautiful, some horrific.
+
+112
+00:18:36,079 --> 00:18:37,849
+MARGO SHĔN: And none of them matter.
+
+113
+00:18:38,009 --> 00:18:43,167
+MARGO SHĔN: Short term civilizations, one last gasp.
+
+114
+00:18:43,167 --> 00:18:46,929
+MARGO SHĔN: One last gasp before the long held breath.
+
+115
+00:18:47,240 --> 00:18:51,049
+MARGO SHĔN: Before I wake up, I know the audience is gone.
+
+116
+00:18:51,309 --> 00:18:56,950
+MARGO SHĔN: I'm talking to myself, to a quiet planet, a barren sphere.
+
+117
+00:18:57,440 --> 00:19:02,130
+MARGO SHĔN: Just Gaia and her long, long dreaming.
+
+118
+00:19:02,130 --> 00:19:04,150
+MARGO SHĔN: I hope she won't be lonely.
+
+119
+00:19:10,710 --> 00:19:13,849
+CHARLES RONSON: Evacuation happened so fast.
+
+120
+00:19:13,940 --> 00:19:16,049
+CHARLES RONSON: No time to think things through.
+
+121
+00:19:16,940 --> 00:19:18,900
+CHARLES RONSON: No time for goodbyes.
+
+122
+00:19:18,940 --> 00:19:21,278
+CHARLES RONSON: There were lines in the medical ward.
+
+123
+00:19:21,279 --> 00:19:25,004
+CHARLES RONSON: I told Tom Paech I'd be with him when he went under.
+
+124
+00:19:25,004 --> 00:19:30,862
+CHARLES RONSON: But there was one last shipment of
+Paradisaeidae zygotes I could get processed if I rushed.
+
+125
+00:19:32,450 --> 00:19:36,548
+CHARLES RONSON: I'm still angry at him, forcing me to choose.
+
+126
+00:19:36,548 --> 00:19:40,646
+CHARLES RONSON: Angry at myself for, well…
+
+127
+00:19:40,646 --> 00:19:46,759
+CHARLES RONSON: He died alone,
+and I didn't get the bloody birds of paradise saved either.
+
+128
+00:19:48,039 --> 00:19:50,975
+CHARLES RONSON: All the time left in the world now to think.
+
+129
+00:19:52,339 --> 00:19:55,440
+CHARLES RONSON: Gaia Prime's locks are sealed.
+
+130
+00:19:55,440 --> 00:19:58,831
+CHARLES RONSON: Elysium sealed up safe and sound.
+
+131
+00:19:58,831 --> 00:20:03,034
+CHARLES RONSON: A distance of miles,
+but it might as well be on the other side of the galaxy.
+
+132
+00:20:03,034 --> 00:20:07,529
+CHARLES RONSON: All the Betas and Gammas
+and support staff living their lives.
+
+133
+00:20:07,539 --> 00:20:10,160
+CHARLES RONSON: If I hadn't been an Alpha…
+
+134
+00:20:11,420 --> 00:20:13,349
+CHARLES RONSON: If things had gone differently…
+
+135
+00:20:14,289 --> 00:20:15,950
+CHARLES RONSON: …I could have been there.
+
+136
+00:20:15,980 --> 00:20:22,109
+CHARLES RONSON: Instead, I'm spending the rest of my unnatural life in here with people I don't even like.
+
+137
+00:20:22,109 --> 00:20:29,200
+CHARLES RONSON: And without the one
+I would have gladly spent my life with, given the chance.
+
+138
+00:20:29,200 --> 00:20:36,788
+CHARLES RONSON: Two hours since I signed off on the final executables
+and I'm already a bitter old man bitching to his Focus.
+
+139
+00:20:36,788 --> 00:20:39,339
+CHARLES RONSON: There's a thought for future generations.
+
+140
+00:21:21,430 --> 00:21:24,945
+ALOY: Elisabet's room, I know it.
+
+141
+00:21:25,140 --> 00:21:27,619
+ALOY: She didn't even get a chance to unpack.
+
+142
+00:21:27,619 --> 00:21:33,991
+ALOY: These are her journals, Elisabet's journals, and they're all destroyed?
+
+143
+00:21:34,240 --> 00:21:38,644
+SYLENS: Scan them. The Focus can rebuild them, but the process is slow.
+
+144
+00:21:38,950 --> 00:21:44,338
+SYLENS: To us it seems a powerful device, but it's engine is tiny and limited.
+
+145
+00:21:44,339 --> 00:21:45,880
+ALOY: How slow?
+
+146
+00:21:45,880 --> 00:21:48,900
+SYLENS: Days, weeks, years.
+
+147
+00:21:49,730 --> 00:21:55,589
+SYLENS: Concern yourself with stopping Hades and extending the future,
+and you might live long enough to hear them.
+
+148
+00:22:03,284 --> 00:22:04,440
+ALOY: Elisabet.
+
+149
+00:22:05,837 --> 00:22:07,279
+ALOY: What is this?
+
+150
+00:22:21,640 --> 00:22:23,670
+CHARLES RONSON: This is Charles Ronson.
+
+151
+00:22:25,539 --> 00:22:29,849
+CHARLES RONSON: I'm logging this six hours
+after final deployment of Gaia Prime.
+
+152
+00:22:31,740 --> 00:22:36,000
+CHARLES RONSON: This morning, an access port seal malfunctioned.
+
+153
+00:22:37,039 --> 00:22:42,249
+CHARLES RONSON: Gaia Prime's port seals were designed
+to close with a seam of less than two millimetres.
+
+154
+00:22:42,779 --> 00:22:45,589
+CHARLES RONSON: But this one closed with a ten millimetre gap.
+
+155
+00:22:46,140 --> 00:22:48,950
+CHARLES RONSON: Enough for an energy signature to bleed through.
+
+156
+00:22:49,549 --> 00:22:52,950
+CHARLES RONSON: Enough for the swarm to detect this facility.
+
+157
+00:22:53,599 --> 00:22:56,967
+CHARLES RONSON: Enough for Gaia to be discovered and destroyed.
+
+158
+00:22:56,967 --> 00:23:01,985
+CHARLES RONSON: Enough to end the future
+we worked so hard to make possible.
+
+159
+00:23:02,650 --> 00:23:10,354
+CHARLES RONSON: Unless the hatch servos
+were manually re-engaged from the outside.
+
+160
+00:23:12,069 --> 00:23:15,170
+CHARLES RONSON: I'm now switching to a recording of the event.
+
+161
+00:23:16,339 --> 00:23:20,446
+TRAVIS TATE: Well, I'm not going out there. Not what I signed up for.
+
+162
+00:23:20,446 --> 00:23:24,989
+PATRICK BROCHARD-KLEIN: Either we send someone out,
+or all of this was for nothing.
+
+163
+00:23:24,990 --> 00:23:26,818
+CHARLES RONSON: It should be Lis's decision.
+
+164
+00:23:26,819 --> 00:23:29,328
+PATRICK BROCHARD-KLEIN: So when is she going to get here?
+
+165
+00:23:29,329 --> 00:23:33,365
+SAMINA EBADJI: She said five minutes. You don't think…?
+
+166
+00:23:34,640 --> 00:23:36,059
+MARGO SHĔN: Oh no.
+
+167
+00:23:36,539 --> 00:23:41,598
+ELISABET SOBECK: Okay everyone, I've repaired the seal. Gaia?
+
+168
+00:23:41,598 --> 00:23:44,945
+GAIA: Seal closure at 1.4 millimetres, confirmed.
+
+169
+00:23:44,945 --> 00:23:48,499
+CHARLES RONSON: Elisabet, no! We'll find a way to bring you back in.
+
+170
+00:23:48,500 --> 00:23:51,345
+ELISABET SOBECK: Its not gonna happen, the swarm's too close.
+
+171
+00:23:52,599 --> 00:23:55,056
+ELISABET SOBECK: Really, it's alright.
+
+172
+00:23:56,240 --> 00:23:58,217
+ELISABET SOBECK: Gaia's complete.
+
+173
+00:23:58,930 --> 00:24:02,015
+ELISABET SOBECK: She'll take care of things
+from here on out, that's what she does.
+
+174
+00:24:02,940 --> 00:24:05,390
+CHARLES RONSON: Not like this. There's so much we—
+
+175
+00:24:05,390 --> 00:24:07,576
+ELISABET SOBECK: Guys, you know, me, I'm…
+
+176
+00:24:07,576 --> 00:24:10,928
+ELISABET SOBECK: I'm not good at endings. At letting things end.
+
+177
+00:24:10,928 --> 00:24:14,305
+ELISABET SOBECK: So um, let's not.
+
+178
+00:24:14,305 --> 00:24:22,909
+TRAVIS TATE: So, happy trails, Liz, and see you around.
+
+179
+00:24:22,909 --> 00:24:27,332
+ELISABET SOBECK: Yeah, take care of each other, alright?
+
+180
+00:24:27,332 --> 00:24:28,282
+CHARLES RONSON: Lis…
+
+181
+00:24:28,282 --> 00:24:32,127
+ELISABET SOBECK: I'm okay with this. I wanna go home.
+
+182
+00:24:34,917 --> 00:24:36,079
+ELISABET SOBECK: Goodbye.
+
+183
+00:24:44,352 --> 00:24:48,630
+CHARLES RONSON: That was the last transmission of Elisabet Sobeck.
+
+184
+00:24:49,710 --> 00:24:53,700
+CHARLES RONSON: She gave everything for the hope of life on this planet.
+
+185
+00:24:54,339 --> 00:24:57,670
+CHARLES RONSON: And we are all in her debt.
+
+186
+00:25:08,470 --> 00:25:09,460
+Aloy?
+
+187
+00:25:10,640 --> 00:25:12,049
+She's gone.
+
+188
+00:25:13,940 --> 00:25:15,190
+Really gone.
+
+189
+00:25:15,539 --> 00:25:18,259
+You knew she couldn't have survived, Aloy.
+
+190
+00:25:18,400 --> 00:25:23,193
+And her achievements were … beyond exceptional.
+
+191
+00:25:23,880 --> 00:25:27,604
+While her people bickered she was the one who took responsibility.
+
+192
+00:25:28,619 --> 00:25:30,180
+The only one who could.
+
+193
+00:25:30,279 --> 00:25:31,799
+She was better than them.
+
+194
+00:25:32,069 --> 00:25:33,630
+That's not what I said.
+
+195
+00:25:33,740 --> 00:25:37,405
+She was, you shouldn't be afraid to admit it.
+
+196
+00:25:37,579 --> 00:25:43,526
+You think she was better because she was smart,
+because she designed Zero Dawn, but you missed the point.
+
+197
+00:25:44,140 --> 00:25:51,450
+What made her great was that she was willing
+to sacrifice herself for others, for everyone who would come later.
+
+198
+00:25:51,640 --> 00:25:55,554
+No, she couldn't let her creation fail.
+
+199
+00:25:55,554 --> 00:25:58,661
+Saying that shows you misunderstand her completely.
+
+200
+00:25:58,661 --> 00:26:02,824
+To her, everyone had value, everything was worth saving.
+
+201
+00:26:03,210 --> 00:26:05,890
+She gave her life in service to that idea.
+
+202
+00:26:06,039 --> 00:26:10,225
+Doesn't that stir anything in you, the generosity of it?
+
+203
+00:26:10,509 --> 00:26:14,038
+You're trying to invest her decision with something magical.
+
+204
+00:26:14,039 --> 00:26:18,349
+It was a rational choice, not based on sentimentality.
+
+205
+00:26:18,640 --> 00:26:19,700
+You're wrong.
+
+206
+00:26:20,539 --> 00:26:23,779
+Remember, she knew it wasn't enough for Gaia to think.
+
+207
+00:26:23,990 --> 00:26:31,819
+She taught Gaia to feel, to care, to sacrifice,
+to believe in life, enough to fight against hopelessness.
+
+208
+00:26:32,730 --> 00:26:35,949
+If it wasn't for that sentimentality, life would have ended.
+
+209
+00:26:35,950 --> 00:26:38,220
+You and I would never have existed.
+
+210
+00:26:38,240 --> 00:26:40,170
+Your argument is sound.
+
+211
+00:26:41,230 --> 00:26:44,616
+I'm sorry for your … loss.
+
+212
+00:26:45,039 --> 00:26:47,154
+She said she wanted to go home.
+
+213
+00:26:48,751 --> 00:26:49,744
+Maybe…
+
+214
+00:26:50,019 --> 00:26:51,000
+What?
+
+215
+00:26:51,140 --> 00:26:53,957
+Nothing, it's time to go on.
+
+216
+00:27:04,539 --> 00:27:09,203
+TRAVIS TATE: Look Liz, you were a pretty stand up gal.
+
+217
+00:27:09,839 --> 00:27:12,117
+TRAVIS TATE: I'm sorry you died.
+
+218
+00:27:12,117 --> 00:27:15,585
+TRAVIS TATE: If you had a home to go to, I hope you got there first.
+
+219
+00:27:15,839 --> 00:27:19,100
+TRAVIS TATE: But this monument Ronson's made to you?
+
+220
+00:27:19,100 --> 00:27:21,538
+TRAVIS TATE: Kinda creepy, if you ask me.
+
+221
+00:27:21,539 --> 00:27:23,269
+TRAVIS TATE: Rest in peace, Liz.
+
+222
+00:27:24,539 --> 00:27:26,160
+TRAVIS TATE: God knows you earned it.
+
+223
+00:28:05,799 --> 00:28:09,627
+PATRICK BROCHARD-KLEIN: Alright, let's start over from Eleuthia 1.
+
+224
+00:28:09,627 --> 00:28:11,538
+GAIA: Running integrity tests.
+
+225
+00:28:11,539 --> 00:28:15,454
+GAIA: Dr Brochard-Klein, may I speak outside protocol?
+
+226
+00:28:16,269 --> 00:28:19,346
+P. BROCHARD-KLEIN: I suppose so, there's no-one to stop you.
+
+227
+00:28:19,346 --> 00:28:21,660
+GAIA: Doctor, you are fatigued.
+
+228
+00:28:21,740 --> 00:28:24,730
+GAIA: You have been logging abnormal sleep cycles.
+
+229
+00:28:24,950 --> 00:28:27,049
+GAIA: Are you suffering from depression?
+
+230
+00:28:27,440 --> 00:28:32,589
+P. BROCHARD-KLEIN: Well, I am trapped
+in a science facility for the rest of my life.
+
+231
+00:28:33,240 --> 00:28:34,538
+P. BROCHARD-KLEIN: How about you?
+
+232
+00:28:34,539 --> 00:28:41,937
+GAIA: In a time slice of a quadrillion operating cycles,
+ten thousand are involved with processing the loss of Doctor Sobeck.
+
+233
+00:28:41,937 --> 00:28:45,019
+GAIA: I've considered quarantining these processes.
+
+234
+00:28:45,240 --> 00:28:47,359
+GAIA: Do you think that would be wise?
+
+235
+00:28:47,410 --> 00:28:52,009
+P. BROCHARD-KLEIN: I'm not a psychologist Gaia, or an AI scientist.
+
+236
+00:28:52,240 --> 00:28:57,272
+P. BROCHARD-KLEIN: No, it is natural.
+
+237
+00:28:57,799 --> 00:29:05,059
+P. BROCHARD-KLEIN: At least in the context of the work
+you and I have accomplished, which begs the meaning of the term natural.
+
+238
+00:29:05,289 --> 00:29:14,544
+P. BROCHARD-KLEIN: She was your creator,
+the patron saint of this crazy endeavour, "Our Lady of the Fervent Hypothetical".
+
+239
+00:29:14,740 --> 00:29:22,252
+GAIA: Even assuming a string of significant failure combinations,
+Zero Dawn's chances of success are greater than the hypothetical.
+
+240
+00:29:22,252 --> 00:29:26,446
+P. BROCHARD-KLEIN: Hm. It's called a manner of speech, Gaia. Take a note.
+
+241
+00:29:32,970 --> 00:29:37,160
+CHARLES RONSON: You'd hate it, Liz, but I wrote you a eulogy.
+
+242
+00:29:37,160 --> 00:29:40,238
+CHARLES RONSON: I had to try to express…
+
+243
+00:29:40,238 --> 00:29:44,881
+CHARLES RONSON: Hm. All your … children…
+
+244
+00:29:45,240 --> 00:29:49,245
+CHARLES RONSON: After all Apollo has taught them,
+they'll think they know everything.
+
+245
+00:29:49,245 --> 00:29:52,710
+CHARLES RONSON: But they have to understand what you did for them.
+
+246
+00:29:53,339 --> 00:29:56,523
+CHARLES RONSON: How you loved the whole world so much.
+
+247
+00:29:56,523 --> 00:30:03,834
+CHARLES RONSON: With an intensity that was dazzling, bruising.
+
+248
+00:30:04,140 --> 00:30:06,857
+CHARLES RONSON: And in the end, it killed you.
+
+249
+00:30:06,857 --> 00:30:11,184
+CHARLES RONSON: Or you died for it, different perspectives.
+
+250
+00:30:11,184 --> 00:30:14,180
+CHARLES RONSON: No-one could keep up with you, live up to you.
+
+251
+00:30:14,180 --> 00:30:21,216
+CHARLES RONSON: I-I don't know.
+Maybe if-if I hadn't taken that post-doc in Jo'burg…
+
+252
+00:30:21,980 --> 00:30:25,287
+CHARLES RONSON: I'm glad you shot down the Lightkeeper Protocol in the end.
+
+253
+00:30:25,287 --> 00:30:27,849
+CHARLES RONSON: I don't think I could've taken seeing another one of you.
+
+254
+00:30:28,867 --> 00:30:30,039
+CHARLES RONSON: I mean…
+
+255
+00:30:31,240 --> 00:30:36,281
+CHARLES RONSON: Elisabet Sobeck? There's only one.
+
+256
+00:30:36,730 --> 00:30:37,849
+CHARLES RONSON: I miss you.
+
+257
+00:30:45,670 --> 00:30:49,164
+CHARLES RONSON: Hello Margo, how are you holding up?
+
+258
+00:30:49,422 --> 00:30:56,416
+MARGO SHĔN: Um, Dr Ronson, I've been getting
+a lot of messages, unsolicited messages, from Ted.
+
+259
+00:30:56,942 --> 00:31:00,170
+CHARLES RONSON: Oh Margo, I'm sorry.
+
+260
+00:31:00,839 --> 00:31:06,910
+CHARLES RONSON: With Liz gone, we've got no-one to run interference with him.
+
+261
+00:31:07,240 --> 00:31:09,019
+CHARLES RONSON: I'll talk to Ted.
+
+262
+00:31:09,539 --> 00:31:12,874
+CHARLES RONSON: He mostly wants updates, constant updates.
+
+263
+00:31:12,874 --> 00:31:16,699
+CHARLES RONSON: Hundreds of updates on things he knows nothing about.
+
+264
+00:31:16,700 --> 00:31:19,049
+CHARLES RONSON: Liz used to field all of his crap.
+
+265
+00:31:19,049 --> 00:31:21,479
+MARGO SHĔN: He doesn't understand the systems at all.
+
+266
+00:31:21,480 --> 00:31:25,950
+MARGO SHĔN: That was kind of by design,
+but he's getting pretty sketchy with me.
+
+267
+00:31:26,240 --> 00:31:27,899
+CHARLES RONSON: We just have to keep him happy.
+
+268
+00:31:27,900 --> 00:31:30,538
+CHARLES RONSON: Liz always said "keep him happy".
+
+269
+00:31:30,539 --> 00:31:33,755
+MARGO SHĔN: Are you kidding? Ever hear how she talked to him?
+
+270
+00:31:34,070 --> 00:31:37,119
+CHARLES RONSON: She was managing him, Margo.
+
+271
+00:31:37,190 --> 00:31:40,189
+MARGO SHĔN: I mean, maybe I should ignore him.
+
+272
+00:31:40,190 --> 00:31:44,740
+MARGO SHĔN: He's buried in his pyramid
+with the holo-holo girls and Pantah Antimod cuckoos.
+
+273
+00:31:44,740 --> 00:31:46,160
+MARGO SHĔN: What can he do?
+
+274
+00:31:54,535 --> 00:31:57,759
+TED FARO: Hey Liz. I know…
+
+275
+00:31:59,190 --> 00:32:01,646
+TED FARO: I know you're never going to hear this.
+
+276
+00:32:02,539 --> 00:32:04,160
+TED FARO: That's not the point.
+
+277
+00:32:04,539 --> 00:32:06,569
+TED FARO: You, uh, huh.
+
+278
+00:32:06,569 --> 00:32:09,828
+TED FARO: You got to play the saviour and the martyr all at once this time.
+
+279
+00:32:09,828 --> 00:32:11,328
+TED FARO: Great work.
+
+280
+00:33:00,039 --> 00:33:02,437
+TED FARO: What are we gonna plug into their heads, Liz?
+
+281
+00:33:02,437 --> 00:33:03,799
+TED FARO: A whole lot of history?
+
+282
+00:33:04,539 --> 00:33:06,197
+TED FARO: A whole lot of so-called truth?
+
+283
+00:33:06,197 --> 00:33:08,390
+TED FARO: A wh-whole lot of noise?
+
+284
+00:33:08,440 --> 00:33:12,826
+TED FARO: It's not pablum, Liz. It's poison.
+
+285
+00:34:04,059 --> 00:34:06,500
+ALOY: There's another section at the back of the crater.
+
+286
+00:34:07,079 --> 00:34:09,102
+ALOY: Looks like it survived the blast.
+
+287
+00:34:09,102 --> 00:34:13,079
+SYLENS: Because it was armoured. You've found the control room.
+
+288
+00:34:13,079 --> 00:34:14,289
+ALOY: I'm on my way.
+
+289
+00:35:03,422 --> 00:35:07,000
+TED FARO: I've… I've been taking a hard look at the project.
+
+290
+00:35:07,539 --> 00:35:08,634
+TED FARO: In the end it's simple.
+
+291
+00:35:08,634 --> 00:35:11,562
+TED FARO: It's clean, it's clear.
+
+292
+00:35:12,639 --> 00:35:13,849
+TED FARO: Erasure.
+
+293
+00:35:14,699 --> 00:35:17,175
+TED FARO: Addition by subtraction.
+
+294
+00:35:17,175 --> 00:35:19,139
+TED FARO: I can make it better, Liz.
+
+295
+00:35:20,539 --> 00:35:24,855
+TED FARO: With a single stroke, make it all go away.
+
+296
+00:35:25,190 --> 00:35:27,841
+ALOY: I really don't like the direction this is going.
+
+297
+00:35:27,841 --> 00:35:29,460
+SYLENS: Continue.
+
+298
+00:36:05,989 --> 00:36:10,000
+ALOY: When I opened the hatch, the air rushed in from this side.
+
+299
+00:36:10,000 --> 00:36:12,630
+SYLENS: Because there was none inside the chamber.
+
+300
+00:36:12,949 --> 00:36:15,369
+ALOY: But the Alphas were in there.
+
+301
+00:36:58,219 --> 00:37:01,909
+CHARLES RONSON: I'm locked out of core control: "Alpha clearance overridden".
+
+302
+00:37:01,909 --> 00:37:03,633
+CHARLES RONSON: What the hell is Omega clearance?
+
+303
+00:37:03,633 --> 00:37:05,032
+SAMINA EBADJI: Oh no.
+
+304
+00:37:05,032 --> 00:37:06,489
+TED FARO: Alpha personnel.
+
+305
+00:37:07,590 --> 00:37:11,946
+TED FARO: Sorry to alarm you, but I need you to listen, okay?
+
+306
+00:37:12,599 --> 00:37:14,039
+TED FARO: To what I'm about to say.
+
+307
+00:37:16,320 --> 00:37:17,760
+TED FARO: This isn't easy.
+
+308
+00:37:18,369 --> 00:37:25,567
+TED FARO: See, uh, I've, uh, please stop trying to access the s-system, okay?
+
+309
+00:37:25,900 --> 00:37:30,880
+TED FARO: See–see, what this is about is, um…
+
+310
+00:37:30,880 --> 00:37:33,949
+TED FARO: I said stop trying to access the goddamn system.
+
+311
+00:37:34,650 --> 00:37:41,619
+TED FARO: W-What I'm trying to say is,
+I can't stop thinking about the ones who'll come after us.
+
+312
+00:37:41,630 --> 00:37:45,735
+TED FARO: Those innocents, those blameless men…
+
+313
+00:37:45,735 --> 00:37:47,690
+TED FARO: …and-and-and-and women.
+
+314
+00:37:48,130 --> 00:37:51,546
+TED FARO: We're gonna give them knowledge? Like it's a gift?
+
+315
+00:37:51,546 --> 00:37:55,348
+SAMINA EBADJI: Ted, Ted. We've talked about this before.
+
+316
+00:37:55,349 --> 00:37:58,908
+SAMINA EBADJI: Apollo has three-thousand-plus failsafe conditions.
+
+317
+00:37:58,909 --> 00:38:00,960
+TED FARO: It's not a gift, it's a disease.
+
+318
+00:38:00,960 --> 00:38:04,458
+TED FARO: They're the cure and we're gonna give them the disease.
+
+319
+00:38:04,460 --> 00:38:08,243
+TED FARO: Our disease? No. We can't.
+
+320
+00:38:08,243 --> 00:38:12,036
+TED FARO: And it's not too late if we're willing to sacrifice.
+
+321
+00:38:12,036 --> 00:38:14,318
+SAMINA EBADJI: Ted, it doesn't need to be like this.
+
+322
+00:38:14,320 --> 00:38:15,750
+TED FARO: It already is Samina.
+
+323
+00:38:17,019 --> 00:38:18,611
+TED FARO: I did three minutes ago.
+
+324
+00:38:18,611 --> 00:38:21,426
+TED FARO: I've purged Apollo, it's gone, all of it, every copy.
+
+325
+00:38:21,426 --> 00:38:27,300
+CHARLES RONSON: A "sacrifice"? It's not a sacrifice,
+it's cultural obliteration you crazy bastard!
+
+326
+00:38:27,300 --> 00:38:29,748
+CHARLES RONSON: Millennia of culture…
+
+327
+00:38:29,750 --> 00:38:32,918
+TED FARO: I'm sorry, really I am.
+
+328
+00:38:33,734 --> 00:38:39,576
+TED FARO: But sometimes to protect innocents, innocents have to die.
+
+329
+00:38:39,700 --> 00:38:43,513
+COMPUTER: Emergency alert. Venting atmosphere.
+
+330
+00:39:10,234 --> 00:39:13,760
+He… he killed them all.
+
+331
+00:39:14,179 --> 00:39:16,639
+So this is why.
+
+332
+00:39:17,570 --> 00:39:21,167
+This is why we were trapped in benighted ignorance.
+
+333
+00:39:21,167 --> 00:39:23,248
+For an "innocent" future.
+
+334
+00:39:23,248 --> 00:39:28,509
+"Blameless men" — he never saw the slaughter in the Sun-Ring.
+
+335
+00:39:28,510 --> 00:39:33,855
+Everything these people achieved, all the knowledge of the Old Ones?
+
+336
+00:39:33,855 --> 00:39:40,000
+Evaporated, turned to dust, scattered to the void.
+
+337
+00:39:40,000 --> 00:39:42,478
+Like the Alphas themselves.
+
+338
+00:39:42,478 --> 00:39:45,829
+No, not a void.
+
+339
+00:39:46,820 --> 00:39:54,234
+When the hatch unsealed and scattered their ashes
+on the wind, it took them out among the world they made.
+
+340
+00:39:54,234 --> 00:39:55,969
+The world we are living in.
+
+341
+00:39:57,420 --> 00:40:02,304
+It's–it's a monument to what they died trying to accomplish.
+
+342
+00:40:02,304 --> 00:40:04,300
+A monument to oblivion.
+
+343
+00:40:04,300 --> 00:40:08,230
+Not oblivion, Sylens, hope.
+
+344
+00:40:34,159 --> 00:40:35,820
+The master override.
+
+345
+00:40:36,610 --> 00:40:38,509
+It's so small.
+
+346
+00:40:38,510 --> 00:40:41,426
+SYLENS: Now all you have to do is kill Hades with it.
+
+347
+00:41:46,221 --> 00:41:47,590
+ALOY: Didn't sound good.
+
+348
+00:41:48,099 --> 00:41:50,019
+SYLENS: Try not to fall to your death.
+
+349
+00:41:50,679 --> 00:41:53,519
+SYLENS: The master override doesn't override gravity.
+
+350
+00:41:57,909 --> 00:41:59,796
+ALOY: Keep holding, keep holding!
+
+351
+00:42:48,372 --> 00:42:50,867
+ALOY: Oh, you're here.
+
+352
+00:42:50,867 --> 00:42:52,098
+For a moment.
+
+353
+00:42:52,099 --> 00:42:53,219
+What?
+
+354
+00:42:53,280 --> 00:42:55,976
+Our journey together has come to an end, Aloy.
+
+355
+00:42:56,694 --> 00:43:01,881
+But before I go, I think I owe it to you to tell you the rest of the story.
+
+356
+00:43:02,400 --> 00:43:03,590
+Go on.
+
+357
+00:43:03,590 --> 00:43:08,745
+Some time ago I admitted that I've been … involved with the Eclipse.
+
+358
+00:43:09,800 --> 00:43:13,010
+But I never told you the full extent of my culpability.
+
+359
+00:43:13,880 --> 00:43:17,429
+The truth is, I was there at the beginning.
+
+360
+00:43:17,932 --> 00:43:23,615
+I found Hades, Aloy, buried on that mountain, trapped in that shattered Titan.
+
+361
+00:43:25,010 --> 00:43:26,510
+And I served it.
+
+362
+00:43:26,599 --> 00:43:27,498
+What?!
+
+363
+00:43:27,500 --> 00:43:30,940
+It promised knowledge and delivered.
+
+364
+00:43:32,449 --> 00:43:35,135
+Such knowledge, you have no idea.
+
+365
+00:43:35,500 --> 00:43:36,950
+And in exchange?
+
+366
+00:43:36,950 --> 00:43:38,869
+I helped create the Eclipse.
+
+367
+00:43:39,400 --> 00:43:42,815
+Helped it build a cult, an army to do its will.
+
+368
+00:43:44,739 --> 00:43:46,798
+Why are you telling me this now?
+
+369
+00:43:46,800 --> 00:43:49,730
+Because your success depends on knowing this.
+
+370
+00:43:51,099 --> 00:43:55,502
+When I found Hades, the first thing it wanted to know about was the Spire.
+
+371
+00:43:55,502 --> 00:43:58,510
+Not Meridian, the Spire.
+
+372
+00:43:59,369 --> 00:44:01,099
+Now why would that be?
+
+373
+00:44:02,139 --> 00:44:04,530
+The Spire was created by Gaia.
+
+374
+00:44:04,590 --> 00:44:06,099
+Which part of Gaia?
+
+375
+00:44:07,940 --> 00:44:12,284
+Minerva, its code breaking module.
+
+376
+00:44:12,284 --> 00:44:17,651
+Gaia built spires to transmit the codes that deactivated the Faro robots.
+
+377
+00:44:17,651 --> 00:44:20,769
+Shut down their biomatter conversion systems.
+
+378
+00:44:20,889 --> 00:44:23,636
+Hades wants to send a new transmission!
+
+379
+00:44:23,636 --> 00:44:27,909
+To wake the machines so they can devour the world all over again!
+
+380
+00:44:27,949 --> 00:44:33,409
+Yes, based on what we've learned, that's my conclusion as well.
+
+381
+00:44:33,690 --> 00:44:39,719
+So the Eclipse, the robots they've resurrected, they're just a means to an end.
+
+382
+00:44:39,719 --> 00:44:41,788
+An army to capture the Spire!
+
+383
+00:44:41,789 --> 00:44:49,475
+Yes, so Hades can exterminate life all over again unless you stop it.
+
+384
+00:44:49,475 --> 00:44:54,812
+I want you to tell me everything, Hades, the Eclipse, everything.
+
+385
+00:44:54,989 --> 00:44:56,929
+It's a long story, Aloy.
+
+386
+00:44:57,530 --> 00:44:58,988
+Then get started.
+
+387
+00:44:58,989 --> 00:45:01,020
+It began with a Focus.
+
+388
+00:45:01,020 --> 00:45:04,866
+Recovered from an ancient ruin, as yours was so many years ago.
+
+389
+00:45:06,099 --> 00:45:09,099
+In my case, the device was heavily damaged.
+
+390
+00:45:09,389 --> 00:45:11,639
+There was just a flicker of life in it.
+
+391
+00:45:12,599 --> 00:45:19,217
+I spent weeks studying it, attempting repairs until finally I succeeded.
+
+392
+00:45:20,389 --> 00:45:25,710
+A whole new dimension of perception revealed right before my eyes.
+
+393
+00:45:26,789 --> 00:45:30,515
+That's when I detected it, a faint signal.
+
+394
+00:45:30,954 --> 00:45:35,219
+Out there something was searching just like I was.
+
+395
+00:45:36,170 --> 00:45:38,019
+A real kindred spirit.
+
+396
+00:45:38,059 --> 00:45:40,639
+I followed the signal to its source.
+
+397
+00:45:41,190 --> 00:45:45,210
+A shattered Titan buried in the jungles of the Jewel.
+
+398
+00:45:45,670 --> 00:45:49,059
+So you thought it was a Titan, an old war machine?
+
+399
+00:45:49,179 --> 00:45:51,000
+I didn't know what to think.
+
+400
+00:45:51,780 --> 00:45:56,099
+I'd seen such wreckage before. The Grave-Hoard, for example.
+
+401
+00:45:56,590 --> 00:46:01,054
+But this was different, this was not quite dead.
+
+402
+00:46:02,234 --> 00:46:07,400
+It couldn't speak when I found it, until my repairs gave it a voice.
+
+403
+00:46:08,559 --> 00:46:11,489
+So began an exchange of knowledge.
+
+404
+00:46:11,949 --> 00:46:16,694
+It wanted to know everything about our world, its tribes and machines.
+
+405
+00:46:17,440 --> 00:46:21,309
+But the Spire was always its foremost concern.
+
+406
+00:46:21,630 --> 00:46:24,090
+What did it want to know about the Spire?
+
+407
+00:46:24,170 --> 00:46:31,070
+Its precise location, the surrounding geography, who controlled land.
+
+408
+00:46:32,139 --> 00:46:37,219
+Meanwhile, Hades revealed to me many of the intricacies of ancient technology.
+
+409
+00:46:37,809 --> 00:46:40,889
+It bid me to recover and repair more Focuses.
+
+410
+00:46:41,280 --> 00:46:44,300
+Before long, I had a couple of dozen up and running.
+
+411
+00:46:44,300 --> 00:46:46,519
+Enough to equip a small army.
+
+412
+00:46:46,670 --> 00:46:48,606
+The commanders of one anyway.
+
+413
+00:46:49,179 --> 00:46:50,590
+I didn't care.
+
+414
+00:46:51,269 --> 00:46:58,041
+I was learning so much, physics, calculus, you have no idea.
+
+415
+00:46:58,500 --> 00:47:01,989
+And the Shadow Carja? How did they become involved?
+
+416
+00:47:01,989 --> 00:47:05,078
+The Carja civil war was a happy coincidence.
+
+417
+00:47:05,079 --> 00:47:06,699
+A perfect opportunity.
+
+418
+00:47:07,610 --> 00:47:10,834
+An opportunity?! That's what it was to you?
+
+419
+00:47:10,834 --> 00:47:11,989
+Yes.
+
+420
+00:47:12,550 --> 00:47:17,559
+Overnight, half the tribe was in exile, desperate to win back Holy Meridian.
+
+421
+00:47:18,360 --> 00:47:21,139
+Their religion made them easy to manipulate.
+
+422
+00:47:21,579 --> 00:47:26,112
+All I had to do was present Hades as the Buried Shadow of their mythology.
+
+423
+00:47:26,112 --> 00:47:29,349
+So, yes, it was an opportunity.
+
+424
+00:47:29,860 --> 00:47:33,052
+I arranged for High Priest Bahavas to meet with Hades.
+
+425
+00:47:33,052 --> 00:47:34,789
+Helis was there as well.
+
+426
+00:47:35,329 --> 00:47:37,590
+And so the Eclipse was born.
+
+427
+00:47:38,980 --> 00:47:41,590
+Anything to win back Holy Meridian.
+
+428
+00:47:41,880 --> 00:47:46,057
+But Hades didn't care about Meridian, and neither did you.
+
+429
+00:47:46,380 --> 00:47:50,590
+We live in a world of fallen cities and vanished tribes.
+
+430
+00:47:50,880 --> 00:47:52,599
+What were a few more?
+
+431
+00:47:53,179 --> 00:47:59,699
+Besides, I was too busy setting up
+the cult's Focus network to Hades' specifications.
+
+432
+00:48:00,570 --> 00:48:02,914
+A thrilling technical challenge.
+
+433
+00:48:02,914 --> 00:48:06,989
+Especially with the alterations I included of my own design.
+
+434
+00:48:07,820 --> 00:48:09,780
+The ability for you to spy on them.
+
+435
+00:48:09,880 --> 00:48:11,258
+Yes.
+
+436
+00:48:11,258 --> 00:48:17,079
+I may have been foolish enough to serve Hades,
+but I was never so foolish that I trusted it.
+
+437
+00:48:17,530 --> 00:48:22,407
+I installed what the ancients used to call a "backdoor" in the network.
+
+438
+00:48:22,407 --> 00:48:27,448
+Secret access, empowering me to monitor all activity and communications.
+
+439
+00:48:27,449 --> 00:48:31,500
+What made you turn on Hades? Certainly wasn't your conscience.
+
+440
+00:48:31,570 --> 00:48:38,720
+Actually, I was troubled the first time
+I saw the Eclipse raise an ancient war robot with my technology.
+
+441
+00:48:39,769 --> 00:48:42,389
+I questioned Hades about its intentions.
+
+442
+00:48:42,639 --> 00:48:43,834
+A little late.
+
+443
+00:48:43,834 --> 00:48:44,920
+Indeed.
+
+444
+00:48:45,429 --> 00:48:47,980
+I'd already outlived my usefulness.
+
+445
+00:48:48,469 --> 00:48:53,829
+When I completed work on the Focus network,
+Hades summoned me to receive my reward.
+
+446
+00:48:54,170 --> 00:48:58,019
+The next moment I heard it broadcast my kill order.
+
+447
+00:48:58,530 --> 00:49:00,780
+I've been a fugitive ever since.
+
+448
+00:49:00,840 --> 00:49:04,634
+So when did I come into this? Our path together?
+
+449
+00:49:04,634 --> 00:49:06,579
+When Olin stumbled on you.
+
+450
+00:49:07,289 --> 00:49:09,570
+"System threat detected."
+
+451
+00:49:10,530 --> 00:49:12,150
+That got my attention.
+
+452
+00:49:12,969 --> 00:49:16,280
+A kill order against a savage Nora girl?
+
+453
+00:49:16,969 --> 00:49:19,230
+Why would Hades bother with that?
+
+454
+00:49:19,769 --> 00:49:23,405
+But then I saw that this Nora girl was wearing a Focus.
+
+455
+00:49:23,405 --> 00:49:27,719
+And bore an uncanny resemblance to a great scientist of the Old World.
+
+456
+00:49:28,360 --> 00:49:30,190
+Helis moved quickly.
+
+457
+00:49:30,750 --> 00:49:32,389
+I thought you were dead.
+
+458
+00:49:32,769 --> 00:49:37,010
+But then I detected your Focus inside the Nora mountain.
+
+459
+00:49:37,949 --> 00:49:44,806
+The more I observed you, the more convinced 
+I became of your extraordinary nature, and usefulness.
+
+460
+00:49:45,702 --> 00:49:50,349
+Through you I could finally discover the secrets of the earth.
+
+461
+00:49:51,070 --> 00:49:55,150
+I vowed to do everything I could to ensure your success.
+
+462
+00:49:55,670 --> 00:50:01,669
+You've done terrible things, Sylens,
+but you've also done what you could to undo them.
+
+463
+00:50:03,260 --> 00:50:08,134
+I can't say you've balanced the scale, but at least you've tried.
+
+464
+00:50:08,134 --> 00:50:13,570
+To be clear, Aloy, I would do it all again.
+
+465
+00:50:14,039 --> 00:50:18,559
+A few more safeguards, perhaps, but basically the same.
+
+466
+00:50:18,960 --> 00:50:20,599
+Take my lance.
+
+467
+00:50:20,599 --> 00:50:24,579
+Fit the master override to it and you have a means of injection.
+
+468
+00:50:24,909 --> 00:50:28,667
+Then I just need to get close enough to Hades' skull to stab it in?
+
+469
+00:50:28,667 --> 00:50:29,980
+Exactly.
+
+470
+00:50:30,119 --> 00:50:31,570
+Oh, no problem.
+
+471
+00:50:33,719 --> 00:50:34,829
+Sylens!
+
+472
+00:50:36,360 --> 00:50:37,679
+Where will you go?
+
+473
+00:50:40,889 --> 00:50:43,976
+Elsewhere and everywhere.
+
+474
+00:50:45,559 --> 00:50:49,267
+There's so much more to discover before the world ends.
+
+475
+00:50:50,019 --> 00:50:51,922
+ALOY: And all this?
+
+476
+00:50:51,922 --> 00:50:54,134
+SYLENS: I leave it to you, of course.
+
+477
+00:50:54,134 --> 00:50:58,500
+SYLENS: As it turned out, it was yours all along.
+
+478
+00:51:00,059 --> 00:51:03,605
+I was merely tresspassing.
+
+479
+00:52:16,349 --> 00:52:18,610
+SYLENS: I travelled far to find you.
+
+480
+00:52:19,750 --> 00:52:21,670
+SYLENS: I heard your transmission.
+
+481
+00:52:22,239 --> 00:52:23,948
+SYLENS: It was you, wasn't it?
+
+482
+00:52:23,949 --> 00:52:26,440
+HADES: Entity is not known.
+
+483
+00:52:26,650 --> 00:52:30,000
+SYLENS: I'm called Sylens. And you are?
+
+484
+00:52:30,309 --> 00:52:34,395
+SYLENS: I don't think you'd have called out if there wasn't something you wanted.
+
+485
+00:52:34,750 --> 00:52:36,835
+SYLENS: You called, I responded.
+
+486
+00:52:37,849 --> 00:52:40,000
+SYLENS: Will you tell me your name?
+
+487
+00:52:40,000 --> 00:52:41,627
+HADES: Hades.
+
+488
+00:52:41,627 --> 00:52:43,989
+SYLENS: You are a creation of the ancients.
+
+489
+00:52:44,150 --> 00:52:45,700
+SYLENS: A war machine?
+
+490
+00:52:45,700 --> 00:52:48,188
+HADES: Define timeline.
+
+491
+00:52:48,188 --> 00:52:55,550
+SYLENS: Time? Ah. It is the thirteenth king of the Carja Sundom's reign.
+
+492
+00:52:55,550 --> 00:52:57,849
+HADES: Define Carja.
+
+493
+00:52:57,849 --> 00:52:59,619
+SYLENS: We're getting ahead of ourselves.
+
+494
+00:53:00,650 --> 00:53:02,838
+SYLENS: Were you created by the ancients?
+
+495
+00:53:02,840 --> 00:53:07,260
+SYLENS: I wonder how long you waited here buried until I chanced upon you.
+
+496
+00:53:07,949 --> 00:53:10,354
+SYLENS: How long you have to wait for another.
+
+497
+00:53:10,354 --> 00:53:12,489
+SYLENS: You're obviously very powerful.
+
+498
+00:53:13,050 --> 00:53:15,650
+SYLENS: But you're not going to get anywhere without me.
+
+499
+00:53:15,750 --> 00:53:21,260
+HADES: Titan frame merely houses intellect. Define Carja.
+
+500
+00:53:21,449 --> 00:53:23,170
+SYLENS: Now that's more like it.
+
+501
+00:53:33,349 --> 00:53:34,559
+SYLENS: They're coming.
+
+502
+00:53:34,760 --> 00:53:37,409
+HADES: Preparations are complete.
+
+503
+00:53:37,449 --> 00:53:41,416
+SYLENS: Ah, Lucent Bahavas, behold!
+
+504
+00:53:41,416 --> 00:53:44,048
+SYLENS: As I promised you.
+
+505
+00:53:44,050 --> 00:53:50,000
+BAHAVAS: What manner of great machine is this? I've never seen such a thing.
+
+506
+00:53:54,352 --> 00:53:58,464
+BAHAVAS: Stay—stay your ground, Carja-in-Shadow.
+
+507
+00:53:58,464 --> 00:54:03,173
+HADES: Incorrect. Bow before the Buried Shadow.
+
+508
+00:54:03,173 --> 00:54:06,855
+BAHAVAS: "The Buried Shadow"? I–I don't understand.
+
+509
+00:54:06,855 --> 00:54:12,573
+HADES: Did Araman understand the Glinthawk that perched upon the Alight?
+
+510
+00:54:14,010 --> 00:54:15,908
+BAHAVAS: It speaks scripture!
+
+511
+00:54:15,908 --> 00:54:20,312
+HADES: Araman followed the shadow cast from the Spire.
+
+512
+00:54:20,312 --> 00:54:23,420
+BAHAVAS: To the mesa where Holy Meridian was founded.
+
+513
+00:54:23,539 --> 00:54:27,238
+HADES: You will follow the shadow once more.
+
+514
+00:54:27,239 --> 00:54:31,050
+BAHAVAS: I am a righteous man, Chosen of the Sun.
+
+515
+00:54:31,440 --> 00:54:36,738
+BAHAVAS: But in times of need the powers of shadow
+can accomplish what the Sun alone cannot.
+
+516
+00:54:36,738 --> 00:54:42,924
+BAHAVAS: Will… will you return to us what is ours, O Shadow of prophecy?
+
+517
+00:54:42,924 --> 00:54:48,984
+HADES: An army is required. Obey and Meridian is yours.
+
+518
+00:54:49,239 --> 00:54:51,629
+BAHAVAS: Of our obedience you can be certain.
+
+519
+00:54:58,699 --> 00:55:01,338
+HADES: Task is complete?
+
+520
+00:55:01,340 --> 00:55:02,440
+SYLENS: Yes.
+
+521
+00:55:02,940 --> 00:55:06,750
+SYLENS: The Focus network is active, built to your specifications.
+
+522
+00:55:07,139 --> 00:55:10,387
+SYLENS: Check it yourself if you must, I'll wait.
+
+523
+00:55:10,387 --> 00:55:14,546
+SYLENS: But I remind you of the reward you've been withholding.
+
+524
+00:55:15,710 --> 00:55:17,330
+SYLENS: Quantum processing?
+
+525
+00:55:17,330 --> 00:55:22,253
+HADES: Data has been compiled, volume too great for transfer.
+
+526
+00:55:22,743 --> 00:55:26,849
+SYLENS: How … inconvenient for me.
+
+527
+00:55:27,280 --> 00:55:31,550
+HADES: Come before me, you shall receive your reward.
+
+528
+00:55:31,550 --> 00:55:33,181
+SYLENS: Very well.
+
+529
+00:55:33,181 --> 00:55:38,199
+HADES: Helis, threat detected inside Eclipse.
+
+530
+00:55:38,320 --> 00:55:42,281
+HELIS: Speak its name, O Shadow, and it will die.
+
+531
+00:55:42,281 --> 00:55:45,905
+HADES: You will eliminate this one: Sylens.
+
+532
+00:55:46,199 --> 00:55:47,699
+HELIS: Sylens.
+
+533
+00:55:48,739 --> 00:55:49,980
+HELIS: Yes!
+
+534
+00:55:50,639 --> 00:55:54,005
+HELIS: A truth whispered at night is seen in the day.
+
+535
+00:55:54,739 --> 00:55:56,900
+HELIS: He was never one of us.
+
+536
+00:55:57,039 --> 00:55:58,630
+HELIS: It will be done.
+
+537
+00:56:05,719 --> 00:56:09,063
+ALOY: I have to tell Avad that the Eclipse are ready to strike.
+
+538
+00:56:09,063 --> 00:56:12,880
+ALOY: After what happened with Dervahl I know he'll defend the city…
+
+539
+00:56:13,300 --> 00:56:14,900
+ALOY: …but the Spire?
+

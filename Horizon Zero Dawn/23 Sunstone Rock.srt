@@ -1,0 +1,569 @@
+1
+00:00:26,140 --> 00:00:27,070
+Got one.
+
+2
+00:00:47,340 --> 00:00:48,350
+You'll do.
+
+3
+00:01:34,739 --> 00:01:36,349
+Fresh as it comes.
+
+4
+00:03:16,370 --> 00:03:17,849
+Down you go!
+
+5
+00:04:11,840 --> 00:04:13,550
+Can stop tensing up.
+
+6
+00:05:09,430 --> 00:05:10,740
+That should be enough fluid.
+
+7
+00:05:11,420 --> 00:05:13,199
+These things are hard to catch.
+
+8
+00:06:24,939 --> 00:06:26,250
+Stay down!
+
+9
+00:07:45,220 --> 00:07:46,850
+Save these for the trail.
+
+10
+00:09:38,539 --> 00:09:40,350
+[Bandit thug]
+She's coming for us!
+
+11
+00:09:57,069 --> 00:09:58,880
+[Bandit thug]
+It's killing time!
+
+12
+00:10:05,429 --> 00:10:07,419
+[Bandit thug]
+I'll finish you!
+
+13
+00:10:20,139 --> 00:10:22,159
+[Bandit thug]
+Got another shot for ya!
+
+14
+00:10:27,740 --> 00:10:30,564
+[Bandit thug]
+Wanna play? Here's your invitation.
+
+15
+00:10:48,539 --> 00:10:50,360
+Forget about travelling light.
+
+16
+00:11:39,639 --> 00:11:43,350
+Rain. Ah well, I'm mostly waterproof.
+
+17
+00:16:01,269 --> 00:16:03,110
+Okay, alarm's down.
+
+18
+00:18:51,000 --> 00:18:52,849
+Still sniffing around.
+
+19
+00:19:02,289 --> 00:19:04,500
+They've taken those travellers captive.
+
+20
+00:19:39,200 --> 00:19:41,099
+I'll get this open, hold on.
+
+21
+00:19:44,220 --> 00:19:46,660
+It's all right, I'm getting you out.
+
+22
+00:21:52,559 --> 00:21:54,079
+Got too much already.
+
+23
+00:22:18,039 --> 00:22:21,349
+[Carja guard]
+We need warriors like her, ready to stand up for the Sundom.
+
+24
+00:22:30,270 --> 00:22:33,384
+[Carja outlander]
+She didn't even hesistate…
+
+25
+00:22:47,240 --> 00:22:51,316
+[Carja outlander]
+That crazy Oseram tried to kill our Sun-King,
+but the machine rider stopped him.
+
+26
+00:23:06,368 --> 00:23:09,008
+[Carja outlander]
+Lucky that the Nora was there to protect the Sun-King.
+
+27
+00:23:09,008 --> 00:23:11,264
+[Carja outlander]
+What on earth were the Vanguard doing?
+
+28
+00:23:33,440 --> 00:23:36,549
+[Carja guard]
+We will never be able to repay you for the life of our Sun-King.
+
+29
+00:23:47,313 --> 00:23:52,074
+[Carja guard]
+Just because he failed to kill the Sun-King,
+doesn't mean he's any less guilty. He should pay.
+
+30
+00:26:50,900 --> 00:26:52,259
+Can't be too prepared.
+
+31
+00:27:29,130 --> 00:27:31,172
+This must be Sunstone Rock.
+
+32
+00:27:31,470 --> 00:27:33,500
+It's being attacked by machines!
+
+33
+00:27:35,039 --> 00:27:36,849
+[Carja guard]
+I don't like our chances!
+
+34
+00:27:37,130 --> 00:27:40,180
+[Carja guard]
+You wanna tell Warden Janeva we backed down?
+
+35
+00:27:40,279 --> 00:27:41,990
+[Carja guard]
+Let's take our chances!
+
+36
+00:32:24,914 --> 00:32:26,379
+[Carja guard]
+Victory is ours.
+
+37
+00:32:27,640 --> 00:32:29,379
+[Carja guard]
+You pulled us out of a tough spot, outlander.
+
+38
+00:32:30,609 --> 00:32:32,709
+[Carja guard]
+Welcome to Sunstone Rock.
+
+39
+00:32:32,710 --> 00:32:35,680
+[Carja guard]
+You should speak to Warden Janeva, inside.
+
+40
+00:32:40,691 --> 00:32:42,049
+[Carja guard]
+We have won.
+
+41
+00:33:01,789 --> 00:33:03,859
+[Carja archer]
+By the Sun, it's over.
+
+42
+00:35:45,139 --> 00:35:46,678
+[Carja guard]
+It was a machine lure.
+
+43
+00:35:46,679 --> 00:35:48,349
+[Carja guard]
+We don't know how they got it.
+
+44
+00:35:48,590 --> 00:35:51,685
+[Warden Janeva]
+Rasgrund concealed the parts on his person, no doubt.
+
+45
+00:35:51,685 --> 00:35:53,891
+[Carja guard]
+We searched him. How…?
+
+46
+00:35:54,230 --> 00:35:56,250
+[Warden Janeva]
+You don't want to know how.
+
+47
+00:36:19,030 --> 00:36:22,645
+[Carja guard]
+Always stay bright, always stay alert. That's what I say.
+
+48
+00:36:31,530 --> 00:36:35,349
+Warden Janeva, this is the one who defeated the Behemoths.
+
+49
+00:36:35,400 --> 00:36:39,400
+Outlander, I'm impressed. I don't impress easily.
+
+50
+00:36:39,690 --> 00:36:43,128
+Tell me, how do you fare with hunting living prey?
+
+51
+00:36:43,130 --> 00:36:45,789
+Haven't had any complaints. Why?
+
+52
+00:36:45,929 --> 00:36:48,448
+Three dangerous prisoners have escaped.
+
+53
+00:36:48,449 --> 00:36:51,650
+I need my men here getting the others back in line.
+
+54
+00:36:51,670 --> 00:36:55,159
+None of this would have happened
+if we dealt with criminals the old way.
+
+55
+00:36:55,230 --> 00:36:57,778
+But I've clashed that gong before.
+
+56
+00:36:57,780 --> 00:36:59,178
+And here I am.
+
+57
+00:36:59,179 --> 00:37:00,800
+And here you are.
+
+58
+00:37:00,929 --> 00:37:02,534
+What's the old way?
+
+59
+00:37:02,534 --> 00:37:05,840
+To be buried up to the neck and left for the Sun's judgement.
+
+60
+00:37:06,010 --> 00:37:08,570
+Seems to me like the judgment's already been made.
+
+61
+00:37:08,730 --> 00:37:11,328
+Not one of them committed another crime.
+
+62
+00:37:11,329 --> 00:37:14,110
+So the Carja keep their criminals in this place?
+
+63
+00:37:14,230 --> 00:37:16,044
+Since the liberation.
+
+64
+00:37:16,044 --> 00:37:20,234
+We've had them all from thieves
+to the mad King Jiran's former Kestrels.
+
+65
+00:37:20,234 --> 00:37:22,988
+The Sun-King believes in the power of change.
+
+66
+00:37:22,989 --> 00:37:25,575
+And sure enough, some did change.
+
+67
+00:37:25,575 --> 00:37:28,260
+Shed their skin, like lizards.
+
+68
+00:37:28,599 --> 00:37:30,718
+I thought all criminals were the same once.
+
+69
+00:37:30,719 --> 00:37:33,932
+That's why the Sun-King gave me command of Sunstone Rock.
+
+70
+00:37:33,932 --> 00:37:36,150
+As an education.
+
+71
+00:37:36,230 --> 00:37:37,668
+Sounds like an honour.
+
+72
+00:37:37,670 --> 00:37:40,042
+I mean, I haven't seen any other women in Carja armour…
+
+73
+00:37:40,042 --> 00:37:42,518
+No, I'm not one of your sisters.
+
+74
+00:37:42,519 --> 00:37:44,838
+No woman can wear Carja armour.
+
+75
+00:37:44,840 --> 00:37:47,630
+When I was young, I chose to become a soldier.
+
+76
+00:37:47,630 --> 00:37:50,900
+One good enough to join Avad's honour guard.
+
+77
+00:37:50,960 --> 00:37:52,948
+There was talk about what I was.
+
+78
+00:37:52,949 --> 00:37:57,815
+So I'd say "Test me, then I'll break your arm".
+
+79
+00:37:57,815 --> 00:38:02,639
+After enough arms had been broken there was less talk.
+
+80
+00:38:02,659 --> 00:38:06,139
+I'm curious, but I'd rather we didn't have to start fighting.
+
+81
+00:38:06,219 --> 00:38:07,118
+Agreed.
+
+82
+00:38:07,119 --> 00:38:09,329
+So you want these prisoners brought back?
+
+83
+00:38:09,429 --> 00:38:12,030
+No, I want them put in the earth.
+
+84
+00:38:12,610 --> 00:38:15,009
+I doubt they'll give you any choice.
+
+85
+00:38:15,010 --> 00:38:17,728
+They had their chance with the Sun-King's generosity.
+
+86
+00:38:17,730 --> 00:38:19,729
+So now they face mine.
+
+87
+00:38:19,729 --> 00:38:21,509
+A bounty on all their heads.
+
+88
+00:38:21,510 --> 00:38:23,829
+Who are these dangerous prisoners?
+
+89
+00:38:23,920 --> 00:38:26,228
+Three from the isolation cages.
+
+90
+00:38:26,230 --> 00:38:27,528
+Don't feel sorry for them.
+
+91
+00:38:27,530 --> 00:38:30,349
+They've lived well off the Sun-King's conscience.
+
+92
+00:38:30,420 --> 00:38:34,828
+First, is Rasgrund. Oseram trap maker, hates the Carja.
+
+93
+00:38:34,829 --> 00:38:36,468
+Crazy as a loon in heat.
+
+94
+00:38:36,469 --> 00:38:39,969
+Caught in one too many blasts, or one too few.
+
+95
+00:38:40,090 --> 00:38:44,841
+Then there's Ullia, a Tenakth warrior,
+if that means anything to you.
+
+96
+00:38:44,841 --> 00:38:47,440
+Not really, another tribe?
+
+97
+00:38:47,519 --> 00:38:51,148
+Reavers from the south, bloodthirsty.
+
+98
+00:38:51,150 --> 00:38:55,329
+Some say they're cannibals, but she slurped gruel well enough.
+
+99
+00:38:55,670 --> 00:39:00,808
+And the last is Gavan,
+a traitor who smuggled weapons to the exiles.
+
+100
+00:39:00,809 --> 00:39:03,718
+Compared to the other two, this one doesn't seem so bad.
+
+101
+00:39:03,719 --> 00:39:05,808
+He helped drag out a civil war.
+
+102
+00:39:05,809 --> 00:39:07,948
+All for the shards it got him.
+
+103
+00:39:07,949 --> 00:39:10,110
+A machine has more warmth.
+
+104
+00:39:10,260 --> 00:39:13,190
+If I did this for you, I'd need a lead on them.
+
+105
+00:39:13,320 --> 00:39:18,238
+Well, when Ullia first swept through the Sundom,
+it was with the jungle bandits.
+
+106
+00:39:18,239 --> 00:39:19,858
+I say she'll go back.
+
+107
+00:39:19,860 --> 00:39:24,782
+Rasgrund we pulled out of a crack in Dusk Mesa,
+where he'd been tinkering with his bombs.
+
+108
+00:39:24,782 --> 00:39:28,175
+And Gavan will be trying to pay his way across the lake.
+
+109
+00:39:28,175 --> 00:39:29,869
+I'd burn my palm on it.
+
+110
+00:39:29,920 --> 00:39:31,440
+Look in Brightmarket.
+
+111
+00:43:31,800 --> 00:43:33,420
+Need them soon enough.
+
+112
+00:44:18,690 --> 00:44:21,030
+Okay, I already got rid of the bandits.
+
+113
+00:44:21,030 --> 00:44:23,409
+I don't think it'll be hard to find this warrior.
+
+114
+00:45:03,869 --> 00:45:08,210
+[Ullia]
+I told you they would come. Drive her into the dirt!
+
+115
+00:45:30,139 --> 00:45:32,500
+No way we could have talked about this, huh?
+
+116
+00:45:32,590 --> 00:45:34,688
+All the Carja did was talk.
+
+117
+00:45:34,690 --> 00:45:38,010
+Talk and bleed, and talk and shackle me.
+
+118
+00:45:38,010 --> 00:45:41,642
+But you? You fought like a Tenakth.
+
+119
+00:45:41,889 --> 00:45:44,300
+I'd have taken you for my child.
+
+120
+00:45:44,559 --> 00:45:46,148
+You can't just take a child.
+
+121
+00:45:46,150 --> 00:45:52,125
+The strong take from the weak,
+and in the taking are made stronger.
+
+122
+00:45:52,125 --> 00:45:55,088
+These stories, pricked into my skin.
+
+123
+00:45:55,090 --> 00:45:56,299
+Look!
+
+124
+00:45:57,070 --> 00:46:00,718
+Children, riches, lives, and land.
+
+125
+00:46:01,280 --> 00:46:02,838
+All of these have been mine.
+
+126
+00:46:02,840 --> 00:46:08,590
+Drink of my [cough] my blood and I'll live on.
+
+127
+00:46:12,380 --> 00:46:13,360
+No, Ullia.
+
+128
+00:46:13,360 --> 00:46:16,929
+I've got enough stories to carry.
+
+129
+00:46:47,150 --> 00:46:50,178
+[Carja guard]
+Did she really save the Sun-King? A Nora?
+
+130
+00:46:55,574 --> 00:46:57,587
+[Carja villager]
+The Sundom's grown too soft.
+
+131
+00:46:57,587 --> 00:47:00,231
+[Carja villager]
+Too much Oseram influence at the palace.
+
+132
+00:47:00,231 --> 00:47:02,347
+[Carja villager]
+What's he thinking letting Dervahl live?
+

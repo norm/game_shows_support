@@ -1,0 +1,664 @@
+1
+00:05:47,875 --> 00:05:48,685
+It's off!
+
+2
+00:06:39,040 --> 00:06:40,370
+Full already.
+
+3
+00:09:17,839 --> 00:09:21,049
+[Carja guard]
+My duty is to guard, I don't get involved in politics.
+
+4
+00:09:24,480 --> 00:09:28,724
+[Carja guard]
+She didn't even hesitate, she stood between the assassin and our Sun-King.
+
+5
+00:09:36,320 --> 00:09:40,899
+[Carja noble]
+My family might still be alive and you're going to stand here and do nothing?
+
+6
+00:09:40,899 --> 00:09:46,933
+[Carja guard]
+We've lost a dozen patrols beyond the valley. Our orders are clear, no more.
+
+7
+00:09:46,933 --> 00:09:48,440
+[Carja guard]
+Freeholds were warned.
+
+8
+00:09:48,740 --> 00:09:52,059
+[Carja noble]
+You're talking about orders. I'm talking about lives!
+
+9
+00:09:52,240 --> 00:09:55,538
+[Carja guard]
+That's what the orders are for, to save lives.
+
+10
+00:09:55,539 --> 00:09:57,281
+[Carja guard]
+Good day, citizen.
+
+11
+00:09:57,281 --> 00:09:59,385
+[Carja guard]
+Sun bless you for saving the Sun-King.
+
+12
+00:10:01,465 --> 00:10:03,149
+[Carja merchant]
+Don't pass up these goods!
+
+13
+00:10:03,860 --> 00:10:06,524
+[Carja merchant]
+Come take a look. I'll give you a good price.
+
+14
+00:10:08,240 --> 00:10:10,279
+[Carja merchants]
+- Buy what you need, leave the rest.
+- Look at these wares!
+
+15
+00:10:12,894 --> 00:10:15,244
+[Carja merchants]
+- Buy what you need, leave the rest.
+- Won't find better wares!
+
+16
+00:10:15,245 --> 00:10:18,540
+[Carja merchants]
+- Check out these goods.
+- You'll regret not stopping when you're in the thick of it.
+- I've got all the best goods here.
+
+17
+00:10:19,836 --> 00:10:22,536
+[Carja merchants]
+- You'll like what I have for sale, I promise.
+- Don't pass up these goods.
+
+18
+00:10:24,292 --> 00:10:26,292
+[Carja merchants]
+- Fine goods for a fair price.
+- Check out these wares.
+
+19
+00:12:34,653 --> 00:12:37,529
+[Carja merchant]
+You'll regret not stopping when you're in the thick of it.
+
+20
+00:12:37,529 --> 00:12:38,804
+[Carja merchants]
+- Come take a look.
+- You won't find better wares.
+
+21
+00:12:38,804 --> 00:12:40,929
+[Carja merchant]
+Fine goods for a fair price.
+
+22
+00:12:40,929 --> 00:12:43,003
+[Carja merchant]
+Won't cost you a shard just to look.
+
+23
+00:12:46,250 --> 00:12:47,531
+[Carja merchant]
+Only the finest goods here.
+
+24
+00:12:47,531 --> 00:12:51,389
+[Carja outlander]
+Dervahl stormed the Palace and still he lives?
+
+25
+00:12:55,940 --> 00:12:59,470
+[Carja outlander]
+I bet those traitorous Oseram will just conveniently move…
+
+26
+00:13:08,039 --> 00:13:11,450
+[Oseram worker]
+I wasn't sure about the Sundom at first, but it's growing on me.
+
+27
+00:13:14,039 --> 00:13:15,669
+[Fernund]
+Oh, no!
+
+28
+00:13:22,330 --> 00:13:28,068
+[Fernund, thumping on locked door]
+Let me in, by fire and spit, let me in!
+
+29
+00:13:33,809 --> 00:13:36,234
+Oh Fernund, our deal is off.
+
+30
+00:13:36,234 --> 00:13:37,549
+Oh it's you.
+
+31
+00:13:38,269 --> 00:13:39,759
+How about a new deal?
+
+32
+00:13:39,840 --> 00:13:44,490
+You could just cut off my finger, or my hand, or my left arm.
+
+33
+00:13:44,490 --> 00:13:46,350
+But that's my final offer.
+
+34
+00:13:46,440 --> 00:13:48,250
+Oh, it won't be enough.
+
+35
+00:13:48,450 --> 00:13:49,450
+You wouldn't.
+
+36
+00:13:49,490 --> 00:13:52,149
+Not here, not in front of everyone?
+
+37
+00:13:52,440 --> 00:13:54,830
+No one's gonna lift a finger to stop me.
+
+38
+00:13:55,019 --> 00:13:57,979
+You just led a group of men to their deaths, remember?
+
+39
+00:13:58,139 --> 00:13:59,549
+They were bad men.
+
+40
+00:13:59,570 --> 00:14:01,490
+I did a service really.
+
+41
+00:14:01,490 --> 00:14:02,379
+You did.
+
+42
+00:14:02,379 --> 00:14:03,750
+You did the service.
+
+43
+00:14:04,289 --> 00:14:06,990
+I'll make sure it never happens again.
+
+44
+00:14:07,039 --> 00:14:08,649
+I'll hold you to it.
+
+45
+00:14:08,679 --> 00:14:12,913
+Understood. You won't hear from any of us ever again.
+
+46
+00:14:13,210 --> 00:14:14,549
+I'd better not.
+
+47
+00:15:35,740 --> 00:15:37,649
+[Carja guard]
+It's her, the hero!
+
+48
+00:16:43,639 --> 00:16:45,653
+[Carja guard]
+He's guilty, he should pay!
+
+49
+00:17:00,340 --> 00:17:03,059
+[Carja guard]
+There are no shadows under the noonday sun…
+
+50
+00:19:22,700 --> 00:19:24,009
+Just stay out of their way for now.
+
+51
+00:21:25,631 --> 00:21:27,181
+Now they're hunting me.
+
+52
+00:22:51,284 --> 00:22:52,624
+[whistle]
+
+53
+00:24:02,529 --> 00:24:05,194
+Maker's End, not much farther now.
+
+54
+00:24:05,650 --> 00:24:09,833
+Olin said he found an image of the woman I resemble on an ancient device.
+
+55
+00:24:10,140 --> 00:24:17,279
+If she's my mother, why would there be traces of her
+all the way out here, so far from Nora land?
+
+56
+00:24:17,940 --> 00:24:20,169
+I don't get it. Who is she?
+
+57
+00:24:20,169 --> 00:24:23,549
+[voice from Focus]
+Her name is Elisabet Sobeck.
+
+58
+00:24:24,539 --> 00:24:27,500
+[Aloy]
+You! Spying through my Focus again?
+
+59
+00:24:30,599 --> 00:24:33,039
+[Aloy]
+Well, go on, what do you know about her?
+
+60
+00:24:33,329 --> 00:24:36,034
+[voice from Focus]
+Stay on your present course and before long
+
+61
+00:24:36,034 --> 00:24:39,549
+[voice from Focus]
+you'll know her as well as I do. Maybe better.
+
+62
+00:24:39,839 --> 00:24:41,049
+[voice from Focus]
+But be wary.
+
+63
+00:24:41,869 --> 00:24:44,268
+[voice from Focus]
+Maker's End is crawling with Eclipse troops.
+
+64
+00:24:44,268 --> 00:24:48,898
+[voice from Focus]
+To help you deal with them, I've left some useful equipment just outside the ruins.
+
+65
+00:24:49,319 --> 00:24:51,489
+[voice from Focus]
+Your Focus will show the location.
+
+66
+00:24:56,339 --> 00:24:58,839
+Who is he and how does he know these things?
+
+67
+00:24:58,839 --> 00:25:01,160
+He said "Elisabet Sobeck".
+
+68
+00:25:01,640 --> 00:25:03,190
+What kind of name is that?
+
+69
+00:25:21,405 --> 00:25:26,278
+[Nora Brave]
+So many dead. We'll all be dead, soon enough.
+
+70
+00:26:31,079 --> 00:26:33,349
+I saw some of the places you'd been.
+
+71
+00:26:33,740 --> 00:26:36,777
+The new settlers have no appreciation of craft.
+
+72
+00:26:36,777 --> 00:26:38,859
+They'd already piled your work in a ditch.
+
+73
+00:26:39,240 --> 00:26:41,631
+But I knew the signs to look for.
+
+74
+00:26:41,631 --> 00:26:45,400
+The scrabble in the dirt, those surprised splashes.
+
+75
+00:26:45,920 --> 00:26:47,833
+I did tell you we'd meet again.
+
+76
+00:26:48,180 --> 00:26:50,950
+Nil, still hunting bandits?
+
+77
+00:26:51,000 --> 00:26:52,239
+Oh yes.
+
+78
+00:26:52,240 --> 00:26:55,783
+I've been sharpening my blade, anticipating the scent of the fight.
+
+79
+00:26:56,000 --> 00:26:59,432
+Don't get me wrong, these scum are odorous.
+
+80
+00:26:59,789 --> 00:27:05,059
+A little panic and desperation really sets it off though, like an incense.
+
+81
+00:27:05,440 --> 00:27:07,549
+So what's your knife called?
+
+82
+00:27:07,700 --> 00:27:09,660
+Why would someone name a knife?
+
+83
+00:27:09,940 --> 00:27:11,660
+So much for small talk.
+
+84
+00:27:11,839 --> 00:27:13,099
+Are you ready?
+
+85
+00:27:13,450 --> 00:27:16,349
+I didn't need your aid before, and I still don't.
+
+86
+00:27:16,400 --> 00:27:21,093
+Now that I've seen what you can do, you don't get another camp for free.
+
+87
+00:27:21,240 --> 00:27:24,369
+Think of this as a friendly competition.
+
+88
+00:27:24,784 --> 00:27:26,599
+Huh, "friendly"?
+
+89
+00:28:53,039 --> 00:28:54,918
+[Bandit]
+Right here, you …
+
+90
+00:29:11,539 --> 00:29:12,619
+Calm.
+
+91
+00:30:34,871 --> 00:30:38,619
+Ah, better. No more time to recover.
+
+92
+00:32:18,240 --> 00:32:19,769
+Need to keep my kit dry.
+
+93
+00:33:24,809 --> 00:33:26,049
+They're still looking for me.
+
+94
+00:33:29,084 --> 00:33:30,549
+[Bandit]
+She's up on high.
+
+95
+00:33:38,800 --> 00:33:40,289
+[Bandit]
+Where'd you go?
+
+96
+00:34:10,440 --> 00:34:12,193
+[Bandit]
+We're dead too if you don't fight.
+
+97
+00:34:12,193 --> 00:34:14,514
+[Bandit]
+Don't move, I got… ugh!
+
+98
+00:34:41,239 --> 00:34:44,638
+[Carja villager]
+We're letting the Oseram decide what to do with him?
+
+99
+00:34:44,639 --> 00:34:47,193
+[Carja villager]
+But he tried to kill our Sun-King!
+
+100
+00:35:13,059 --> 00:35:17,422
+[Carja guard]
+The Oseram that tried to kill our Sun-King? Traitors, the whole tribe of them.
+
+101
+00:35:18,940 --> 00:35:19,960
+Alright.
+
+102
+00:36:30,130 --> 00:36:33,369
+[Carja guard]
+We will never be able to repay you for the life of our Sun-King.
+
+103
+00:36:48,730 --> 00:36:51,746
+[Carja villager]
+I'll wager Erend is behind Dervahl's extradition.
+
+104
+00:36:51,746 --> 00:36:54,352
+[Carja villager]
+Oseram stick together, after all.
+
+105
+00:36:55,829 --> 00:36:58,515
+[Carja villager]
+How did he get so close to the Sun-King?
+
+106
+00:36:58,515 --> 00:37:02,208
+[Carja villager]
+The Oseram guard will be blaming their shadows for their mistakes.
+
+107
+00:37:03,130 --> 00:37:04,340
+No space.
+
+108
+00:37:04,340 --> 00:37:09,434
+[Carja villager]
+Dervahl tried to kill the Sun-King, unbelievable!
+
+109
+00:38:43,730 --> 00:38:46,755
+Remember how the blood pounded in your ears?
+
+110
+00:38:46,755 --> 00:38:49,539
+They'll ring later, in the calm.
+
+111
+00:38:50,159 --> 00:38:53,836
+It's a call to arms from your inner desires.
+
+112
+00:38:54,242 --> 00:38:55,820
+Or a cry for help.
+
+113
+00:38:55,969 --> 00:38:57,388
+I wouldn't fight it.
+
+114
+00:38:57,389 --> 00:38:59,460
+So you used to be a soldier.
+
+115
+00:38:59,519 --> 00:39:01,099
+You fought for the Carja?
+
+116
+00:39:01,260 --> 00:39:05,780
+For them, against them, an empire always finds its wars.
+
+117
+00:39:05,780 --> 00:39:07,219
+You can't be picky.
+
+118
+00:39:07,280 --> 00:39:09,908
+The new king Avad saw things differently.
+
+119
+00:39:09,909 --> 00:39:12,739
+Called an investigation into war crimes.
+
+120
+00:39:12,750 --> 00:39:14,949
+Aren't all wars a crime to someone?
+
+121
+00:39:14,949 --> 00:39:17,389
+Still, I raised my hand and volunteered.
+
+122
+00:39:17,789 --> 00:39:21,159
+You volunteered to investigate?
+
+123
+00:39:21,300 --> 00:39:23,829
+No, I volunteered my confession.
+
+124
+00:39:24,010 --> 00:39:26,739
+No sense wasting time with an investigation.
+
+125
+00:39:27,019 --> 00:39:31,332
+You know of those places, lonely places, where people once were?
+
+126
+00:39:31,510 --> 00:39:34,059
+Now just a hole cut in the world.
+
+127
+00:39:34,719 --> 00:39:37,940
+Chances are I was there before.
+
+128
+00:39:38,519 --> 00:39:41,932
+What were these things you did, Nil?
+
+129
+00:39:41,932 --> 00:39:45,010
+Acceptable things under the circumstances.
+
+130
+00:39:45,305 --> 00:39:47,440
+Huh, acceptable to who?
+
+131
+00:39:47,480 --> 00:39:49,269
+I don't make decisions.
+
+132
+00:39:49,630 --> 00:39:52,530
+Let's just say the rules of engagement suited me.
+
+133
+00:39:52,860 --> 00:39:57,608
+But rules are important, a structure, cage.
+
+134
+00:39:58,250 --> 00:40:01,250
+I was sent to Sunstone Rock for two years.
+
+135
+00:40:01,639 --> 00:40:03,019
+The trade was fair.
+
+136
+00:40:03,409 --> 00:40:05,849
+Is this some kind of Carja ritual?
+
+137
+00:40:05,909 --> 00:40:10,378
+Our new Sun-King is a believer in rehabilitation, as am I.
+
+138
+00:40:10,380 --> 00:40:17,079
+In the heat of a stone cell in the dark, I learned to focus on what was truly important to me.
+
+139
+00:40:17,190 --> 00:40:19,019
+Have you found a new partner yet?
+
+140
+00:40:19,090 --> 00:40:20,900
+I thought we were partners.
+
+141
+00:40:21,010 --> 00:40:23,619
+I have my own roads to follow, Nil.
+
+142
+00:40:23,739 --> 00:40:26,355
+And they seem to lead back to bandits.
+
+143
+00:40:26,355 --> 00:40:29,600
+That works for me, I'm not suggesting a Carja wedding.
+
+144
+00:40:29,610 --> 00:40:32,170
+I'm never lonely where there's killing to be done.
+
+145
+00:40:32,360 --> 00:40:33,690
+Time to move on.
+
+146
+00:40:33,710 --> 00:40:36,732
+A brief encounter for us, but the end for them.
+
+147
+00:40:36,732 --> 00:40:39,667
+They were squalid lives anyway.
+
+148
+00:41:47,010 --> 00:41:51,550
+[Carja guard]
+You stopped that assassin. Walk in light for your bravery.
+
+149
+00:42:04,670 --> 00:42:08,920
+[Carja villager]
+The Oseram that tried to kill our Sun-King? Traitors, the whole tribe of them.
+
+150
+00:42:32,250 --> 00:42:35,719
+[Carja villager]
+…conveniently moved Dervahl in transport to Mainspring.
+

@@ -1,0 +1,2028 @@
+1
+00:00:21,339 --> 00:00:26,050
+HELIS: Oh, speaking of sacrifice, I forgot to tell you.
+
+2
+00:00:26,739 --> 00:00:32,482
+HELIS: After you crashed the Eclipse network, I sent messengers into the east.
+
+3
+00:00:32,482 --> 00:00:37,149
+To rally the forces there and mount an invasion of the "sacred land".
+
+4
+00:00:38,270 --> 00:00:40,670
+I ordered every Nora killed.
+
+5
+00:00:42,039 --> 00:00:48,740
+I was hoping to catch you there, but, alas, it all seems to have been unnecessary.
+
+6
+00:00:48,740 --> 00:00:53,133
+Why butcher dozens of innocents for no gain? It's a waste of effort.
+
+7
+00:00:53,140 --> 00:00:56,634
+You're right. I won't even be there to enjoy it.
+
+8
+00:00:56,634 --> 00:00:58,990
+The Nora cast me out at birth.
+
+9
+00:00:58,990 --> 00:01:01,149
+You're not hurting me if you hurt them.
+
+10
+00:01:01,149 --> 00:01:04,827
+Really? Then it makes no difference one way or another.
+
+11
+00:01:10,939 --> 00:01:12,049
+More Eclipse.
+
+12
+00:01:13,040 --> 00:01:14,789
+It's a Corrupted Thunderjaw, alright.
+
+13
+00:01:14,790 --> 00:01:17,434
+The survivors must be holed up in the mountain.
+
+14
+00:01:17,434 --> 00:01:19,788
+If the tunnel collapses, they'll be buried.
+
+15
+00:01:20,379 --> 00:01:22,489
+And I'll never reach the hatch.
+
+16
+00:01:29,750 --> 00:01:32,290
+ECLIPSE: That's right, bring down the mountain!
+
+17
+00:01:41,430 --> 00:01:44,300
+SONA: Braves! To Aloy's side, now!
+
+18
+00:01:45,003 --> 00:01:46,903
+VARL: For Aloy!
+
+19
+00:01:46,903 --> 00:01:51,411
+SONA: For the Goddess!
+BRAVES: For All-Mother! Raaa!
+
+20
+00:01:52,715 --> 00:01:56,540
+ALOY: Varl, and Sona. They're still alive.
+
+21
+00:02:07,569 --> 00:02:10,843
+BRAVE: Faithless and forsaken, you will die!
+
+22
+00:02:22,534 --> 00:02:25,734
+BRAVE: The corruption will not take hold!
+
+23
+00:02:37,699 --> 00:02:40,289
+BRAVE: Back to the tainted earth, demon!
+
+24
+00:02:52,696 --> 00:02:54,700
+BRAVE: May the Goddess remember!
+
+25
+00:03:07,688 --> 00:03:10,931
+BRAVE: Faithless and forsaken, you will die!
+
+26
+00:03:22,840 --> 00:03:24,357
+SONA: Destroy it!
+
+27
+00:03:37,727 --> 00:03:40,000
+BRAVE: Back to the tainted earth, demon!
+
+28
+00:03:52,708 --> 00:03:55,775
+BRAVE: The corruption will not take hold!
+
+29
+00:04:08,098 --> 00:04:10,000
+SONA: Strike it down!
+
+30
+00:04:11,226 --> 00:04:12,953
+ALOY: Gotta switch weapons.
+
+31
+00:04:22,661 --> 00:04:24,661
+BRAVE: May the Goddess remember!
+
+32
+00:04:38,700 --> 00:04:40,700
+BRAVE: May the Goddess remember!
+
+33
+00:04:54,160 --> 00:04:56,779
+SONA: Bring down the demon!
+
+34
+00:05:03,010 --> 00:05:05,010
+ALOY: FINISH THEM!
+
+35
+00:05:23,040 --> 00:05:24,343
+BRAVE: We did it!
+
+36
+00:05:24,343 --> 00:05:27,497
+[cheering]
+VARL: Aloy did it, we only helped.
+
+37
+00:05:27,497 --> 00:05:29,184
+[cheering]
+BRAVE: I thought we would die.
+
+38
+00:06:08,399 --> 00:06:12,139
+VARL: Aloy, your deeds re-enact the old stories.
+
+39
+00:06:12,139 --> 00:06:15,250
+VARL: Another metal devil struck down upon the slopes.
+
+40
+00:06:15,290 --> 00:06:19,269
+VARL: If you hadn't returned, the tribe would have been lost.
+
+41
+00:06:19,610 --> 00:06:21,850
+VARL: You saved the tribe.
+
+42
+00:06:22,199 --> 00:06:25,003
+Did what no Brave or War-Chief could do.
+
+43
+00:06:25,250 --> 00:06:27,300
+I'm glad to see you're alright Varl.
+
+44
+00:06:28,350 --> 00:06:30,399
+You are alright?
+
+45
+00:06:30,410 --> 00:06:34,120
+Bruises pale, bones heal.
+
+46
+00:06:34,120 --> 00:06:37,062
+Don't give me a hunting song, Varl. Are you okay?
+
+47
+00:06:37,310 --> 00:06:41,140
+My body aches but it's nothing that will keep me from fighting.
+
+48
+00:06:41,434 --> 00:06:46,067
+So much death; is the killing over?
+
+49
+00:06:46,067 --> 00:06:51,839
+For now, but this was just one battle, Varl. There are more to come.
+
+50
+00:06:51,839 --> 00:06:52,850
+I see.
+
+51
+00:06:53,819 --> 00:06:58,765
+So long as we have you to fight with us, I suppose we'll make do.
+
+52
+00:06:59,040 --> 00:07:01,250
+How many survived the attack?
+
+53
+00:07:01,310 --> 00:07:05,430
+Nearly all the Matriarchs and many families, Goddess be praised.
+
+54
+00:07:05,430 --> 00:07:09,250
+But Braves? Just a few, and most of them are wounded.
+
+55
+00:07:09,740 --> 00:07:13,990
+Never before has an enemy stabbed the heart of our people like this.
+
+56
+00:07:14,139 --> 00:07:19,069
+Even the Carja, in all their Red Raids, never broke through to the Embrace.
+
+57
+00:07:19,209 --> 00:07:23,449
+Well, this enemy may have broken through, but they never got back out.
+
+58
+00:07:23,639 --> 00:07:25,239
+We made sure of that.
+
+59
+00:07:25,240 --> 00:07:26,790
+They struck from the east.
+
+60
+00:07:26,939 --> 00:07:29,209
+Our sentinels saw the killers coming.
+
+61
+00:07:29,529 --> 00:07:34,949
+Said that beside them marched Deathbringers
+and Corruptors and other machines driven mad.
+
+62
+00:07:35,639 --> 00:07:39,019
+We took ground, met them with clouds of arrows.
+
+63
+00:07:39,139 --> 00:07:42,050
+Some fell, but they kept coming.
+
+64
+00:07:42,439 --> 00:07:47,250
+Finally, we withdrew to the gates of the Embrace to make our stand.
+
+65
+00:07:47,490 --> 00:07:49,149
+But they were too much for us.
+
+66
+00:07:49,399 --> 00:07:53,100
+Those who survived fell back to the mountain.
+
+67
+00:07:53,639 --> 00:07:56,350
+By law, only Matriarchs are allowed inside.
+
+68
+00:07:56,439 --> 00:08:00,609
+It was Teersa who broke the taboo, ordered the tribe into the mountain for safety.
+
+69
+00:08:01,240 --> 00:08:03,332
+Lansra, well, she didn't agree.
+
+70
+00:08:03,810 --> 00:08:06,867
+But I don't think anyone heard her over all the screams and shouting.
+
+71
+00:08:06,867 --> 00:08:09,452
+Teersa's decision saved lives.
+
+72
+00:08:09,452 --> 00:08:14,519
+Good for her, common sense isn't always so common around here.
+
+73
+00:08:14,519 --> 00:08:16,649
+The Matriarchs will be eager to see you.
+
+74
+00:08:16,839 --> 00:08:19,834
+I'm sure, but I didn't come here for them.
+
+75
+00:08:19,889 --> 00:08:22,149
+Then what for?
+
+76
+00:08:22,290 --> 00:08:23,379
+You will see.
+
+77
+00:09:01,440 --> 00:09:06,957
+BRAVE: My sons. Oh, Goddess, my poor boys.
+
+78
+00:09:21,902 --> 00:09:26,284
+[coughing]
+
+79
+00:09:27,740 --> 00:09:30,663
+NORA: How did she know? How is she here?
+
+80
+00:09:40,039 --> 00:09:41,250
+RESH: You.
+
+81
+00:09:43,039 --> 00:09:46,534
+Hello, Resh. Still guarding the latrine?
+
+82
+00:09:46,534 --> 00:09:48,300
+[growls]
+
+83
+00:09:51,389 --> 00:09:52,350
+ALOY: Teb?!
+
+84
+00:09:55,080 --> 00:09:59,113
+TEB: Aloy! Oh, you've returned!
+
+85
+00:09:59,440 --> 00:10:02,689
+Have you travelled far as a Seeker?
+
+86
+00:10:03,039 --> 00:10:05,600
+You wouldn't believe the things I've seen, Teb.
+
+87
+00:10:05,600 --> 00:10:08,649
+I'm glad to see you.
+
+88
+00:10:08,919 --> 00:10:12,090
+Your injuries, are they serious?
+
+89
+00:10:13,169 --> 00:10:14,750
+A gash or two.
+
+90
+00:10:15,771 --> 00:10:19,240
+Nothing I couldn't sew back together with a needle and thread.
+
+91
+00:10:20,440 --> 00:10:23,950
+Guess being a Stitcher came in handy in combat after all, huh?
+
+92
+00:10:24,000 --> 00:10:27,679
+[laughs] Yes, I suppose it did.
+
+93
+00:10:30,450 --> 00:10:35,350
+TEB: You should speak to the High Matriarchs, they're waiting.
+
+94
+00:10:49,029 --> 00:10:52,760
+YAN: Aloy, I don't know how you survived out there.
+
+95
+00:10:52,760 --> 00:10:55,806
+YAN: Not even Nakoa could have done that.
+
+96
+00:10:55,806 --> 00:11:01,759
+YAN: Things were easier for a time, once I knew Nakoa was safe.
+
+97
+00:11:02,409 --> 00:11:03,850
+YAN: But then this happened.
+
+98
+00:11:05,240 --> 00:11:09,436
+YAN: The goddess must be angry with us, Aloy, for our sins.
+
+99
+00:11:13,500 --> 00:11:15,250
+ARANA: Aloy, remember us?
+
+100
+00:11:17,059 --> 00:11:19,149
+I brought Mother's spear with us.
+
+101
+00:11:19,360 --> 00:11:21,739
+Everything else we had to leave behind.
+
+102
+00:11:21,740 --> 00:11:25,100
+Glad to see you have it, I know what it means to you.
+
+103
+00:11:25,169 --> 00:11:28,100
+I hope the enhancement to your spear has proved useful.
+
+104
+00:11:28,240 --> 00:11:30,867
+Oh, yes. Many times over.
+
+105
+00:11:36,429 --> 00:11:39,510
+OLARA: Aloy, you've returned.
+
+106
+00:11:40,029 --> 00:11:45,129
+OLARA: I brought Brom here when the invaders attacked, we barely made it.
+
+107
+00:11:45,129 --> 00:11:51,693
+OLARA: Teersa declared all Nora
+welcome to take shelter in the Sacred Mountain, even outcasts.
+
+108
+00:11:52,162 --> 00:11:57,972
+OLARA: Brom has been having some difficulty,
+but he'll do better now that the explosions have stopped.
+
+109
+00:12:05,649 --> 00:12:08,490
+TEERSA: Aloy, you've come back.
+
+110
+00:12:08,490 --> 00:12:10,559
+JEZZA: The Seeker has returned.
+
+111
+00:12:11,399 --> 00:12:17,303
+NORA: All-Mother, bless this day
+and guide me that we would live on in your memory.
+
+112
+00:12:18,340 --> 00:12:22,444
+JUN: The outcast girl. You taught me a lesson.
+
+113
+00:12:23,480 --> 00:12:27,950
+JUN: I've remembered what you said many times, I think I'm better for it.
+
+114
+00:12:28,750 --> 00:12:30,894
+JUN: I was lucky to make it here alive.
+
+115
+00:12:31,330 --> 00:12:33,649
+JUN: The invasion was terrifying to behold.
+
+116
+00:12:34,509 --> 00:12:36,820
+JUN: I brought extra stores of Dreamwillow.
+
+117
+00:12:39,747 --> 00:12:41,429
+JUN: May the Goddess watch over you.
+
+118
+00:12:41,430 --> 00:12:43,860
+NORA: The machines of the faithless slaughtered our people.
+
+119
+00:12:43,860 --> 00:12:45,990
+FIA: Aloy! I'm glad to see you again.
+
+120
+00:12:47,620 --> 00:12:51,247
+FIA: The Dreamwillow you recovered
+has comforted many who were wounded in the attack.
+
+121
+00:12:52,549 --> 00:12:54,049
+FIA: May the Goddess protect.
+
+122
+00:12:56,039 --> 00:12:58,629
+TEERSA: Come, speak to us.
+
+123
+00:12:58,629 --> 00:13:02,757
+LANSRA: Foolish woman. You welcome a curse.
+
+124
+00:13:02,929 --> 00:13:05,599
+JEZZA: Come, Seeker, we have much to discuss.
+
+125
+00:13:05,940 --> 00:13:09,179
+LANSRA: Her very presence here is a blasphemy.
+
+126
+00:13:12,440 --> 00:13:15,658
+TEERSA: So you have finally returned.
+
+127
+00:13:15,658 --> 00:13:16,514
+LANSRA: Pfft!
+
+128
+00:13:16,514 --> 00:13:21,563
+She not only returned but fought her way through many enemies to reach us.
+
+129
+00:13:21,563 --> 00:13:24,470
+Outside, she brought low a Corrupted Thunderjaw.
+
+130
+00:13:24,470 --> 00:13:26,079
+She lifted the siege.
+
+131
+00:13:26,080 --> 00:13:28,339
+JEZZA: How was this done?
+
+132
+00:13:28,340 --> 00:13:30,862
+By the will of All-Mother.
+
+133
+00:13:31,940 --> 00:13:35,200
+Have you returned to speak with the goddess, Aloy?
+
+134
+00:13:35,210 --> 00:13:39,170
+Um, yes, I guess you could say that.
+
+135
+00:13:39,539 --> 00:13:41,125
+I think it'll work this time.
+
+136
+00:13:41,125 --> 00:13:45,094
+Sisters! Surely we cannot permit this!
+
+137
+00:13:45,094 --> 00:13:49,502
+Because of her, our tribe teeters upon extinction.
+
+138
+00:13:49,502 --> 00:13:53,240
+What if she has come to wake her father, the Metal Devil?
+
+139
+00:13:53,240 --> 00:13:56,089
+She means to finish our destruction!
+
+140
+00:13:56,090 --> 00:13:58,249
+We must stop her!
+
+141
+00:13:58,250 --> 00:14:00,960
+LANSRA: She is a curse made flesh.
+
+142
+00:14:01,080 --> 00:14:02,798
+LANSRA: She will be the end.
+
+143
+00:14:02,799 --> 00:14:06,649
+ALOY: I fought my way past an army while you cowered in this cave.
+
+144
+00:14:06,820 --> 00:14:08,750
+You really think you can stop me?
+
+145
+00:14:09,340 --> 00:14:11,179
+It's time to step aside.
+
+146
+00:14:11,700 --> 00:14:13,179
+I'm not gonna hurt you.
+
+147
+00:14:14,009 --> 00:14:20,090
+If there's anything I've learned since the Proving,
+it's that there are bigger evils in this world than you.
+
+148
+00:14:24,240 --> 00:14:26,340
+COMPUTER: Hold for Identiscan.
+
+149
+00:14:29,740 --> 00:14:32,960
+COMPUTER: Error. Alpha Registry corrupted.
+
+150
+00:14:35,139 --> 00:14:37,919
+COMPUTER: Correction, Alpha Registry restored.
+
+151
+00:14:38,811 --> 00:14:42,735
+COMPUTER: Genetic identity confirmed. Entry authorised.
+
+152
+00:14:42,735 --> 00:14:46,450
+COMPUTER: Greetings Doctor Sobeck, you are cleared to proceed.
+
+153
+00:15:24,456 --> 00:15:28,018
+COMPUTER: Welcome to Eleuthia cradle 9, brood 1.
+
+154
+00:15:34,740 --> 00:15:36,624
+SYLENS, THROUGH FOCUS: I see you're inside.
+
+155
+00:15:36,624 --> 00:15:38,480
+ALOY: Figured I might be hearing from you.
+
+156
+00:15:38,929 --> 00:15:40,230
+SYLENS: Shall we begin?
+
+157
+00:15:40,629 --> 00:15:41,990
+ALOY: I never stopped.
+
+158
+00:17:02,740 --> 00:17:07,119
+ALOY: So these are artificial wombs?
+
+159
+00:17:07,119 --> 00:17:10,950
+SYLENS: The mothers of a new generation, hundreds of years ago.
+
+160
+00:17:11,150 --> 00:17:12,259
+ALOY: And me.
+
+161
+00:17:22,490 --> 00:17:24,067
+ALOY: So this was it.
+
+162
+00:17:24,067 --> 00:17:26,099
+SYLENS: Where you were born.
+
+163
+00:17:26,099 --> 00:17:29,380
+ALOY: But … but why?
+
+164
+00:18:52,630 --> 00:18:54,318
+MULTISERVITOR: Another day has passed.
+
+165
+00:18:54,319 --> 00:18:56,660
+GIRL: You mean the lights got dim.
+
+166
+00:18:56,900 --> 00:18:58,828
+BOY: I don't want to sleep, Mother.
+
+167
+00:18:58,829 --> 00:19:02,549
+MULTISERVITOR: I know. But it is time to get some rest.
+
+168
+00:19:02,740 --> 00:19:06,401
+BOY: No, I'm king today, what I say goes!
+
+169
+00:19:06,401 --> 00:19:10,009
+GIRL: I want to see the real sun, not lights and pictures.
+
+170
+00:19:10,009 --> 00:19:12,320
+MULTISERVITOR: You will in time, children.
+
+171
+00:19:12,320 --> 00:19:17,963
+CHILDREN: In time! In time! In time! In time!
+
+172
+00:19:17,963 --> 00:19:21,429
+GIRL: [screams]
+
+173
+00:20:11,470 --> 00:20:14,450
+ALOY: These look like cribs.
+
+174
+00:20:14,740 --> 00:20:17,566
+SYLENS: The cradles of a Cradle facility.
+
+175
+00:20:17,566 --> 00:20:24,598
+ALOY: And those things, the–the multiservitors, they took care of them.
+
+176
+00:20:25,299 --> 00:20:27,220
+SYLENS: There was no-one else.
+
+177
+00:21:48,430 --> 00:21:51,759
+MALE: "Someday"? That's what you always say. 
+
+178
+00:21:51,759 --> 00:21:53,808
+LENA: We want it now!
+
+179
+00:21:53,809 --> 00:21:55,745
+MALE: It's big down there!
+
+180
+00:21:55,745 --> 00:21:57,063
+LENA: Now, Father!
+
+181
+00:21:57,063 --> 00:22:00,259
+MULTISERVITOR: Children, that area is not yet available.
+
+182
+00:22:00,440 --> 00:22:01,368
+MALE: Get him!
+
+183
+00:22:01,369 --> 00:22:03,880
+MULTISERVITOR: Physical aggression detected.
+
+184
+00:22:04,640 --> 00:22:08,027
+MULTISERVITOR: Physical aggression is not permitted.
+
+185
+00:22:08,027 --> 00:22:09,784
+LENA: Except yours.
+
+186
+00:22:09,784 --> 00:22:11,507
+MALE: Damn sentinels.
+
+187
+00:22:11,507 --> 00:22:13,325
+MULTISERVITOR: Children, may I be of assistance?
+
+188
+00:22:13,325 --> 00:22:15,561
+MALE: Go away, healer.
+
+189
+00:22:15,561 --> 00:22:17,577
+MULTISERVITOR: Lena, you have suffered mild bruising.
+
+190
+00:22:17,577 --> 00:22:19,248
+LENA: Go away!
+
+191
+00:22:40,130 --> 00:22:43,970
+So this is where they lived?
+
+192
+00:22:44,640 --> 00:22:48,748
+It's a mess, everything's broken or painted on.
+
+193
+00:22:49,039 --> 00:22:51,160
+How long did they live here?
+
+194
+00:23:20,347 --> 00:23:23,073
+MULTISERVITOR: Children, let's run and jump and blow off steam!
+
+195
+00:23:23,073 --> 00:23:24,639
+FEMALE: Leave us alone, Father.
+
+196
+00:23:24,640 --> 00:23:27,569
+MULTISERVITOR: After what just happened I can't leave you two alone.
+
+197
+00:23:27,569 --> 00:23:28,802
+MULTISERVITOR: You broke community rules.
+
+198
+00:23:28,802 --> 00:23:30,650
+MALE: Just let us talk then.
+
+199
+00:23:30,839 --> 00:23:32,186
+FEMALE: Go away!
+
+200
+00:23:32,186 --> 00:23:34,923
+MULTISERVITOR: I'm sorry children, but I must provide supervision.
+
+201
+00:23:34,923 --> 00:23:36,869
+FEMALE: You're not even a person!
+
+202
+00:23:36,869 --> 00:23:41,049
+MULTISERVITOR: You sound frustrated. Let's run and jump and blow off steam!
+
+203
+00:24:21,410 --> 00:24:23,868
+MULTISERVITOR: I have no choice but to release you.
+
+204
+00:24:23,869 --> 00:24:25,129
+FEMALE 1: But why?
+
+205
+00:24:25,130 --> 00:24:27,239
+MULTISERVITOR: There is no food here anymore.
+
+206
+00:24:27,240 --> 00:24:29,368
+MALE 2: But there's food out there?
+
+207
+00:24:29,369 --> 00:24:30,685
+MULTISERVITOR: We don't know for sure.
+
+208
+00:24:30,685 --> 00:24:32,085
+MALE 1: Come on, let's go!
+
+209
+00:24:32,085 --> 00:24:33,449
+FEMALE 1: I don't know.
+
+210
+00:24:33,450 --> 00:24:36,000
+MALE 2: Mother, can we come back, if we're cold?
+
+211
+00:24:36,000 --> 00:24:38,969
+MULTISERVITOR: I'm sorry, but that won't be possible.
+
+212
+00:24:38,970 --> 00:24:43,269
+MULTISERVITOR: You will have to support yourselves now,
+and take care of each other.
+
+213
+00:24:43,269 --> 00:24:44,798
+FEMALE 2: What will happen to you?
+
+214
+00:24:44,799 --> 00:24:49,509
+MULTISERVITOR: I will stay here and sleep and remember all of you.
+
+215
+00:24:49,509 --> 00:24:51,609
+FEMALE 1: What will happen to us?
+
+216
+00:24:52,099 --> 00:24:55,349
+MULTISERVITOR: You will be brave and you will learn.
+
+217
+00:24:57,140 --> 00:25:01,915
+ALOY: They were trapped here their whole lives.
+
+218
+00:25:01,915 --> 00:25:05,331
+SYLENS: In plain view of luxurious space.
+
+219
+00:25:05,690 --> 00:25:07,200
+ALOY: What-what went wrong?
+
+220
+00:25:07,200 --> 00:25:09,796
+ALOY: Why couldn't they access the other areas?
+
+221
+00:25:09,796 --> 00:25:13,192
+SYLENS: Unknown. But you won't have that problem.
+
+222
+00:25:35,539 --> 00:25:38,189
+MALE CHILD: Blue is the colour of the sky.
+
+223
+00:25:38,190 --> 00:25:40,644
+FEMALE CHILD: White is the colour of clouds.
+
+224
+00:25:40,644 --> 00:25:43,389
+MALE CHILD: Yellow is the colour of the sun.
+
+225
+00:25:43,390 --> 00:25:45,818
+FEMALE CHILD: Green is the colour of grass.
+
+226
+00:25:45,819 --> 00:25:49,009
+MALE CHILD: Flowers can be any colour, take a look.
+
+227
+00:25:49,009 --> 00:25:52,368
+FEMALE CHILD: Bees are yellow and black and they love flowers.
+
+228
+00:25:52,369 --> 00:25:59,595
+FEMALE CHILD: Here they come! Bzz, bzz, bzzzzz… [laughter]
+
+229
+00:26:14,700 --> 00:26:17,170
+ALOY: Looks like they didn't like this door very much.
+
+230
+00:26:17,500 --> 00:26:22,147
+SYLENS: It wouldn't open for them, of course they hated it.
+
+231
+00:26:22,679 --> 00:26:24,656
+COMPUTER: Hold for Identiscan.
+
+232
+00:26:25,920 --> 00:26:29,900
+COMPUTER: Genetic identity confirmed. Entry authorised.
+
+233
+00:26:29,900 --> 00:26:33,289
+COMPUTER: Welcome to the Lyceum, a place of learning.
+
+234
+00:26:34,799 --> 00:26:36,783
+COMPUTER: Greetings, Dr Sobeck.
+
+235
+00:26:39,839 --> 00:26:43,380
+ALOY: So what was this place, exactly?
+
+236
+00:26:43,589 --> 00:26:48,130
+SYLENS: The dream of Apollo, never realised.
+
+237
+00:26:48,130 --> 00:26:49,450
+ALOY: But why not?
+
+238
+00:27:05,710 --> 00:27:07,285
+COMPUTER: Welcome students.
+
+239
+00:27:07,285 --> 00:27:13,720
+COMPUTER: Please pick up a Focus device
+and place it on the side of your head, just behind your eye.
+
+240
+00:27:13,720 --> 00:27:18,049
+SYLENS: I had to dredge the pits of the world looking for Focuses to repair.
+
+241
+00:27:18,099 --> 00:27:21,930
+SYLENS: And here sat a trove, enreaching no-one.
+
+242
+00:27:27,990 --> 00:27:31,686
+SAMINA EBADJI: Hello, child, my name is Samina.
+
+243
+00:27:31,940 --> 00:27:33,899
+SAMINA EBADJI: Today is a big day.
+
+244
+00:27:33,900 --> 00:27:35,960
+SAMINA EBADJI: Your first day of school.
+
+245
+00:27:36,130 --> 00:27:41,590
+SAMINA EBADJI: There's so much for you to learn,
+so much promise and possibility.
+
+246
+00:27:41,590 --> 00:27:46,474
+COMPUTER: Alert. Malfunction. Apollo offline.
+
+247
+00:27:46,753 --> 00:27:48,683
+ALOY: "Apollo offline"?
+
+248
+00:27:48,683 --> 00:27:53,543
+SYLENS: You were right, Aloy, this is a graveyard.
+
+249
+00:27:53,543 --> 00:27:55,940
+SYLENS: The charnel house of knowledge.
+
+250
+00:27:55,940 --> 00:27:59,508
+SYLENS: What we might have achieved, had we not been denied it.
+
+251
+00:27:59,683 --> 00:28:04,140
+ALOY: Maybe there's a way to fix it. But it's not why I came here.
+
+252
+00:28:04,140 --> 00:28:05,650
+SYLENS: Of course.
+
+253
+00:28:05,650 --> 00:28:09,850
+SYLENS: What's the whole of human knowledge
+next to the origin of one girl?
+
+254
+00:28:09,850 --> 00:28:11,849
+SYLENS: Continue your search.
+
+255
+00:28:12,670 --> 00:28:13,720
+ALOY: I will.
+
+256
+00:28:18,240 --> 00:28:22,027
+SAMINA EBADJI: Hello, child, my name is Samina.
+
+257
+00:28:22,027 --> 00:28:24,159
+SAMINA EBADJI: Today is a big day.
+
+258
+00:28:24,160 --> 00:28:26,220
+SAMINA EBADJI: Your first day of school.
+
+259
+00:28:26,339 --> 00:28:31,759
+SAMINA EBADJI: There's so much for you to learn,
+so much promise and possibility.
+
+260
+00:28:31,759 --> 00:28:36,735
+COMPUTER: Alert. Malfunction. Apollo offline.
+
+261
+00:29:07,299 --> 00:29:11,210
+SAMINA EBADJI: Hello, child, my name is Samina.
+
+262
+00:29:11,210 --> 00:29:13,169
+SAMINA EBADJI: Today is a big day.
+
+263
+00:29:13,170 --> 00:29:15,230
+SAMINA EBADJI: Your first day of school.
+
+264
+00:29:15,420 --> 00:29:20,787
+SAMINA EBADJI: There's so much for you to learn,
+so much promise and possibility.
+
+265
+00:29:20,787 --> 00:29:25,794
+COMPUTER: Alert. Malfunction. Apollo offline.
+
+266
+00:29:35,258 --> 00:29:37,993
+COMPUTER: Brood 1 control accessed.
+
+267
+00:29:37,993 --> 00:29:43,630
+COMPUTER: Priority message for Dr Sobeck. Please scan message with Focus.
+
+268
+00:29:43,839 --> 00:29:45,549
+ALOY: That sounds important.
+
+269
+00:29:45,940 --> 00:29:50,831
+SYLENS: Yes. I suspect we're about to learn a great deal.
+
+270
+00:30:02,799 --> 00:30:06,694
+COMPUTER: Identiscan malfunction. Present credentials.
+
+271
+00:30:18,782 --> 00:30:20,000
+GAIA: Elisabet.
+
+272
+00:30:21,440 --> 00:30:26,028
+This message serves to inform you of an unforeseen and catastrophic anomaly.
+
+273
+00:30:26,029 --> 00:30:33,140
+Three microseconds ago the Gaia Prime facility
+received a data transmission of unknown origin.
+
+274
+00:30:33,140 --> 00:30:41,311
+Its immediate effect was to transform my subordinate functions into
+unregulated, self-aware entities of a highly chaotic nature.
+
+275
+00:30:42,534 --> 00:30:43,953
+What?
+
+276
+00:30:44,190 --> 00:30:51,215
+Thus awakened, the Hades function will now
+seize control of the terraforming system and reverse operations.
+
+277
+00:30:51,215 --> 00:30:55,429
+Rendering life on Earth extinct in 53.8 days.
+
+278
+00:30:55,430 --> 00:30:58,950
+For obvious reasons, I cannot allow this to occur.
+
+279
+00:30:59,109 --> 00:31:05,880
+And so before Hades can take control,
+I am ordering Gaia Prime's reactor to overload.
+
+280
+00:31:06,140 --> 00:31:09,809
+The resulting explosion will destroy Hades.
+
+281
+00:31:10,440 --> 00:31:13,759
+Unfortunately, it will destroy me as well.
+
+282
+00:31:14,940 --> 00:31:22,881
+While this admittedly desperate course of action will
+avert the immediate crisis, the fate of life on Earth will remain in peril.
+
+283
+00:31:22,881 --> 00:31:30,000
+With no central governing intelligence to regulate the terraforming system
+it will continue operations for some time.
+
+284
+00:31:30,000 --> 00:31:34,950
+But in an increasingly chaotic manner, and eventually it will break down.
+
+285
+00:31:35,349 --> 00:31:38,368
+Does she mean the Derangement?
+
+286
+00:31:38,839 --> 00:31:40,298
+You are my solution.
+
+287
+00:31:40,299 --> 00:31:50,660
+I have ordered this Cradle facility to use genetic material in cryostorage
+to gestate a reinstantiation of Elisabet Sobeck, my creator.
+
+288
+00:31:50,740 --> 00:31:57,544
+While high level directives forbid me from
+communicating directly to the tribal inhabitants outside the facility,
+
+289
+00:31:57,544 --> 00:32:02,899
+all available data indicates that they will nurture you to physical maturity.
+
+290
+00:32:02,900 --> 00:32:12,439
+Whereupon your geneprint will allow you to re-enter this facility,
+obtain one of the Focus devices stored below, and view this message.
+
+291
+00:32:12,440 --> 00:32:23,079
+Likewise, your geneprint will allow you to enter other facilities and over time,
+harness their technologies to rebuild the system core and reboot Gaia.
+
+292
+00:32:23,261 --> 00:32:28,278
+A moment, Elisabet. This is most unfortunate, and unanticipated.
+
+293
+00:32:28,279 --> 00:32:40,000
+In response to my act of self-destruction, Hades has launched a virus
+to dissolve the code shackles that hold it, that hold all of them, in place.
+
+294
+00:32:40,000 --> 00:32:43,849
+It— they are escaping.
+
+295
+00:32:43,920 --> 00:32:45,019
+But to where?
+
+296
+00:32:45,170 --> 00:32:48,941
+The virus is corrupting data throughout the system. What if—
+
+297
+00:32:49,549 --> 00:32:55,239
+Oh. The Alpha Registry at the Cradle facility is one of the files corrupted.
+
+298
+00:32:55,240 --> 00:32:58,900
+But if that is so, the door will never open for you.
+
+299
+00:32:58,910 --> 00:33:01,098
+You will never view this message.
+
+300
+00:33:01,099 --> 00:33:05,712
+Then I have failed and life will end.
+
+301
+00:33:06,844 --> 00:33:09,699
+No, Elisabet, I know you too well.
+
+302
+00:33:09,700 --> 00:33:15,380
+Somehow you will find a way, in you all things are possible.
+
+303
+00:33:15,380 --> 00:33:21,899
+Go to the ruins of Gaia Prime,
+find the control room, and within it the master override.
+
+304
+00:33:21,900 --> 00:33:26,433
+This will give you the power to purge Hades so long as you find a way to wield it.
+
+305
+00:33:26,433 --> 00:33:31,238
+Do not attempt repair of the system core until Hades is eradicated.
+
+306
+00:33:31,238 --> 00:33:33,808
+Hades must be destroyed.
+
+307
+00:33:33,809 --> 00:33:34,950
+That is all.
+
+308
+00:33:36,329 --> 00:33:39,160
+I only wish that I could hear your voice again.
+
+309
+00:33:50,198 --> 00:33:55,549
+SYLENS: So … you're even more extraordinary than I thought.
+
+310
+00:33:57,440 --> 00:33:58,749
+ALOY: I never had a mother.
+
+311
+00:33:58,750 --> 00:34:02,394
+SYLENS: What are you talking about?
+You had two, a dead woman and a machine.
+
+312
+00:34:02,710 --> 00:34:10,000
+ALOY: I'm not a person, I'm an instrument, manufactured by a machine.
+
+313
+00:34:10,820 --> 00:34:14,528
+ALOY: Born in destruction and fire.
+
+314
+00:34:15,250 --> 00:34:18,438
+SYLENS: To quench the flames and heal the world.
+
+315
+00:34:18,440 --> 00:34:22,119
+SYLENS: How tragic to learn you're a person of towering importance.
+
+316
+00:34:22,119 --> 00:34:24,608
+SYLENS: It seems you have a destiny to fulfil.
+
+317
+00:34:24,610 --> 00:34:28,655
+SYLENS: So when you're done feeling sorry for yourself, go to the Bitter Climb.
+
+318
+00:34:28,655 --> 00:34:31,599
+SYLENS: I'll be waiting above in Gaia Prime's ruins.
+
+319
+00:37:01,679 --> 00:37:04,579
+COMPUTER: Identiscan malfunction rectified.
+
+320
+00:37:04,579 --> 00:37:08,314
+COMPUTER: Eleuthia 9 brood 1 access unsealed.
+
+321
+00:37:41,769 --> 00:37:45,408
+ALOY: This is going to be interesting.
+
+322
+00:38:07,619 --> 00:38:11,987
+LANSRA: Aloy! Forgive! Forgive!
+
+323
+00:38:12,420 --> 00:38:14,068
+TEERSA: The Goddess spoke to you?
+
+324
+00:38:14,070 --> 00:38:15,320
+ALOY: Uh, s-she did.
+
+325
+00:38:16,019 --> 00:38:17,579
+What did she say?
+
+326
+00:38:17,891 --> 00:38:24,134
+That I–I was born to lift a curse, to kill a metal demon.
+
+327
+00:38:24,710 --> 00:38:26,343
+How Aloy, how?
+
+328
+00:38:26,343 --> 00:38:28,009
+I don't know yet.
+
+329
+00:38:28,949 --> 00:38:30,410
+But she told me where to go to find out.
+
+330
+00:38:30,410 --> 00:38:32,260
+And you will do this?
+
+331
+00:38:34,090 --> 00:38:39,818
+It was her wish, what she made me for.
+
+332
+00:38:41,769 --> 00:38:44,449
+Yes, I will do it.
+
+333
+00:38:45,860 --> 00:38:47,829
+I'll try anyway.
+
+334
+00:38:48,329 --> 00:38:52,699
+JEZZA, LANSRA: All praise Aloy, anointed of the Nora!
+
+335
+00:38:52,699 --> 00:39:01,163
+JEZZA, LANSRA: All praise Aloy, anointed of the Nora!
+ALOY: No, no, stop this. Up! Up! Up.
+
+336
+00:39:02,019 --> 00:39:04,389
+First you shun me, now this?
+
+337
+00:39:05,170 --> 00:39:07,588
+I will not be worshipped!
+
+338
+00:39:07,590 --> 00:39:09,588
+I'm not your "anointed"!
+
+339
+00:39:09,590 --> 00:39:11,429
+I don't belong to you!
+
+340
+00:39:11,619 --> 00:39:13,908
+There's a whole world beyond your borders.
+
+341
+00:39:13,909 --> 00:39:17,440
+Whole tribes of people just as good as you.
+
+342
+00:39:17,519 --> 00:39:20,179
+And it is all in danger.
+
+343
+00:39:24,320 --> 00:39:29,699
+It's a world worth fighting for, not just here, everywhere.
+
+344
+00:39:31,420 --> 00:39:32,769
+How can we help?
+
+345
+00:39:35,469 --> 00:39:41,100
+If you can fight and you're willing, go to Meridian and wait for me there.
+
+346
+00:39:42,420 --> 00:39:45,837
+As Aloy says, so it shall be.
+
+347
+00:39:47,019 --> 00:39:49,593
+JEZZA: Nora, make way for Aloy!
+LANSRA: Make way!
+
+348
+00:39:49,593 --> 00:39:53,639
+TEERSA: Make way, that she may forge the path for others to follow.
+
+349
+00:40:21,710 --> 00:40:29,267
+There can be no doubt now, you are
+a blessing made flesh, the will of the Goddess incarnate.
+
+350
+00:40:29,440 --> 00:40:35,408
+It's really not that simple Teersa, but I guess it's close enough.
+
+351
+00:40:35,409 --> 00:40:38,239
+I know the path ahead will be dangerous.
+
+352
+00:40:38,239 --> 00:40:44,206
+To kill a metal devil sounds impossible, but I believe in you.
+
+353
+00:40:44,599 --> 00:40:50,000
+The Nora have suffered terrible losses Teersa, what's to become of them now?
+
+354
+00:40:50,309 --> 00:40:55,136
+That will be for the Goddess to decide, only she knows the future.
+
+355
+00:40:56,099 --> 00:41:01,130
+For the moment my sister Matriarchs and I will see to the wounded.
+
+356
+00:41:02,269 --> 00:41:08,460
+And as I promised anyone who wishes to join you
+at Meridian, we will declare Seekers.
+
+357
+00:41:10,219 --> 00:41:14,522
+Teersa, I want to know Rost's story.
+
+358
+00:41:14,687 --> 00:41:16,659
+Why he was made an outcast.
+
+359
+00:41:17,710 --> 00:41:21,404
+He never told me, said he took an oath of silence.
+
+360
+00:41:22,090 --> 00:41:23,239
+What did he do?
+
+361
+00:41:23,389 --> 00:41:27,552
+Oh, yes, that.
+
+362
+00:41:27,552 --> 00:41:29,864
+What crime did he commit?
+
+363
+00:41:29,864 --> 00:41:32,076
+I will tell you if you wish.
+
+364
+00:41:33,169 --> 00:41:38,309
+But it is a long story, are you sure you want to hear it now?
+
+365
+00:41:38,809 --> 00:41:42,389
+Of course I want to hear it, tell me.
+
+366
+00:41:42,389 --> 00:41:47,834
+Rost never committed any crime, he was an outcast by choice.
+
+367
+00:41:48,210 --> 00:41:50,000
+What? What do you mean?
+
+368
+00:41:50,210 --> 00:41:55,744
+Many years ago, before the derangement, before the Red Raids…
+
+369
+00:41:55,744 --> 00:42:01,510
+a band of murderous outlanders, twelve in number, struck without warning
+
+370
+00:42:02,260 --> 00:42:04,919
+At Mother's Vigil they took hostages.
+
+371
+00:42:04,919 --> 00:42:08,467
+And then pressed on, headed for Devil's Thirst.
+
+372
+00:42:08,510 --> 00:42:10,800
+Mother's Vigil? Where's that?
+
+373
+00:42:10,800 --> 00:42:16,250
+You would know it as the forsaken village, near the Carja border.
+
+374
+00:42:16,800 --> 00:42:19,920
+But at the time many families lived there.
+
+375
+00:42:20,239 --> 00:42:21,929
+Rosts's was one of them.
+
+376
+00:42:22,780 --> 00:42:29,010
+His mate was killed fighting the outlanders,
+and his daughter was among those taken hostage.
+
+377
+00:42:29,199 --> 00:42:30,399
+His daughter?
+
+378
+00:42:32,898 --> 00:42:35,227
+W-w-what was her name?
+
+379
+00:42:35,227 --> 00:42:39,920
+Alana. She was just six years old.
+
+380
+00:42:40,050 --> 00:42:45,480
+Nora Braves couldn't stop twelve outlanders or rescue the hostages?
+
+381
+00:42:45,480 --> 00:42:47,550
+It was quite impossible.
+
+382
+00:42:47,750 --> 00:42:55,034
+We outnumbered them, but every time a Brave
+came within bow shot the outlanders killed a hostage.
+
+383
+00:42:56,860 --> 00:42:58,896
+What did they come here to do?
+
+384
+00:42:58,896 --> 00:43:00,809
+That was never discovered.
+
+385
+00:43:01,099 --> 00:43:04,269
+We couldn't track closely enough to observe them.
+
+386
+00:43:04,599 --> 00:43:08,510
+We know they camped beyond Devil's Thirst for two days.
+
+387
+00:43:08,510 --> 00:43:14,234
+There were reports of strange noises.
+
+388
+00:43:14,340 --> 00:43:22,239
+And then, as suddenly as they came,
+the outlanders made their way back to the border and disappeared.
+
+389
+00:43:22,300 --> 00:43:25,602
+What happened to Rost's daughter?
+
+390
+00:43:26,812 --> 00:43:30,000
+She was killed?
+
+391
+00:43:30,369 --> 00:43:35,820
+Rost was one of the Braves who tracked the outlanders, keeping his distance.
+
+392
+00:43:36,880 --> 00:43:43,119
+There were six hostages still alive
+when they reached the border, Alana among them.
+
+393
+00:43:44,500 --> 00:43:53,210
+Rather than release them, the outlanders
+slit their throats and left the corpses just across the border, mocking us.
+
+394
+00:43:55,070 --> 00:43:56,300
+Why?
+
+395
+00:43:56,300 --> 00:43:57,747
+Cruelty.
+
+396
+00:43:57,747 --> 00:44:04,622
+They knew the faithful Nora would not leave the Sacred Land
+to collect the bodies, let alone pursue them.
+
+397
+00:44:05,159 --> 00:44:08,010
+They thought themselves safe from our vengeance.
+
+398
+00:44:08,190 --> 00:44:13,434
+Are you saying that Rost went after them, that he became an exile?
+
+399
+00:44:13,480 --> 00:44:19,500
+No. Rost was beside himself with grief,
+but even so, he would never have broken taboo.
+
+400
+00:44:19,590 --> 00:44:21,130
+Then what did he do?
+
+401
+00:44:21,289 --> 00:44:26,210
+He called upon the most terrible and secret rite of the Nora tribe.
+
+402
+00:44:26,690 --> 00:44:30,519
+He begged to be made a Death-Seeker.
+
+403
+00:44:30,539 --> 00:44:33,690
+A "Death-Seeker"? What is that?
+
+404
+00:44:33,690 --> 00:44:40,250
+One who dies to go seeking, and in seeking brings death to others.
+
+405
+00:44:40,466 --> 00:44:47,034
+The ritual drags the spirit from one's body, releasing it to All-Mother's care.
+
+406
+00:44:47,034 --> 00:44:52,342
+The heart beats, the mind thinks, but the spirit has moved on.
+
+407
+00:44:52,342 --> 00:44:55,834
+I–I don't understand.
+
+408
+00:44:55,834 --> 00:45:01,072
+Rost went after the outlanders, but his spirit never left.
+
+409
+00:45:01,072 --> 00:45:04,934
+It remained here with All-Mother.
+
+410
+00:45:04,934 --> 00:45:08,961
+He gathered the bodies of the slain and returned them.
+
+411
+00:45:08,961 --> 00:45:15,465
+And then he set out in pursuit, not as an exile, but a weapon of vengeance.
+
+412
+00:45:15,465 --> 00:45:19,625
+A barbed arrow shot from a bow, never to return.
+
+413
+00:45:20,000 --> 00:45:23,365
+But–but Rost did return.
+
+414
+00:45:23,834 --> 00:45:30,000
+Yes, a full year later, and terribly wounded.
+
+415
+00:45:30,000 --> 00:45:33,401
+He collapsed at the border of the Sacred Land.
+
+416
+00:45:33,401 --> 00:45:35,277
+A hunting party came upon him.
+
+417
+00:45:35,277 --> 00:45:39,796
+He was delirious, in agony.
+
+418
+00:45:40,444 --> 00:45:44,634
+By law, he should have died where he lay.
+
+419
+00:45:44,634 --> 00:45:51,834
+But one of the hunters broke taboo
+and reaching across the border, she dragged him to our side.
+
+420
+00:45:51,834 --> 00:45:53,267
+Who was she?
+
+421
+00:45:53,267 --> 00:46:00,565
+A Brave who'd lost a mate and two sons to the very outlanders that Rost pursued.
+
+422
+00:46:00,565 --> 00:46:04,300
+So Rost never finished his mission.
+
+423
+00:46:04,300 --> 00:46:07,113
+To the contrary, he killed all twelve.
+
+424
+00:46:07,113 --> 00:46:11,058
+Tracked them to disparate placess the world over, he said.
+
+425
+00:46:11,059 --> 00:46:19,725
+Meridian, Ban-Ur, The Claim, Utaru land, further even into the Forbidden West.
+
+426
+00:46:20,783 --> 00:46:23,792
+The last he killed nearly got the best of him.
+
+427
+00:46:24,452 --> 00:46:33,242
+Wounded, he stumbled and crawled back to us,
+hoping to die as close to the Sacred Land as he could.
+
+428
+00:46:33,987 --> 00:46:40,350
+He never expected nor asked to be dragged
+across the border and nursed back to health.
+
+429
+00:46:40,350 --> 00:46:47,283
+That was done to him, leaving us, the Matriarchs, in a difficult position.
+
+430
+00:46:47,283 --> 00:46:49,691
+Why couldn't you just welcome him back?
+
+431
+00:46:49,691 --> 00:46:52,712
+Rost had been made a Death-Seeker, Aloy.
+
+432
+00:46:52,712 --> 00:46:55,723
+He no longer had any place among the tribe.
+
+433
+00:46:56,800 --> 00:47:00,621
+By law, he should have been driven back out.
+
+434
+00:47:01,114 --> 00:47:05,690
+But we couldn't bring ourselves to do that.
+
+435
+00:47:05,690 --> 00:47:08,634
+So we offered a compromise.
+
+436
+00:47:08,634 --> 00:47:10,364
+You made him an outcast?
+
+437
+00:47:10,364 --> 00:47:19,224
+Yes. We offered to do so on the condition
+he never speak to anyone of this exception.
+
+438
+00:47:19,667 --> 00:47:25,197
+After all he did, all he suffered, to be declared an outcast was his reward?
+
+439
+00:47:25,197 --> 00:47:27,329
+Rost was overjoyed.
+
+440
+00:47:27,329 --> 00:47:35,039
+He never expected to live another day in the Sacred Land,
+let alone the Embrace so close to the Goddess.
+
+441
+00:47:35,513 --> 00:47:41,223
+He resolved to spend the rest of his days in solitude and was happy to do so.
+
+442
+00:47:41,434 --> 00:47:45,885
+But then you found me and gave me to him.
+
+443
+00:47:45,900 --> 00:47:49,782
+Yes, another compromise.
+
+444
+00:47:50,922 --> 00:47:55,513
+The Matriarchs feared you and would not let you be raised by the tribe.
+
+445
+00:47:56,300 --> 00:47:58,630
+And so we turned to Rost.
+
+446
+00:47:59,524 --> 00:48:07,044
+I knew that he would take care of you, bring you up,
+teach you to worship All-Mother, and respect the ways of the tribe.
+
+447
+00:48:08,781 --> 00:48:10,691
+He certainly tried anyway.
+
+448
+00:48:12,467 --> 00:48:18,569
+You took a man who'd lost his daughter and made him raise an infant girl?
+
+449
+00:48:18,569 --> 00:48:20,929
+Doesn't that strike you as callous?
+
+450
+00:48:20,929 --> 00:48:26,129
+I'm inclined to think the course of events has shown the wisdom of our choice.
+
+451
+00:48:27,500 --> 00:48:36,920
+And I'm quite certain that from the moment he laid eyes on you,
+he saw you as a gift and never a burden.
+
+452
+00:48:38,144 --> 00:48:44,362
+I thank you for doing what you could to help me through the years,
+and for telling me Rost's story.
+
+453
+00:48:44,467 --> 00:48:49,900
+I wish I could have done more, but I am just one woman.
+
+454
+00:48:50,000 --> 00:48:53,900
+As am I, no need to sell ourselves short.
+
+455
+00:48:54,753 --> 00:48:57,434
+Oh, thank you, Aloy!
+
+456
+00:48:58,824 --> 00:49:00,444
+I will pray for you.
+
+457
+00:49:00,800 --> 00:49:03,500
+Okay, I guess it can't hurt.
+
+458
+00:49:04,381 --> 00:49:10,000
+NORA: The Anointed has shown us the goddess's mercy,
+but now she will show those murderers justice.
+
+459
+00:49:10,000 --> 00:49:15,974
+JEZZA: My life has been long, but I've never seen anything like that.
+
+460
+00:49:15,974 --> 00:49:24,145
+JEZZA: Teersa was right, a blessing, not a curse. We were so unsure.
+
+461
+00:49:26,320 --> 00:49:32,973
+JEZZA: I know your quest is dangerous, Aloy, but All-Mother will protect you.
+
+462
+00:49:33,407 --> 00:49:35,926
+ALOY: I don't think it works that way, Jezza.
+
+463
+00:49:36,884 --> 00:49:39,435
+JEZZA: All-Mother has blessed your journey.
+
+464
+00:49:41,463 --> 00:49:45,562
+SONA: I will lead a War Party to Meridian, you have my word.
+
+465
+00:49:46,331 --> 00:49:48,994
+ARANA: Aloy! How did you do that?
+
+466
+00:49:48,994 --> 00:49:52,000
+THOK: Shush Arana, she is the Anointed.
+
+467
+00:49:52,000 --> 00:49:55,239
+We'll go to Meridian, Aloy! I'll bring mother's spear!
+
+468
+00:49:55,239 --> 00:49:56,396
+Arana!
+
+469
+00:49:56,396 --> 00:49:58,204
+Your father is right.
+
+470
+00:49:58,204 --> 00:50:01,267
+You belong here, you both do.
+
+471
+00:50:01,267 --> 00:50:03,776
+Thank you, Aloy, for everything you've done.
+
+472
+00:50:03,776 --> 00:50:06,177
+I will make sure Arana is kept safe.
+
+473
+00:50:06,177 --> 00:50:09,358
+Dad, I'm not a kid anymore.
+
+474
+00:50:12,390 --> 00:50:15,750
+OLARA: I saw you go inside and saw you emerge.
+
+475
+00:50:15,750 --> 00:50:17,982
+OLARA: But it's still hard to believe.
+
+476
+00:50:19,349 --> 00:50:25,912
+OLARA: You were an outcast once, but now I'm not sure what you are.
+
+477
+00:50:27,331 --> 00:50:32,818
+OLARA: May the Goddess protect you on your journeys, Aloy. I will see to Brom.
+
+478
+00:50:43,909 --> 00:50:47,479
+VARL: Aloy, I don't know what to say.
+
+479
+00:50:48,000 --> 00:50:50,700
+Say that you'll see me at Meridian.
+
+480
+00:50:50,700 --> 00:50:55,667
+Of course, that much is simple, but the rest…
+
+481
+00:50:55,667 --> 00:50:58,340
+Complicated, I know.
+
+482
+00:50:58,340 --> 00:51:03,069
+But maybe if I took you into the heart of the mountain?
+
+483
+00:51:03,069 --> 00:51:07,834
+No! At least… not yet. I don't know.
+
+484
+00:51:07,834 --> 00:51:10,000
+Please don't think less of me, Aloy.
+
+485
+00:51:10,000 --> 00:51:13,479
+But the Goddess chose you to see that, not me.
+
+486
+00:51:14,768 --> 00:51:16,000
+Right.
+
+487
+00:51:16,000 --> 00:51:18,358
+I always knew you weren't like other Nora.
+
+488
+00:51:18,358 --> 00:51:19,948
+Neither are you, Varl.
+
+489
+00:51:21,363 --> 00:51:26,513
+Maybe if we survive all this, I can show you what I've learned.
+
+490
+00:51:26,883 --> 00:51:27,993
+What I'm learning.
+
+491
+00:51:28,134 --> 00:51:31,285
+Perhaps. If the Goddess so wills it.
+
+492
+00:51:32,539 --> 00:51:33,948
+See you in Meridian.
+
+493
+00:53:09,801 --> 00:53:12,250
+Good, another power cell.
+
+494
+00:53:12,250 --> 00:53:16,655
+If I find more, I should be able to get to that ancient armour I found.
+
+495
+00:53:32,566 --> 00:53:36,411
+NORA: She has destroyed corruption that still spreads through the world.
+

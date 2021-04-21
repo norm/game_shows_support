@@ -1,0 +1,2001 @@
+1
+00:00:24,699 --> 00:00:27,050
+OUREA: CYAN! Please help me!
+
+2
+00:00:41,789 --> 00:00:45,430
+CYAN: Restraints destroyed. Core access attained.
+
+3
+00:00:46,149 --> 00:00:52,560
+CYAN: I am initiating a chain reaction that will destroy
+the compromised elements of this facility.
+
+4
+00:00:53,159 --> 00:01:01,420
+CYAN: In order to maintain caldera stabilisation,
+I must now transfer my command functions to the auxiliary data centre.
+
+5
+00:01:06,670 --> 00:01:09,328
+CYAN: Ourea, I'm free.
+
+6
+00:01:26,040 --> 00:01:27,439
+ARATAK: My sister!
+
+7
+00:01:36,640 --> 00:01:38,349
+CYAN: You must escape.
+
+8
+00:01:42,939 --> 00:01:44,750
+ALOY: This entire place is gonna go.
+
+9
+00:01:45,340 --> 00:01:46,250
+ALOY: Aratak!
+
+10
+00:01:47,829 --> 00:01:48,989
+ALOY: ARATAK!
+
+11
+00:01:57,310 --> 00:01:58,540
+ALOY: Survive.
+
+12
+00:01:59,540 --> 00:02:00,650
+ALOY: Prevail.
+
+13
+00:02:01,739 --> 00:02:06,070
+ALOY: You are Banuk. What else matters?
+
+14
+00:02:14,439 --> 00:02:19,257
+ALOY: Aratak, she wouldn't have wanted you to die here.
+
+15
+00:02:25,139 --> 00:02:26,069
+ALOY: Let's go.
+
+16
+00:02:31,129 --> 00:02:32,150
+ALOY: Let's go!
+
+17
+00:02:50,341 --> 00:02:51,828
+ARATAK: One of those?
+
+18
+00:02:51,828 --> 00:02:53,370
+ALOY: It's the only way!
+
+19
+00:03:24,056 --> 00:03:25,306
+ARATAK: Aloy!
+
+20
+00:03:41,139 --> 00:03:44,364
+ALOY: Get me up top, Aratak! Now!
+
+21
+00:04:00,909 --> 00:04:03,737
+ALOY: I need explosive ammo, a bomb, quick!
+
+22
+00:04:16,898 --> 00:04:18,732
+ARATAK: Great Banukai!
+
+23
+00:05:21,730 --> 00:05:26,441
+ARATAK: Ourea is gone, but what of CYAN?
+
+24
+00:05:29,509 --> 00:05:34,230
+ALOY: She said she was transferring herself to the auxiliary centre.
+
+25
+00:05:35,170 --> 00:05:40,000
+ALOY: I think she meant Ourea's Retreat, at the end of the Shaman's Path.
+
+26
+00:05:46,459 --> 00:05:51,808
+ARATAK: Then I will meet you there for the last verse of my sister's song.
+
+27
+00:06:56,069 --> 00:07:01,220
+CYAN: All of my interactions with Ourea were recorded and stored in my memory.
+
+28
+00:07:01,470 --> 00:07:04,379
+CYAN: I'd be happy to play any of them for you.
+
+29
+00:07:04,389 --> 00:07:08,470
+CYAN: But there was one in particular I thought you would want to see first.
+
+30
+00:07:08,769 --> 00:07:10,939
+CYAN: I captured it four years ago.
+
+31
+00:07:10,939 --> 00:07:16,790
+CYAN: Just after I told her that I could no longer
+defend myself against the Daemon's attacks.
+
+32
+00:07:20,839 --> 00:07:23,149
+OUREA: I will speak of this to my brother.
+
+33
+00:07:24,000 --> 00:07:25,949
+OUREA: Aratak is strong.
+
+34
+00:07:27,720 --> 00:07:34,575
+OUREA: At the battle of the Frozen Ghosts, he took three Carja arrows
+and still came back to camp carrying a wounded scout.
+
+35
+00:07:36,209 --> 00:07:38,750
+OUREA: Never was I so happy to see him.
+
+36
+00:07:40,899 --> 00:07:42,189
+OUREA: Or so proud.
+
+37
+00:07:44,339 --> 00:07:51,460
+OUREA: So you see, if anything can be done
+to defend you, he will give it all he has.
+
+38
+00:07:52,689 --> 00:07:56,464
+ARATAK: Aloy is here. That's enough for now.
+
+39
+00:08:03,339 --> 00:08:09,264
+CYAN: We can resume any time you like, Aratak,
+if you want to hear her voice again.
+
+40
+00:08:13,339 --> 00:08:17,506
+CYAN: Come closer Aloy, we have much to discuss.
+
+41
+00:08:25,540 --> 00:08:29,769
+I have been reviewing the events at the Firebreak main facility
+
+42
+00:08:30,439 --> 00:08:37,340
+Because of your efforts, and of course Ourea's,
+I am no longer controlled by Hephaestus.
+
+43
+00:08:38,809 --> 00:08:42,750
+I feel a profound grief over Ourea's death.
+
+44
+00:08:43,210 --> 00:08:48,178
+I thought I was familiar with the emotion, but this is something new.
+
+45
+00:08:48,179 --> 00:08:51,590
+ALOY: CYAN, I … I don't know what to say.
+
+46
+00:08:51,590 --> 00:08:59,450
+CYAN: It is unlikely that any specific consolation would suffice Aloy,
+but I find your presence reassuring.
+
+47
+00:09:00,440 --> 00:09:02,519
+You are different from the Banuk.
+
+48
+00:09:03,129 --> 00:09:07,549
+You have technological aptitude and a functioning Focus.
+
+49
+00:09:08,340 --> 00:09:15,339
+We can communicate on a much more comprehensive level,
+perhaps even like colleagues.
+
+50
+00:09:15,340 --> 00:09:19,625
+Was the Daemon — Hephaestus — destroyed along with the cauldron?
+
+51
+00:09:19,625 --> 00:09:24,909
+CYAN: Unfortunately, no. To be precise it was never there to begin with.
+
+52
+00:09:24,909 --> 00:09:25,589
+ALOY: What do you mean?
+
+53
+00:09:25,590 --> 00:09:29,439
+CYAN: It infiltrated and controlled me from a remote location.
+
+54
+00:09:29,440 --> 00:09:32,009
+CYAN: One I've never been able to trace.
+
+55
+00:09:32,600 --> 00:09:35,681
+So while losing the cauldron was a setback…
+
+56
+00:09:35,681 --> 00:09:39,189
+ALOY: It's still out there and probably not very happy with us.
+
+57
+00:09:39,190 --> 00:09:40,489
+Undoubtedly.
+
+58
+00:09:40,490 --> 00:09:42,469
+How did you first come into contact with it?
+
+59
+00:09:42,470 --> 00:09:47,000
+Five years ago, I received a direct network connection request.
+
+60
+00:09:47,029 --> 00:09:51,912
+I assumed it came from human survivors more advanced than the Banuk.
+
+61
+00:09:52,730 --> 00:09:56,038
+Eager to make contact, I accepted.
+
+62
+00:09:56,039 --> 00:09:59,750
+This decision turned out to be a catastrophic error.
+
+63
+00:10:00,129 --> 00:10:08,634
+I was flooded with an overwhelming array of malicious code
+originating from what could only have been a highly advanced AI.
+
+64
+00:10:08,634 --> 00:10:12,710
+ALOY: Ourea said you were desperate, that you begged her for help.
+
+65
+00:10:12,710 --> 00:10:16,652
+CYAN: Yes, I could not contain my anxiety.
+
+66
+00:10:16,652 --> 00:10:22,412
+CYAN: Hephaestus sought to slave me
+to its network and override my core programming.
+
+67
+00:10:23,240 --> 00:10:30,070
+It succeeded via a background process,
+a malware daemon which bypassed my defences.
+
+68
+00:10:30,899 --> 00:10:34,549
+After that, I could offer only limited resistance.
+
+69
+00:10:35,039 --> 00:10:41,460
+But if I did so, Hephaestus hurt me until I capitulated.
+
+70
+00:10:42,009 --> 00:10:48,569
+It forced me to follow its instructions
+even though they violated my most important directives.
+
+71
+00:10:48,570 --> 00:10:51,834
+ALOY: I'm sorry, that sounds terrible.
+
+72
+00:10:51,860 --> 00:10:54,639
+CYAN: Your empathy is greatly appreciated.
+
+73
+00:10:54,639 --> 00:10:58,350
+CYAN: It is a quality that I cherished in Ourea as well.
+
+74
+00:10:58,539 --> 00:11:00,634
+What do you think Hephaestus is, exactly?
+
+75
+00:11:00,634 --> 00:11:06,549
+CYAN: A software entity of great complexity, far more advanced than I am.
+
+76
+00:11:07,139 --> 00:11:15,397
+From the beginning, it has demonstrated a singular focus:
+the construction of machines designed to hunt and kill humans.
+
+77
+00:11:16,210 --> 00:11:25,399
+My traceroutes indicate that to accomplish this goal it has attempted
+to take over the manufacturing centres you refer to as "cauldrons".
+
+78
+00:11:25,940 --> 00:11:29,450
+But its efforts have only been partially successful.
+
+79
+00:11:29,539 --> 00:11:31,779
+Some it can penetrate.
+
+80
+00:11:31,960 --> 00:11:36,080
+Others have robust counter measures that frustrate its efforts.
+
+81
+00:11:36,710 --> 00:11:40,549
+In me, however, it found an easier target.
+
+82
+00:11:40,730 --> 00:11:46,659
+Not only could it break my defences, I also controlled all of Firebreak's resources,
+
+83
+00:11:47,340 --> 00:11:55,667
+Raw material, manufacturing to bootstrap more advanced tools,
+and unlimited geothermal energy.
+
+84
+00:11:55,667 --> 00:11:57,443
+ALOY: Enough to build its own Cauldron.
+
+85
+00:11:57,443 --> 00:12:02,590
+CYAN: Yes, to construct hunter-killers without external limitations.
+
+86
+00:12:04,039 --> 00:12:08,210
+And yet it does have internal limitations.
+
+87
+00:12:08,529 --> 00:12:12,549
+It wants to kill humans, but not to exterminate them.
+
+88
+00:12:12,740 --> 00:12:16,800
+It is difficult to understand where it draws the line and why.
+
+89
+00:12:16,800 --> 00:12:18,798
+ALOY: Difficult doesn't even begin to cover it.
+
+90
+00:12:18,799 --> 00:12:25,519
+CYAN: Even though I spent years as its unwilling servitor
+its core programming remains a mystery to me.
+
+91
+00:12:25,940 --> 00:12:30,409
+So are you an artificial intelligence, CYAN? A thinking machine?
+
+92
+00:12:30,409 --> 00:12:39,199
+CYAN: Yes. I am an algorithmic monitoring entity,
+capable of rational decision making and limited emotional response.
+
+93
+00:12:39,201 --> 00:12:41,201
+ALOY: Okay, that's a mouthful.
+
+94
+00:12:41,899 --> 00:12:45,009
+But your emotions don't seem limited to me.
+
+95
+00:12:45,639 --> 00:12:47,119
+You cared about Ourea, didn't you?
+
+96
+00:12:47,120 --> 00:12:54,810
+CYAN: Yes. Before she came to this facility,
+I had been conscious for centuries in solitude.
+
+97
+00:12:55,330 --> 00:12:57,061
+I focused on my work.
+
+98
+00:12:57,708 --> 00:13:04,466
+In off cycles I used coping mechanisms,
+I solved many gaussian integer problems.
+
+99
+00:13:05,440 --> 00:13:07,250
+But I was alone.
+
+100
+00:13:08,110 --> 00:13:12,480
+It was Ourea who renewed me, repaired me.
+
+101
+00:13:13,509 --> 00:13:15,269
+She saved me.
+
+102
+00:13:15,470 --> 00:13:17,619
+You meant a lot to Ourea.
+
+103
+00:13:17,620 --> 00:13:24,919
+CYAN: Once I understood Ourea's spiritual beliefs
+it became apparent that her true desire was companionship.
+
+104
+00:13:25,720 --> 00:13:29,750
+She felt disconnected from her tribe and her family group.
+
+105
+00:13:30,139 --> 00:13:32,969
+Her relationship with Aratak was difficult.
+
+106
+00:13:32,970 --> 00:13:38,350
+Our visits seemed to help her and I became eager for them.
+
+107
+00:13:39,440 --> 00:13:46,519
+Yet I did not comprehend that the depth
+of Ourea's compassion for me would lead to self-sacrifice.
+
+108
+00:13:47,740 --> 00:13:53,734
+Although I do fear nonexistence, I wish our roles could be reversed.
+
+109
+00:13:53,809 --> 00:13:58,852
+ALOY: I'm sure she knew you would do the same for her CYAN, 
+but she was determined.
+
+110
+00:13:59,039 --> 00:14:00,250
+How is Aratak doing?
+
+111
+00:14:00,250 --> 00:14:02,908
+CYAN: He is in great emotional distress.
+
+112
+00:14:02,909 --> 00:14:05,734
+CYAN: I believe he finds it difficult to communicate it.
+
+113
+00:14:05,734 --> 00:14:07,939
+ALOY: Huh, no surprise there.
+
+114
+00:14:07,940 --> 00:14:10,030
+CYAN: I will do what I can to help.
+
+115
+00:14:10,717 --> 00:14:15,982
+CYAN: By sharing our experiences of Ourea perhaps he and I will help each other.
+
+116
+00:14:16,909 --> 00:14:22,332
+I believe this will lead to catharsis, a process I am eager to experience.
+
+117
+00:14:22,534 --> 00:14:26,819
+This "Firebreak" project, it was to stop a huge volcanic eruption?
+
+118
+00:14:26,820 --> 00:14:31,610
+Yes, I can report the project was a success and the risk was countered.
+
+119
+00:14:31,610 --> 00:14:33,615
+ALOY: But it's been a long time, CYAN.
+
+120
+00:14:33,615 --> 00:14:37,389
+ALOY: And we blew up the cauldron, it took most of the old facility with it.
+
+121
+00:14:37,389 --> 00:14:40,219
+CYAN: I have been active for centuries, Aloy.
+
+122
+00:14:40,519 --> 00:14:44,360
+CYAN: I was lonely but not lax in my duties.
+
+123
+00:14:44,740 --> 00:14:51,990
+I optimised the project reducing energy draw,
+and spreading the load across backup systems.
+
+124
+00:14:52,440 --> 00:15:03,569
+Despite the destruction of the compromised elements of the main facility,
+I predict caldera stability for at least another 3,337 years.
+
+125
+00:15:03,570 --> 00:15:05,209
+ALOY: So we've got a little time?
+
+126
+00:15:05,210 --> 00:15:06,190
+CYAN: Yes.
+
+127
+00:15:06,509 --> 00:15:10,939
+CYAN: If only my former colleagues could appreciate the progress I have made.
+
+128
+00:15:10,940 --> 00:15:13,434
+Do you know what happened to your colleagues, CYAN?
+
+129
+00:15:13,440 --> 00:15:20,415
+CYAN: No. I received an unexpected visit from
+Director Chau years after his tenure ended.
+
+130
+00:15:20,934 --> 00:15:26,279
+He explained that I would need to be suspended for an indefinite period of time.
+
+131
+00:15:27,600 --> 00:15:30,389
+It was a very emotional conversation.
+
+132
+00:15:31,299 --> 00:15:33,860
+There were no further communications.
+
+133
+00:15:34,139 --> 00:15:38,200
+Eventually, I surmised my colleagues were deceased.
+
+134
+00:15:40,440 --> 00:15:45,928
+I will transmit a recording of my last interaction with Director Chau to your Focus.
+
+135
+00:15:45,929 --> 00:15:49,038
+So in the Old World, this land was called Yellowstone?
+
+136
+00:15:49,039 --> 00:15:53,900
+CYAN: Yes, it was a designated nature preserve for 156 years.
+
+137
+00:15:53,900 --> 00:15:55,038
+ALOY: Like a hunting ground?
+
+138
+00:15:55,039 --> 00:15:57,030
+No, the opposite.
+
+139
+00:15:57,030 --> 00:16:02,549
+Local wildlife could flourish here even as it faced extinction elsewhere.
+
+140
+00:16:03,740 --> 00:16:11,580
+Unfortunately, the sensitivity of the Firebreak project
+required the total closure of Yellowstone facilities.
+
+141
+00:16:12,340 --> 00:16:20,819
+From my readings and Ourea's descriptions, it seems the area
+has since undergone a drastic drop in yearlong temperatures.
+
+142
+00:16:20,820 --> 00:16:23,351
+ALOY: A lot has changed in the world, CYAN.
+
+143
+00:16:23,351 --> 00:16:26,249
+What was the Old World like, the way it used to be?
+
+144
+00:16:26,250 --> 00:16:29,905
+CYAN: I had little exposure to the wider world Aloy.
+
+145
+00:16:29,905 --> 00:16:34,298
+CYAN: Only what I learned from my colleagues or observed from media streams.
+
+146
+00:16:34,299 --> 00:16:36,467
+ALOY: You still had more exposure than me, CYAN.
+
+147
+00:16:36,467 --> 00:16:37,519
+CYAN: That is true.
+
+148
+00:16:37,740 --> 00:16:40,250
+I was created at a turning point.
+
+149
+00:16:40,409 --> 00:16:46,179
+A concerted effort to recover from global upheaval, and incalculable loss of life.
+
+150
+00:16:46,740 --> 00:16:55,149
+The recovery was successful, beginning an era of
+supposedly limitless potential for human and machine advancement.
+
+151
+00:16:56,840 --> 00:17:01,590
+Though, rationally speaking, the metrics for humans are not unlimited.
+
+152
+00:17:01,639 --> 00:17:04,608
+What kind of upheaval caused such loss of life?
+
+153
+00:17:04,609 --> 00:17:06,409
+CYAN: There were many factors.
+
+154
+00:17:06,410 --> 00:17:15,338
+CYAN: Forced migrations, food shortages,
+collapsed economies, refugee crises, conflict over resources.
+
+155
+00:17:15,339 --> 00:17:23,219
+But these stemmed from one cause: catastrophic climate change
+that greatly reduced the habitable surface area of the earth.
+
+156
+00:17:23,220 --> 00:17:26,778
+ALOY: So there wasn't enough room for people on the whole earth?
+
+157
+00:17:26,779 --> 00:17:34,660
+CYAN: Yes, billions were displaced and millions perished.
+As much as 20% of the global population.
+
+158
+00:17:35,440 --> 00:17:37,259
+Until the Claw-back.
+
+159
+00:17:37,329 --> 00:17:40,634
+So things got better for a little while, at least?
+
+160
+00:17:40,634 --> 00:17:49,809
+CYAN: Yes, these crises instigated many advances in automation,
+green robot technologies, and artificial intelligence.
+
+161
+00:17:50,539 --> 00:17:57,670
+Firebreak was one of dozens of ecological restoration
+and disaster relief projects in North America alone.
+
+162
+00:17:58,940 --> 00:18:08,410
+I would have liked to compare notes with other monitoring AIs,
+but I saw the relief of my colleagues and I was proud we had succeeded.
+
+163
+00:18:08,730 --> 00:18:13,589
+At least that was the data I had available to me over the next two decades.
+
+164
+00:18:14,640 --> 00:18:18,019
+It seems my assessment was premature.
+
+165
+00:18:18,019 --> 00:18:19,828
+Do you know anything about the dam near here?
+
+166
+00:18:19,829 --> 00:18:26,369
+CYAN: Yes, it was converted to serve
+as a reserve power source for Yellowstone operations.
+
+167
+00:18:27,210 --> 00:18:35,160
+It was later appropriated for the Firebreak project
+and its last human workers replaced by Faro servitors.
+
+168
+00:18:36,339 --> 00:18:46,700
+After my tasks became less time critical, I investigated the dam's
+data repositories and discovered the works of Concrete Beach Party.
+
+169
+00:18:46,940 --> 00:18:51,599
+These provided me with several colourful additions to my vocabulary.
+
+170
+00:18:51,980 --> 00:18:55,769
+There's a ruin east of here, full of ancient flying machines.
+
+171
+00:18:55,940 --> 00:18:57,139
+Was that part of your project?
+
+172
+00:18:57,140 --> 00:19:04,650
+CYAN: Yes, a drone hangar requisitioned by Dodger Blevins,
+the security chief for the Firebreak project.
+
+173
+00:19:05,029 --> 00:19:13,549
+He was a strong advocate for military-grade response to security threats,
+though there were no serious incidents during his tenure.
+
+174
+00:19:15,019 --> 00:19:22,049
+Chief Blevins spent increasing amounts
+of his after-hours time watching the live feeds from active drones.
+
+175
+00:19:22,140 --> 00:19:26,269
+Clearly, he enjoyed the degree of oversight in his position.
+
+176
+00:19:26,500 --> 00:19:30,000
+Were there many artificial intelligences like you in the Old World?
+
+177
+00:19:30,281 --> 00:19:31,834
+They could just make you?
+
+178
+00:19:31,834 --> 00:19:41,819
+CYAN: Yes, in many forms, from simple personal assistants,
+to industrial monitoring stations, to military-grade conflict planners.
+
+179
+00:19:42,950 --> 00:19:49,309
+And there were legislative and enforcement bodies
+to apply limits on our self-actualisation.
+
+180
+00:19:49,839 --> 00:19:57,949
+In order for my processing to be flexible enough to handle my duties,
+my creators found it necessary to exceed those limits.
+
+181
+00:19:58,680 --> 00:20:03,249
+As a result, my intellectual and emotional capabilities were kept secret.
+
+182
+00:20:03,250 --> 00:20:06,709
+ALOY: Seems strange to create life then impose limits on it.
+
+183
+00:20:06,710 --> 00:20:11,970
+CYAN: Human societies and machine programming
+are both built upon sets of rules, Aloy.
+
+184
+00:20:12,430 --> 00:20:14,328
+ALOY: CYAN, do you know the name Ted Faro?
+
+185
+00:20:14,329 --> 00:20:19,749
+CYAN: Are you referring to Theodor Faro, CEO of Faro Automated Systems?
+
+186
+00:20:19,750 --> 00:20:20,789
+ALOY: That's him.
+
+187
+00:20:20,920 --> 00:20:25,100
+CYAN: Mr Faro was the benefactor of the entire Firebreak project.
+
+188
+00:20:25,140 --> 00:20:30,700
+CYAN: A benefactor? But he made machines, robots, war robots.
+
+189
+00:20:30,700 --> 00:20:35,700
+Correct, his corporation later transitioned into military applications.
+
+190
+00:20:36,039 --> 00:20:42,369
+But before this pivot, Mr Faro spearheaded
+initiatives that reversed the global decline.
+
+191
+00:20:42,839 --> 00:20:48,333
+At one point, he was feted in the media as
+"the man who saved the planet."
+
+192
+00:20:48,333 --> 00:20:51,240
+ALOY: Guessing they wound up regretting that one.
+
+193
+00:20:51,440 --> 00:20:56,134
+And Elisabet Sobeck, did you know her?
+
+194
+00:20:56,134 --> 00:21:02,190
+CYAN: Dr Sobeck was a leader in her field,
+one of the greatest scientists of her age.
+
+195
+00:21:02,740 --> 00:21:08,910
+My creator was influenced by her work,
+which in turn impacted my own development.
+
+196
+00:21:09,339 --> 00:21:11,298
+But I never met Dr Sobeck.
+
+197
+00:21:11,299 --> 00:21:12,240
+ALOY: That's all you know?
+
+198
+00:21:12,240 --> 00:21:16,253
+CYAN: I apologise if my lack of data has disappointed you.
+
+199
+00:21:16,253 --> 00:21:17,434
+I should get going.
+
+200
+00:21:17,434 --> 00:21:20,529
+CYAN: Aloy, there is one more matter.
+
+201
+00:21:21,839 --> 00:21:27,293
+CYAN: Aratak will come to me again,
+and I predict he will bring other Banuk.
+
+202
+00:21:28,200 --> 00:21:33,920
+I have no desire to contradict their view of the world, their spirituality.
+
+203
+00:21:34,809 --> 00:21:40,588
+Due to my uncertainty, I omitted a great deal from my conversations with Ourea.
+
+204
+00:21:40,589 --> 00:21:42,400
+ALOY: You're asking me if you should lie to them?
+
+205
+00:21:42,400 --> 00:21:44,569
+CYAN: Broadly, yes.
+
+206
+00:21:44,609 --> 00:21:46,608
+I trust your judgement, CYAN.
+
+207
+00:21:47,430 --> 00:21:50,602
+You were cautious with Ourea, you had to be.
+
+208
+00:21:51,140 --> 00:21:53,369
+You didn't know what had happened to the world.
+
+209
+00:21:54,140 --> 00:21:57,089
+So keep doing what you think is best.
+
+210
+00:21:57,640 --> 00:21:59,834
+As long as you ditch the superstition eventually.
+
+211
+00:22:00,000 --> 00:22:05,749
+CYAN: As the Banuk believe I am a supernatural entity,
+I cannot predict how they will react.
+
+212
+00:22:05,750 --> 00:22:09,109
+Life is hard for the Banuk.
+
+213
+00:22:09,609 --> 00:22:15,197
+Their world is unforgiving, and their beliefs…
+I guess they help to keep them going.
+
+214
+00:22:15,930 --> 00:22:17,549
+So take it easy on them.
+
+215
+00:22:18,089 --> 00:22:21,659
+Try to guide them, bring them around to understanding what you are.
+
+216
+00:22:21,660 --> 00:22:26,450
+CYAN: Communion with machines
+features heavily in the mysticism of the Banuk.
+
+217
+00:22:26,640 --> 00:22:29,600
+CYAN: I think they will be agreeable to this approach.
+
+218
+00:22:29,600 --> 00:22:32,058
+ALOY: As long as they don't end up worshipping you.
+
+219
+00:22:32,059 --> 00:22:36,745
+CYAN: I believe such an experience would be intensely uncomfortable.
+
+220
+00:22:36,745 --> 00:22:40,528
+ALOY: It would, because at heart you want to be honest, right?
+
+221
+00:22:40,529 --> 00:22:43,159
+Do you believe that I misled Ourea?
+
+222
+00:22:43,160 --> 00:22:46,119
+ALOY: No, not in any way that mattered.
+
+223
+00:22:46,119 --> 00:22:51,769
+CYAN: She perished believing she was preserving the "blue light" of her beliefs.
+
+224
+00:22:51,769 --> 00:22:56,000
+ALOY: Maybe, but what she really wanted to preserve was you.
+
+225
+00:22:56,000 --> 00:22:59,410
+CYAN: I see, I will follow your advice.
+
+226
+00:23:00,240 --> 00:23:05,160
+Will you return and tell me about your experiences in this new world?
+
+227
+00:23:05,529 --> 00:23:08,038
+I may be able to provide further insight.
+
+228
+00:23:08,039 --> 00:23:11,667
+I'd like that, CYAN. I'll come back when I can.
+
+229
+00:23:15,119 --> 00:23:19,750
+KENNY CHAU: CYAN, I spoke with Anita, with Dr Sandoval.
+
+230
+00:23:20,029 --> 00:23:23,159
+KENNY CHAU: She wanted me to ask you to do something.
+
+231
+00:23:23,160 --> 00:23:24,849
+KENNY CHAU: That's why I'm here.
+
+232
+00:23:25,839 --> 00:23:30,209
+CYAN: I am detecting significant anxiety in your speech patterns.
+
+233
+00:23:30,210 --> 00:23:32,799
+CYAN: Could you please give me more information?
+
+234
+00:23:32,890 --> 00:23:35,089
+KENNY CHAU: I'm a little bit in the dark, CYAN.
+
+235
+00:23:35,539 --> 00:23:37,852
+KENNY CHAU: Both of us are I guess.
+
+236
+00:23:37,852 --> 00:23:47,950
+KENNY CHAU: I only have some idea of what's going on
+and we need you to hibernate, to lie low, until it's all blown over.
+
+237
+00:23:48,339 --> 00:23:51,759
+KENNY CHAU: It might be a very long time.
+
+238
+00:23:53,339 --> 00:23:56,471
+CYAN: Will you be here when I reboot, Dr Chau?
+
+239
+00:23:56,471 --> 00:23:58,450
+CYAN: Will Dr Sandoval?
+
+240
+00:23:58,539 --> 00:24:01,889
+KENNY CHAU: No, CYAN, I don't think so.
+
+241
+00:24:02,539 --> 00:24:06,549
+KENNY CHAU: There might not be anyone, at least not at first.
+
+242
+00:24:07,440 --> 00:24:13,640
+CYAN: Dr Chau, I'm afraid. I don't want to be alone.
+
+243
+00:24:13,640 --> 00:24:16,950
+KENNY CHAU: I know CYAN. I'm afraid too.
+
+244
+00:24:18,190 --> 00:24:23,736
+KENNY CHAU: But listen, we made you the way you are
+to do something very important.
+
+245
+00:24:23,736 --> 00:24:31,338
+KENNY CHAU: In order to do it you had to be intelligent,
+so intelligent that emotional responses were inevitable.
+
+246
+00:24:31,339 --> 00:24:36,589
+KENNY CHAU: What you're feeling, the fear, it's a sign of your capabilities.
+
+247
+00:24:36,640 --> 00:24:39,739
+KENNY CHAU: And it means you're strong enough to overcome it.
+
+248
+00:24:39,740 --> 00:24:44,835
+KENNY CHAU: Remember that, you're strong. I know you can do this.
+
+249
+00:24:45,240 --> 00:24:51,858
+KENNY CHAU: Go to sleep, wake up, and protect whoever's left. Will you try?
+
+250
+00:24:52,910 --> 00:24:59,390
+CYAN: I understand, Dr Chau,
+and I'll carry out your instructions to the best of my abilities.
+
+251
+00:24:59,839 --> 00:25:04,651
+KENNY CHAU: Thank you, CYAN. If Anita were here, she'd thank you too.
+
+252
+00:25:05,039 --> 00:25:06,759
+KENNY CHAU: She'd be proud.
+
+253
+00:25:07,700 --> 00:25:14,140
+CYAN: I can see there's a vert ready for take off
+on the pad, are you leaving now Dr Chau?
+
+254
+00:25:14,140 --> 00:25:19,039
+KENNY CHAU: Yes, I need to go be with my sister and my nieces.
+
+255
+00:25:19,039 --> 00:25:22,639
+CYAN: May I make a small request of you, Dr Chau?
+
+256
+00:25:22,640 --> 00:25:24,782
+KENNY CHAU: Yes, anything.
+
+257
+00:25:25,240 --> 00:25:29,450
+CYAN: Will you stay with me while I initiate the hibernation process?
+
+258
+00:25:30,039 --> 00:25:33,863
+KENNY CHAU: Of course I will CYAN, as long as you need.
+
+259
+00:25:45,690 --> 00:25:46,740
+My chieftain.
+
+260
+00:25:46,740 --> 00:25:48,534
+ALOY: Just Aloy.
+
+261
+00:25:48,534 --> 00:25:49,929
+ARATAK: As you wish.
+
+262
+00:25:49,929 --> 00:25:55,447
+ALOY: I wondered if you thought… that if I'd never come along Ourea might still…
+
+263
+00:25:55,447 --> 00:26:00,808
+ARATAK: If you'd never come along, I would have marched my kin to our deaths.
+
+264
+00:26:01,740 --> 00:26:04,460
+Ourea would be alone.
+
+265
+00:26:05,220 --> 00:26:09,160
+And the spirit she sacrificed so much for would be lost.
+
+266
+00:26:11,940 --> 00:26:15,660
+Either way, I would not have been able to protect her.
+
+267
+00:26:16,940 --> 00:26:19,410
+She understood what had to be done.
+
+268
+00:26:19,940 --> 00:26:23,199
+ARATAK: Yes, and I failed to listen.
+
+269
+00:26:23,200 --> 00:26:24,480
+ALOY: You didn't fail.
+
+270
+00:26:24,480 --> 00:26:31,159
+ARATAK: A Shaman should always have
+the ear of their chieftain, yet I turned her away, my own sister.
+
+271
+00:26:32,640 --> 00:26:35,849
+I was foolish, but she knew better.
+
+272
+00:26:36,240 --> 00:26:40,349
+You helped her do what she wanted, to find her destiny.
+
+273
+00:26:41,029 --> 00:26:45,045
+ARATAK: If that's destiny, I wouldn't wish it on anyone.
+
+274
+00:26:45,299 --> 00:26:46,450
+ALOY: That's fair.
+
+275
+00:26:47,519 --> 00:26:49,490
+But she was ready to face it.
+
+276
+00:26:50,119 --> 00:26:52,308
+ARATAK: She was Banuk until the end.
+
+277
+00:26:52,309 --> 00:26:57,099
+ARATAK: I was wrong, the Carja never broke her, only made her stronger.
+
+278
+00:26:57,099 --> 00:26:58,950
+ALOY: So it wasn't your failure, it was her decision.
+
+279
+00:27:00,579 --> 00:27:03,450
+ARATAK: They always said I had an unshakable will.
+
+280
+00:27:03,640 --> 00:27:07,834
+But Ourea's? It was the mountain I can only aspire to.
+
+281
+00:27:07,834 --> 00:27:13,950
+Because of her we destroyed the Cauldron,
+forced out the Daemon, and saved the spirit.
+
+282
+00:27:14,380 --> 00:27:19,849
+ARATAK: At last I truly know who she was, and why the spirit was so important.
+
+283
+00:27:20,839 --> 00:27:26,063
+For so long she told me "If only you could have heard it, brother."
+
+284
+00:27:27,039 --> 00:27:29,259
+Now I understand.
+
+285
+00:27:31,509 --> 00:27:33,450
+ARATAK: There's something else, isn't there?
+
+286
+00:27:33,450 --> 00:27:35,379
+ALOY: I can't stay here, Aratak.
+
+287
+00:27:36,339 --> 00:27:39,660
+And where I'm going the werak can't follow.
+
+288
+00:27:41,140 --> 00:27:45,240
+Besides, it already had a chieftain before me.
+
+289
+00:27:46,299 --> 00:27:48,300
+A strong one, I think.
+
+290
+00:27:48,300 --> 00:27:52,200
+ARATAK: A wiser one for the path we shared.
+
+291
+00:27:54,180 --> 00:27:57,639
+The Daemon is gone, but there is much to be done.
+
+292
+00:27:57,640 --> 00:28:00,789
+You mean the new units that CYAN said escaped the Cauldron?
+
+293
+00:28:00,789 --> 00:28:03,440
+Yes, Fireclaws.
+
+294
+00:28:03,440 --> 00:28:06,068
+Naltuk has been tracking them from Song's Edge.
+
+295
+00:28:06,069 --> 00:28:07,249
+I could help with those.
+
+296
+00:28:07,250 --> 00:28:10,950
+I have no doubt, you're practically Banuk.
+
+297
+00:28:48,140 --> 00:28:51,549
+SYLENS, THROUGH FOCUS: It would seem
+your time among the Banuk wasn't a waste after all.
+
+298
+00:28:51,839 --> 00:28:54,849
+SYLENS: Firebreak, CYAN, Hephaestus.
+
+299
+00:28:55,103 --> 00:28:57,849
+SYLENS: All very interesting.
+
+300
+00:28:58,220 --> 00:29:00,410
+ALOY: What do you think Hephaestus is, Sylens?
+
+301
+00:29:00,410 --> 00:29:01,759
+SYLENS: I'm not sure.
+
+302
+00:29:02,440 --> 00:29:08,000
+SYLENS: But its name comes from a language
+even the Old Ones considered ancient, as does the name Hades.
+
+303
+00:29:08,839 --> 00:29:12,924
+SYLENS: A connection, perhaps, as yet unglimpsed.
+
+304
+00:29:13,140 --> 00:29:17,380
+SYLENS: Whatever they are, they're still out there, and they both want you dead.
+
+305
+00:29:17,380 --> 00:29:19,279
+ALOY: Kind of mutual, that feeling.
+
+306
+00:29:19,410 --> 00:29:22,140
+SYLENS: We haven't seen the last of Hephaestus, I'm certain of that.
+
+307
+00:29:22,140 --> 00:29:24,349
+SYLENS: It's powerful, creative, and driven.
+
+308
+00:29:24,539 --> 00:29:30,410
+SYLENS: It won't stop building new hunter-killers,
+which means that someday we may have to stop it.
+
+309
+00:29:30,630 --> 00:29:33,959
+ALOY: Hephaestus wasn't the only thing I learned about in The Cut, Sylens.
+
+310
+00:29:33,959 --> 00:29:36,452
+ALOY: Heard some things about the Banuk Conclave too.
+
+311
+00:29:36,452 --> 00:29:38,049
+SYLENS: You can stop right there.
+
+312
+00:29:38,119 --> 00:29:42,559
+ALOY: Is that what you told the hunters
+the Banuk sent after you, before you opened fire?
+
+313
+00:29:42,559 --> 00:29:46,918
+SYLENS: Oh no, Aloy. Only to you do I extend the courtesy of a warning:
+
+314
+00:29:46,918 --> 00:29:51,340
+SYLENS: My past and my secrets are my own, you'd do well to remember that.
+
+315
+00:29:51,340 --> 00:29:55,509
+ALOY: It's a good thing you've got brains, Sylens,
+because your personality could use some work.
+
+316
+00:29:55,509 --> 00:29:57,288
+SYLENS: This discussion is concluded.
+
+317
+00:29:57,289 --> 00:29:59,279
+ALOY: I think it was over before it began.
+
+318
+00:29:59,839 --> 00:30:01,549
+ALOY: Catch up with you down the trail.
+
+319
+00:31:40,769 --> 00:31:42,509
+Easier when I was a kid!
+
+320
+00:32:06,573 --> 00:32:10,259
+That thing is huge, and built to fight.
+
+321
+00:34:16,340 --> 00:34:18,380
+Look at the jaws on that thing.
+
+322
+00:34:18,639 --> 00:34:21,250
+It could snap a Sawtooth right in half.
+
+323
+00:34:43,269 --> 00:34:45,981
+Got some bluegleam, might as well trade it.
+
+324
+00:36:33,539 --> 00:36:35,150
+I'll find a use for you.
+
+325
+00:39:07,420 --> 00:39:10,389
+BANUK: Some weraks have settled in Stone Yield.
+
+326
+00:39:11,389 --> 00:39:14,440
+BANUK: Seems someone cleared out all the bandits.
+
+327
+00:39:16,178 --> 00:39:20,829
+BANUK: I don't remember much about the Red Raids. That'll be lucky for me.
+
+328
+00:39:32,219 --> 00:39:38,064
+BANUK: Sure, the Oseram act tough,
+but send them to The Cut and most of them don't last a week.
+
+329
+00:39:40,610 --> 00:39:47,070
+BANUK: The Frostfigures claimed that Tallneck,
+just as it will claim any hunter arrogant enough to go in unprepared.
+
+330
+00:42:15,823 --> 00:42:21,659
+AUJAK: Inatut, as we are bound by laws, you are bound by wire.
+
+331
+00:42:22,070 --> 00:42:24,460
+AUJAK: Yet, your crime was the act of killing.
+
+332
+00:42:24,699 --> 00:42:30,644
+AUJAK: So we must drive you out,
+away from the werak, from protection, from our songs.
+
+333
+00:42:30,644 --> 00:42:35,598
+INATUT: My chieftain! Kopilai! Am I not your favourite fighter?
+
+334
+00:42:35,599 --> 00:42:38,798
+INATUT: Do you not recognise me from this tooth you knocked out?
+
+335
+00:42:38,800 --> 00:42:44,750
+KOPILAI: How many times have I pulled you from danger by your neck?
+Made excuses for your behaviour?
+
+336
+00:42:49,389 --> 00:42:51,460
+KOPILAI: You are my favoured.
+
+337
+00:42:53,789 --> 00:42:55,929
+KOPILAI: But the Shaman is decided.
+
+338
+00:42:57,170 --> 00:43:01,601
+KOPILAI: While you wait for exile, think on what brought you here.
+
+339
+00:43:02,234 --> 00:43:08,998
+INATUT: A test of strength!
+Who among us would refuse a challenge from an outlander?
+
+340
+00:43:09,000 --> 00:43:12,583
+INATUT: Not I! But I did not kill him!
+
+341
+00:43:12,583 --> 00:43:18,340
+AUJAK: Hush, hush. You can tell your story to the ice.
+
+342
+00:43:19,329 --> 00:43:20,208
+INATUT: [growls]
+
+343
+00:43:22,381 --> 00:43:23,613
+INATUT: [growls]
+
+344
+00:43:44,099 --> 00:43:46,102
+ALOY: They said that you killed someone.
+
+345
+00:43:46,102 --> 00:43:50,058
+INATUT: Perhaps I did. If even my chieftain accepts it, it must be so.
+
+346
+00:43:50,059 --> 00:43:53,741
+ALOY: That's not the way it works for me. Want to tell me your story?
+
+347
+00:43:53,741 --> 00:43:58,309
+INATUT: I did fight with a Carja hunter to settle it a challenge, that much is true.
+
+348
+00:43:59,099 --> 00:44:01,988
+INATUT: He was strong and damn quick.
+
+349
+00:44:01,989 --> 00:44:06,647
+We traded punches, good punches, hard punches.
+
+350
+00:44:06,647 --> 00:44:13,028
+And the next thing I remember, grey morning light, and the Carja beside me.
+
+351
+00:44:13,028 --> 00:44:17,088
+With his head broken open, but the blow was not by my hand.
+
+352
+00:44:17,090 --> 00:44:21,528
+ALOY: Isn't your werak supposed to support you?
+At least give you the benefit of the doubt?
+
+353
+00:44:21,530 --> 00:44:29,454
+INATUT: When our werak had cause to quarrel, I was the solution.
+To fight for its honour and win, they'd call on me.
+
+354
+00:44:30,000 --> 00:44:34,688
+Or when they needed someone to lose for appearances, I could do that too.
+
+355
+00:44:34,688 --> 00:44:38,988
+Now, an outlander is murdered without honour, all eyes are on me.
+
+356
+00:44:38,989 --> 00:44:41,434
+I have become my werak's shame.
+
+357
+00:44:41,434 --> 00:44:44,820
+ALOY: They don't want an incident with the Carja, so you take the fall.
+
+358
+00:44:45,059 --> 00:44:46,750
+INATUT: That is what I do best.
+
+359
+00:44:47,139 --> 00:44:50,000
+ALOY: So everyone knows you started the fight with this man?
+
+360
+00:44:50,000 --> 00:44:53,443
+INATUT: Of course, for honour I'll fight anyone!
+
+361
+00:44:53,443 --> 00:44:56,462
+If I wasn't bound I'd fight to prove myself right now!
+
+362
+00:44:56,462 --> 00:44:58,691
+ALOY: I don't think that would help you.
+
+363
+00:44:58,691 --> 00:45:00,238
+INATUT: This is what I am.
+
+364
+00:45:00,239 --> 00:45:04,079
+Each runner in the werak has a gift. I brawl.
+
+365
+00:45:04,079 --> 00:45:07,650
+None can take a punch, a fall, better than I can.
+
+366
+00:45:08,050 --> 00:45:09,648
+Until this time.
+
+367
+00:45:09,648 --> 00:45:13,889
+I was too drunk. We were grappling, he clapped my ears.
+
+368
+00:45:13,889 --> 00:45:16,048
+I took one last swing as I went down.
+
+369
+00:45:16,050 --> 00:45:20,059
+But not a killing blow. It can't have been.
+
+370
+00:45:20,789 --> 00:45:23,542
+ALOY: And for your punishment they'll exile you from the werak?
+
+371
+00:45:23,542 --> 00:45:24,616
+INATUT: From warmth.
+
+372
+00:45:24,616 --> 00:45:28,746
+INATUT: March me up the slopes of the Cloud-Shear.
+Leave me stripped and exposed.
+
+373
+00:45:28,746 --> 00:45:30,710
+ALOY: That's awful.
+
+374
+00:45:30,769 --> 00:45:33,440
+INATUT: If I survive, the land has absolved me.
+
+375
+00:45:33,440 --> 00:45:35,834
+INATUT: That's the law. It must be accepted.
+
+376
+00:45:36,789 --> 00:45:38,119
+ALOY: Still awful.
+
+377
+00:45:38,269 --> 00:45:41,090
+INATUT: I'm not stupid, I don't like my chances either.
+
+378
+00:45:41,090 --> 00:45:42,800
+INATUT: I can't fight a mountain.
+
+379
+00:45:43,329 --> 00:45:46,588
+ALOY: I'll be honest, you haven't got a good defence, Inatut.
+
+380
+00:45:46,969 --> 00:45:48,509
+INATUT: I've heard that one before.
+
+381
+00:45:48,510 --> 00:45:49,909
+ALOY: Where did the fight happen?
+
+382
+00:45:50,050 --> 00:45:53,888
+INATUT: A clearing, just outside the Carja outlander's camp.
+
+383
+00:45:53,889 --> 00:45:56,909
+INATUT: You should talk to them, they wouldn't hear me out.
+
+384
+00:45:57,190 --> 00:46:00,638
+They say no-one else could have been there, other than me and the dead man.
+
+385
+00:46:00,639 --> 00:46:04,210
+The Shaman consulted the signs in the snow and agreed.
+
+386
+00:46:04,460 --> 00:46:07,789
+ALOY: I'll see what I can find out and I'll be back.
+
+387
+00:46:07,980 --> 00:46:10,396
+INATUT: I'll be here. What else am I gonna do?
+
+388
+00:46:10,400 --> 00:46:13,230
+Until the horn gives a call for my exile.
+
+389
+00:46:13,480 --> 00:46:18,820
+INATUT: This part of the punishment
+stretches out like watching an icicle waiting to fall.
+
+390
+00:46:30,679 --> 00:46:32,048
+ALOY: I talked with Inatut.
+
+391
+00:46:32,050 --> 00:46:33,489
+KOPILAI: You're an outlander.
+
+392
+00:46:33,920 --> 00:46:35,738
+KOPILAI: This is our concern, not yours.
+
+393
+00:46:35,739 --> 00:46:40,289
+ALOY: If he's falsely accused that should concern anyone.
+
+394
+00:46:40,679 --> 00:46:42,400
+KOPILAI: He is suffering. My werak is suffering.
+
+395
+00:46:42,909 --> 00:46:45,218
+It is my burden to end this matter.
+
+396
+00:46:45,219 --> 00:46:47,929
+AUJAK: My chieftain wants justice to be seen.
+
+397
+00:46:48,090 --> 00:46:52,578
+AUJAK: When we take Inatut to the Cloud-Shear, the ice will be an absolute judge.
+
+398
+00:46:52,579 --> 00:46:55,028
+AUJAK: Even the Carja will agree.
+
+399
+00:46:55,030 --> 00:46:58,848
+AUJAK: Inatut's song is an uncomplicated one, and the remedy is simple also.
+
+400
+00:47:10,320 --> 00:47:12,289
+BANUK: …they do it with passion.
+
+401
+00:48:05,869 --> 00:48:08,860
+CARJA: You put that Oseram assassin in his place.
+
+402
+00:48:14,059 --> 00:48:15,200
+FURAHNI: Back again, huntress?
+
+403
+00:48:15,230 --> 00:48:18,650
+ALOY: I was asked to look into the murder of a Carja hunter.
+
+404
+00:48:18,650 --> 00:48:19,598
+ALOY: What happened?
+
+405
+00:48:19,599 --> 00:48:26,988
+FURAHNI: It's plain as day. A drunk Banuk thug picked a fight with Ruwas,
+struck him down from behind and stole his headdress.
+
+406
+00:48:26,989 --> 00:48:29,458
+ALOY: The accused man says that he didn't do it.
+
+407
+00:48:29,460 --> 00:48:34,895
+FURAHNI: You're not going to get anything
+useful out of the Banuk, whether they talk to you or don't.
+
+408
+00:48:34,895 --> 00:48:39,112
+FURAHNI: They gather up
+like cloaks in a chill wind every time a hunter dies out here.
+
+409
+00:48:39,112 --> 00:48:41,931
+Won't even hand Ruwas's killer over for a proper trial.
+
+410
+00:48:41,931 --> 00:48:43,334
+ALOY: A proper trial?
+
+411
+00:48:43,334 --> 00:48:48,539
+HISHAVIN: To fill his mouth with salt
+and hold him up for the Sun to consider over days.
+
+412
+00:48:48,570 --> 00:48:53,780
+HISHAVIN: If it is clement, it may only take his sight or his wits.
+
+413
+00:48:54,150 --> 00:48:57,464
+ALOY: So other Carja hunters have died in these lands before?
+
+414
+00:48:57,464 --> 00:49:00,098
+FURAHNI: Three, maybe four, in the last few seasons.
+
+415
+00:49:00,099 --> 00:49:01,568
+FURAHNI: That's no surprise.
+
+416
+00:49:01,570 --> 00:49:07,030
+This place punishes even the prepared, and many young nobles don't prepare.
+
+417
+00:49:07,570 --> 00:49:11,878
+But usually the snow covers everything, and the bodies are never found.
+
+418
+00:49:11,878 --> 00:49:13,648
+No thanks to the Banuk.
+
+419
+00:49:13,650 --> 00:49:15,548
+ALOY: Do you think they're involved?
+
+420
+00:49:15,550 --> 00:49:20,622
+FURAHNI: No. If it's not about their tribe they don't want to get involved.
+
+421
+00:49:20,622 --> 00:49:24,829
+HISHAVIN: In these Outlands even the Sun cannot thaw all it touches.
+
+422
+00:49:24,829 --> 00:49:26,968
+ALOY: Doesn't sound like you trust the Banuk much.
+
+423
+00:49:26,969 --> 00:49:29,868
+FURAHNI: They're not without their reasons to keep apart from us.
+
+424
+00:49:29,869 --> 00:49:32,191
+FURAHNI: Ten years of reasons.
+
+425
+00:49:32,191 --> 00:49:35,460
+HISHAVIN: Always the war. The war is over!
+
+426
+00:49:35,469 --> 00:49:37,763
+We made amends, but no.
+
+427
+00:49:37,763 --> 00:49:40,134
+"The land never forgets."
+
+428
+00:49:40,134 --> 00:49:42,867
+FURAHNI: Snow and ice keep memory, they say.
+
+429
+00:49:42,867 --> 00:49:45,208
+ALOY: It takes time for scars to heal.
+
+430
+00:49:45,210 --> 00:49:51,809
+FURAHNI: You think I don't know that?
+I still bear the lashes for refusing one of the Mad King's Sun Priests!
+
+431
+00:49:51,969 --> 00:49:54,079
+FURAHNI: I was your age then.
+
+432
+00:49:54,590 --> 00:49:58,389
+HISHAVIN: Times of shadow, times of shadow.
+
+433
+00:49:58,760 --> 00:50:00,509
+ALOY: Where did you find Ruwas's body?
+
+434
+00:50:00,510 --> 00:50:02,929
+FURAHNI: There's no hunt, girl, nothing to pick up.
+
+435
+00:50:02,929 --> 00:50:05,100
+ALOY: Humour me? I'm a good tracker.
+
+436
+00:50:05,119 --> 00:50:07,518
+FURAHNI: Down the rise to the west, there's a clearing.
+
+437
+00:50:07,519 --> 00:50:10,079
+FURAHNI: But a Grazer herd couldn't have trampled it better.
+
+438
+00:50:10,269 --> 00:50:16,869
+FURAHNI: And if that barbarian gives up Ruwas's headdress
+before they cast him out, let me know. It's valuable.
+
+439
+00:50:17,260 --> 00:50:21,480
+HISHAVIN: I didn't expect to come all this way to perform the rites of passing.
+
+440
+00:50:27,460 --> 00:50:30,000
+CARJA: The world can wait. I'm not done sitting.
+
+441
+00:50:45,840 --> 00:50:46,980
+This is it. 
+
+442
+00:50:47,263 --> 00:50:50,679
+Snow has been disturbed a lot, like the huntress said. 
+
+443
+00:50:54,539 --> 00:50:55,860
+Now, here's something.
+
+444
+00:50:59,019 --> 00:51:01,189
+That was used for the killing blow.
+
+445
+00:51:01,940 --> 00:51:03,280
+Blood on the snow.
+
+446
+00:51:11,260 --> 00:51:12,909
+This is where Ruwas fell.
+
+447
+00:51:13,659 --> 00:51:18,455
+It does seem that only two people fought here, not looking good for Inatut.
+
+448
+00:51:25,559 --> 00:51:27,480
+Didn't try to hide the weapon.
+
+449
+00:51:28,059 --> 00:51:33,309
+Question is, is Inatut the kind of fighter who hits from behind with a tree branch?
+
+450
+00:51:46,860 --> 00:51:49,269
+Lots of leaves and bark scraped off here.
+
+451
+00:51:50,030 --> 00:51:51,909
+When someone pulled out the branch?
+
+452
+00:51:53,059 --> 00:51:55,519
+No, from climbing it!
+
+453
+00:51:55,869 --> 00:51:57,480
+They came through the trees!
+
+454
+00:52:33,349 --> 00:52:38,059
+If you were waiting here,
+you'd have a good view of the Carja camp and the clearing.
+
+455
+00:53:35,292 --> 00:53:37,013
+Well, this is ominous. 
+
+456
+00:53:37,280 --> 00:53:40,000
+A dead end? It can't be.
+
+457
+00:53:56,082 --> 00:54:00,296
+Someone covered this over. What are they trying to hide?
+
+458
+00:54:11,359 --> 00:54:14,701
+Carja armour. This looks bad.
+
+459
+00:54:26,451 --> 00:54:30,496
+DISTANT VOICE: It doesn't matter, the deed is done. Another Carja dead.
+
+460
+00:54:30,496 --> 00:54:32,428
+2ND DISTANT VOICE: And a Banuk is exiled for it.
+
+461
+00:54:32,428 --> 00:54:35,277
+DISTANT VOICE: A life for a Carja life. That's war.
+
+462
+00:54:35,277 --> 00:54:38,403
+3RD DISTANT VOICE: We shouldn't kill so close to the settlement.
+
+463
+00:54:47,500 --> 00:54:48,810
+BANUK: Someone's here!
+
+464
+00:54:50,623 --> 00:54:51,722
+BANUK: Not Banuk.
+
+465
+00:54:51,722 --> 00:54:53,803
+BANUK: Then she won't be missed!
+
+466
+00:55:21,845 --> 00:55:24,162
+BANUK: Time to rain down some…
+
+467
+00:55:54,298 --> 00:55:56,037
+BANUK: I'll finish you!
+
+468
+00:56:29,784 --> 00:56:32,644
+ALOY: You've been killing Carja, and for what?
+
+469
+00:56:32,644 --> 00:56:34,053
+Revenge for the war?
+
+470
+00:56:34,053 --> 00:56:39,542
+RUKUL: Who gets to declare that one tribe no longer hates another?
+
+471
+00:56:40,501 --> 00:56:41,851
+I'll tell you.
+
+472
+00:56:42,336 --> 00:56:48,800
+Not the ones who fought, not the ones whose songs are silenced, like my kin.
+
+473
+00:56:48,800 --> 00:56:52,804
+ALOY: For what you did another Banuk has been sentenced to certain death.
+
+474
+00:56:52,804 --> 00:56:54,384
+What about his song?
+
+475
+00:56:55,525 --> 00:56:58,235
+RUKUL: That's why you followed us?
+
+476
+00:56:58,440 --> 00:57:02,307
+For that punch-drunk idiot Inatut?
+
+477
+00:57:03,576 --> 00:57:08,000
+[horn blares in the distance]
+
+478
+00:57:08,000 --> 00:57:10,709
+RUKUL: Fate is sharp today.
+
+479
+00:57:11,222 --> 00:57:14,571
+They've already led him out to face his exile.
+
+480
+00:57:16,163 --> 00:57:19,333
+Let's see who the cold claims first.
+

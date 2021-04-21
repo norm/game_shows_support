@@ -1,0 +1,1209 @@
+1
+00:04:10,909 --> 00:04:13,050
+You were gone for quite a while.
+
+2
+00:04:13,240 --> 00:04:14,937
+Leonardo likes to talk.
+
+3
+00:04:14,937 --> 00:04:18,949
+PAOLA: That he does, but I trust he did more than talk.
+
+4
+00:04:20,310 --> 00:04:21,949
+PAOLA: Impressive.
+
+5
+00:04:22,350 --> 00:04:24,379
+I'm rather fond of it myself.
+
+6
+00:04:24,639 --> 00:04:28,588
+I've given you the skills, Leonardo's given you the blade.
+
+7
+00:04:28,589 --> 00:04:31,439
+All that remains is the deed.
+
+8
+00:04:31,439 --> 00:04:33,489
+Where can I find Uberto?
+
+9
+00:04:33,490 --> 00:04:38,599
+According to my girls, he'll be attending
+an unveiling tonight of Verrocchio's latest work.
+
+10
+00:04:38,600 --> 00:04:41,059
+It will be held at the Santa Croce cloister.
+
+11
+00:04:41,060 --> 00:04:43,699
+Watch over my mother and sister while I'm away.
+
+12
+00:04:43,699 --> 00:04:47,220
+Of course, Ezio, as if they were my own.
+
+13
+00:06:49,829 --> 00:06:51,489
+UBERTO: Again with this?
+
+14
+00:06:51,489 --> 00:06:53,598
+LORENZO: You have overstepped your bounds Uberto.
+
+15
+00:06:53,598 --> 00:06:55,919
+UBERTO: Who are you to speak of bounds?
+
+16
+00:06:55,920 --> 00:07:01,899
+UBERTO: You who have crowned yourself Lorenzo de Medici,
+Principe of Firenze (Prince of Florence).
+
+17
+00:07:01,899 --> 00:07:03,338
+I've done no such thing.
+
+18
+00:07:03,339 --> 00:07:08,649
+Of course not, ever innocent. How convenient.
+
+19
+00:07:09,040 --> 00:07:15,329
+At least now we see how far your reach extends, which is to say nowhere at all.
+
+20
+00:07:15,430 --> 00:07:19,759
+It has proved a valuable lesson for me and my allies.
+
+21
+00:07:19,759 --> 00:07:24,259
+Yes, your allies the Pazzi. Is that what this is about?
+
+22
+00:07:24,259 --> 00:07:26,470
+Be careful with your words, Lorenzo.
+
+23
+00:07:27,240 --> 00:07:30,370
+You might attract the wrong sort of attention.
+
+24
+00:09:02,500 --> 00:09:04,218
+GUEST 1: Good evening, Gonfalionere.
+
+25
+00:09:04,218 --> 00:09:08,629
+UBERTO: To you as well. I trust you're enjoying yourselves?
+
+26
+00:09:08,629 --> 00:09:13,049
+GUEST 1: Indeed, a nice distraction from
+that nasty business with the Auditore family.
+
+27
+00:09:13,139 --> 00:09:17,367
+UBERTO: And to think I once thought of Giovanni as a brother.
+
+28
+00:09:18,179 --> 00:09:20,189
+GUEST 1: Don't blame yourself.
+
+29
+00:09:20,190 --> 00:09:23,007
+GUEST 1: How could you have known what evils he planned?
+
+30
+00:09:23,007 --> 00:09:25,899
+GUEST 2: I say we strike that traitor's name from the record books.
+
+31
+00:09:25,899 --> 00:09:28,299
+GUEST 2: Let history forget he ever even existed.
+
+32
+00:09:28,299 --> 00:09:32,750
+UBERTO: Hmm, yes. If you'll excuse me for a moment.
+
+33
+00:09:42,421 --> 00:09:45,639
+BEATRICE: Uberto, a moment of your time?
+
+34
+00:09:45,639 --> 00:09:48,089
+UBERTO: Anything for you, Beatrice.
+
+35
+00:09:50,889 --> 00:09:55,559
+BEATRICE: So tell us, how does it feel to be a hero?
+
+36
+00:09:55,809 --> 00:09:58,347
+UBERTO: Please, I am no such thing.
+
+37
+00:09:58,347 --> 00:10:06,500
+UBERTO: As Gonfaloniere it is my duty to ensure that
+the city of Firenze remains a shining beacon of justice.
+
+38
+00:10:06,649 --> 00:10:13,038
+UBERTO: Corruption and its ilk shall find
+no purchase here so long as I am in control.
+
+39
+00:10:13,039 --> 00:10:17,119
+BEATRICE: You are a treasure, Uberto. I hope Lorenzo recognises that.
+
+40
+00:10:17,120 --> 00:10:22,446
+UBERTO: Yes, our great leader Lorenzo. [coughs]
+
+41
+00:10:22,889 --> 00:10:24,850
+UBERTO: I will see you ladies later.
+
+42
+00:10:39,190 --> 00:10:41,459
+GUEST 3: Ah, Uberto, there you are.
+
+43
+00:10:41,460 --> 00:10:44,490
+GUEST 3: I was just telling the others about the execution.
+
+44
+00:10:44,590 --> 00:10:48,478
+GUEST 4: I mean no offence, but what if they did not act alone?
+
+45
+00:10:48,478 --> 00:10:51,110
+UBERTO: You can rest easy, friends.
+
+46
+00:10:51,110 --> 00:10:57,529
+UBERTO: I am confident that this treachery
+began and ended with the Auditore family.
+
+47
+00:10:57,529 --> 00:11:01,226
+GUEST 5: What of the other son, Ezio was it?
+
+48
+00:11:01,870 --> 00:11:07,009
+UBERTO: The child poses no danger. Soft hands and an even softer head.
+
+49
+00:11:07,419 --> 00:11:10,700
+UBERTO: He'll be caught and executed before the week is out.
+
+50
+00:11:11,149 --> 00:11:15,320
+GUEST 3: Don't let us keep you, Uberto. We just wanted to say hello.
+
+51
+00:11:23,950 --> 00:11:26,186
+GUEST 4: Evening to you, Gonfaloniere.
+
+52
+00:11:26,186 --> 00:11:28,850
+UBERTO: Is everything to your satisfaction?
+
+53
+00:11:28,970 --> 00:11:31,749
+GUEST 4: Do you even need to ask? Of course!
+
+54
+00:11:31,750 --> 00:11:37,320
+GUEST 5: Accept our thanks, for this evening,
+and for helping to keep Firenze safe.
+
+55
+00:11:37,419 --> 00:11:40,070
+GUEST 5: I always had my doubts about the Auditore.
+
+56
+00:11:40,070 --> 00:11:42,399
+GUEST 5: Where did the family even come from?
+
+57
+00:11:42,639 --> 00:11:47,833
+GUEST 5: To gain such wealth and–and prestige in just a single generation.
+
+58
+00:11:47,833 --> 00:11:52,360
+GUEST 4: And the children, with their odd names, always making trouble.
+
+59
+00:11:52,379 --> 00:11:55,159
+GUEST 5: No surprise given the company that father kept.
+
+60
+00:11:55,899 --> 00:11:58,389
+GUEST 5: Whores and thieves I swear it.
+
+61
+00:11:59,070 --> 00:12:03,345
+UBERTO: Indeed, it is clear now he sought to undermine the city.
+
+62
+00:12:03,345 --> 00:12:06,620
+UBERTO: To overturn all we've worked so hard to build.
+
+63
+00:12:06,730 --> 00:12:09,129
+GUEST 5: But thanks to you, that's over now.
+
+64
+00:12:21,940 --> 00:12:23,110
+UBERTO: You!
+
+65
+00:12:34,909 --> 00:12:36,159
+SHAUN: Uberto Alberti.
+
+66
+00:12:36,809 --> 00:12:39,538
+SHAUN: Trusted friend of the Auditore family.
+
+67
+00:12:39,539 --> 00:12:42,980
+SHAUN: According to the history books this guy was a saint.
+
+68
+00:12:43,029 --> 00:12:46,839
+SHAUN: He prosecuted murderers, rapists, the worst criminals.
+
+69
+00:12:46,840 --> 00:12:50,000
+SHAUN: One of the best lawyers in Italy, he won every case.
+
+70
+00:12:50,000 --> 00:12:52,639
+SHAUN: In spite of the fact that he was self-taught.
+
+71
+00:12:52,860 --> 00:12:55,479
+SHAUN: Now, I've found a back door into the Templars' database server.
+
+72
+00:12:55,480 --> 00:12:58,350
+SHAUN: I've been combing it for some kind of smoking gun.
+
+73
+00:12:58,539 --> 00:12:59,850
+SHAUN: I found it.
+
+74
+00:13:01,139 --> 00:13:05,158
+SHAUN: Apparently Uberto's family was evicted by the Medici Bank.
+
+75
+00:13:05,159 --> 00:13:08,450
+SHAUN: Uberto's been aching for revenge ever since.
+
+76
+00:13:08,509 --> 00:13:11,149
+SHAUN: And the Templars promised him support.
+
+77
+00:13:11,479 --> 00:13:13,369
+SHAUN: Ezio's father was standing in the way.
+
+78
+00:13:13,370 --> 00:13:17,750
+SHAUN: And Uberto was jealous of his influence over the Florentine government.
+
+79
+00:13:17,850 --> 00:13:19,690
+SHAUN: Two birds with one stone, isn't it?
+
+80
+00:13:19,970 --> 00:13:25,750
+SHAUN: It looks like Uberto used his election
+to the Signoria as his opportunity to strike.
+
+81
+00:13:29,519 --> 00:13:34,038
+UBERTO: You would have done the same to save the ones you love.
+
+82
+00:13:34,039 --> 00:13:37,519
+Yes, I would. And I have!
+
+83
+00:13:40,000 --> 00:13:42,358
+The Auditore are not dead!
+
+84
+00:13:42,358 --> 00:13:48,475
+I'm still here! Me! Ezio! Ezio Auditore!
+
+85
+00:19:15,460 --> 00:19:17,754
+I think it's best I leave Firenze.
+
+86
+00:19:17,754 --> 00:19:19,079
+PAOLA: Where will you go?
+
+87
+00:19:19,589 --> 00:19:22,787
+My uncle Mario owns a villa near Monteriggioni.
+
+88
+00:19:22,787 --> 00:19:24,789
+You're still a wanted man, Ezio.
+
+89
+00:19:25,119 --> 00:19:26,692
+What would you have me do, then?
+
+90
+00:19:26,692 --> 00:19:29,279
+I've seen posters all across the district.
+
+91
+00:19:29,940 --> 00:19:32,809
+Tearing them down will help the city forget your face.
+
+92
+00:19:32,869 --> 00:19:35,513
+No doubt the heralds also incite the public.
+
+93
+00:19:35,513 --> 00:19:38,399
+Bribe them and they'll speak of other things.
+
+94
+00:19:38,400 --> 00:19:42,028
+Or you could hunt those who bear false witness against you.
+
+95
+00:19:42,029 --> 00:19:46,537
+They traded dignity for coin. Their loss would not be mourned.
+
+96
+00:19:46,539 --> 00:19:50,259
+Do any of these things and you should be free to leave.
+
+97
+00:20:00,690 --> 00:20:03,088
+REBECCA: I've added a program for tracking notoriety.
+
+98
+00:20:03,089 --> 00:20:07,880
+REBECCA: This little meter will help you know
+how far you are between notorious and incognito.
+
+99
+00:20:12,160 --> 00:20:14,950
+REBECCA: This will help you know if you should watch your actions.
+
+100
+00:20:14,950 --> 00:20:19,319
+REBECCA: It'll also tell you if your notoriety level is part of Ezio's memory or not.
+
+101
+00:21:36,830 --> 00:21:39,970
+Bentornato (Welcome back) Ezio. Were you successful?
+
+102
+00:21:40,210 --> 00:21:41,190
+Yes.
+
+103
+00:21:43,059 --> 00:21:44,160
+Madre (Mother)?
+
+104
+00:21:46,240 --> 00:21:50,440
+CLAUDIA: Ezio! Where have you been? They wouldn't let us leave.
+
+105
+00:21:50,440 --> 00:21:54,568
+CLAUDIA: And mother, oh!
+She hasn't spoken a single word since we left the house.
+
+106
+00:21:54,569 --> 00:21:56,649
+CLAUDIA: Father will need to sort things out.
+
+107
+00:21:56,650 --> 00:22:03,190
+CLAUDIA: Where is Father, and Federico, and Petruccio? Hmm?
+
+108
+00:22:03,190 --> 00:22:05,669
+Something's happened.
+
+109
+00:22:05,669 --> 00:22:06,960
+What do you mean?
+
+110
+00:22:09,349 --> 00:22:11,399
+No, it's impossible!
+
+111
+00:22:11,400 --> 00:22:12,288
+Claudia.
+
+112
+00:22:12,289 --> 00:22:14,118
+CLAUDIA: No! No, no, no, no!
+
+113
+00:22:14,119 --> 00:22:15,859
+I did everything I could, piccina (little one).
+
+114
+00:22:23,120 --> 00:22:26,980
+Listen! Right now, what matters is getting us all someplace safe.
+
+115
+00:22:27,140 --> 00:22:30,480
+But to do that, I need you to stay focused.
+
+116
+00:22:30,539 --> 00:22:32,039
+Do you understand?
+
+117
+00:22:36,634 --> 00:22:39,490
+Good, will you watch over mother for me?
+
+118
+00:22:45,210 --> 00:22:48,670
+Then we are ready. Thank you again for everything.
+
+119
+00:22:49,809 --> 00:22:53,149
+Stay safe, Ezio, stay vigilant.
+
+120
+00:22:53,150 --> 00:22:55,779
+I suspect the road ahead is yet long.
+
+121
+00:23:02,140 --> 00:23:03,160
+EZIO: On me.
+
+122
+00:26:53,809 --> 00:26:55,999
+CLAUDIA: How could this have happened to us?
+
+123
+00:26:56,000 --> 00:26:57,349
+EZIO: I don't know.
+
+124
+00:27:11,339 --> 00:27:12,939
+CLAUDIA: Will we ever be back?
+
+125
+00:27:12,940 --> 00:27:14,490
+EZIO: I don't know.
+
+126
+00:27:47,740 --> 00:27:49,828
+CLAUDIA: What will happen to our house?
+
+127
+00:27:49,829 --> 00:27:51,429
+EZIO: I don't know!
+
+128
+00:27:51,430 --> 00:27:54,859
+CLAUDIA: Were they… Were they given a proper burial?
+
+129
+00:27:55,640 --> 00:27:58,160
+EZIO: Yes, they were.
+
+130
+00:28:40,511 --> 00:28:41,903
+EZIO: We should be close.
+
+131
+00:28:41,903 --> 00:28:42,842
+CLAUDIA: Grazie Dio (Thank God)!
+
+132
+00:28:49,834 --> 00:28:52,349
+Buongiorno, Ezio.
+
+133
+00:28:54,039 --> 00:28:57,868
+How could you leave Firenze without saying a proper goodbye?
+
+134
+00:28:57,869 --> 00:28:58,779
+CLAUDIA: Ezio!
+
+135
+00:28:59,309 --> 00:29:01,190
+What do you want, Vieri?
+
+136
+00:29:01,190 --> 00:29:03,890
+VIERI: So many things.
+
+137
+00:29:04,440 --> 00:29:11,160
+A larger palazzo, two new steeds, a prettier bride…
+
+138
+00:29:11,690 --> 00:29:14,950
+Oh, and yes, your life.
+
+139
+00:29:15,900 --> 00:29:17,950
+VIERI: My condolences for the—
+
+140
+00:29:20,630 --> 00:29:22,869
+VIERI: —loss of your father and brothers.
+
+141
+00:29:23,559 --> 00:29:26,660
+VIERI: What will happen now that there's no one left to help you?
+
+142
+00:29:27,029 --> 00:29:31,279
+VIERI: I have such wonderful things in store for your mother and sister.
+
+143
+00:29:37,400 --> 00:29:39,789
+I grow tired of this game.
+
+144
+00:29:40,839 --> 00:29:43,829
+Finish him, and do not spare the women!
+
+145
+00:29:45,539 --> 00:29:47,300
+What's sorcery is this?
+
+146
+00:29:47,300 --> 00:29:51,347
+VOICE: Ha ha ha ha ha! Not sorcery, boy, skill.
+
+147
+00:29:51,347 --> 00:29:52,746
+Show yourself!
+
+148
+00:29:52,746 --> 00:29:54,339
+VOICE: As you wish.
+
+149
+00:29:55,440 --> 00:29:56,588
+VOICE: Here, use this!
+
+150
+00:29:56,589 --> 00:29:59,619
+Kill them! Kill them all!
+
+151
+00:31:04,240 --> 00:31:05,749
+You have my thanks.
+
+152
+00:31:05,750 --> 00:31:07,450
+Keep the sword, Ezio.
+
+153
+00:31:07,839 --> 00:31:09,660
+Do I know you from somewhere?
+
+154
+00:31:10,140 --> 00:31:14,049
+Don't you recognise me? It's-a-me, Mario!
+
+155
+00:31:14,289 --> 00:31:15,720
+Uncle Mario?!
+
+156
+00:31:15,930 --> 00:31:19,160
+It's been too long, nipote (nephew), far too long.
+
+157
+00:31:20,039 --> 00:31:24,349
+I heard what happened in Firenze, terrible.
+
+158
+00:31:24,650 --> 00:31:27,549
+Come, let's get you all away from here.
+
+159
+00:32:57,440 --> 00:32:59,950
+MARIO: So, tell me everything.
+
+160
+00:33:00,240 --> 00:33:02,549
+EZIO: They executed father for treason.
+
+161
+00:33:02,990 --> 00:33:05,069
+EZIO: Federico and Petruccio too.
+
+162
+00:33:05,640 --> 00:33:07,259
+EZIO: Then they came for me.
+
+163
+00:33:07,309 --> 00:33:08,849
+MARIO: Do you know why?
+
+164
+00:33:09,640 --> 00:33:14,779
+EZIO: I have no answers uncle,
+only a list of names taken from a man who wished me dead.
+
+165
+00:33:14,799 --> 00:33:16,699
+EZIO: I still can't believe they are gone.
+
+166
+00:33:16,700 --> 00:33:19,669
+MARIO: Don't worry, we will make sense of this.
+
+167
+00:33:19,670 --> 00:33:21,739
+EZIO: I wish I shared your optimism.
+
+168
+00:33:21,740 --> 00:33:24,563
+MARIO: I think you will find much to like in Monteriggioni.
+
+169
+00:33:24,563 --> 00:33:27,810
+EZIO: I thought Monteriggioni was an enemy of Firenze?
+
+170
+00:33:27,810 --> 00:33:30,999
+MARIO: For now. Next year it will be its friend.
+
+171
+00:33:31,000 --> 00:33:34,269
+MARIO: The year after, its enemy again, and on, and on.
+
+172
+00:33:34,269 --> 00:33:37,259
+MARIO: I cannot keep track, so I've stopped trying.
+
+173
+00:33:37,339 --> 00:33:40,170
+MARIO: These are honest, hardworking people.
+
+174
+00:33:40,190 --> 00:33:45,139
+MARIO: Our shops may only carry simple goods,
+but they're well made and dependable.
+
+175
+00:33:45,140 --> 00:33:46,989
+MARIO: There's a chapel here too.
+
+176
+00:33:46,990 --> 00:33:52,339
+MARIO: The prete (priest) seems a nice enough fellow,
+but I've never been much of a believer.
+
+177
+00:33:53,029 --> 00:33:57,038
+MARIO: Did you know the Villa Auditore is almost 200 years old?
+
+178
+00:33:57,039 --> 00:34:02,500
+MARIO: It was built by my great-grandfather,
+a strange man who carried all kinds of secrets.
+
+179
+00:34:02,609 --> 00:34:06,349
+MARIO: Keep your eyes open and you might discover a few of them yourself.
+
+180
+00:34:06,440 --> 00:34:12,789
+MARIO: With all the fighting that's been going on,
+this place has started to get a bit rough around the edges.
+
+181
+00:34:12,889 --> 00:34:17,960
+MARIO: I wish I could do something about it,
+but I just don't have the time or money to fix things up.
+
+182
+00:34:18,039 --> 00:34:19,590
+MARIO: Guess that's life, huh?
+
+183
+00:34:20,559 --> 00:34:23,349
+MARIO: Here we are, casa dolce casa (home sweet home).
+
+184
+00:34:23,639 --> 00:34:25,789
+MARIO: So what do you think?
+
+185
+00:34:26,539 --> 00:34:28,398
+EZIO: It's most impressive, uncle.
+
+186
+00:34:28,400 --> 00:34:31,110
+MARIO: She's seen better days, I suppose.
+
+187
+00:34:31,139 --> 00:34:35,960
+MARIO: Believe me, I'd have her shining again if only I had the time.
+
+188
+00:34:36,210 --> 00:34:40,528
+MARIO: Now that you have had the tour nipote, you should go and outfit yourself.
+
+189
+00:34:40,530 --> 00:34:43,067
+MARIO: My men in the market are expecting you.
+
+190
+00:34:43,067 --> 00:34:46,059
+MARIO: Return here when you're finished and we'll begin.
+
+191
+00:34:46,309 --> 00:34:48,759
+EZIO: "Begin"? Begin what?
+
+192
+00:34:48,760 --> 00:34:51,050
+MARIO: I thought you'd come here to train.
+
+193
+00:34:51,199 --> 00:34:57,940
+EZIO: No, uncle, I came here to escape Firenze,
+and I intend to take my family further still.
+
+194
+00:34:57,940 --> 00:35:01,738
+MARIO: But what about your father? He'd want you to finish his work.
+
+195
+00:35:01,739 --> 00:35:04,738
+EZIO: What work? My father was a banker.
+
+196
+00:35:04,739 --> 00:35:07,118
+MARIO: Wait, he did not tell you?
+
+197
+00:35:07,119 --> 00:35:09,538
+EZIO: I have no idea what you're talking about.
+
+198
+00:35:09,539 --> 00:35:12,110
+MARIO: Ma che mi combini (What were you thinking), Giovanni?!
+
+199
+00:35:13,039 --> 00:35:14,849
+MARIO: Where to even begin?
+
+200
+00:35:15,000 --> 00:35:19,086
+MARIO: Go and fetch the gear in the market, it will give me time to think.
+
+201
+00:35:19,086 --> 00:35:22,300
+EZIO: But– 
+MARIO: But that's that. We'll talk more later.
+
+202
+00:35:22,380 --> 00:35:24,688
+MARIO: Some spending money should you need it.
+
+203
+00:35:24,690 --> 00:35:30,550
+MARIO: And if you find yourself in need of rest,
+I've prepared a room for you on the top floor of the villa.
+
+204
+00:38:24,969 --> 00:38:31,586
+SUBJECT 16: The past, a vast web of connections
+and interconnections all ruled by chance. Or is it?
+
+205
+00:41:00,110 --> 00:41:03,378
+EZIO: Don't worry, we're only staying here for a little while.
+
+206
+00:41:03,380 --> 00:41:06,218
+CLAUDIA: I don't like it here, I want to go home.
+
+207
+00:41:06,219 --> 00:41:07,320
+EZIO: I know.
+
+208
+00:42:41,300 --> 00:42:43,836
+EZIO: Salute, uncle, I did as you asked.
+
+209
+00:42:44,397 --> 00:42:46,567
+MARIO: And quickly too, ben fatto (well done)! 
+
+210
+00:42:46,567 --> 00:42:49,309
+MARIO: Now let's teach you how to fight.
+
+211
+00:42:49,349 --> 00:42:53,230
+EZIO: No, as I said we are leaving.
+
+212
+00:42:53,599 --> 00:42:56,900
+Ezio! You barely held your own against Vieri.
+
+213
+00:42:56,900 --> 00:42:59,204
+You won't survive a week on the road.
+
+214
+00:42:59,204 --> 00:43:00,938
+If you want to leave, so be it.
+
+215
+00:43:00,940 --> 00:43:06,110
+But at least do so armed with
+the skills and knowledge necessary to defend yourself.
+
+216
+00:43:06,690 --> 00:43:10,298
+If not for me, for your mother and sister.
+
+217
+00:43:10,300 --> 00:43:11,329
+EZIO: Fine.
+
+218
+00:43:11,489 --> 00:43:12,610
+Ottimo (Very good)! 
+
+219
+00:43:19,909 --> 00:43:22,158
+MARIO: You can swing a sword to be sure.
+
+220
+00:43:22,369 --> 00:43:25,150
+MARIO: But offence alone will not carry a battle.
+
+221
+00:43:25,400 --> 00:43:27,809
+MARIO: You must survive long enough to strike!
+
+222
+00:43:27,969 --> 00:43:30,139
+MARIO: I will teach you how to dodge.
+
+223
+00:43:30,159 --> 00:43:33,010
+EZIO: You said my father was more than just a banker.
+
+224
+00:43:34,221 --> 00:43:38,376
+MARIO: Ah, no use dancing around it I suppose.
+
+225
+00:43:38,376 --> 00:43:41,219
+MARIO: Your father was an Assassin, Ezio.
+
+226
+00:43:41,610 --> 00:43:45,639
+EZIO: I told you before, my father was a paper pusher.
+
+227
+00:43:46,099 --> 00:43:49,309
+MARIO: No, he was born and bred to kill.
+
+228
+00:43:51,000 --> 00:43:53,420
+EZIO: I find this difficult to believe.
+
+229
+00:43:53,500 --> 00:43:55,340
+MARIO: What of the list you carry?
+
+230
+00:43:55,400 --> 00:43:58,498
+MARIO: Do you think it's merely a catalogue of debts?
+
+231
+00:43:58,500 --> 00:44:02,909
+MARIO: It holds the names of those responsible for your father's murder.
+
+232
+00:44:26,567 --> 00:44:30,448
+MARIO: Bene, I've taught you how to avoid your enemy's attacks.
+
+233
+00:44:30,449 --> 00:44:33,909
+MARIO: Now you'll learn how to turn them to your advantage.
+
+234
+00:44:34,570 --> 00:44:37,800
+EZIO: All this talk of Assassins and Templars.
+
+235
+00:44:37,889 --> 00:44:39,860
+EZIO: It reeks of fantasy.
+
+236
+00:44:40,179 --> 00:44:44,647
+MARIO: Like something from an old parchment
+covered in arcane writing, perhaps?
+
+237
+00:44:45,289 --> 00:44:46,909
+EZIO: How did you know?
+
+238
+00:44:47,670 --> 00:44:49,599
+MARIO: You have your father's blade.
+
+239
+00:44:49,599 --> 00:44:53,170
+MARIO: I figured you'd have the Codex page he was holding as well.
+
+240
+00:44:53,489 --> 00:44:54,809
+EZIO: "Codex"?
+
+241
+00:44:55,889 --> 00:44:58,968
+MARIO: Si, a guide to the inner workings of the order.
+
+242
+00:44:58,969 --> 00:45:02,849
+MARIO: Its origin, purpose, and techniques. Our creed, if you will.
+
+243
+00:45:03,289 --> 00:45:06,888
+MARIO: Your father believed the Codex contained a powerful secret.
+
+244
+00:45:06,889 --> 00:45:09,188
+MARIO: Something that would change the world.
+
+245
+00:45:09,190 --> 00:45:11,800
+MARIO: Perhaps it's why they came for him.
+
+246
+00:45:11,989 --> 00:45:17,500
+EZIO: Assassins, Templars, Codex pages, this is a lot to take in.
+
+247
+00:45:18,190 --> 00:45:20,477
+MARIO: You need to open your mind, Ezio.
+
+248
+00:45:20,477 --> 00:45:24,000
+MARIO: Always remember: nothing is true, everything is permitted.
+
+249
+00:46:34,079 --> 00:46:35,509
+MARIO: You're making fine progress, Ezio.
+
+250
+00:46:36,534 --> 00:46:39,989
+MARIO: Today, I'm going to teach you how to position yourself in battle.
+
+251
+00:46:40,179 --> 00:46:44,619
+MARIO: Where you stand and how you move can make all the difference.
+
+252
+00:46:46,380 --> 00:46:49,610
+MARIO: Don't think I haven't seen you picking apart my library.
+
+253
+00:46:49,960 --> 00:46:52,090
+MARIO: I trust you believe me now?
+
+254
+00:46:52,780 --> 00:46:56,480
+EZIO: Yes, my father was an Assassin.
+
+255
+00:46:56,679 --> 00:46:58,838
+EZIO: But why the need for such secrecy?
+
+256
+00:46:58,840 --> 00:47:01,400
+MARIO: Are you familiar with the Templars?
+
+257
+00:47:01,510 --> 00:47:05,500
+MARIO: One of several knightly orders formed during the Crusades.
+
+258
+00:47:05,679 --> 00:47:10,628
+MARIO: History teaches they were disbanded
+nearly two hundred years ago in France.
+
+259
+00:47:10,630 --> 00:47:12,442
+MARIO: Only they weren't.
+
+260
+00:47:12,442 --> 00:47:17,090
+MARIO: Merely pushed underground where they continue their nefarious work.
+
+261
+00:47:17,380 --> 00:47:18,789
+EZIO: What work?
+
+262
+00:47:19,579 --> 00:47:22,638
+MARIO: The Templars seek dominion over man.
+
+263
+00:47:22,639 --> 00:47:26,789
+MARIO: And we, the Assassins, are sworn to stand against them.
+
+264
+00:47:27,579 --> 00:47:29,318
+EZIO: Was Uberto one of them?
+
+265
+00:47:29,320 --> 00:47:30,468
+MARIO: Yes.
+
+266
+00:47:30,469 --> 00:47:32,900
+EZIO: And the other names on my father's list?
+
+267
+00:47:33,880 --> 00:47:35,090
+MARIO: Templars as well.
+
+268
+00:47:36,280 --> 00:47:37,857
+EZIO: That means Vieri…
+
+269
+00:47:38,416 --> 00:47:40,714
+MARIO: Just like his father, Francesco.
+
+270
+00:47:40,714 --> 00:47:42,989
+MARIO: Likely the entire Pazzi family.
+
+271
+00:47:44,079 --> 00:47:47,199
+EZIO: Ehi, it would explain many things.
+
+272
+00:49:24,869 --> 00:49:28,588
+Well done, nipote (nephew). You've really come into your own.
+
+273
+00:49:28,590 --> 00:49:31,758
+Thank you, Uncle, for all you have given me.
+
+274
+00:49:31,758 --> 00:49:35,298
+You're family, such is my duty and my desire.
+
+275
+00:49:35,300 --> 00:49:37,481
+I'm glad you had me stay.
+
+276
+00:49:37,481 --> 00:49:39,639
+Good, you've reconsidered leaving?
+
+277
+00:49:41,170 --> 00:49:43,970
+We sail for Spain in three days.
+
+278
+00:49:43,970 --> 00:49:49,718
+MARIO: But nipote, I have given you the skills that
+you might be better prepared to strike against our enemies.
+
+279
+00:49:49,719 --> 00:49:51,420
+And if they find me, I will.
+
+280
+00:49:51,420 --> 00:49:53,145
+MARIO: You want to leave Ezio?
+
+281
+00:49:53,145 --> 00:49:57,000
+To throw away everything your father fought and died for?
+
+282
+00:49:57,000 --> 00:49:59,787
+To deny your heritage? Fine!
+
+283
+00:49:59,787 --> 00:50:02,918
+Come vuoi (So be it). Arrivederci e buona fortuna (Goodbye and good luck).
+
+284
+00:50:02,920 --> 00:50:05,009
+Uncle, wait! Why is he so upset?
+
+285
+00:50:05,010 --> 00:50:06,380
+How can he not be?
+
+286
+00:50:06,460 --> 00:50:09,311
+Vieri has been harassing us ever since you first arrived.
+
+287
+00:50:09,311 --> 00:50:12,300
+To be expected, I suppose given his heritage.
+
+288
+00:50:30,030 --> 00:50:31,000
+Uncle!
+
+289
+00:50:33,007 --> 00:50:34,460
+EZIO: Where is everyone?
+
+290
+00:50:34,460 --> 00:50:38,269
+MERCENARY: They ride for San Gimignano to slay that snake Vieri.
+
+291
+00:50:39,030 --> 00:50:40,880
+EZIO: I wish to join them.
+
+292
+00:50:41,130 --> 00:50:43,519
+MERCENARY: You'll find what you need at the stables.
+
+293
+00:51:43,467 --> 00:51:47,296
+CLAUDIA: Ezio, look at her. I still can't get her to talk.
+
+294
+00:51:47,300 --> 00:51:51,908
+CLAUDIA: She spends all day and night
+in front of those feathers Petruccio used to collect.
+
+295
+00:51:51,909 --> 00:51:55,458
+CLAUDIA: She can't let him go, I don't know what to do.
+
+296
+00:51:55,460 --> 00:52:00,269
+EZIO: Don't worry, she'll come back to us, I know it.
+

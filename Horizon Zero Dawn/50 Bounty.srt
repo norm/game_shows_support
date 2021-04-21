@@ -1,0 +1,838 @@
+1
+00:00:22,289 --> 00:00:26,928
+VANASHA: I have friends in Meridian and I like to do favours for them when I can.
+
+2
+00:00:26,929 --> 00:00:28,550
+VANASHA: Uthid might be of use to them.
+
+3
+00:00:28,839 --> 00:00:32,850
+VANASHA: He's a good man, so naturally the Shadow Carja wanna murder him.
+
+4
+00:00:33,119 --> 00:00:36,639
+I've done some digging and I think he's headed for the Greenclimb.
+
+5
+00:00:36,640 --> 00:00:39,750
+It won't take those mercenaries long to find him.
+
+6
+00:00:40,039 --> 00:00:44,189
+He could use some help if you're so inclined.
+
+7
+00:00:44,429 --> 00:00:46,490
+What makes you think he's on the Greenclimb?
+
+8
+00:00:46,640 --> 00:00:48,289
+He knows he'll be pursued.
+
+9
+00:00:48,289 --> 00:00:52,239
+So he needs a hideout that's both familiar and defensible.
+
+10
+00:00:52,240 --> 00:00:56,609
+He once single-handedly held off an entire bandit clan in those foothills.
+
+11
+00:00:56,609 --> 00:00:59,679
+My guess is that he'll fall back on what worked before.
+
+12
+00:00:59,740 --> 00:01:01,850
+How do you know Uthid is innocent?
+
+13
+00:01:02,140 --> 00:01:09,709
+Look, he feeds orphans from his own rations,
+and personally punishes anyone who hurts the old or infirm.
+
+14
+00:01:09,890 --> 00:01:14,250
+The idea that he would try to kill Itamen is ridiculous.
+
+15
+00:01:14,340 --> 00:01:17,518
+He must have found something that can embarrass the priesthood.
+
+16
+00:01:17,519 --> 00:01:22,650
+Otherwise, Bahavas wouldn't risk marking such a well-regarded man for death.
+
+17
+00:01:26,739 --> 00:01:28,590
+Alright, made it.
+
+18
+00:01:29,189 --> 00:01:30,469
+Where did you go Uthid?
+
+19
+00:01:39,239 --> 00:01:43,406
+Food scraps. I'll bet Uthid stopped to see if he was being followed.
+
+20
+00:01:43,406 --> 00:01:46,730
+He must have kept going, I've got to catch up.
+
+21
+00:02:22,069 --> 00:02:25,150
+A dead machine. Uthid's been hunting.
+
+22
+00:02:40,340 --> 00:02:42,150
+Everything useful has been stripped.
+
+23
+00:02:44,560 --> 00:02:47,442
+Uthid's been gathering components, and probably for ammo.
+
+24
+00:02:51,734 --> 00:02:59,541
+Glinthawks looking to scavenge.
+
+25
+00:04:48,977 --> 00:04:52,850
+Alright, back to Uthid. Where'd he go from here?
+
+26
+00:05:08,870 --> 00:05:13,269
+Uthid took down a Ravager. Not an easy kill, but worth it for the parts.
+
+27
+00:05:40,439 --> 00:05:43,699
+Dead Watchers. More scrap for Uthid's stockpile.
+
+28
+00:06:11,240 --> 00:06:13,189
+The next one doesn't miss.
+
+29
+00:06:13,670 --> 00:06:14,949
+Uthid!
+
+30
+00:06:15,509 --> 00:06:19,667
+You're young for a bounty hunter, or am I old for a soldier?
+
+31
+00:06:19,889 --> 00:06:24,379
+I'm not here for the price on your head Uthid, I believe you're innocent.
+
+32
+00:06:24,379 --> 00:06:27,200
+Innocent, ha! Come on, then.
+
+33
+00:06:27,639 --> 00:06:31,900
+UTHID: If this is a trick, it's a good one, you've earned your kill.
+
+34
+00:06:51,509 --> 00:06:52,829
+ALOY: No tricks, just talk.
+
+35
+00:06:54,009 --> 00:06:56,550
+Alright, speak.
+
+36
+00:06:56,879 --> 00:07:00,627
+I want to know what happened at Sunfall. What really happened.
+
+37
+00:07:01,040 --> 00:07:05,050
+For weeks each dawn in the tent city came with a new death.
+
+38
+00:07:05,139 --> 00:07:07,370
+Always in their sleep, no struggle.
+
+39
+00:07:07,370 --> 00:07:09,559
+The old, the infirm, sometimes the young.
+
+40
+00:07:09,560 --> 00:07:11,550
+Those who couldn't fight for the cause.
+
+41
+00:07:12,129 --> 00:07:14,240
+I should have realised then it was a culling.
+
+42
+00:07:14,740 --> 00:07:16,850
+Who would do such a thing?
+
+43
+00:07:16,930 --> 00:07:19,617
+They thought it was a curse, an evil spirit.
+
+44
+00:07:20,250 --> 00:07:24,094
+But it was only a man and a silent poison.
+
+45
+00:07:25,269 --> 00:07:27,372
+It took time to catch him, but we did.
+
+46
+00:07:27,639 --> 00:07:30,649
+We brought him before Bahavas for the Sun's judgement.
+
+47
+00:07:30,939 --> 00:07:33,250
+He's the one who put the bounty on you.
+
+48
+00:07:33,310 --> 00:07:38,799
+Yes. He thanked me for my diligence, then had his guards release the villain.
+
+49
+00:07:39,339 --> 00:07:42,680
+You see, it was he who ordered the culling.
+
+50
+00:07:43,300 --> 00:07:44,850
+Then they turned on us.
+
+51
+00:07:45,110 --> 00:07:48,519
+Should have died with my men, so their loyalty meant something.
+
+52
+00:07:48,889 --> 00:07:52,063
+Twenty years I gave to the Sun, for what?
+
+53
+00:07:52,620 --> 00:07:54,250
+Malice and murder?
+
+54
+00:07:54,800 --> 00:08:01,399
+As for honour, sacrifice, true sacrifice,
+the kind priests and rulers know nothing of?
+
+55
+00:08:02,100 --> 00:08:03,769
+It's all a fat joke.
+
+56
+00:08:04,000 --> 00:08:08,060
+If it's honour you seek the Sun Carja seem trustworthy.
+
+57
+00:08:08,329 --> 00:08:11,750
+A little stuck up, maybe, but trustworthy.
+
+58
+00:08:11,800 --> 00:08:16,660
+Those Carja once raided your Nora lands, raided every land we could reach.
+
+59
+00:08:17,040 --> 00:08:18,819
+It was the Sun's will.
+
+60
+00:08:19,040 --> 00:08:22,611
+I did what I was told, others did worse.
+
+61
+00:08:23,009 --> 00:08:24,300
+But as their captain, I had–
+
+62
+00:08:24,300 --> 00:08:27,959
+Uthid, I don't care what you did. I can't absolve you.
+
+63
+00:08:28,269 --> 00:08:31,830
+But the Carja are changing their ways, you could too.
+
+64
+00:08:32,110 --> 00:08:37,370
+Perhaps. Avad doesn't understand what the Sun demands of its soldiers.
+
+65
+00:08:37,850 --> 00:08:40,149
+Perhaps he understands it too well.
+
+66
+00:08:40,220 --> 00:08:42,549
+Now you sound like the Blameless Marad.
+
+67
+00:08:42,690 --> 00:08:47,649
+I can believe you're a good man,
+but why go with the Shadow Carja in the first place?
+
+68
+00:08:47,649 --> 00:08:48,967
+Why serve them?
+
+69
+00:08:48,967 --> 00:08:52,876
+Because of Itamen, of course. He was the one true Sun-King.
+
+70
+00:08:52,876 --> 00:08:55,139
+Itamen's just a child.
+
+71
+00:08:55,139 --> 00:08:57,850
+Yes, an untainted vessel.
+
+72
+00:08:58,220 --> 00:09:03,336
+I believed he was pure, but they used him, used our faith.
+
+73
+00:09:04,190 --> 00:09:08,467
+I can see that now, no shadows under a noonday sun.
+
+74
+00:09:09,129 --> 00:09:14,068
+Bahavas didn't need to disgrace my name, I did it myself serving a rotten throne.
+
+75
+00:09:14,639 --> 00:09:18,740
+I met someone who wants to get you out of this, a woman named Vanasha.
+
+76
+00:09:18,740 --> 00:09:21,149
+But first we need to get you out of here.
+
+77
+00:09:21,240 --> 00:09:23,090
+What are you?
+
+78
+00:09:23,740 --> 00:09:27,011
+You look like a hunter, you give orders like a soldier who's been—
+
+79
+00:09:27,956 --> 00:09:28,829
+UTHID: Mercenaries.
+
+80
+00:09:28,829 --> 00:09:31,659
+KIKUK: Should have stayed on the plains, Carja!
+
+81
+00:09:32,120 --> 00:09:36,332
+KIKUK: The mountains belong to us, Kikuk's Killers.
+
+82
+00:09:36,332 --> 00:09:40,255
+When we're done with you, you won't even leave an echo.
+
+83
+00:09:40,840 --> 00:09:45,339
+You didn't make it hard to be followed,
+almost as if you wanted to go out in a showdown.
+
+84
+00:09:45,340 --> 00:09:47,200
+Not much gets by you.
+
+85
+00:09:48,240 --> 00:09:49,480
+KILLER: On me!
+
+86
+00:09:59,824 --> 00:10:01,824
+UTHID: The fury of the Sun!
+
+87
+00:10:15,039 --> 00:10:16,049
+KILLER: Keep at it.
+
+88
+00:10:23,334 --> 00:10:26,202
+KIKUK: Move in! We'll send the rest as soon as they arrive.
+
+89
+00:10:34,690 --> 00:10:36,840
+KILLER: Grind them down.
+
+90
+00:10:44,258 --> 00:10:47,635
+KIKUK: It's up to you now, men. Rally, we can still finish them!
+
+91
+00:11:12,465 --> 00:11:14,425
+KILLER: You're not gonna see it coming.
+
+92
+00:11:18,940 --> 00:11:21,713
+KIKUK: Move in! We'll send the rest as soon as they arrive.
+
+93
+00:11:36,690 --> 00:11:38,340
+KILLER: Eat this!
+
+94
+00:12:17,240 --> 00:12:21,179
+UTHID: Stand before us, fall beneath us.
+
+95
+00:12:35,010 --> 00:12:40,199
+UTHID: That won't be the last of them. Follow me, I've stashed supplies up above.
+
+96
+00:13:26,240 --> 00:13:27,649
+UTHID: Up and over.
+
+97
+00:13:29,840 --> 00:13:34,049
+ODUND: A robust defence is the most satisfying to break.
+
+98
+00:13:37,590 --> 00:13:43,003
+ODUND: All right, Marvels. We brought the priest out here,
+so let's put on a show for him.
+
+99
+00:13:44,919 --> 00:13:49,817
+UTHID: I know that hood. We have unfinished business, Bahavas and I.
+
+100
+00:13:51,090 --> 00:13:55,149
+UTHID: This will be difficult. I think you rallied to a lost cause.
+
+101
+00:13:55,149 --> 00:13:56,920
+ALOY: I don't intend to die today, Uthid.
+
+102
+00:13:56,920 --> 00:14:01,100
+UTHID: I did. But you're starting to change my mind.
+
+103
+00:14:07,500 --> 00:14:10,738
+MARVEL: No matter, you'll feel my next arrow
+
+104
+00:14:25,246 --> 00:14:31,417
+UTHID: Look out, to your left!
+ODUND: Not bad, but my Marvels thrive on adversity. Step it up, boys!
+
+105
+00:15:33,549 --> 00:15:35,159
+MARVEL: We're getting picked off!
+
+106
+00:15:42,978 --> 00:15:44,895
+MARVEL: —regroup!
+
+107
+00:15:57,667 --> 00:16:00,467
+MARVEL: Got all I need to finish you off!
+
+108
+00:16:12,440 --> 00:16:14,350
+UTHID: We'll down them swiftly.
+
+109
+00:17:02,889 --> 00:17:04,330
+ALOY: That's the last of the Marvels.
+
+110
+00:17:04,330 --> 00:17:07,262
+UTHID: Bahavas thought he had enough fodder to keep him safe.
+
+111
+00:17:07,539 --> 00:17:10,849
+UTHID: Now there's hope for justice. Will you come with me?
+
+112
+00:17:26,240 --> 00:17:30,000
+UTHID: This won't be easy, Bahavas still has his personal guard.
+
+113
+00:17:49,720 --> 00:17:51,690
+ALOY: Snow chill, itches.
+
+114
+00:18:03,789 --> 00:18:05,759
+UTHID: Across there and we'll have him.
+
+115
+00:18:08,140 --> 00:18:15,509
+BAHAVAS: I had to come here myself to end your suffering, Uthid. And mine.
+
+116
+00:18:15,509 --> 00:18:22,660
+BAHAVAS: The outlanders led us here,
+and now that they are dead their price is most affordable.
+
+117
+00:18:22,660 --> 00:18:27,319
+BAHAVAS: But enough with needles. It's time for blades.
+
+118
+00:18:27,839 --> 00:18:30,549
+BAHAVAS: Remove them from the Sun's sight!
+
+119
+00:18:39,740 --> 00:18:42,119
+SHADOW CARJA: Sun's judgement upon you!
+
+120
+00:18:52,779 --> 00:18:56,088
+BAHAVAS: Make it hurt as the Shadow falls upon them!
+
+121
+00:19:07,756 --> 00:19:09,615
+SHADOW CARJA: Focus on that one!
+
+122
+00:19:11,569 --> 00:19:15,997
+BAHAVAS: The Sun sets on your pathetic life, Uthid!
+
+123
+00:19:29,274 --> 00:19:32,543
+BAHAVAS: Kill the traitor! Kill the Nora!
+
+124
+00:19:47,470 --> 00:19:51,160
+BAHAVAS: Make it hurt as the Shadow falls upon them!
+
+125
+00:20:04,589 --> 00:20:07,200
+ALOY: Okay, That helps.
+
+126
+00:20:08,339 --> 00:20:12,984
+BAHAVAS: The Sun sets on your pathetic life, Uthid!
+UTHID: Press the attack!
+
+127
+00:20:26,069 --> 00:20:30,000
+BAHAVAS: Kill the traitor! Kill the Nora!
+UTHID: Up to his perch!
+
+128
+00:20:52,039 --> 00:20:56,819
+BAHAVAS: Whatever deal you worked out with him,
+I'll double it! More than double it!
+
+129
+00:20:57,119 --> 00:21:00,467
+UTHID: No. I'm tired of this, Bahavas.
+
+130
+00:21:00,467 --> 00:21:03,955
+UTHID: The lies and the violence and your cheap scented oils.
+
+131
+00:21:04,859 --> 00:21:06,669
+UTHID: I don't suppose you'd kill yourself?
+
+132
+00:21:06,670 --> 00:21:09,086
+BAHAVAS: I had to! I had to!
+
+133
+00:21:09,086 --> 00:21:12,841
+BAHAVAS: Prune the weak, or all the Carja in Shadow are doomed!
+
+134
+00:21:13,309 --> 00:21:18,392
+UTHID: This solves nothing,
+but may the Sun find some worth among your drying bones.
+
+135
+00:21:35,720 --> 00:21:38,029
+VANASHA: That was quite a fireworks show!
+
+136
+00:21:40,710 --> 00:21:42,160
+ALOY: You took your time.
+
+137
+00:21:42,240 --> 00:21:43,766
+VANASHA: I was busy.
+
+138
+00:21:43,766 --> 00:21:47,500
+What do you think happened to Yun's Shunned, the other mercenary band?
+
+139
+00:21:47,559 --> 00:21:51,410
+VANASHA: And I had to organise passage to Meridian for a wanted man.
+
+140
+00:21:52,190 --> 00:21:55,460
+VANASHA: Give us a moment, Uthid. Girl talk.
+
+141
+00:21:56,500 --> 00:21:59,390
+You've had quite a day.
+
+142
+00:21:59,539 --> 00:22:03,288
+I never imagined Bahavas would blunder into his own trap.
+
+143
+00:22:03,289 --> 00:22:06,269
+What's going to happen at Sunfall now that Bahavas is dead?
+
+144
+00:22:06,440 --> 00:22:09,348
+Oh, it will be glorious!
+
+145
+00:22:09,349 --> 00:22:10,949
+The priests will panic.
+
+146
+00:22:10,950 --> 00:22:15,548
+There'll be infighting, skullduggery, and backstabbing, as they wrangle for power.
+
+147
+00:22:15,549 --> 00:22:18,551
+Best of all, they'll be distracted.
+
+148
+00:22:18,551 --> 00:22:25,200
+Bahavas, your life brought misery
+but your death is a flower that blooms in abundance.
+
+149
+00:22:25,200 --> 00:22:28,000
+Death suits him better than those robes ever did.
+
+150
+00:22:28,000 --> 00:22:33,838
+Remember Itamen and Nasadi,
+the child-king and his mother, guarded like hostages at Sunfall?
+
+151
+00:22:33,839 --> 00:22:37,199
+With Bahavas gone, no-one will be watching them.
+
+152
+00:22:37,200 --> 00:22:41,098
+I want to get them out, and I could use your help.
+
+153
+00:22:41,099 --> 00:22:44,838
+Kidnapping the Sun-King of the Shadow Carja is no small task.
+
+154
+00:22:44,839 --> 00:22:49,339
+It's not kidnapping. They want to go to Meridian, to safety.
+
+155
+00:22:49,339 --> 00:22:50,838
+How do you know that?
+
+156
+00:22:50,839 --> 00:22:53,369
+I've been posing as the Nasadi's handmaiden.
+
+157
+00:22:53,410 --> 00:22:58,180
+She's scared. For herself, of course, but mostly for Itamen.
+
+158
+00:22:58,319 --> 00:23:00,490
+Why do you care what happens to them?
+
+159
+00:23:00,589 --> 00:23:03,439
+Itamen is the Shadow Carja's figurehead.
+
+160
+00:23:03,440 --> 00:23:07,569
+If he defects, it will remove their last trace of legitimacy.
+
+161
+00:23:08,089 --> 00:23:12,009
+Beyond that, he's just a boy who clings to his mommy.
+
+162
+00:23:12,170 --> 00:23:14,349
+What's going to happen to Uthid now?
+
+163
+00:23:14,440 --> 00:23:19,319
+Don't worry, you gave him a second life and I'll put it to good use.
+
+164
+00:23:19,319 --> 00:23:23,049
+He'll be welcomed in Meridian as a military adviser.
+
+165
+00:23:23,140 --> 00:23:29,538
+Hopefully, he can help Avad finish the Shadow Carja
+with as little bloodshed as possible.
+
+166
+00:23:29,539 --> 00:23:33,209
+What do you need to get Nasadi and Itamen out of Sunfall?
+
+167
+00:23:33,210 --> 00:23:36,680
+Sunfall is the easy part, I'll handle that.
+
+168
+00:23:36,680 --> 00:23:40,279
+The big fuss will be crossing the border to the Sundom.
+
+169
+00:23:40,950 --> 00:23:45,210
+Find my friend Three-Toed Huavid near the Branded Shore.
+
+170
+00:23:45,210 --> 00:23:51,034
+I hired his crew to sweep the path, so all you have to do is wait for me.
+
+171
+00:23:51,140 --> 00:23:55,476
+If this Huadiv has already cleared the area why do you need me?
+
+172
+00:23:55,849 --> 00:23:58,558
+Contingencies, little huntress.
+
+173
+00:23:58,559 --> 00:24:03,337
+Something will go wrong and I need protection I can count on. You.
+
+174
+00:24:03,500 --> 00:24:05,859
+I'll try not to disappoint.
+
+175
+00:24:08,049 --> 00:24:09,960
+UTHID: Are we bound for Meridian?
+
+176
+00:24:10,069 --> 00:24:12,279
+VANASHA: Only if you want to go, my dear.
+
+177
+00:24:12,339 --> 00:24:14,099
+UTHID: What choice do I have?
+
+178
+00:24:14,339 --> 00:24:17,029
+VANASHA: None at all, I was just being polite.
+
+179
+00:24:17,779 --> 00:24:21,869
+UTHID: What makes you think Avad will welcome me after I served his enemies?
+
+180
+00:24:21,940 --> 00:24:23,479
+VANASHA: He's a forgiving man.
+
+181
+00:24:23,480 --> 00:24:26,483
+VANASHA: Just smile a lot. You can smile, can't you?
+
+182
+00:24:27,140 --> 00:24:30,349
+VANASHA: No, that's … that's a grimace.
+
+183
+00:24:30,640 --> 00:24:32,809
+VANASHA: Nervous about going to Meridian?
+
+184
+00:24:32,920 --> 00:24:37,309
+UTHID: I've been a soldier for 20 years. I do not get nervous.
+
+185
+00:24:37,309 --> 00:24:39,229
+VANASHA: Not even around a pretty lady?
+
+186
+00:24:39,229 --> 00:24:42,039
+UTHID: I will not dignify that with a response.
+
+187
+00:27:07,680 --> 00:27:09,076
+Easy, easy!
+
+188
+00:32:02,961 --> 00:32:05,630
+You're down, the others haven't noticed.
+
+189
+00:32:59,839 --> 00:33:01,880
+Never know when I might need these.
+
+190
+00:35:18,315 --> 00:35:20,315
+Uh-oh, someone's grumpy.
+
+191
+00:38:29,562 --> 00:38:33,564
+There we go, information to help me override more machines.
+
+192
+00:38:48,719 --> 00:38:53,637
+So, Hephaestus is the source of the Cauldron data intrusions?
+
+193
+00:38:53,637 --> 00:38:57,590
+It's been forcing Cauldrons to make aggressive machines.
+
+194
+00:38:57,905 --> 00:39:00,360
+Deadlier and deadlier, year by year.
+
+195
+00:39:00,619 --> 00:39:04,986
+Why? And what, or who, is Hephaestus?
+
+196
+00:39:05,466 --> 00:39:07,385
+Another mystery to add to the list.
+
+197
+00:39:17,420 --> 00:39:19,803
+Just stay out of their way for now.
+
+198
+00:40:37,630 --> 00:40:39,236
+That hurt it!
+
+199
+00:41:22,409 --> 00:41:24,777
+That's it, I'm already gone.
+
+200
+00:42:22,466 --> 00:42:24,266
+Hunt's over, fight's on.
+
+201
+00:42:59,199 --> 00:43:00,829
+They're scanning for me.
+
+202
+00:43:22,685 --> 00:43:24,685
+Uh, too slow!
+
+203
+00:47:09,079 --> 00:47:10,400
+Stocking up.
+
+204
+00:48:43,869 --> 00:48:45,639
+Keep quiet now.
+
+205
+00:50:08,219 --> 00:50:09,570
+Passed the test.
+
+206
+00:52:35,820 --> 00:52:41,585
+You're Three-Toed Huavid, right? Vanasha sent me. What happened?
+

@@ -1,0 +1,887 @@
+1
+00:00:21,739 --> 00:00:23,135
+ALOY: I see the module.
+
+2
+00:00:23,135 --> 00:00:25,690
+SYLENS: Good. Now be quick.
+
+3
+00:00:27,140 --> 00:00:30,000
+ALOY: This … this is Hades?
+
+4
+00:00:30,140 --> 00:00:32,250
+SYLENS: Aloy, this is not the time.
+
+5
+00:00:32,250 --> 00:00:34,689
+ALOY: It's a Metal Devil.
+
+6
+00:00:34,689 --> 00:00:37,409
+SYLENS: Open the module's casing, now.
+
+7
+00:00:37,409 --> 00:00:40,820
+SYLENS: ALOY! Do as I say, or all is lost!
+
+8
+00:00:57,788 --> 00:01:00,766
+HADES: Entity has come here?
+
+9
+00:01:01,221 --> 00:01:04,540
+HADES: Entity miscalculated.
+
+10
+00:01:05,459 --> 00:01:10,996
+HADES: Entity cannot destroy me, I am beyond its reach.
+
+11
+00:01:12,209 --> 00:01:15,334
+ALOY: Maybe you are, but this isn't!
+
+12
+00:01:23,719 --> 00:01:26,393
+HADES: Destroy the entity!
+
+13
+00:02:17,340 --> 00:02:19,550
+SYLENS: Rough going, but you survived.
+
+14
+00:02:19,550 --> 00:02:22,849
+You knew Hades was there and you send me to him!
+
+15
+00:02:24,590 --> 00:02:26,849
+I won't deny I risked your life.
+
+16
+00:02:26,990 --> 00:02:28,669
+But it was the only way.
+
+17
+00:02:29,419 --> 00:02:33,639
+Now, with the Focus network down we can both get what we want.
+
+18
+00:02:33,639 --> 00:02:36,090
+Access to the secrets of Zero Dawn.
+
+19
+00:02:36,539 --> 00:02:39,050
+I'm past trusting you with secrets.
+
+20
+00:02:40,840 --> 00:02:44,138
+Good, that means you're wising up.
+
+21
+00:02:45,039 --> 00:02:47,090
+Trust is for fools.
+
+22
+00:02:47,240 --> 00:02:52,261
+It shifts and crumbles like sand, a poor foundation for any partnership.
+
+23
+00:02:52,261 --> 00:02:54,303
+But mutual self-interest?
+
+24
+00:02:54,303 --> 00:03:00,050
+Now that is a solid bedrock upon which you and I
+might build a new science of understanding.
+
+25
+00:03:00,639 --> 00:03:02,897
+We both need answers Aloy.
+
+26
+00:03:02,897 --> 00:03:05,985
+And thanks to you we're on the verge of grasping them.
+
+27
+00:03:05,985 --> 00:03:09,650
+At Sunfall we'll speak again.
+
+28
+00:03:11,439 --> 00:03:14,867
+You miserable…! Damn him!
+
+29
+00:03:33,379 --> 00:03:37,381
+If I could toss this Focus and be rid of you Sylens, I would.
+
+30
+00:03:37,840 --> 00:03:39,580
+But we both know I need it.
+
+31
+00:03:45,439 --> 00:03:48,779
+Sunfall it is, and Zero Dawn.
+
+32
+00:04:59,750 --> 00:05:00,289
+Keep quiet now.
+
+33
+00:05:39,740 --> 00:05:41,350
+Can stop tensing up.
+
+34
+00:12:28,750 --> 00:12:29,899
+Come on then!
+
+35
+00:12:51,419 --> 00:12:53,072
+BANDIT: Here we are!
+
+36
+00:13:09,179 --> 00:13:10,289
+Right on target.
+
+37
+00:14:02,660 --> 00:14:04,779
+That's it, nothing to see here.
+
+38
+00:15:46,233 --> 00:15:48,360
+Not this time, little one.
+
+39
+00:17:08,720 --> 00:17:11,334
+My Focus is receiving another signal.
+
+40
+00:17:16,039 --> 00:17:18,598
+There it is, another Tallneck.
+
+41
+00:17:36,210 --> 00:17:38,069
+Calm, calm.
+
+42
+00:17:44,630 --> 00:17:47,912
+Okay, I need to get up to the Tallneck's head.
+
+43
+00:18:19,740 --> 00:18:21,049
+Got their attention!
+
+44
+00:18:50,140 --> 00:18:52,759
+This storm's gonna back down before I do.
+
+45
+00:19:42,039 --> 00:19:43,759
+They're scanning for me.
+
+46
+00:19:52,980 --> 00:19:54,349
+SHADOW CARJA: Not making this easy…
+
+47
+00:21:51,319 --> 00:21:52,328
+SHADOW CARJA: They've scurried away, watch me.
+
+48
+00:21:57,824 --> 00:21:59,617
+ALOY: This might even the odds.
+
+49
+00:22:32,839 --> 00:22:34,849
+SHADOW CARJA: None will stand against us!
+
+50
+00:23:01,267 --> 00:23:03,267
+ALOY: Another hit in.
+
+51
+00:24:09,549 --> 00:24:10,970
+Passed the test.
+
+52
+00:25:03,099 --> 00:25:04,940
+So much for being careful!
+
+53
+00:25:25,839 --> 00:25:28,759
+I should be able to jump onto the Tallneck from here.
+
+54
+00:25:58,019 --> 00:26:00,789
+Made it! Now to climb up to its head.
+
+55
+00:27:17,090 --> 00:27:19,504
+Alright, got what I need.
+
+56
+00:28:15,545 --> 00:28:17,545
+Scrabbling a bit.
+
+57
+00:30:49,273 --> 00:30:51,334
+Sorry to spoil your fun! 
+
+58
+00:31:18,620 --> 00:31:20,841
+Huh, nice.
+
+59
+00:32:13,490 --> 00:32:16,660
+Dust storm blowing in, moves like water.
+
+60
+00:33:24,930 --> 00:33:30,000
+SYLENS, THROUGH FOCUS: Sunfall. The mad King Jiran's summer palace.
+
+61
+00:33:30,410 --> 00:33:34,289
+SYLENS: A bulwark of Carja might against the howling Forbidden West.
+
+62
+00:33:34,339 --> 00:33:36,279
+ALOY: Thanks for the history lesson.
+
+63
+00:33:36,539 --> 00:33:39,369
+SYLENS: But they have no idea what lies beneath.
+
+64
+00:33:40,440 --> 00:33:42,549
+SYLENS: We will learn much from this, Aloy.
+
+65
+00:33:43,039 --> 00:33:44,440
+ALOY: That's what I'm hoping.
+
+66
+00:33:52,740 --> 00:33:58,383
+SHADOW CARJA: The old warriors have stories about
+how calm the machines used to be, must've been nice.
+
+67
+00:34:36,039 --> 00:34:42,002
+SHADOW CARJA: The ceasefire is baffling. How can we just decide not to strike back against the usurpers?
+
+68
+00:34:55,030 --> 00:34:59,219
+SHADOW CARJA: I know we're here for a reason, but I just miss feeling useful.
+
+69
+00:35:11,639 --> 00:35:19,491
+SHADOW CARJA: He's always been a righteous man.
+I never would've thought Uthid capable of abandoning us like this.
+
+70
+00:35:27,760 --> 00:35:30,000
+MERCHANT: Buy what you need, leave the rest.
+
+71
+00:35:32,139 --> 00:35:34,349
+MERCHANT: Don't pass up these goods.
+
+72
+00:35:36,440 --> 00:35:38,349
+MERCHANT: Would you like to buy something today?
+
+73
+00:35:40,739 --> 00:35:42,458
+MERCHANT: You won't find better wares!
+
+74
+00:35:53,489 --> 00:35:55,460
+MERCHANT: I got all the best goods here.
+
+75
+00:36:11,030 --> 00:36:12,829
+MERCHANT: Take a look at these wares.
+
+76
+00:36:57,421 --> 00:37:01,880
+SYLENS: The Sun Ring. A proud tradition of the Carja.
+
+77
+00:37:02,210 --> 00:37:06,138
+ALOY: It's not like this in Meridian. At least, not any more.
+
+78
+00:37:06,349 --> 00:37:10,000
+SYLENS: Give them time, I'm sure they'll miss it.
+
+79
+00:37:15,630 --> 00:37:19,840
+SYLENS: Now we get to see if your attack
+on their Focus network was entirely successful.
+
+80
+00:37:21,130 --> 00:37:24,856
+ALOY: What are you talking about? Did I crash the network or not?
+
+81
+00:37:25,079 --> 00:37:27,458
+SYLENS: In theory, all should be well.
+
+82
+00:37:27,872 --> 00:37:28,889
+ALOY: Hmph.
+
+83
+00:37:51,570 --> 00:37:55,046
+SYLENS: Success! Welcome to the Citadel, Aloy.
+
+84
+00:37:55,239 --> 00:37:57,203
+SYLENS: I'll check back with you in a moment.
+
+85
+00:37:57,203 --> 00:37:59,579
+SYLENS: In the meantime, circulate.
+
+86
+00:38:29,360 --> 00:38:34,557
+CRIER: Outlanders! If you want to hear about today's bounties,
+head for the throne room.
+
+87
+00:38:34,557 --> 00:38:37,498
+CRIER: You're not going to make any shards by standing out here.
+
+88
+00:38:37,500 --> 00:38:40,578
+CRIER: Filthy mercenary bottom feeders.
+
+89
+00:38:55,159 --> 00:38:58,949
+ELKEND: I'll take the shards, even if it means having to listen to Bahavas.
+
+90
+00:38:58,949 --> 00:39:03,117
+MERCENARY: I hear the Shadow Carja are looking for one of their own.
+Should pay well.
+
+91
+00:39:04,619 --> 00:39:08,508
+SHADOW CARJA: …cease fire, let's be generous, a month.
+
+92
+00:39:14,219 --> 00:39:17,829
+BAHAVAS: By the glory of the Sun revealed!
+
+93
+00:39:18,420 --> 00:39:24,329
+Behold, Radiant Itamen! The one true Sun-King.
+
+94
+00:39:24,900 --> 00:39:31,559
+The light in shadow, whose will is light and whose light is law!
+
+95
+00:39:33,820 --> 00:39:38,030
+I command Lucent Bahavas to speak on my behalf.
+
+96
+00:39:41,420 --> 00:39:48,711
+By the will of Radiant Itamen does the Sun
+glare down mercilessly upon the traitor Uthid.
+
+97
+00:39:49,010 --> 00:39:55,059
+BAHAVAS: To the hunter who brings his head to us,
+shall go a bounty of 500 shards.
+
+98
+00:39:55,059 --> 00:39:58,823
+VANASHA: More prisoners than royalty, don't you think?
+BAHAVAS: The crimes of the traitor Uthid are many and so…
+
+99
+00:39:58,823 --> 00:40:04,438
+VANASHA: Hmm, love your hair.
+BAHAVAS: …provoke the ire of the Sun in full blaze!
+Not only did the wretch conspire to…
+
+100
+00:40:04,438 --> 00:40:07,483
+VANASHA: You and I need to chat, little huntress.
+BAHAVAS: …infiltrate the Citadel and assassinate…
+
+101
+00:40:07,483 --> 00:40:11,395
+VANASHA: The green tent down in Shadowside, I'll be waiting.
+BAHAVAS: …the one true king, but he refused to surrender when…
+
+102
+00:40:11,395 --> 00:40:13,267
+ALOY: Uh, kinda busy.
+BAHAVAS: …discovered and fled…
+
+103
+00:40:13,267 --> 00:40:17,279
+BAHAVAS: …and in doing so demonstrated wanton disregard for…
+
+104
+00:40:17,279 --> 00:40:20,110
+VANASHA: We both know you're no killer for hire.
+BAHAVAS:  …the safety of the king's subjects.
+
+105
+00:40:20,110 --> 00:40:22,630
+VANASHA: Uthid is innocent.
+
+106
+00:40:22,630 --> 00:40:27,987
+VANASHA: So come see me while there's still time to save him.
+BAHAVAS: Go forth then, outlanders, and do the will of the Sun!
+
+107
+00:40:27,987 --> 00:40:31,922
+SYLENS: So, the way in I spoke of his right behind you.
+
+108
+00:40:32,760 --> 00:40:33,993
+ALOY: You've gotta be kidding.
+
+109
+00:40:33,993 --> 00:40:34,967
+SYLENS: Not at all.
+
+110
+00:40:36,309 --> 00:40:38,838
+ODUND: Got to see the Sun Ring from on high!
+
+111
+00:40:38,840 --> 00:40:40,849
+ELKEND: But the Kestrels…?
+
+112
+00:40:40,909 --> 00:40:45,056
+ODUND: They want us to see this, boy. It makes quite an impression.
+
+113
+00:40:45,056 --> 00:40:48,079
+SHADOW CARJA: Another savage? At least it's not as bad as Meridian.
+
+114
+00:40:49,010 --> 00:40:52,570
+Nora, you have the mark of a Seeker.
+
+115
+00:40:52,570 --> 00:40:55,050
+It's more complicated than that.
+
+116
+00:40:55,300 --> 00:40:57,630
+I'm an outcast, like you.
+
+117
+00:40:57,699 --> 00:41:01,298
+Yes. I'm Yun, these are The Shunned.
+
+118
+00:41:01,610 --> 00:41:05,260
+We'll take any job, but hunting our hated tribe? That's for free.
+
+119
+00:41:05,260 --> 00:41:06,730
+Keep that in mind.
+
+120
+00:41:06,860 --> 00:41:08,590
+Why did they cast you out?
+
+121
+00:41:08,710 --> 00:41:10,369
+Murder, you?
+
+122
+00:41:10,400 --> 00:41:12,019
+Mmm, birth.
+
+123
+00:41:12,019 --> 00:41:13,309
+Huh.
+
+124
+00:41:13,309 --> 00:41:17,421
+SHADOW CARJA: Outlanders are idiots. But perhaps they're useful idiots.
+
+125
+00:41:18,309 --> 00:41:21,070
+You're not known to Kikuk's Killers.
+
+126
+00:41:21,920 --> 00:41:24,210
+Have any songs been written about you?
+
+127
+00:41:24,309 --> 00:41:27,360
+Uuh, maybe. How about you?
+
+128
+00:41:27,510 --> 00:41:31,088
+Only laments. We're the enders of songs.
+
+129
+00:41:31,090 --> 00:41:33,108
+Machine speared or man's spark.
+
+130
+00:41:33,110 --> 00:41:34,909
+We stop them all.
+
+131
+00:41:34,960 --> 00:41:36,934
+Ah, charming.
+
+132
+00:41:36,934 --> 00:41:38,708
+Warmth is for weakness.
+
+133
+00:41:38,710 --> 00:41:43,027
+SHADOW CARJA: Word is that the outlanders
+are only here to weed out traitors, so at least I'm safe.
+
+134
+00:41:46,090 --> 00:41:51,154
+SHADOW CARJA: I tell you for a little more food,
+I'd do whatever work these outlanders are doing and more.
+
+135
+00:41:55,059 --> 00:42:01,648
+SHADOW CARJA: Strange, I used to walk by
+the same old man every morning, but I haven't seen him today.
+
+136
+00:42:05,659 --> 00:42:09,829
+ODUND: If you're gonna watch some slaughter, this is the place to do it!
+
+137
+00:42:10,000 --> 00:42:11,659
+ELKEND: I don't like heights.
+
+138
+00:42:12,440 --> 00:42:17,530
+ODUND: You worry me, boy, you worry me.
+
+139
+00:42:19,079 --> 00:42:24,110
+ELKEND: If you've got a problem with me talk to Odund, if you can stand his breath.
+
+140
+00:42:25,659 --> 00:42:30,700
+Another man hunt. How many men and women can one tribe lose?
+
+141
+00:42:30,700 --> 00:42:34,536
+Odund, leader of Odund's Marvels.
+
+142
+00:42:34,536 --> 00:42:36,732
+You've a fresh face.
+
+143
+00:42:36,732 --> 00:42:40,219
+When you're less and eye or an ear or two you'll fit right in.
+
+144
+00:42:41,300 --> 00:42:45,893
+First impressions make the sale, except in this snakepit.
+
+145
+00:42:45,893 --> 00:42:47,920
+They'll take whoever shows up.
+
+146
+00:42:48,309 --> 00:42:51,034
+This isn't your first job for the Shadow Carja?
+
+147
+00:42:51,034 --> 00:42:54,378
+Scared of their own shadows Carja more like.
+
+148
+00:42:54,378 --> 00:42:57,116
+They spit on me, but the shards are good.
+
+149
+00:42:57,800 --> 00:42:59,763
+Look at those nobles.
+
+150
+00:42:59,763 --> 00:43:05,233
+I say noble, but you can't dress a rat in silk and call it a Rat King, can you?
+
+151
+00:43:05,809 --> 00:43:11,667
+Sunfall is a house of clay, if you were to stamp your foot it would all crumble.
+
+152
+00:43:11,699 --> 00:43:14,219
+Shouldn't you all be setting out to hunt Uthid?
+
+153
+00:43:14,300 --> 00:43:16,460
+Have you never done this before?
+
+154
+00:43:16,599 --> 00:43:19,340
+Whoever goes first just leads the others.
+
+155
+00:43:19,679 --> 00:43:25,869
+Just take a load off and avail yourself
+of some Carja booze until someone sniffs out the trail.
+
+156
+00:43:26,699 --> 00:43:32,010
+Then watch us seek out our prey, straight as a Ravager's shot. Zip!
+
+157
+00:43:33,099 --> 00:43:35,834
+Are you sure you're gonna be able to walk in a straight line?
+
+158
+00:43:35,834 --> 00:43:38,719
+W–w–what are you getting at?
+
+159
+00:43:38,820 --> 00:43:41,420
+Do you think Uthid did what they're accusing him of?
+
+160
+00:43:41,449 --> 00:43:45,000
+I hope so, it'll make him more dangerous.
+
+161
+00:43:45,000 --> 00:43:48,934
+My advice? It's best not to overthink such things.
+
+162
+00:43:48,934 --> 00:43:52,167
+Uh, overthink whether he's guilty or innocent?
+
+163
+00:43:52,167 --> 00:43:57,750
+Haha, you let all these thoughts in your head, you'll never make it as a mercenary.
+
+164
+00:43:57,980 --> 00:44:01,380
+Only thing that matters is dead or alive.
+
+165
+00:44:01,760 --> 00:44:06,144
+If they say alive, bring a rag to stuff in its mouth.
+
+166
+00:44:06,144 --> 00:44:09,600
+But these days, no one wants alive.
+
+167
+00:44:09,600 --> 00:44:11,063
+Farewell Odund.
+
+168
+00:44:11,063 --> 00:44:12,849
+Good hunting!
+
+169
+00:44:12,849 --> 00:44:17,000
+If I should have cause to kill you, you won't suffer.
+
+170
+00:44:17,289 --> 00:44:19,250
+Oh, thanks.
+
+171
+00:44:26,840 --> 00:44:30,677
+SHADOW CARJA: Sun in shadow, if you can't trust Uthid, who can you trust?
+
+172
+00:44:57,077 --> 00:45:01,996
+SHADOW CARJA: Is the cease fire gonna put
+more food on our table? I very much doubt it.
+
+173
+00:45:12,389 --> 00:45:16,151
+SHADOW CARJA: Nice to have a break. Work's been hard lately.
+
+174
+00:45:31,590 --> 00:45:33,300
+SHADOW CARJA: I saw a kestrel talking—
+
+175
+00:45:47,360 --> 00:45:50,458
+The food is from Dowager Queen Nasadi little ones.
+
+176
+00:45:50,460 --> 00:45:54,099
+Her Highness knows times are hard and helps when she can.
+
+177
+00:45:55,389 --> 00:46:00,196
+Eat, but bring some home for your families, if you have one.
+
+178
+00:46:03,679 --> 00:46:06,368
+I've heard whispers about you.
+
+179
+00:46:06,369 --> 00:46:11,289
+Rides machines, fancy spear, delightful freckles.
+
+180
+00:46:11,579 --> 00:46:16,394
+Some even say you have a conscience, how extraordinary!
+
+181
+00:46:17,679 --> 00:46:21,399
+Who are you? You're obviously not one of the Shadow Carja.
+
+182
+00:46:21,530 --> 00:46:24,090
+My name is Vanasha.
+
+183
+00:46:24,440 --> 00:46:31,278
+For now, all you need to know is that
+I'm a whisper of reason in this howling pit of insanity.
+
+184
+00:46:31,280 --> 00:46:34,440
+Stop being evasive and tell me who you really are.
+
+185
+00:46:34,510 --> 00:46:39,489
+Stop being evasive? You might as well tell me to stop being charming.
+
+186
+00:46:39,489 --> 00:46:43,559
+It's impossible, but I like you so I'll tell you a secret.
+
+187
+00:46:43,559 --> 00:46:47,558
+I have friends in Meridian and I like to do favours for them when I can.
+
+188
+00:46:47,559 --> 00:46:50,000
+Uthid might be of use to them.
+
+189
+00:46:50,079 --> 00:46:54,280
+He's a good man, so naturally the Shadow Carja wanna murder him.
+
+190
+00:46:54,280 --> 00:46:57,920
+I've done some digging and I think he's headed for the Greenclimb.
+
+191
+00:46:57,929 --> 00:47:01,010
+It won't take those mercenaries long to find him.
+
+192
+00:47:01,349 --> 00:47:05,600
+He could use some help if you're so inclined.
+
+193
+00:47:05,679 --> 00:47:07,750
+What makes you think he's on the Greenclimb?
+
+194
+00:47:07,880 --> 00:47:09,598
+He knows he'll be pursued.
+
+195
+00:47:09,599 --> 00:47:13,548
+So he needs a hideout that's both familiar and defensible.
+
+196
+00:47:13,550 --> 00:47:17,878
+He once single-handedly held off an entire bandit clan in those foothills.
+
+197
+00:47:17,880 --> 00:47:20,949
+My guess is that he'll fall back on what worked before.
+
+198
+00:47:20,980 --> 00:47:23,090
+How do you know Uthid is innocent?
+
+199
+00:47:23,269 --> 00:47:26,139
+I'm excellent at making enquiries.
+
+200
+00:47:26,139 --> 00:47:33,699
+Look, he feeds orphans from his own rations
+and personally punishes anyone who hurts the old or infirm.
+
+201
+00:47:33,849 --> 00:47:38,210
+The idea that he would try to kill Itamen is ridiculous.
+
+202
+00:47:38,349 --> 00:47:41,478
+He must have found something that can embarrass the priesthood.
+
+203
+00:47:41,480 --> 00:47:46,590
+Otherwise Bahavas wouldn't risk marking such a well-regarded man for death.
+
+204
+00:47:46,760 --> 00:47:50,250
+I'll do what I can for Uthid, but what about you?
+
+205
+00:47:50,380 --> 00:47:51,969
+What about me, what?
+
+206
+00:47:51,969 --> 00:47:54,019
+What will you do while I risk my life?
+
+207
+00:47:54,059 --> 00:47:56,289
+Useful things, little huntress.
+
+208
+00:47:56,539 --> 00:47:58,838
+Look for three dead trees south of Sunfall.
+
+209
+00:47:58,840 --> 00:48:01,730
+They mark the start of the Greenclimb. Good luck.
+
+210
+00:52:12,814 --> 00:52:16,300
+It'd be fascinating, if they weren't looking for me.
+
+211
+00:52:36,650 --> 00:52:39,809
+Three dead trees, just like Vanasha said.
+
+212
+00:52:40,239 --> 00:52:41,900
+Let's see if Uthid came through here.
+
+213
+00:53:19,949 --> 00:53:21,289
+The tracks stop here, time to climb.
+
+214
+00:54:33,840 --> 00:54:37,619
+Alright, made it. Where did you go Uthid?
+
+215
+00:54:46,340 --> 00:54:50,522
+Food scraps. I'll bet Uthid stopped to see if he was being followed.
+
+216
+00:54:50,522 --> 00:54:54,203
+He must have kept going, I've got to catch up.
+

@@ -1,0 +1,599 @@
+1
+00:00:21,239 --> 00:00:23,320
+Varl told me you'd know the way to Meridian.
+
+2
+00:00:23,640 --> 00:00:27,420
+The Carja capital? West will take you to it.
+
+3
+00:00:27,839 --> 00:00:30,820
+But their soldiers will stop you long before you get there.
+
+4
+00:00:31,039 --> 00:00:32,219
+They can try.
+
+5
+00:00:32,439 --> 00:00:36,869
+No, what I mean is there's a Carja fort
+that guards the pass between east and west.
+
+6
+00:00:36,899 --> 00:00:38,905
+Word is the Carja have sealed the gate,
+
+7
+00:00:38,905 --> 00:00:42,250
+out of fear of the corrupted machines infesting our Sacred Land.
+
+8
+00:00:42,270 --> 00:00:44,039
+The Carja call the place Daytower.
+
+9
+00:00:44,079 --> 00:00:46,049
+It's not far from the forsaken village.
+
+10
+00:03:15,340 --> 00:03:16,819
+Save these for the trail.
+
+11
+00:04:09,159 --> 00:04:12,946
+Grazers. I can override them if I don't spook them.
+
+12
+00:04:40,540 --> 00:04:43,939
+Scrappers. Happy to find salvage, as always.
+
+13
+00:06:57,540 --> 00:06:58,860
+Here we go again.
+
+14
+00:09:56,639 --> 00:09:58,899
+Gotta switch weapons.
+
+15
+00:11:35,440 --> 00:11:39,389
+[Carja merchant]
+Come on, I don't have many shards and lives are on the line.
+
+16
+00:11:39,389 --> 00:11:42,440
+[Banuk]
+You're right. Mine if I go looking for your friends. 
+
+17
+00:11:42,440 --> 00:11:43,899
+[Banuk]
+So pay up or shut up.
+
+18
+00:11:44,269 --> 00:11:47,129
+[Carja merchant]
+But without these explosive arrows they'll be torn to shreds.
+
+19
+00:11:47,440 --> 00:11:48,450
+[Banuk]
+Not my problem.
+
+20
+00:11:48,450 --> 00:11:50,569
+[Banuk]
+Unless someone wants to pay me to pick up the pieces.
+
+21
+00:11:51,419 --> 00:11:53,120
+[Carja merchant]
+How could you be so cold?
+
+22
+00:11:53,840 --> 00:11:55,989
+[Banuk]
+Where I come from that's a compliment.
+
+23
+00:11:56,009 --> 00:11:56,909
+[Banuk]
+See you around.
+
+24
+00:11:58,120 --> 00:11:59,820
+Sounds like you have friends in danger.
+
+25
+00:12:00,129 --> 00:12:03,071
+Employees, not friends.
+
+26
+00:12:03,071 --> 00:12:07,348
+A caravan on its way to trade with the Banuk
+along a trail that swarms with machines,
+
+27
+00:12:07,348 --> 00:12:09,610
+Scrappers and Longlegs from what I hear.
+
+28
+00:12:10,639 --> 00:12:13,450
+But there have been stories of something worse.
+
+29
+00:12:14,139 --> 00:12:16,009
+Something that strikes with no warning.
+
+30
+00:12:16,440 --> 00:12:19,059
+Without explosive arrows, they won't stand much of a chance.
+
+31
+00:12:19,440 --> 00:12:21,909
+Why would they leave their best ammunition behind?
+
+32
+00:12:22,299 --> 00:12:23,671
+I don't know.
+
+33
+00:12:23,671 --> 00:12:26,809
+Marzavid, the caravan boss, isn't the sort of man to make mistakes.
+
+34
+00:12:27,190 --> 00:12:29,411
+I brought the crate hoping to catch them here.
+
+35
+00:12:29,411 --> 00:12:32,250
+I barely got past the border before the commander sealed the gates.
+
+36
+00:12:33,440 --> 00:12:36,065
+For me to track them deeper into the wilds would be suicide.
+
+37
+00:12:36,065 --> 00:12:39,110
+Especially with those corrupted machines infesting the land.
+
+38
+00:12:39,440 --> 00:12:42,299
+If I come across the caravan, I'll do what I can to help.
+
+39
+00:12:42,759 --> 00:12:47,210
+Well, that's more than any of the worthless bums
+hanging about this dungpit offered.
+
+40
+00:12:47,539 --> 00:12:51,080
+Here, take the ammunition I stockpiled for the caravan.
+
+41
+00:12:51,080 --> 00:12:52,620
+You're sure to need it.
+
+42
+00:12:52,620 --> 00:12:54,600
+And may the Sun shine upon you.
+
+43
+00:13:12,139 --> 00:13:14,129
+[crowd member]
+I've hunted machines for so long.
+
+44
+00:13:14,129 --> 00:13:16,439
+[crowd member]
+I don't know what to think of a place where they're peaceful.
+
+45
+00:13:16,440 --> 00:13:17,679
+[crowd member]
+Curiosities.
+
+46
+00:18:47,240 --> 00:18:50,429
+It looks like Lubavad's men had to abandon some of their goods.
+
+47
+00:19:47,480 --> 00:19:49,568
+Lubavad's men must have killed these Watchers.
+
+48
+00:19:49,569 --> 00:19:52,160
+I hope they haven't run into anything worse.
+
+49
+00:20:31,240 --> 00:20:32,299
+You there!
+
+50
+00:20:32,740 --> 00:20:36,599
+I hope you've come to help because we're getting slaughtered out here.
+
+51
+00:20:41,140 --> 00:20:42,710
+Lubavad sent me after you.
+
+52
+00:20:43,039 --> 00:20:44,609
+Oh, I see.
+
+53
+00:20:44,839 --> 00:20:50,529
+And did he happen to tell you why he packed us a crate
+of Ridge-Wood instead of decent ammunition?
+
+54
+00:20:50,940 --> 00:20:55,406
+Three waves of Watchers and Scrappers so far,
+and worse to come.
+
+55
+00:20:55,406 --> 00:20:58,000
+Without that ammo, we're good as dead.
+
+56
+00:20:58,130 --> 00:21:00,200
+He said you left the ammunition behind.
+
+57
+00:21:00,440 --> 00:21:02,910
+Then the old fool has gone cross-eyed.
+
+58
+00:21:03,039 --> 00:21:06,108
+Every crate we loaded, I checked twice.
+
+59
+00:21:06,339 --> 00:21:08,009
+The glyph said ammunition.
+
+60
+00:21:08,170 --> 00:21:12,176
+But when we opened it, it was full of Ridge-Wood shafts and nothing but.
+
+61
+00:21:12,176 --> 00:21:15,574
+I have the ammunition with me. Enough for everyone.
+
+62
+00:21:15,574 --> 00:21:19,220
+By the Sun, we might just stand a chance after all.
+
+63
+00:21:19,940 --> 00:21:22,398
+Alarms! Longleg approaching!
+
+64
+00:21:32,140 --> 00:21:34,819
+To arms! To arms!
+
+65
+00:21:35,339 --> 00:21:36,309
+Come on, then.
+
+66
+00:23:00,000 --> 00:23:02,661
+[in the distance]
+There's more machines! Scrappers!
+
+67
+00:24:10,539 --> 00:24:12,710
+I'd have to leave something else behind.
+
+68
+00:24:54,539 --> 00:24:56,439
+You fight well, outlander.
+
+69
+00:24:56,740 --> 00:25:00,220
+I'm surprised Lubavad was willing to pay for someone of your skill.
+
+70
+00:25:00,440 --> 00:25:02,162
+He didn't pay me, actually.
+
+71
+00:25:02,162 --> 00:25:03,299
+I did this for free.
+
+72
+00:25:03,640 --> 00:25:05,009
+Never trust a Carja merchant.
+
+73
+00:25:05,009 --> 00:25:09,099
+Boss! The Songcores are gone.
+
+74
+00:25:09,539 --> 00:25:10,119
+What?
+
+75
+00:25:10,500 --> 00:25:11,619
+That's impossible.
+
+76
+00:25:12,039 --> 00:25:15,400
+Unless … unless Dirid took them.
+
+77
+00:25:15,689 --> 00:25:19,509
+When the first wave hit us, one of the men ran off. Dirid.
+
+78
+00:25:19,940 --> 00:25:21,440
+I thought he was a coward.
+
+79
+00:25:21,640 --> 00:25:23,621
+Turns out he's a thief too.
+
+80
+00:25:23,621 --> 00:25:25,278
+He couldn't have gotten far.
+
+81
+00:25:25,278 --> 00:25:27,930
+True, but we're in no shape to go after him.
+
+82
+00:25:28,220 --> 00:25:29,460
+Then I'll get him for you.
+
+83
+00:25:29,589 --> 00:25:32,060
+But this time I get paid.
+
+84
+00:25:32,060 --> 00:25:34,599
+Quick learner, eh. Fine.
+
+85
+00:25:35,039 --> 00:25:37,723
+Bring those Songcores back and you've got a deal.
+
+86
+00:26:37,339 --> 00:26:39,039
+Hello Dirid.
+
+87
+00:26:39,039 --> 00:26:40,339
+Who are you?
+
+88
+00:26:40,339 --> 00:26:42,209
+The caravan sent me.
+
+89
+00:26:42,209 --> 00:26:44,440
+Caravan? What caravan?
+
+90
+00:26:44,440 --> 00:26:46,339
+The one you sabotaged.
+
+91
+00:26:46,339 --> 00:26:49,009
+You figured no explosive arrows meant no survivors.
+
+92
+00:26:49,009 --> 00:26:51,039
+No witnesses to your crime.
+
+93
+00:26:51,039 --> 00:26:52,900
+Look, stranger, I have debts.
+
+94
+00:26:52,950 --> 00:26:56,119
+If I don't pay, the dicers will gouge out my eyes.
+
+95
+00:29:52,440 --> 00:29:53,799
+The caravan.
+
+96
+00:29:54,640 --> 00:29:55,700
+Did they live?
+
+97
+00:29:56,039 --> 00:29:57,140
+Yes.
+
+98
+00:29:57,140 --> 00:29:58,410
+I got to them in time.
+
+99
+00:29:59,339 --> 00:30:00,430
+Thank you.
+
+100
+00:30:01,720 --> 00:30:02,819
+As I turn
+
+101
+00:30:03,940 --> 00:30:05,509
+and embrace the Sun
+
+102
+00:30:06,839 --> 00:30:08,529
+my He burn away
+
+103
+00:30:09,339 --> 00:30:10,609
+my sins.
+
+104
+00:30:12,940 --> 00:30:14,236
+What a waste.
+
+105
+00:30:14,539 --> 00:30:16,319
+At least he died better than he lived.
+
+106
+00:31:36,539 --> 00:31:38,319
+Never know when I might need these.
+
+107
+00:31:42,240 --> 00:31:43,559
+You're back.
+
+108
+00:31:43,559 --> 00:31:45,640
+And with the Songcores I see.
+
+109
+00:31:45,640 --> 00:31:46,930
+And Dirid?
+
+110
+00:31:46,930 --> 00:31:50,339
+A Stalker got him. It wasn't pretty.
+
+111
+00:31:50,339 --> 00:31:52,680
+And you beat a Stalker.
+
+112
+00:31:52,680 --> 00:31:54,240
+That's worth a bonus.
+
+113
+00:31:54,240 --> 00:31:56,200
+Here, take my share.
+
+114
+00:31:56,259 --> 00:31:57,355
+You've earned it.
+
+115
+00:31:58,150 --> 00:32:00,259
+I'll see to the caravan from here.
+
+116
+00:32:00,259 --> 00:32:02,309
+I think the rest of the trip will go smoother.
+
+117
+00:36:16,730 --> 00:36:19,239
+Not gonna be a problem overriding that Lancehorn.
+
+118
+00:36:20,030 --> 00:36:21,210
+Catching it, though.
+
+119
+00:38:12,501 --> 00:38:13,580
+[whistle]
+
+120
+00:39:41,238 --> 00:39:43,346
+It's off!
+
+121
+00:40:40,309 --> 00:40:41,190
+No room.
+
+122
+00:43:53,726 --> 00:43:57,004
+I know how to override a Sawtooth, if I can get in close. 
+
+123
+00:44:29,545 --> 00:44:30,505
+[whistle]
+
+124
+00:44:57,190 --> 00:44:59,960
+It'd be fascinating if they weren't looking for me.
+
+125
+00:45:21,630 --> 00:45:22,480
+All right!
+
+126
+00:45:48,059 --> 00:45:49,122
+I dropped it!
+
+127
+00:46:32,880 --> 00:46:33,889
+Gonna need this!
+
+128
+00:47:04,690 --> 00:47:05,460
+Didn't catch.
+
+129
+00:48:16,170 --> 00:48:17,940
+I'd have to ditch something.
+
+130
+00:49:52,670 --> 00:49:54,750
+Just stay out of their way for now.
+
+131
+00:51:20,360 --> 00:51:22,101
+Should have brought a cart.
+
+132
+00:55:34,800 --> 00:55:36,010
+This will do nicely.
+
+133
+00:56:51,630 --> 00:56:52,809
+Keep that for later.
+
+134
+00:58:46,949 --> 00:58:50,409
+An old gate, broken long ago.
+
+135
+00:58:50,820 --> 00:58:54,500
+So this was the Nora border before the war with the Carja.
+
+136
+00:59:17,119 --> 00:59:19,500
+The Carja fort, looks solid.
+
+137
+00:59:20,320 --> 00:59:22,190
+A little too solid to talk my way past.
+
+138
+00:59:40,119 --> 00:59:42,728
+No passage west, and no exceptions!
+
+139
+00:59:42,730 --> 00:59:45,710
+So long as corrupted machines prowl the valley.
+
+140
+00:59:46,619 --> 00:59:50,130
+Then why don't you do something about the infestation?
+
+141
+00:59:50,420 --> 00:59:53,399
+We have! We sealed the border!
+
+142
+00:59:53,719 --> 00:59:54,800
+Fine.
+
+143
+00:59:54,800 --> 00:59:57,599
+I'll come back once I've destroyed all the corrupted.
+
+144
+00:59:58,420 --> 00:59:59,900
+[laughs]
+
+145
+01:00:00,920 --> 01:00:07,590
+Huh? If you're serious, then may you go in light girl,
+and the Sun guide your arrows.
+

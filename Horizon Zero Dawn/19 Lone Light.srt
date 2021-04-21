@@ -1,0 +1,471 @@
+1
+00:00:22,539 --> 00:00:24,038
+I live in Lone Light.
+
+2
+00:00:24,039 --> 00:00:28,550
+I barely escaped because Glinthawks attack anyone who ventures out.
+
+3
+00:00:29,440 --> 00:00:31,769
+We have so few shards.
+
+4
+00:00:31,890 --> 00:00:33,049
+Will you help?
+
+5
+00:00:33,280 --> 00:00:35,149
+We have nowhere else to turn.
+
+6
+00:00:35,320 --> 00:00:38,350
+Sometimes members receive an honorarium for the hunt.
+
+7
+00:00:38,439 --> 00:00:41,600
+Ahsis should have accepted this one, but he refused.
+
+8
+00:00:41,630 --> 00:00:43,219
+The price was too low.
+
+9
+00:00:43,409 --> 00:00:44,849
+How generous.
+
+10
+00:00:44,849 --> 00:00:47,710
+In the past, I would have gone with Tarkas to handle this.
+
+11
+00:00:47,789 --> 00:00:49,739
+What say you and I take it on?
+
+12
+00:00:49,740 --> 00:00:51,350
+I'll meet you at Lone Light.
+
+13
+00:00:51,520 --> 00:00:53,009
+What about Redmaw?
+
+14
+00:00:53,009 --> 00:00:54,649
+Are you in or not?
+
+15
+00:00:54,679 --> 00:00:58,040
+Alright, I'll meet you there as soon as I can.
+
+16
+00:01:26,510 --> 00:01:27,530
+A start!
+
+17
+00:06:40,585 --> 00:06:42,366
+That'll keep my stomach quiet.
+
+18
+00:10:08,194 --> 00:10:11,084
+By the Sun! Are you Nora?
+
+19
+00:10:11,084 --> 00:10:14,140
+I've never seen one at a Hunting Grounds before.
+
+20
+00:10:14,140 --> 00:10:15,673
+Or the Hunters Lodge.
+
+21
+00:10:16,172 --> 00:10:17,791
+How interesting.
+
+22
+00:10:17,791 --> 00:10:19,816
+Who are you? Where are you here?
+
+23
+00:10:20,000 --> 00:10:24,943
+Well, I'm a hunter, of course, and a member of the Hunters Lodge.
+
+24
+00:10:24,943 --> 00:10:27,165
+But I don't mind being out here.
+
+25
+00:10:27,834 --> 00:10:34,163
+At least no one complains about my clothes, or my manners, or my personality.
+
+26
+00:10:34,533 --> 00:10:38,097
+"Don't let him in, he'll drive people off with his incessant chattering"
+
+27
+00:10:38,097 --> 00:10:42,721
+or "he stinks of fish again", that sort of thing.
+
+28
+00:10:42,721 --> 00:10:45,059
+I don't stink of fish, do I?
+
+29
+00:10:45,059 --> 00:10:48,589
+No, it's more like wet fur.
+
+30
+00:10:48,590 --> 00:10:50,798
+Well, that's something.
+
+31
+00:10:50,867 --> 00:10:52,376
+What do you do here?
+
+32
+00:10:52,376 --> 00:10:56,081
+The trials here focus on the most important part of hunting.
+
+33
+00:10:56,081 --> 00:10:57,937
+Keeping your stamina up.
+
+34
+00:10:57,937 --> 00:10:59,631
+Hunting isn't a sprint.
+
+35
+00:10:59,805 --> 00:11:01,195
+It's a gauntlet.
+
+36
+00:11:01,390 --> 00:11:03,387
+So all you offer is training?
+
+37
+00:11:03,513 --> 00:11:05,614
+What trial will you run today?
+
+38
+00:11:06,700 --> 00:11:10,940
+The remains of Watchers rest on three rises.
+
+39
+00:11:11,246 --> 00:11:15,225
+Loot all of them before time runs out and you'll pass.
+
+40
+00:11:15,834 --> 00:11:20,303
+It sounds simple, but watch out for all the other machines down there.
+
+41
+00:11:21,276 --> 00:11:24,195
+I'll start timing once you slide down the rope.
+
+42
+00:13:48,000 --> 00:13:52,311
+You won a Blazing Sun on your first attempt!
+
+43
+00:13:52,311 --> 00:13:54,220
+Congratulations!
+
+44
+00:13:58,067 --> 00:14:04,076
+For this trial you'll need to be able to tie down
+a Trampler and shoot off a component.
+
+45
+00:14:04,076 --> 00:14:06,702
+But you'll need the right weapon first.
+
+46
+00:14:54,909 --> 00:15:00,690
+in this trial, you must tie down a Trampler and shoot off the component under its belly.
+
+47
+00:15:02,399 --> 00:15:04,990
+I'll start timing once you choose a rope.
+
+48
+00:18:08,934 --> 00:18:13,255
+You won a Blazing Sun on your first attempt!
+
+49
+00:18:13,484 --> 00:18:15,414
+Congratulations!
+
+50
+00:18:18,400 --> 00:18:22,043
+Now's your chance to show you can snare Glinthawks.
+
+51
+00:18:22,226 --> 00:18:26,692
+Lure them close to you, then tie them down in time to pass this test.
+
+52
+00:18:29,773 --> 00:18:30,735
+Are you ready?
+
+53
+00:18:48,000 --> 00:18:49,215
+Spotted!
+
+54
+00:20:26,534 --> 00:20:30,833
+You won a Blazing Sun on your first attempt!
+
+55
+00:20:30,833 --> 00:20:32,773
+Congratulations!
+
+56
+00:20:46,489 --> 00:20:48,125
+I should leave for now.
+
+57
+00:20:48,125 --> 00:20:50,138
+'Til the next hunt!
+
+58
+00:27:43,386 --> 00:27:46,935
+[Talanah]
+About time you showed up, more Glinthawks incoming!
+
+59
+00:29:08,043 --> 00:29:09,593
+[Talanah]
+More coming!
+
+60
+00:29:09,769 --> 00:29:11,778
+[Talanah]
+You're not walking away from this.
+
+61
+00:30:22,149 --> 00:30:25,137
+Better. No more time to recover.
+
+62
+00:33:37,267 --> 00:33:39,457
+That seems to have taken care of them.
+
+63
+00:33:39,667 --> 00:33:41,845
+But more always come.
+
+64
+00:33:41,845 --> 00:33:45,677
+The soldiers at Morning's Watch don't even bother to fight them anymore.
+
+65
+00:33:45,999 --> 00:33:48,408
+It seems like they're coming from upriver.
+
+66
+00:33:48,869 --> 00:33:52,934
+I could track them back to the source, but if more come here…
+
+67
+00:33:52,934 --> 00:33:55,197
+I'll watch the village, you go ahead.
+
+68
+00:33:55,200 --> 00:33:57,819
+I thought you wanted to do this together?
+
+69
+00:33:58,067 --> 00:34:00,006
+You don't need me to hold your hand.
+
+70
+00:36:07,633 --> 00:36:10,392
+Patterns on this flower are so strange.
+
+71
+00:38:38,756 --> 00:38:40,343
+[Carja outlander]
+For the Sundom!
+
+72
+00:39:19,262 --> 00:39:21,401
+I've just got to tough the storm out.
+
+73
+00:40:07,329 --> 00:40:08,679
+More Glinthawks.
+
+74
+00:40:29,585 --> 00:40:31,076
+You're not gonna like this!
+
+75
+00:40:58,708 --> 00:40:59,617
+There!
+
+76
+00:42:13,729 --> 00:42:16,149
+There are Snapmaw carcasses everywhere.
+
+77
+00:42:16,887 --> 00:42:19,117
+No wonder the Glinthawks were drawn here.
+
+78
+00:42:56,300 --> 00:43:00,431
+Those blinds, amateurs will leave easy tracks to follow.
+
+79
+00:44:32,490 --> 00:44:35,027
+These must be the Snapmaw hunters.
+
+80
+00:44:39,667 --> 00:44:42,228
+I'm here on behalf of the nearby village.
+
+81
+00:44:42,674 --> 00:44:46,103
+Seems your kill zone is creating a Glinthawk problem for them.
+
+82
+00:44:46,103 --> 00:44:48,646
+Yeah, well, they're not the only people with problems.
+
+83
+00:44:48,646 --> 00:44:53,052
+If we don't get enough Snapmaw hearts to pay off a loan, we lose everything.
+
+84
+00:44:53,052 --> 00:44:54,750
+I don't follow?
+
+85
+00:44:54,750 --> 00:44:57,697
+I borrowed shards to buy seeds.
+
+86
+00:44:57,697 --> 00:45:01,544
+The harvest went bust, and now they're coming for the debt.
+
+87
+00:45:01,767 --> 00:45:04,477
+We could lose the farm, our home.
+
+88
+00:45:04,634 --> 00:45:06,092
+I'm sorry about that.
+
+89
+00:45:06,092 --> 00:45:09,480
+But Glinthawks are attacking people because of what you're doing here.
+
+90
+00:45:09,734 --> 00:45:11,153
+Not my problem.
+
+91
+00:45:11,153 --> 00:45:14,507
+None of us are leaving until I get what I came for.
+
+92
+00:45:14,534 --> 00:45:15,704
+None of us?
+
+93
+00:45:21,737 --> 00:45:24,407
+You didn't think it was just us two, did you?
+
+94
+00:45:26,234 --> 00:45:27,952
+I'll make it simple for you.
+
+95
+00:45:27,987 --> 00:45:32,538
+Stop slaughtering machines for one component, leaving the rest to waste.
+
+96
+00:45:32,634 --> 00:45:34,634
+Now I'll make it simple for you.
+
+97
+00:45:34,788 --> 00:45:36,697
+That's not going to happen.
+
+98
+00:45:36,808 --> 00:45:38,686
+So get out of here.
+
+99
+00:45:38,959 --> 00:45:41,003
+Seems we've come to an impasse.
+
+100
+00:45:41,003 --> 00:45:42,634
+Make your move.
+
+101
+00:45:42,700 --> 00:45:44,467
+So be it.
+
+102
+00:46:09,843 --> 00:46:11,332
+[Carja outlander]
+Enjoy your last breath!
+
+103
+00:46:31,090 --> 00:46:32,301
+[in the distance]
+Aloy!
+
+104
+00:46:44,634 --> 00:46:47,853
+Fools! Bit off more than they could chew.
+
+105
+00:46:48,143 --> 00:46:49,384
+What a waste.
+
+106
+00:46:49,616 --> 00:46:51,895
+But now I know you can handle yourself.
+
+107
+00:46:52,000 --> 00:46:53,969
+You were watching the whole time?
+
+108
+00:46:54,075 --> 00:46:55,305
+Of course.
+
+109
+00:46:55,305 --> 00:46:59,209
+Tarkas, may the Sun light his passing, taught me many things.
+
+110
+00:46:59,587 --> 00:47:03,447
+First of which was: a Hawk never abandons their Thrush.
+
+111
+00:47:03,603 --> 00:47:06,029
+Wait, are you saying…?
+
+112
+00:47:06,029 --> 00:47:08,549
+I'd like to sponsor you for membership.
+
+113
+00:47:09,006 --> 00:47:13,336
+What do you say to hunting machines, winning trophies, and unseating Ahsis?
+
+114
+00:47:14,259 --> 00:47:15,230
+I'm in.
+
+115
+00:47:15,855 --> 00:47:18,195
+I'll meet you back at the Lodge as soon as I'm able.
+
+116
+00:48:01,757 --> 00:48:03,418
+I can always use these.
+

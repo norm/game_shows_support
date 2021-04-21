@@ -1,0 +1,1759 @@
+1
+00:00:22,153 --> 00:00:29,050
+ALOY: Somehow Elisabet stopped war machines from destroying the world.
+
+2
+00:00:29,649 --> 00:00:35,834
+ALOY: She couldn't save the civilisation of the Old Ones, that was destroyed obviously.
+
+3
+00:00:35,834 --> 00:00:40,049
+But life, it survived.
+
+4
+00:00:41,729 --> 00:00:46,304
+She saved life from being devoured.
+
+5
+00:00:46,909 --> 00:00:50,189
+I need to know how Elisabet stopped the machines.
+
+6
+00:00:50,340 --> 00:00:57,267
+If I can find the weapon she built and use it, the Eclipse won't stand a chance.
+
+7
+00:00:57,267 --> 00:01:03,780
+I went into the Grave-Hoard. It lived up to its name.
+
+8
+00:01:03,780 --> 00:01:11,913
+Millions of people fought and died to give Elisabet
+the time she needed to finish Zero Dawn.
+
+9
+00:01:12,930 --> 00:01:18,747
+The weapon she built it wasn't there, but I found out where she built it.
+
+10
+00:01:19,640 --> 00:01:21,849
+A secret base west of here.
+
+11
+00:01:22,689 --> 00:01:26,842
+Right under Sunfall, the capital of the Shadow Carja.
+
+12
+00:01:38,469 --> 00:01:40,638
+I see you've been here before.
+
+13
+00:01:40,640 --> 00:01:42,140
+SYLENS, THROUGH FOCUS: Obviously.
+
+14
+00:01:44,400 --> 00:01:48,349
+SYLENS: I've spent a lifetime trying to uncover the secrets of this world.
+
+15
+00:01:49,010 --> 00:01:50,260
+ALOY: I'm heading down.
+
+16
+00:01:51,040 --> 00:01:52,969
+SYLENS: A lifetime of failure.
+
+17
+00:01:53,040 --> 00:01:56,316
+SYLENS: I hit walls I could not break, doors I could never breach.
+
+18
+00:01:56,316 --> 00:01:59,693
+SYLENS: Until a Nora huntress marched out of the savage east.
+
+19
+00:01:59,693 --> 00:02:04,300
+SYLENS: For her all the deepest secrets of the earth were laid bare.
+
+20
+00:02:04,569 --> 00:02:05,810
+ALOY: Hello.
+
+21
+00:02:13,875 --> 00:02:17,930
+SYLENS: I suspect you will have an easier time
+with this door than I did years ago.
+
+22
+00:02:21,340 --> 00:02:23,689
+COMPUTER: Hold for Identiscan.
+
+23
+00:02:28,389 --> 00:02:32,325
+COMPUTER: Genetic profile confirmed. Entry authorised.
+
+24
+00:02:32,325 --> 00:02:35,508
+COMPUTER: Malfunction. Malfunction. Malfunction. Malfunction.
+
+25
+00:02:35,508 --> 00:02:36,429
+ALOY: Are you kidding me!
+
+26
+00:02:36,429 --> 00:02:38,208
+SYLENS: You don't hear me laughing.
+
+27
+00:02:38,208 --> 00:02:40,238
+ALOY: Shut up! There's got to be another way.
+
+28
+00:02:40,539 --> 00:02:44,400
+Hey! Elisabet Sobeck here, requesting access!
+
+29
+00:02:44,400 --> 00:02:47,545
+COMPUTER: Request acknowledged. Command functions available.
+
+30
+00:02:47,545 --> 00:02:49,073
+COMPUTER: Do you wish to proceed?
+
+31
+00:02:49,073 --> 00:02:51,039
+ALOY: I do, get me through this door!
+
+32
+00:02:51,039 --> 00:02:55,459
+COMPUTER: Analysing. Primary access inoperable due to mechanical failure.
+
+33
+00:02:55,460 --> 00:02:58,989
+COMPUTER: Emergency venting procedure likely to circumvent blockage.
+
+34
+00:02:58,990 --> 00:03:00,750
+COMPUTER: Do you wish to proceed?
+
+35
+00:03:01,710 --> 00:03:02,659
+Yes.
+
+36
+00:03:03,530 --> 00:03:05,727
+COMPUTER: Emergency venting authorised.
+
+37
+00:03:16,512 --> 00:03:20,282
+SYLENS: I underestimated you. You'd think by now, I—
+
+38
+00:03:27,413 --> 00:03:28,911
+ALOY: Guess you can't have everything.
+
+39
+00:03:28,911 --> 00:03:30,330
+SYLENS: That will draw attention.
+
+40
+00:03:30,330 --> 00:03:32,869
+SYLENS: We won't have this place to ourselves for long now.
+
+41
+00:03:32,869 --> 00:03:36,038
+ALOY: "We"? Last I checked, I was the one risking my life down here.
+
+42
+00:03:36,039 --> 00:03:38,750
+SYLENS: Yes, fine. Now will you please get moving?
+
+43
+00:03:38,750 --> 00:03:41,550
+SYLENS: There's so much to learn and less time than I'd hoped.
+
+44
+00:03:44,740 --> 00:03:47,604
+COMPUTER: Welcome to Project Zero Dawn.
+
+45
+00:03:47,604 --> 00:03:51,434
+ALOY: Zero Dawn, we found it!
+
+46
+00:03:52,039 --> 00:03:54,349
+SYLENS: Are you really so surprised?
+
+47
+00:03:54,370 --> 00:04:00,340
+COMPUTER: Facility diagnostics detect multiple failures. Attempting repair.
+
+48
+00:04:00,340 --> 00:04:03,968
+ALOY: So what was this room?
+
+49
+00:04:03,969 --> 00:04:07,677
+SYLENS: An Entrance hall perhaps. Have a look around.
+
+50
+00:06:53,220 --> 00:06:56,949
+COMPUTER: Please take a seat and wait for your name to be called.
+
+51
+00:06:57,240 --> 00:07:00,618
+COMPUTER: A selection of beverages and snacks are available.
+
+52
+00:07:00,939 --> 00:07:02,470
+ALOY: A smaller room.
+
+53
+00:09:02,620 --> 00:09:09,269
+COMPUTER: Please proceed into Viewing Room 1
+for an important message regarding the purpose of your visit.
+
+54
+00:09:18,539 --> 00:09:21,759
+ALOY: What… what was this place?
+
+55
+00:09:21,879 --> 00:09:23,769
+SYLENS: A holographic theatre.
+
+56
+00:09:23,919 --> 00:09:29,267
+COMPUTER: ZD01 data intact. Initiating playback.
+
+57
+00:09:32,840 --> 00:09:35,210
+Welcome to Project Zero Dawn.
+
+58
+00:09:35,299 --> 00:09:40,528
+I am General Herres, chairman of
+the Joint Chiefs of Staff of the United States of America.
+
+59
+00:09:40,529 --> 00:09:42,404
+I'm sure you've heard the rumours.
+
+60
+00:09:42,404 --> 00:09:45,870
+That Zero Dawn is a top secret superweapons programme.
+
+61
+00:09:45,870 --> 00:09:49,928
+The technological miracle that will save us from the Faro plague.
+
+62
+00:09:49,929 --> 00:09:53,553
+If Operation Enduring Victory can hold off the robots long enough.
+
+63
+00:09:53,554 --> 00:09:58,960
+The reason that I'm sure you've heard the rumours
+is that I'm the one who spread them.
+
+64
+00:09:58,960 --> 00:10:00,769
+And they are all lies.
+
+65
+00:10:00,870 --> 00:10:06,850
+Zero Dawn is not a superweapons programme and it will not save us.
+
+66
+00:10:07,070 --> 00:10:09,090
+Nothing will save us.
+
+67
+00:10:09,970 --> 00:10:11,419
+And here's why.
+
+68
+00:10:11,889 --> 00:10:15,750
+By the time the glitch was noticed, it was already too late.
+
+69
+00:10:16,250 --> 00:10:20,000
+Nothing could stop the Faro plague. Nothing can.
+
+70
+00:10:20,000 --> 00:10:24,450
+Its robots will continue to replicate and devour the biosphere.
+
+71
+00:10:24,600 --> 00:10:27,480
+Life on Earth will be destroyed.
+
+72
+00:10:27,539 --> 00:10:30,779
+Our planet reduced to a barren sphere.
+
+73
+00:10:31,070 --> 00:10:34,549
+Global extinction is inevitable.
+
+74
+00:10:35,289 --> 00:10:41,259
+No matter how many we kill, the robots just keep exponentially making more.
+
+75
+00:10:42,700 --> 00:10:48,200
+If we had their deactivation codes
+we could shut them all down, the entire swarm.
+
+76
+00:10:48,440 --> 00:10:56,597
+But since their cryptographic protocols used polyphasic
+entangled waveforms, cracking a codeset would take half a century.
+
+77
+00:10:56,597 --> 00:11:00,009
+At best we've got sixteen months.
+
+78
+00:11:00,769 --> 00:11:03,190
+Not exactly what you'd call a survival option.
+
+79
+00:11:03,289 --> 00:11:09,079
+The destruction of a biosphere is not the sort of apocalypse
+you can wait out in a fallout shelter or space station.
+
+80
+00:11:09,080 --> 00:11:11,422
+There will be no Earth left to reclaim.
+
+81
+00:11:11,422 --> 00:11:16,134
+Just a lifeless toxic rock with several million Faro robots on it.
+
+82
+00:11:16,134 --> 00:11:20,000
+Hibernating, waiting for something to eat.
+
+83
+00:11:20,399 --> 00:11:24,460
+This is the horrible truth behind the lies of Operation Enduring Victory.
+
+84
+00:11:25,120 --> 00:11:31,750
+My lies, lies designed to inspire
+millions of innocents to sacrifice themselves in battle.
+
+85
+00:11:32,899 --> 00:11:36,182
+Why? One reason.
+
+86
+00:11:37,309 --> 00:11:42,630
+To buy time for you and the work you will do here.
+
+87
+00:11:43,157 --> 00:11:49,049
+Zero Day, the day that life on Earth ceases to exist, is coming fast.
+
+88
+00:11:49,139 --> 00:11:51,159
+It cannot be stopped.
+
+89
+00:11:51,230 --> 00:11:55,750
+The hope of Zero Dawn is that something new might come after.
+
+90
+00:11:56,240 --> 00:12:01,114
+But I will leave it to Elisabet Sobeck
+to shine that thin ray of light into the darkness.
+
+91
+00:12:01,669 --> 00:12:03,809
+Herres out.
+
+92
+00:12:09,330 --> 00:12:10,809
+ALOY: That doesn't make sense.
+
+93
+00:12:10,940 --> 00:12:13,590
+ALOY: Life on Earth didn't cease to exist.
+
+94
+00:12:13,779 --> 00:12:16,120
+SYLENS: He said it could not be stopped.
+
+95
+00:12:16,120 --> 00:12:21,240
+ALOY: But it was! Somehow… somehow Elisabet saved us.
+
+96
+00:12:21,539 --> 00:12:24,983
+ALOY: I've got to keep looking. Find out how she did it.
+
+97
+00:12:48,340 --> 00:12:51,929
+ALOY: Kestrels. They got in, through the vents.
+
+98
+00:12:52,080 --> 00:12:54,619
+SYLENS: Let nothing stop you from learning the truth.
+
+99
+00:12:54,620 --> 00:12:57,910
+ECLIPSE: Spread out! If it moves kill it!
+
+100
+00:12:57,910 --> 00:13:00,267
+ECLIPSE: What is this place? A tomb?
+
+101
+00:13:41,570 --> 00:13:42,490
+ALOY: Spotted!
+
+102
+00:13:51,139 --> 00:13:54,113
+SYLENS: We're too close to let tribal primitives stop us now.
+
+103
+00:13:54,759 --> 00:13:57,267
+SYLENS: The datapoints, what do they contain?
+
+104
+00:14:08,351 --> 00:14:12,679
+COUNSELOR: —ing with Susanne Alpert, environmental scientist. Doctor?
+
+105
+00:14:12,679 --> 00:14:14,766
+SUSANNE ALPERT: I'm sorry? I wasn't, er…
+
+106
+00:14:14,766 --> 00:14:19,240
+COUNSELOR: Just stating your name. What were you thinking about, doctor?
+
+107
+00:14:19,840 --> 00:14:22,759
+SUSANNE ALPERT: Nothing the general said, not really.
+
+108
+00:14:22,759 --> 00:14:29,679
+SUSANNE ALPERT: I was on the Syzygy East Response Team in 2051,
+just after the second earthquake compromised the reactor.
+
+109
+00:14:29,720 --> 00:14:32,870
+SUSANNE ALPERT: I still dream about it after all these years.
+
+110
+00:14:33,029 --> 00:14:40,139
+SUSANNE ALPERT: The red zone spreading on the imaging
+slowly, so slowly, like a hand opening its fingers.
+
+111
+00:14:40,139 --> 00:14:44,329
+COUNSELOR: Your involvement in that event is why you were asked for by name.
+
+112
+00:14:44,330 --> 00:14:47,769
+SUSANNE ALPERT: Really? That's interesting because nothing worked.
+
+113
+00:14:47,769 --> 00:14:49,119
+SUSANNE ALPERT: Nothing could grow there again.
+
+114
+00:14:49,120 --> 00:14:51,442
+SUSANNE ALPERT: It was a catastrophic failure.
+
+115
+00:14:51,442 --> 00:14:56,649
+SUSANNE ALPERT: But the red zone is a blip
+compared to global scale biomass reduction.
+
+116
+00:14:56,710 --> 00:15:03,733
+SUSANNE ALPERT: The biosphere and hydrosphere will collapse,
+render the Earth uninhabitable long before the robots finish us.
+
+117
+00:15:03,733 --> 00:15:06,840
+SUSANNE ALPERT: Enduring Victory can't buy time against that.
+
+118
+00:15:07,254 --> 00:15:11,259
+SUSANNE ALPERT: So you'd better show me what Zero Dawn really is.
+
+119
+00:16:48,240 --> 00:16:52,485
+COUNSELOR: I'm sure you now understand
+the urgency of why we brought you here Ms Okilo?
+
+120
+00:16:52,749 --> 00:16:57,210
+CPT. OKILO: Captain Okilo. Are you trying to thank me for not resisting?
+
+121
+00:16:57,210 --> 00:17:01,231
+COUNSELOR: I believe we couldn't negotiate a diplomatic solution.
+
+122
+00:17:01,683 --> 00:17:07,335
+CPT. OKILO: When it came to my country's lithium
+it was always a swarm that would be sent to negotiate.
+
+123
+00:17:07,335 --> 00:17:13,402
+CPT. OKILO: Metallurgic International, US Robot Command,
+the markings changed, but the robots were the same.
+
+124
+00:17:13,839 --> 00:17:17,950
+COUNSELOR: You have had considerable experience in human-robot conflict.
+
+125
+00:17:18,140 --> 00:17:21,859
+CPT. OKILO: Yes, and I've got the prosthetic limbs to show it.
+
+126
+00:17:21,859 --> 00:17:27,012
+CPT. OKILO: Yet I continue
+to face this horror even though the challenge was great.
+
+127
+00:17:27,012 --> 00:17:35,293
+CPT. OKILO: Cyber warfare. I thought Zero Dawn
+would be a–a Manhattan Project to generate the deactivation codes.
+
+128
+00:17:35,293 --> 00:17:40,338
+CPT. OKILO: With the resources I had
+I estimated codebreaking to be a hopeless endeavour.
+
+129
+00:17:40,339 --> 00:17:43,538
+CPT. OKILO: I was almost looking forward to being proved wrong.
+
+130
+00:17:43,539 --> 00:17:46,881
+COUNSELOR: Unfortunately, your estimation was correct.
+
+131
+00:17:47,370 --> 00:17:49,720
+CPT. OKILO: As your General Herres said.
+
+132
+00:17:50,740 --> 00:17:56,501
+CPT. OKILO: So then. You didn't bring me here to commiserate, what is left?
+
+133
+00:18:02,839 --> 00:18:04,818
+RON FELDER: Look, let's cut the mystery.
+
+134
+00:18:04,819 --> 00:18:07,629
+RON FELDER: You're building a colony ship, it's obvious.
+
+135
+00:18:07,629 --> 00:18:10,400
+RON FELDER: And it's not gonna fly. I mean, literally.
+
+136
+00:18:10,400 --> 00:18:15,639
+RON FELDER: Remember the Odyssey, that multinational
+heap of space junk that's been in graveyard orbit since '57?
+
+137
+00:18:15,640 --> 00:18:20,549
+RON FELDER: That went nowhere real slow,
+and you have to get somewhere real fast.
+
+138
+00:18:20,589 --> 00:18:26,139
+RON FELDER: Do you have any idea
+the immensity of the challenge to prep a new colony ship in time?
+
+139
+00:18:26,140 --> 00:18:29,338
+COUNSELOR: To be clear, I'm not a worker on the project.
+
+140
+00:18:29,339 --> 00:18:32,558
+RON FELDER: Do you even understand how few people it could save?
+
+141
+00:18:32,558 --> 00:18:36,929
+RON FELDER: The whole generation ship concept is… is not gonna happen.
+
+142
+00:18:36,929 --> 00:18:40,000
+RON FELDER: It's the first thing you'd abandon in favour of embryonics.
+
+143
+00:18:40,000 --> 00:18:45,339
+RON FELDER: For that kind of storage we're talking
+a lot of bulk, a lot of power, a lot of resources.
+
+144
+00:18:45,339 --> 00:18:53,269
+RON FELDER: So even if you do it, even if you build it
+and point it at Sirius X, there's no room for people on that thing, alright?
+
+145
+00:18:53,269 --> 00:18:55,688
+COUNSELOR: If you could try to remain calm…
+
+146
+00:18:55,688 --> 00:19:00,390
+RON FELDER: You people are crazy if you think
+you're getting off this rock, no-one's getting off!
+
+147
+00:19:00,390 --> 00:19:01,580
+COUNSELOR: Medical!
+
+148
+00:19:08,859 --> 00:19:10,348
+DR. HSU-VHEY: There is some mistake.
+
+149
+00:19:10,349 --> 00:19:12,308
+DR. HSU-VHEY: I don't understand why I was brought here.
+
+150
+00:19:12,309 --> 00:19:14,879
+DR. HSU-VHEY: Why would you show me these things?
+
+151
+00:19:14,880 --> 00:19:17,495
+COUNSELOR: I know that there's already a lot to take in.
+
+152
+00:19:17,495 --> 00:19:23,446
+DR. HSU-VHEY: In the waiting area I was seated with
+a Nobel laureate in biophysics and a monk, I think.
+
+153
+00:19:23,446 --> 00:19:25,849
+DR. HSU-VHEY: He spoke neither English nor Mandarin.
+
+154
+00:19:25,940 --> 00:19:28,139
+DR. HSU-VHEY: It is very strange.
+
+155
+00:19:28,140 --> 00:19:31,278
+DR. HSU-VHEY: And General Herres, what was he talking about?
+
+156
+00:19:31,279 --> 00:19:33,598
+DR. HSU-VHEY: The robot swarm, the Faro plague?
+
+157
+00:19:33,599 --> 00:19:38,237
+DR. HSU-VHEY: I understand it is terrible, but it really cannot be stopped?
+
+158
+00:19:38,237 --> 00:19:40,059
+DR. HSU-VHEY: Why tell us this?
+
+159
+00:19:40,130 --> 00:19:43,869
+DR. HSU-VHEY: There are people in Shanghai, my friends, my family.
+
+160
+00:19:43,869 --> 00:19:47,538
+DR. HSU-VHEY: They have joined Operation Enduring Victory already.
+
+161
+00:19:47,539 --> 00:19:50,839
+DR. HSU-VHEY: It is for nothing? We will all die?
+
+162
+00:19:50,839 --> 00:19:53,880
+COUNSELOR: We're going to be able to answer some of these questions.
+
+163
+00:19:53,930 --> 00:19:56,249
+DR. HSU-VHEY: I just want to know why I am here.
+
+164
+00:19:56,250 --> 00:19:58,150
+DR. HSU-VHEY: It doesn't make sense to me.
+
+165
+00:19:58,180 --> 00:20:00,838
+COUNSELOR: You were brought here because of your skill set.
+
+166
+00:20:00,839 --> 00:20:02,828
+DR. HSU-VHEY: No, that can't be right.
+
+167
+00:20:02,829 --> 00:20:04,949
+DR. HSU-VHEY: I am an art historian.
+
+168
+00:20:04,950 --> 00:20:09,555
+DR. HSU-VHEY: I know Dutch masters, Japanese calligraphy, Gerhard Richter.
+
+169
+00:20:09,940 --> 00:20:11,660
+DR. HSU-VHEY: What does that matter now?
+
+170
+00:20:17,740 --> 00:20:19,750
+COUNSELOR: —that is accurate, yes.
+
+171
+00:20:19,750 --> 00:20:26,339
+TOM PAECH: So these mechanical monstrosities
+they don't just kill people, they feed off them?
+
+172
+00:20:26,339 --> 00:20:29,460
+COUNSELOR: Not just people, all organic matter.
+
+173
+00:20:29,460 --> 00:20:34,009
+TOM PAECH: Every living thing dissolved into nutrients.
+
+174
+00:20:34,009 --> 00:20:37,839
+TOM PAECH: Millennia of evolution liquefied.
+
+175
+00:20:37,839 --> 00:20:42,710
+TOM PAECH: The miracle of life reduced to bloody biofuel?!
+
+176
+00:20:42,710 --> 00:20:45,276
+COUNSELOR: In a word, yes.
+
+177
+00:20:45,276 --> 00:20:50,811
+TOM PAECH: Who did this? Faro? That arsehole, is he here?
+
+178
+00:20:50,811 --> 00:20:53,156
+COUNSELOR: No, Doctor, please…
+
+179
+00:20:53,156 --> 00:20:55,620
+TOM PAECH: Tell him Tom Paech wants a word!
+
+180
+00:20:55,621 --> 00:20:56,787
+[sounds of struggling]
+
+181
+00:20:56,787 --> 00:20:58,498
+TOM PAECH: Nah, get off, get off!
+
+182
+00:20:58,499 --> 00:20:59,816
+[sounds of struggling]
+
+183
+00:20:59,816 --> 00:21:02,099
+COUNSELOR: Doc, please!
+
+184
+00:21:02,599 --> 00:21:05,172
+TOM PAECH: You get Ted Faro in here!
+
+185
+00:21:09,440 --> 00:21:10,856
+COUNSELOR: —want to discuss?
+
+186
+00:21:10,856 --> 00:21:15,359
+TRAVIS TATE: Whoof. So Mama, she was right.
+
+187
+00:21:15,740 --> 00:21:16,759
+COUNSELOR: Pardon?
+
+188
+00:21:16,839 --> 00:21:19,568
+TRAVIS TATE: My mother. She took her Bible real serious.
+
+189
+00:21:19,568 --> 00:21:23,770
+TRAVIS TATE: Not just Texas Bubble serious, Pentecostal serious.
+
+190
+00:21:23,770 --> 00:21:26,285
+TRAVIS TATE: Favourite chapter? Revelations.
+
+191
+00:21:26,539 --> 00:21:31,463
+TRAVIS TATE: Now, I didn't always understand her
+on account of all that speaking in tongues and such, but…
+
+192
+00:21:31,463 --> 00:21:39,250
+TRAVIS TATE: When she did use her words, it was always 
+"end times" this and "the lake of fire" that on account of sinful lifestyles.
+
+193
+00:21:39,809 --> 00:21:43,153
+TRAVIS TATE: Speaking of which, mind if I smoke?
+
+194
+00:21:43,153 --> 00:21:45,279
+COUNSELOR: A tobacco cigarette?
+
+195
+00:21:45,299 --> 00:21:48,728
+TRAVIS TATE: Sorry, darlin'. My tastes run classic.
+
+196
+00:21:48,728 --> 00:21:50,992
+TRAVIS TATE: Compliments to your team tracked me down.
+
+197
+00:21:50,992 --> 00:21:53,205
+TRAVIS TATE: Been a price on my head eighteen months now.
+
+198
+00:21:53,430 --> 00:21:56,923
+TRAVIS TATE: Sterling-Malkeet was me, don't mind admitting.
+
+199
+00:21:56,923 --> 00:21:59,970
+TRAVIS TATE: Been plenty of snakesters chasing the bounty too.
+
+200
+00:22:00,339 --> 00:22:03,440
+TRAVIS TATE: But I kept the zigging to their zag.
+
+201
+00:22:04,740 --> 00:22:06,439
+TRAVIS TATE: How'd you finger me?
+
+202
+00:22:06,440 --> 00:22:09,849
+COUNSELOR: I believe Dr Sobeck listed you as an Alpha candidate.
+
+203
+00:22:10,039 --> 00:22:12,019
+COUNSELOR: Priority snatch and grab.
+
+204
+00:22:12,019 --> 00:22:15,038
+TRAVIS TATE: Always suspected she had a little thing for me.
+
+205
+00:22:15,039 --> 00:22:19,269
+TRAVIS TATE: Hey, I don't suppose you got real coffee in this place?
+
+206
+00:22:19,740 --> 00:22:25,538
+TRAVIS TATE: You know, blood coffee? Conflict cappuccinos?
+
+207
+00:22:25,539 --> 00:22:31,048
+COUNSELOR: Mr. Tate, I'm clearing you to proceed. Just … go.
+
+208
+00:22:36,450 --> 00:22:40,209
+COUNSELOR: You previously worked for Faro Automated Systems.
+
+209
+00:22:40,209 --> 00:22:43,099
+BRAD ANDAC: On the Chariot line self-replication routines.
+
+210
+00:22:43,339 --> 00:22:47,009
+BRAD ANDAC: I–I came here thinking this was a–a rendition?
+
+211
+00:22:47,640 --> 00:22:51,099
+BRAD ANDAC: When your people took me, I thought "about time".
+
+212
+00:22:51,200 --> 00:22:55,829
+BRAD ANDAC: I've been trying to swallow the guilt every day since…
+
+213
+00:22:56,680 --> 00:22:58,016
+BRAD ANDAC: …since, uh…
+
+214
+00:22:58,016 --> 00:22:59,939
+COUNSELOR: Would you like to take a moment?
+
+215
+00:22:59,940 --> 00:23:01,841
+BRAD ANDAC: No, no, no, I just…
+
+216
+00:23:02,440 --> 00:23:06,983
+BRAD ANDAC: I really hoped Zero Dawn was a way to undo it all.
+
+217
+00:23:06,983 --> 00:23:08,038
+BRAD ANDAC: My work.
+
+218
+00:23:08,940 --> 00:23:13,788
+BRAD ANDAC: I'm sorry to say I was ever proud of it,
+but Ted could really sell a concept.
+
+219
+00:23:13,789 --> 00:23:19,950
+BRAD ANDAC: And–and–and in the labs,
+in the light of creation, that first test run.
+
+220
+00:23:20,250 --> 00:23:27,529
+BRAD ANDAC: When–when you saw they understood their own structures,
+could rebuild themselves from memory and light?
+
+221
+00:23:27,529 --> 00:23:29,349
+BRAD ANDAC: There were no limits!
+
+222
+00:23:31,539 --> 00:23:33,759
+BRAD ANDAC: God, there were no limits.
+
+223
+00:23:46,390 --> 00:23:51,083
+COMPUTER: ZD02 data intact. Initiating playback.
+
+224
+00:23:54,022 --> 00:23:55,440
+Elisabet Sobeck.
+
+225
+00:23:55,950 --> 00:23:59,259
+You've heard the bad news and it's all true.
+
+226
+00:23:59,940 --> 00:24:02,469
+The Faro plague is devouring the biosphere.
+
+227
+00:24:02,470 --> 00:24:05,500
+Life itself will cease to exist.
+
+228
+00:24:06,900 --> 00:24:09,053
+But does that have to be the end?
+
+229
+00:24:10,339 --> 00:24:13,759
+What if we could give life a future?
+
+230
+00:24:14,539 --> 00:24:21,500
+What if we could build a kind of seed
+from which, on a dead planet, life could blossom anew?
+
+231
+00:24:21,720 --> 00:24:26,049
+This is the aim, the hope, of Project Zero Dawn.
+
+232
+00:24:26,630 --> 00:24:34,240
+To create a super-intelligent, fully automated
+terraforming system and bring life back from lifelessness.
+
+233
+00:24:34,640 --> 00:24:36,599
+What would such a system require?
+
+234
+00:24:37,359 --> 00:24:46,517
+At its core it would need a true AI fully capable of making
+the trillions of decisions necessary to reconstitute the biosphere.
+
+235
+00:24:46,517 --> 00:24:50,234
+An immortal guardian devoted to the reflourishing of life.
+
+236
+00:24:51,269 --> 00:24:53,019
+We call it GAIA.
+
+237
+00:24:53,900 --> 00:24:56,029
+Mother Nature as an AI.
+
+238
+00:24:56,470 --> 00:24:59,160
+But that's just the core of the system.
+
+239
+00:24:59,829 --> 00:25:06,068
+She will need to be surrounded and empowered
+by a comprehensive suite of subordinate functions.
+
+240
+00:25:06,069 --> 00:25:09,070
+Think of them as extensions of GAIA's mind.
+
+241
+00:25:09,070 --> 00:25:12,180
+Each dedicated to a specific purpose.
+
+242
+00:25:13,329 --> 00:25:16,098
+Now these aren't AIs, but make no mistake.
+
+243
+00:25:16,099 --> 00:25:24,118
+Each presents an engineering challenge more profound
+than anything the human species has ever before attempted.
+
+244
+00:25:24,118 --> 00:25:30,534
+Hardware that preserves and then gestates
+the billions of seeds and embryos from which life will be reborn.
+
+245
+00:25:30,640 --> 00:25:34,140
+The construction of underground facilities to hold it all.
+
+246
+00:25:34,519 --> 00:25:36,318
+And that's just the start.
+
+247
+00:25:37,034 --> 00:25:39,849
+We don't have to build the entire system.
+
+248
+00:25:40,160 --> 00:25:45,849
+The beauty of a fully automated terraforming system is that it can build itself.
+
+249
+00:25:45,849 --> 00:25:52,589
+Now over the days to come, you'll learn how all these functions,
+all these pieces that you'll be working on fit together.
+
+250
+00:25:53,359 --> 00:26:00,000
+How we'll race the clock to execute our harvest initiatives,
+write the software, build the tech, and the facilities.
+
+251
+00:26:00,599 --> 00:26:04,890
+How we'll lock it down and seal it up before the inevitable occurs.
+
+252
+00:26:05,039 --> 00:26:09,160
+But even more important, you'll know how it doesn't end here.
+
+253
+00:26:09,339 --> 00:26:13,858
+How GAIA will generate those deactivation codes General Herres talked about.
+
+254
+00:26:13,858 --> 00:26:19,539
+And build the transmission arrays to broadcast them,
+shutting down the Faro robots for good.
+
+255
+00:26:21,029 --> 00:26:28,049
+How GAIA will not just build but imagine
+any conceivable robot it needs to do its work across centuries.
+
+256
+00:26:28,839 --> 00:26:32,980
+From detoxifying the Earth's ravaged atmosphere and poisoned seas.
+
+257
+00:26:33,640 --> 00:26:37,449
+To the regreening of the Earth from cryopreserved seed stocks.
+
+258
+00:26:37,449 --> 00:26:40,199
+To rewilding the Earth with animal life.
+
+259
+00:26:40,200 --> 00:26:50,879
+And then, when all that is done, how a new generation of human beings
+spawned at cradle facilities around the globe will partake of Apollo.
+
+260
+00:26:50,879 --> 00:26:58,450
+The vast archive of human knowledge and cultural achievement
+from which they will learn of us, our world.
+
+261
+00:26:59,339 --> 00:27:04,049
+And most important, how not to repeat our mistakes.
+
+262
+00:27:04,049 --> 00:27:06,259
+It's not an impossible dream.
+
+263
+00:27:06,440 --> 00:27:12,316
+It is within our grasp if we worked tirelessly and stop at nothing to achieve it.
+
+264
+00:27:13,740 --> 00:27:15,960
+We can't stop life from ending.
+
+265
+00:27:17,140 --> 00:27:22,465
+But if you will help me, help GAIA, we can give it a future.
+
+266
+00:27:23,700 --> 00:27:27,759
+Join me and help make that future real.
+
+267
+00:27:35,440 --> 00:27:40,000
+ALOY: The whole Earth destroyed, but then remade?
+
+268
+00:27:40,039 --> 00:27:45,624
+SYLENS: Yes, by a machine. A machine of creation.
+
+269
+00:27:45,970 --> 00:27:50,936
+ALOY: Elisabet did this for life, for us.
+
+270
+00:27:51,339 --> 00:27:54,259
+ALOY: But why Hades then?
+
+271
+00:27:54,599 --> 00:27:58,990
+ALOY: If it was part of GAIA, how'd it end up in the wreckage of a Faro robot?
+
+272
+00:27:59,039 --> 00:28:01,388
+ALOY: And why does it want to kill me?
+
+273
+00:28:01,388 --> 00:28:05,079
+ALOY: And Apollo, the archive of knowledge, what happened to that?
+
+274
+00:28:05,079 --> 00:28:08,640
+SYLENS: And Hephaestus taking over CYAN.
+
+275
+00:28:08,640 --> 00:28:10,549
+SYLENS: I'm as confused as you are.
+
+276
+00:28:12,089 --> 00:28:14,049
+SYLENS: Maybe the answers lie ahead.
+
+277
+00:32:53,140 --> 00:32:55,160
+BRAD ANDAC: Of course I'll do it.
+
+278
+00:32:55,750 --> 00:33:00,779
+BRAD ANDAC: To be given the opportunity to rebuild what I, uh, d-d-damaged?
+
+279
+00:33:01,829 --> 00:33:05,910
+BRAD ANDAC: Well, I-I don't feel worthy of it, but I will do it absolutely.
+
+280
+00:33:05,980 --> 00:33:09,509
+COUNSELLOR: I want to stress that this was never about your culpability.
+
+281
+00:33:09,509 --> 00:33:11,626
+BRAD ANDAC: Uh, i-i-it is to me.
+
+282
+00:33:11,626 --> 00:33:15,500
+BRAD ANDAC: Doctor Sobeck, Margo,
+they were smart to get out of Faro when they did.
+
+283
+00:33:15,500 --> 00:33:18,239
+BRAD ANDAC: But-but not one of us took it as a warning sign.
+
+284
+00:33:18,240 --> 00:33:21,210
+BRAD ANDAC: We just told ourselves they weren't cut out for the BTRI cabals.
+
+285
+00:33:21,210 --> 00:33:24,160
+BRAD ANDAC: That's the "Better Than Rapid Innovation".
+
+286
+00:33:24,950 --> 00:33:28,896
+BRAD ANDAC: Better at competing,
+better than the next guy, a better killing machine.
+
+287
+00:33:30,500 --> 00:33:35,849
+BRAD ANDAC: Isn't it just amazing how century and half of science-fiction
+did nothing to swerve our species from the path of doom?
+
+288
+00:33:36,279 --> 00:33:38,769
+BRAD ANDAC: I mean, I'm… I'm done with that life.
+
+289
+00:33:38,769 --> 00:33:42,451
+BRAD ANDAC: I mean, I will work hard, twice as hard to earn this.
+
+290
+00:33:42,451 --> 00:33:44,849
+BRAD ANDAC: For my family to have a place in Elysium.
+
+291
+00:33:46,339 --> 00:33:52,160
+BRAD ANDAC: I never thought I… that there could be atonement.
+
+292
+00:33:58,140 --> 00:34:00,119
+COUNSELLOR: –if you're still nauseous…?
+
+293
+00:34:00,240 --> 00:34:02,889
+SUSANNE ALPERT: No, the inhibitors have kicked in.
+
+294
+00:34:02,890 --> 00:34:05,109
+SUSANNE ALPERT: I can't feel the back of my tongue.
+
+295
+00:34:05,140 --> 00:34:08,386
+SUSANNE ALPERT: I wish I could tell you I'd believe in this.
+
+296
+00:34:08,386 --> 00:34:13,938
+SUSANNE ALPERT: But the damage is too great, too extensive, too complete.
+
+297
+00:34:13,940 --> 00:34:16,908
+SUSANNE ALPERT: With all respect to Dr Sobeck's work at Miriam?
+
+298
+00:34:16,908 --> 00:34:21,918
+SUSANNE ALPERT: No, no! Life doesn't always find a way to keep going.
+
+299
+00:34:21,920 --> 00:34:24,718
+SUSANNE ALPERT: Sometimes it never comes back.
+
+300
+00:34:24,719 --> 00:34:31,480
+SUSANNE ALPERT: Like Syzygy East, like the Congo, like Timor, like us.
+
+301
+00:34:31,840 --> 00:34:37,739
+SUSANNE ALPERT: That's our reward?
+A buried city full of terminal patients waiting out the clock?
+
+302
+00:34:37,739 --> 00:34:42,138
+COUNSELLOR: You'd grow old together with your loved ones in safety.
+
+303
+00:34:42,139 --> 00:34:46,118
+SUSANNE ALPERT: I don't have loved ones. I suppose I could start a family?
+
+304
+00:34:46,119 --> 00:34:50,754
+COUNSELLOR: I'm afraid not, all inhabitants of Elysium will be medically sterilised.
+
+305
+00:34:50,754 --> 00:34:53,102
+SUSANNE ALPERT: [exasperation noises]
+
+306
+00:34:53,102 --> 00:35:00,771
+COUNSELLOR: A habitat capable of sustaining a starting base of
+two thousand individuals for up to a hundred years is a huge challenge Dr Alpert.
+
+307
+00:35:00,771 --> 00:35:05,828
+COUNSELLOR: If the population grows instead of diminishes,
+everyone will be dead inside thirty years.
+
+308
+00:35:05,829 --> 00:35:11,239
+SUSANNE ALPERT: I knew it. I just couldn't bring myself to say the words.
+
+309
+00:35:11,239 --> 00:35:12,338
+COUNSELLOR: I'm sorry?
+
+310
+00:35:12,340 --> 00:35:16,360
+SUSANNE ALPERT: Finish it. Medical euthanasia.
+
+311
+00:35:16,360 --> 00:35:20,539
+SUSANNE ALPERT: I want no part of this. I just want it over.
+
+312
+00:35:20,539 --> 00:35:21,590
+COUNSELLOR: I see.
+
+313
+00:35:22,590 --> 00:35:26,340
+COUNSELLOR: Protocols require a 48-hour waiting period after which—
+
+314
+00:35:35,539 --> 00:35:37,661
+RON FELDER: Is he to make sure I behave this time?
+
+315
+00:35:38,302 --> 00:35:41,226
+COUNSELLOR: Security, for your protection.
+
+316
+00:35:41,340 --> 00:35:43,283
+COUNSELLOR: Would you like to discuss how you're feeling?
+
+317
+00:35:43,283 --> 00:35:45,460
+RON FELDER: Sure, I'll tell you.
+
+318
+00:35:45,539 --> 00:35:48,822
+RON FELDER: Surprised. No, flabbergasted.
+
+319
+00:35:49,090 --> 00:35:51,949
+RON FELDER: Like my old man would say, flabbergasted.
+
+320
+00:35:51,949 --> 00:35:55,778
+RON FELDER: That vein pumping in his forehead. I'd thought…
+
+321
+00:35:55,778 --> 00:36:00,886
+RON FELDER: I'd thought you people were
+just completely under-prepared for a spaceflight project.
+
+322
+00:36:00,886 --> 00:36:04,650
+RON FELDER: But now I can see it's worse, much worse.
+
+323
+00:36:04,650 --> 00:36:09,488
+RON FELDER: Sobeck is a total fantasist, a dangerous fantasist.
+
+324
+00:36:09,489 --> 00:36:14,621
+RON FELDER: This kind of blue-skying i-i-its … Jesus!
+
+325
+00:36:14,829 --> 00:36:17,317
+RON FELDER: I'm sorry we wasted each other's time.
+
+326
+00:36:17,809 --> 00:36:19,348
+RON FELDER: I'm ready to leave now.
+
+327
+00:36:19,349 --> 00:36:21,078
+COUNSELLOR: I'm afraid that's not possible.
+
+328
+00:36:21,079 --> 00:36:25,628
+RON FELDER: Ha! Everything you're talking about here isn't possible!
+
+329
+00:36:25,630 --> 00:36:28,728
+COUNSELOR: I recommend you read the documents regarding your options.
+
+330
+00:36:28,730 --> 00:36:30,827
+RON FELDER: I've seen enough. I'm getting out of here.
+
+331
+00:36:31,355 --> 00:36:35,556
+RON FELDER: What are you…? You don't…! Get your hands off me!
+
+332
+00:36:39,030 --> 00:36:42,487
+COMPUTER: Alert. Medical wing inaccessible.
+
+333
+00:38:46,820 --> 00:38:47,828
+ECLIPSE: Intruder! Get her!
+
+334
+00:38:49,019 --> 00:38:51,769
+SYLENS: Whatever you do, don't die now!
+
+335
+00:39:15,309 --> 00:39:17,267
+ECLIPSE: Bleed before the shadow!
+
+336
+00:39:32,929 --> 00:39:34,312
+ECLIPSE: Close in!
+
+337
+00:39:41,758 --> 00:39:42,700
+ECLIPSE: Guide me—
+
+338
+00:39:48,727 --> 00:39:50,426
+ECLIPSE: Let this strike upon—
+
+339
+00:39:51,771 --> 00:39:52,905
+ECLIPSE: —not make it. 
+
+340
+00:40:10,652 --> 00:40:12,351
+ECLIPSE: To destroy the unworthy!
+
+341
+00:40:16,722 --> 00:40:18,345
+ECLIPSE: What else you got?!
+
+342
+00:40:20,336 --> 00:40:22,336
+ECLIPSE: Face the Sun's judgement!
+
+343
+00:40:36,035 --> 00:40:38,976
+ECLIPSE: I'll feel that tomorrow. That hurt!
+
+344
+00:41:27,280 --> 00:41:28,920
+TOM PAECH: I hashed it out with them.
+
+345
+00:41:29,166 --> 00:41:31,624
+TOM PAECH: What the point of Artemis was.
+
+346
+00:41:32,070 --> 00:41:35,130
+TOM PAECH: I made it clear I wasn't on board for a global zoo.
+
+347
+00:41:35,210 --> 00:41:40,340
+TOM PAECH: We haven't exactly proved ourselves
+to be great custodians in the past few thousand years.
+
+348
+00:41:40,460 --> 00:41:43,730
+TOM PAECH: So the idea of a reconstituted biosphere…
+
+349
+00:41:44,409 --> 00:41:46,429
+TOM PAECH: Well, it's horrifying, isn't it?
+
+350
+00:41:46,909 --> 00:41:48,368
+TOM PAECH: A complete horror show.
+
+351
+00:41:48,369 --> 00:41:52,108
+TOM PAECH: We have no right to take a best guess at this stuff.
+
+352
+00:41:52,110 --> 00:41:55,615
+TOM PAECH: But the alternative? Nothingness.
+
+353
+00:41:56,510 --> 00:42:00,562
+TOM PAECH: For there to have been all this and then… nothing.
+
+354
+00:42:01,028 --> 00:42:03,331
+TOM PAECH: And with Charles Ronson running the show?
+
+355
+00:42:03,331 --> 00:42:07,800
+TOM PAECH: I respect him. He's got a passion to him, he's hot-blooded.
+
+356
+00:42:07,800 --> 00:42:12,472
+TOM PAECH: So I said I'll do it. I'll put my all into this, literally.
+
+357
+00:42:13,170 --> 00:42:16,305
+TOM PAECH: When the project is done I'll take the medical option, thank you.
+
+358
+00:42:16,696 --> 00:42:19,182
+TOM PAECH: Counsellor said I might change my mind.
+
+359
+00:42:19,590 --> 00:42:22,019
+TOM PAECH: I told him that he didn't know me very well, then.
+
+360
+00:42:22,300 --> 00:42:25,728
+TOM PAECH: For life's sake I'll do the dirty work.
+
+361
+00:42:26,300 --> 00:42:30,920
+TOM PAECH: But I want no part of this pathetic attenuated future on offer.
+
+362
+00:42:30,949 --> 00:42:32,809
+TOM PAECH: I'm an outdoors man.
+
+363
+00:42:33,199 --> 00:42:37,000
+TOM PAECH: Never did like the feel of solid-state lighting on my skin.
+
+364
+00:42:37,000 --> 00:42:41,110
+TOM PAECH: And a wee bit of a claustrophobe anyway.
+
+365
+00:42:45,539 --> 00:42:50,413
+DR. HSU-VHEY: Zero Dawn. It is art, in a way.
+
+366
+00:42:50,849 --> 00:42:53,498
+DR. HSU-VHEY: An expression on the grandest scale.
+
+367
+00:42:53,500 --> 00:42:55,820
+DR. HSU-VHEY: But there is so much unfairness.
+
+368
+00:42:56,170 --> 00:42:58,309
+DR. HSU-VHEY: Why was I chosen?
+
+369
+00:42:58,500 --> 00:43:01,546
+DR. HSU-VHEY: Was it decided by committee, by algorithm?
+
+370
+00:43:01,739 --> 00:43:05,738
+DR. HSU-VHEY: My family will be saved
+because I happen to graduate in art history?
+
+371
+00:43:05,739 --> 00:43:07,420
+DR. HSU-VHEY: Is this right?
+
+372
+00:43:08,150 --> 00:43:11,275
+MALE VOICE: Dr Hsu-Vhey? Christina Hsu-Vhey?
+
+373
+00:43:11,275 --> 00:43:12,517
+DR. HSU-VHEY: Yes?
+
+374
+00:43:12,517 --> 00:43:14,909
+[recording interrupted]
+
+375
+00:43:14,909 --> 00:43:17,567
+DR. HSU-VHEY: I met a man, another historian.
+
+376
+00:43:17,567 --> 00:43:20,828
+DR. HSU-VHEY: His fields are Bauhaus and the New Materialists.
+
+377
+00:43:20,829 --> 00:43:23,518
+DR. HSU-VHEY: But he once attended one of my talks.
+
+378
+00:43:23,519 --> 00:43:25,619
+DR. HSU-VHEY: Another unfair chance.
+
+379
+00:43:25,619 --> 00:43:31,030
+DR. HSU-VHEY: Of all the many people
+in that auditorium, that we should both be here now?
+
+380
+00:43:31,199 --> 00:43:34,818
+DR. HSU-VHEY: And yet I feel more accepting of my fate.
+
+381
+00:43:34,820 --> 00:43:37,776
+DR. HSU-VHEY: No, it is not fair, not at all.
+
+382
+00:43:37,776 --> 00:43:42,283
+DR. HSU-VHEY: But for the sake of my family, for the sake of art…
+
+383
+00:43:42,283 --> 00:43:43,978
+DR. HSU-VHEY: Art is alive!
+
+384
+00:43:43,980 --> 00:43:48,668
+DR. HSU-VHEY: It must be able
+to speak from beyond history and echo in the future.
+
+385
+00:43:48,670 --> 00:43:51,010
+DR. HSU-VHEY: Not perish into oblivion.
+
+386
+00:43:51,070 --> 00:43:54,809
+DR. HSU-VHEY: This opportunity? I must do this.
+
+387
+00:44:00,000 --> 00:44:04,536
+TRAVIS TATE: Now, those lame FBI black hats at Mockingbird back in the day?
+
+388
+00:44:05,590 --> 00:44:08,069
+TRAVIS TATE: I enjoyed schooling them.
+
+389
+00:44:08,069 --> 00:44:11,210
+TRAVIS TATE: But maybe I went in too hard on this poor counsellor.
+
+390
+00:44:11,289 --> 00:44:15,115
+TRAVIS TATE: She was cute, and just going down a checklist after all.
+
+391
+00:44:15,115 --> 00:44:18,610
+TRAVIS TATE: Couldn't expect her to see how ridiculous Zero D's ambitions are.
+
+392
+00:44:18,610 --> 00:44:21,994
+TRAVIS TATE: God's own budget thrown at a kid playing with a hologram sculptor?
+
+393
+00:44:22,672 --> 00:44:25,717
+TRAVIS TATE: Palms up, honey, I'm just calling it like it is.
+
+394
+00:44:26,219 --> 00:44:28,439
+TRAVIS TATE: "Hey look Mom, I'm making nature!"
+
+395
+00:44:28,439 --> 00:44:32,139
+TRAVIS TATE: Now if nature is so important, why not let nature take its course?
+
+396
+00:44:32,880 --> 00:44:38,693
+TRAVIS TATE: Extinction? That's natural. Zero Dawn? No ma'am, that ain't.
+
+397
+00:44:39,039 --> 00:44:43,010
+TRAVIS TATE: Heck, it's so unnatural it'd be called
+an abomination back home and you know it.
+
+398
+00:44:43,469 --> 00:44:45,300
+TRAVIS TATE: That's why you're hiding it.
+
+399
+00:44:45,469 --> 00:44:49,418
+TRAVIS TATE: Meanwhile, my little honey of a counsellor,
+she's munching the inside of her cheek.
+
+400
+00:44:49,420 --> 00:44:53,408
+TRAVIS TATE: Bad habit. She chewed one of her nails too, just one.
+
+401
+00:44:53,590 --> 00:44:56,082
+TRAVIS TATE: Not your day was it little sweet pea?
+
+402
+00:44:56,082 --> 00:44:58,648
+TRAVIS TATE: Saw her quota slipping away.
+
+403
+00:44:58,648 --> 00:45:02,652
+TRAVIS TATE: Said "I assume you intend to decline the assignment, Mr Tate?"
+
+404
+00:45:03,110 --> 00:45:06,000
+TRAVIS TATE: [laugh] Are you kidding me?
+
+405
+00:45:06,369 --> 00:45:11,300
+TRAVIS TATE: Eighteen months hard labour in exchange
+for thirty years lounging around Elysium watching porn?
+
+406
+00:45:11,590 --> 00:45:13,409
+TRAVIS TATE: Sign me up!
+
+407
+00:45:18,690 --> 00:45:20,000
+ALOY: Power's down.
+
+408
+00:45:20,320 --> 00:45:21,909
+SYLENS: Is there another route?
+
+409
+00:45:22,010 --> 00:45:24,957
+ALOY: I've done this before, just need my Focus.
+
+410
+00:46:20,179 --> 00:46:23,509
+ALOY: Here we go, another one of these.
+
+411
+00:46:23,780 --> 00:46:26,000
+ALOY: I need to find the right configuration.
+
+412
+00:46:50,320 --> 00:46:53,381
+ALOY: Done, I should check the door nearby.
+
+413
+00:48:15,969 --> 00:48:18,780
+ALOY: Found one, looks intact.
+
+414
+00:48:46,989 --> 00:48:48,579
+ALOY: That should do the trick.
+
+415
+00:48:49,469 --> 00:48:50,989
+ALOY: Now let's get that door open.
+
+416
+00:48:57,849 --> 00:49:01,280
+PARKER: Hey, I'm done with Brett's incompetence, okay?
+
+417
+00:49:01,280 --> 00:49:04,817
+PARKER: Somehow he managed to install an H-emitter node backwards.
+
+418
+00:49:04,817 --> 00:49:06,468
+PARKER: Everything's in reverse.
+
+419
+00:49:06,469 --> 00:49:08,377
+PARKER: I don't get paid to clean up Brett's messes.
+
+420
+00:49:08,377 --> 00:49:12,331
+PARKER: If you want it fixed, send him up to storage for a new emitter, not me.
+
+421
+00:49:12,331 --> 00:49:13,546
+PARKER: Parker out.
+
+422
+00:49:32,570 --> 00:49:35,537
+ALOY: That did it, door should have power.
+
+423
+00:49:35,537 --> 00:49:38,134
+SYLENS: Now to see what lies beyond it.
+
+424
+00:50:01,059 --> 00:50:03,000
+ALOY: Eclipse, they're here.
+
+425
+00:50:03,000 --> 00:50:04,875
+SYLENS: Avoid contact!
+

@@ -19,23 +19,21 @@ function find_videos_between {
         chapter=$(printf '%02d' $seq)
         for video in ${chapter}\ *.mp4; do
             jpg="$( echo "$video" | sed -e 's/.mp4/.jpg/')"
-            subs="$( echo "$video" | sed -e 's/.mp4/.sbv/')"
+            captions="$( echo "$video" | sed -e 's/.mp4/.srt/')"
             txt="$( echo "$video" | sed -e 's/.mp4/.txt/')"
             title="$( echo "$video" | sed -e 's/.mp4//' | cut -d\  -f2-)"
             itunes_video="$( echo "$video" | sed -e 's/.mp4/.m4v/')"
             ffmd="$(mktemp)"
-            srt="$(mktemp).srt"
-            sbv="$(mktemp).sbv"
 
             [ ! -f "$video" ] && last=1 && break
-            have_file "$subs" || continue
+            have_file "$captions" || continue
             have_file "$txt" || continue
             have_file "$jpg" || continue
 
             newer "$(stamp "$itunes_video")" \
                 "$(stamp "$video")" \
                 "$(stamp "$txt")" \
-                "$(stamp "$subs")" \
+                "$(stamp "$captions")" \
                     && continue
 
             duration="$(duration "$video")"
@@ -43,22 +41,13 @@ function find_videos_between {
             [ -n "${DRY_RUN:-}" ] && continue
 
             chapters_as_ffmetadata "$txt" $duration > "$ffmd"
-
-            # when converting subtitles, ffmpeg discards subtitles such as
-            # "[laughs] But Ezio...", so indent the square brace first
-            sed -e 's/^\[/ \[/' "$subs" > "$sbv"
-            ffmpeg \
-                -loglevel error \
-                -i "$sbv" \
-                "$srt"
-
             ffmpeg \
                 -loglevel error \
                 -stats \
                 -y \
                 -i "$video" \
                 -i "$ffmd" \
-                -i "$srt" \
+                -i "$captions" \
                 -map_metadata 1 \
                 -c:v copy \
                 -c:a copy \
@@ -81,7 +70,7 @@ function find_videos_between {
                 --artwork poster.jpg \
                     > /dev/null
 
-            rm "$srt" "$ffmd"
+            rm "$ffmd"
             status -ct ''
 
             status -t "Copying to $TV_HOST"
