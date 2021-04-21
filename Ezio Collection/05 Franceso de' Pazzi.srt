@@ -1,2112 +1,890 @@
 1
-0:00:06,540 --> 0:00:07,120
-Yeah.
+00:05:43,966 --> 00:05:48,133
+ILARIO: How long do we have to stand here, Saverio? It's so 
+cold!
 
 2
-0:00:41,240 --> 0:00:41,799
-Hey,
+00:05:48,133 --> 00:05:49,966
+SAVERIO: What do you want, Ilario?
 
 3
-0:00:44,939 --> 0:00:45,500
-No.
+00:05:49,966 --> 00:05:55,600
+SAVERIO: Messer Pazzi is paying us good money to watch the 
+entrance, and the dead won't try to murder us!
 
 4
-0:01:08,969 --> 0:01:09,680
-Okay,
+00:05:55,800 --> 00:06:00,366
+SAVERIO: I can't wait to go home to Elena and tell her how 
+much gold we made tonight!
 
 5
-0:01:45,640 --> 0:01:46,260
-okay.
+00:10:25,000 --> 00:10:26,933
+SAVERIO: Merda (Shit)! The door.
 
 6
-0:02:15,740 --> 0:02:16,300
-Yeah.
+00:10:27,533 --> 00:10:29,233
+SAVERIO: Keep watch while I go look.
 
 7
-0:03:30,740 --> 0:03:31,419
-All right.
+00:10:30,066 --> 00:10:32,600
+SAVERIO: This was supposed to be an easy job.
 
 8
-0:03:32,349 --> 0:03:32,960
-Yeah,
+00:10:33,133 --> 00:10:35,366
+ILARIO: I told you we shouldn't have come here!
 
 9
-0:03:54,419 --> 0:03:55,139
-Yeah.
+00:10:35,366 --> 00:10:39,666
+ILARIO: If I hear anything, I'm running to the other guard 
+post, so help me God.
 
 10
-0:04:14,939 --> 0:04:15,560
-What?
+00:11:56,100 --> 00:11:59,100
+ILARIO: Saverio! I'll be back with the other guards!
 
 11
-0:04:38,939 --> 0:04:39,579
-Okay.
+00:12:02,666 --> 00:12:06,899
+ILARIO: Have to find a way out, before he kills me.
 
 12
-0:05:23,240 --> 0:05:23,949
-No.
+00:12:10,500 --> 00:12:14,299
+ILARIO: Yes, yes, I think I got away.
 
 13
-0:05:44,139 --> 0:05:45,849
-How long do we have to stand here?
+00:12:23,033 --> 00:12:24,700
+ILARIO: Leave me alone!
 
 14
-0:05:45,850 --> 0:05:46,980
-Survey area.
+00:12:30,066 --> 00:12:31,333
+ILARIO: Run faster!
 
 15
-0:05:47,120 --> 0:05:48,149
-Its so called.
+00:12:42,733 --> 00:12:46,966
+ILARIO: Have to find a way out, before he kills me.
 
 16
-0:05:48,149 --> 0:05:48,959
-What do you want?
+00:12:52,866 --> 00:12:54,700
+ILARIO: He's not going to get me.
 
 17
-0:05:48,959 --> 0:05:55,750
-Ilario May said Patsy is paying us good money to watch the entrance, and the dead won't try to murder us.
+00:12:58,933 --> 00:13:02,399
+ILARIO: Yes, yes, I think I got away.
 
 18
-0:05:55,959 --> 0:05:57,669
-I can't wait to go home to Ellen.
+00:13:05,266 --> 00:13:06,733
+ILARIO: Leave me alone!
 
 19
-0:05:57,670 --> 0:06:00,050
-And how much gold we made?
+00:13:25,733 --> 00:13:27,233
+ILARIO: Leave me alone!
 
 20
-0:06:54,040 --> 0:06:54,600
-Yeah,
+00:13:32,200 --> 00:13:34,833
+ILARIO: I'm being chased! Get him!
 
 21
-0:07:18,740 --> 0:07:19,300
-yeah,
+00:15:11,766 --> 00:15:14,833
+STEFANO: Et benedictio Dei omnipotentis (And may the 
+blessing of Almighty God)
 
 22
-0:07:33,540 --> 0:07:34,100
-yeah,
+00:15:14,833 --> 00:15:18,233
+STEFANO: Patris et Filii et Spiritus Sancti (the Father and 
+of the Son and Holy Spirit)
 
 23
-0:07:40,360 --> 0:07:41,100
-yeah,
+00:15:18,233 --> 00:15:21,866
+STEFANO: descendat super vos et maneat semper (descend upon 
+you, and remain with you always).
+
 
 24
-0:07:56,060 --> 0:07:56,750
-yeah.
+00:15:23,033 --> 00:15:26,133
+FRANCESCO: Grazie, Padre. Bernardo?
 
 25
-0:07:59,439 --> 0:08:00,029
-Okay.
+00:15:26,133 --> 00:15:30,866
+BERNARDO: It's all here: swords, staves, axes, armour, bows.
 
 26
-0:08:11,300 --> 0:08:11,930
-Yes,
+00:15:30,866 --> 00:15:32,933
+Our men will want for nothing.
 
 27
-0:08:29,839 --> 0:08:30,550
-but
+00:15:32,933 --> 00:15:36,100
+STEFANO: I take this gift to mean the Pope consents?
 
 28
-0:08:31,949 --> 0:08:32,549
-right.
+00:15:37,299 --> 00:15:40,066
+SPANIARD: He gave his blessing to the operation…
 
 29
-0:08:42,139 --> 0:08:42,700
-No,
+00:15:40,066 --> 00:15:42,133
+…as long as nobody's killed.
 
 30
-0:09:22,139 --> 0:09:22,950
-thank you.
+00:15:43,466 --> 00:15:46,133
+FRANCESCO: We're all set for the Duomo or in the morning, 
+Signore.
 
 31
-0:09:50,139 --> 0:09:50,850
-Okay.
+00:15:46,566 --> 00:15:48,666
+The bait's been laid, but it wasn't easy.
 
 32
-0:09:52,039 --> 0:09:52,750
-What?
+00:15:49,166 --> 00:15:51,933
+His fool brother keeps changing his plans.
 
 33
-0:10:11,179 --> 0:10:11,740
-Yeah,
+00:15:51,933 --> 00:15:57,399
+Sì! We'll need to be on hand to make sure Giuliano even gets
+ out of bed for church tomorrow!
 
 34
-0:10:25,159 --> 0:10:26,990
-after the door.
+00:15:59,000 --> 00:16:02,899
+RODRIGO: What is it, Jacopo? Do you think they suspect 
+something?
 
 35
-0:10:27,539 --> 0:10:28,629
-Keep watch while I go.
+00:16:02,899 --> 00:16:08,133
+FRANCESCO: Impossible! The Medici are too arrogant, or too 
+stupid to even notice.
 
 36
-0:10:28,629 --> 0:10:29,590
-Look,
+00:16:08,266 --> 00:16:10,133
+Likely a bit of both.
 
 37
-0:10:30,240 --> 0:10:32,750
-it was supposed to be an easy job.
+00:16:10,233 --> 00:16:13,366
+Do not underestimate our enemies, Francesco.
 
 38
-0:10:33,289 --> 0:10:35,519
-I told you we shouldn't have come here.
+00:16:13,366 --> 00:16:16,966
+Or have you already forgotten how your son was murdered?
 
 39
-0:10:35,519 --> 0:10:39,820
-If I hear anything, I'm a running through the other guard post, so help me God.
+00:16:17,933 --> 00:16:22,866
+We'll suffer no such surprises this time, Maestro, you have 
+my word.
 
 40
-0:11:02,340 --> 0:11:02,899
-Yeah,
+00:16:23,566 --> 00:16:26,066
+Molto bene (Very well), I should be off.
 
 41
-0:11:42,740 --> 0:11:44,490
-I've seen him before,
+00:16:26,066 --> 00:16:29,566
+I have some other business to attend to before I return to 
+Rome.
 
 42
-0:11:56,549 --> 0:11:56,839
-sir.
+00:16:30,466 --> 00:16:36,200
+Gentlemen, tomorrow a new sun rises over Firenze.
 
 43
-0:11:56,840 --> 0:11:57,178
-Very.
+00:16:36,766 --> 00:16:39,433
+RODRIGO: May the Father of Understanding guide us.
 
 44
-0:11:57,179 --> 0:11:59,759
-Oh, I'll be back with the other guards
+00:16:39,433 --> 00:16:42,433
+ALL: May the Father of Understanding guide us.
 
 45
-0:12:03,429 --> 0:12:07,519
-to find you're way off before it kills me.
+00:16:54,200 --> 00:16:55,766
+SHAUN: Look at that statue.
 
 46
-0:12:11,039 --> 0:12:13,079
-Yes, yes.
+00:16:55,766 --> 00:16:58,833
+SHAUN: It's identical to one in the Villa Auditore.
 
 47
-0:12:13,080 --> 0:12:18,350
-I don't loathe.
+00:16:58,866 --> 00:17:03,166
+SHAUN: I think you've stumbled onto one of the Assassins 
+Tombs Ezio's uncle mentioned.
 
 48
-0:12:23,549 --> 0:12:25,210
-Leave me alone.
+00:17:09,299 --> 00:17:13,866
+REBECCA: Now that we know the way in, I'll tag the landmarks
+ containing tombs in the database.
 
 49
-0:12:30,580 --> 0:12:31,830
-Run faster.
+00:18:52,133 --> 00:18:55,766
+EZIO: I know where Francesco will be, and when, but…
 
 50
-0:12:32,340 --> 0:12:32,899
-Yeah.
+00:18:56,000 --> 00:18:57,033
+VOLPE: What is it?
 
 51
-0:12:34,340 --> 0:12:34,899
-No.
-
-52
-0:12:37,539 --> 0:12:38,100
-Yeah.
-
-53
-0:12:44,440 --> 0:12:47,649
-Wait.
-
-54
-0:12:53,539 --> 0:12:55,460
-He's not going to get me.
-
-55
-0:13:00,639 --> 0:13:01,440
-Thanks.
-
-56
-0:13:05,779 --> 0:13:07,450
-Leave me alone.
-
-57
-0:13:26,230 --> 0:13:27,909
-Leave me alone.
-
-58
-0:13:32,720 --> 0:13:35,350
-I'm being chased him.
-
-59
-0:13:38,639 --> 0:13:39,200
-No.
-
-60
-0:13:41,740 --> 0:13:42,350
-Okay.
-
-61
-0:13:52,419 --> 0:13:53,000
-Yeah.
-
-62
-0:13:57,129 --> 0:13:58,049
-You
-
-63
-0:14:01,259 --> 0:14:02,750
-get it.
-
-64
-0:14:10,490 --> 0:14:11,299
-Oh,
-
-65
-0:14:15,870 --> 0:14:16,830
-Dr.
-
-66
-0:14:19,059 --> 0:14:19,528
-Right.
-
-67
-0:14:19,529 --> 0:14:21,159
-Or like
-
-68
-0:14:27,740 --> 0:14:28,299
-no.
-
-69
-0:14:40,840 --> 0:14:41,399
-Yeah,
-
-70
-0:14:44,240 --> 0:14:44,799
-yeah.
-
-71
-0:15:12,759 --> 0:15:22,000
-Benedict, Your day in the portentous batteries That filly spirit to sank Shane, that super vos that money at
-
-72
-0:15:23,779 --> 0:15:24,879
-That's bad.
-
-73
-0:15:25,639 --> 0:15:33,470
-But now it's all here Sort staves, axes, armour bows Our men will want for nothing.
-
-74
-0:15:33,519 --> 0:15:37,110
-I take this gift to mean the pope consents.
-
-75
-0:15:37,840 --> 0:15:40,179
-He gave his blessing to the operation
-
-76
-0:15:40,799 --> 0:15:43,149
-as long as nobody skilled
-
-77
-0:15:43,940 --> 0:15:46,820
-We're all set for the warm or in the mornings and yawning.
-
-78
-0:15:47,120 --> 0:15:49,509
-Bate's been laid but it wasn't easy.
-
-79
-0:15:49,509 --> 0:15:52,418
-His full brother keeps changing his plans.
-
-80
-0:15:52,419 --> 0:15:57,889
-See, we need to be on hand to make sure Giuliana even gets out of bed for church tomorrow.
-
-81
-0:15:59,500 --> 0:16:00,058
-What is it?
-
-82
-0:16:00,059 --> 0:16:01,149
-Deductible?
-
-83
-0:16:01,440 --> 0:16:03,408
-Do you think they suspect something?
-
-84
-0:16:03,409 --> 0:16:04,459
-Impossible.
-
-85
-0:16:04,460 --> 0:16:06,168
-The Medici are two out again.
-
-86
-0:16:06,169 --> 0:16:08,620
-Too stupid to even notice.
-
-87
-0:16:08,779 --> 0:16:10,649
-Likely A bit of both.
-
-88
-0:16:10,720 --> 0:16:12,469
-Do not underestimate our enemies.
-
-89
-0:16:12,470 --> 0:16:17,450
-Francesco, Have you already forgotten how your son was murdered?
-
-90
-0:16:18,440 --> 0:16:20,629
-We'll suffer no such surprises this time.
-
-91
-0:16:20,629 --> 0:16:23,350
-Maestro, you have my word,
-
-92
-0:16:24,059 --> 0:16:24,980
-Multiple.
-
-93
-0:16:25,080 --> 0:16:26,580
-I should be off.
-
-94
-0:16:26,690 --> 0:16:30,070
-Have some other business to attend to before return to Rome.
-
-95
-0:16:30,960 --> 0:16:36,690
-Gentlemen, tomorrow a new sun rises over France.
-
-96
-0:16:37,309 --> 0:16:40,419
-May the father of understanding guide us
-
-97
-0:16:59,059 --> 0:16:59,710
-me.
-
-98
-0:17:01,840 --> 0:17:03,389
-Look at that statue.
-
-99
-0:17:03,389 --> 0:17:05,379
-It's identical to one in the villa out.
-
-100
-0:17:05,380 --> 0:17:06,470
-A Tory.
-
-101
-0:17:06,509 --> 0:17:10,809
-I think you've stumbled onto one of the assassins two's uncle mentioned.
-
-102
-0:17:16,940 --> 0:17:21,509
-Now that we know the way in, I'll tag the landmarks containing tombs in the database.
-
-103
-0:17:25,339 --> 0:17:25,960
-Yeah,
-
-104
-0:17:54,940 --> 0:17:55,690
-all right.
-
-105
-0:18:11,140 --> 0:18:11,750
-Oh,
-
-106
-0:18:24,640 --> 0:18:25,269
-what?
-
-107
-0:18:33,539 --> 0:18:34,099
-Yeah,
-
-108
-0:18:55,240 --> 0:18:55,829
-Okay.
-
-109
-0:18:59,640 --> 0:19:01,149
-Nowhere Francesco will be.
-
-110
-0:19:01,150 --> 0:19:03,349
-And when act.
-
-111
-0:19:03,619 --> 0:19:04,538
-What is it?
-
-112
-0:19:04,539 --> 0:19:06,259
+00:18:57,033 --> 00:18:58,633
 I overheard something.
 
-113
-0:19:06,589 --> 0:19:09,259
-They have weapons enough for a battalion.
-
-114
-0:19:09,430 --> 0:19:13,459
-Even the pope has given support typical of sisters.
-
-115
-0:19:13,460 --> 0:19:14,470
-But
-
-116
-0:19:15,740 --> 0:19:17,950
-what the hell are they planning?
-
-117
-0:19:17,990 --> 0:19:23,759
-I couldn't understand the specifics, but it involves the Medici, and it begins tomorrow morning at the drama.
-
-118
-0:19:23,759 --> 0:19:24,288
-The maid.
-
-119
-0:19:24,289 --> 0:19:27,049
-She will always be there for Sunday's service,
-
-120
-0:19:28,140 --> 0:19:29,709
-along with the rest of Fillon.
-
-121
-0:19:29,710 --> 0:19:33,759
-Say they're going to do it right in the middle of high Mass.
-
-122
-0:19:33,839 --> 0:19:41,679
-But it's also a chance for me to blend with the crowd, get close and stop this madness if they succeed, if we lose Lawrence.
-
-123
-0:19:41,680 --> 0:19:45,769
-Oh, and fear in, say, falls to the party will not come to that.
-
-124
-0:19:45,890 --> 0:19:46,949
-A promise.
-
-125
-0:19:46,950 --> 0:19:49,170
-I hope you are, right.
-
-126
-0:19:52,539 --> 0:19:53,140
-What?
-
-127
-0:20:41,240 --> 0:20:41,799
-No.
-
-128
-0:20:45,240 --> 0:20:45,849
-Oh,
-
-129
-0:21:04,140 --> 0:21:04,920
-yeah.
-
-130
-0:21:17,440 --> 0:21:18,059
-What?
-
-131
-0:21:33,589 --> 0:21:34,220
-Yeah.
-
-132
-0:21:52,339 --> 0:21:52,910
-Hey,
-
-133
-0:21:53,839 --> 0:21:55,619
-and I just see that
-
-134
-0:21:56,210 --> 0:21:58,049
-I must be working toe.
-
-135
-0:22:00,339 --> 0:22:02,150
-Well, please be careful.
-
-136
-0:22:09,700 --> 0:22:10,329
-What?
-
-137
-0:22:10,710 --> 0:22:11,349
-No.
-
-138
-0:22:11,819 --> 0:22:12,538
-Have you been?
-
-139
-0:22:12,539 --> 0:22:13,099
-Yeah.
-
-140
-0:22:13,539 --> 0:22:14,349
-Who?
-
-141
-0:22:18,490 --> 0:22:23,749
-You may be the big man wherever you come from, but here you're just a bit.
-
-142
-0:22:23,750 --> 0:22:24,990
-Sort the mail.
-
-143
-0:22:29,500 --> 0:22:32,329
-Amusing yourself in our first cities.
-
-144
-0:22:32,569 --> 0:22:33,859
-You're finished?
-
-145
-0:22:49,240 --> 0:22:49,809
-No.
-
-146
-0:22:50,740 --> 0:22:51,450
-But
-
-147
-0:22:54,960 --> 0:22:56,660
-you win today.
-
-148
-0:23:02,940 --> 0:23:03,640
-Yeah.
-
-149
-0:23:18,660 --> 0:23:19,450
-Um,
-
-150
-0:23:25,730 --> 0:23:26,450
-thank you.
-
-151
-0:23:26,539 --> 0:23:27,099
-Yeah.
-
-152
-0:23:29,559 --> 0:23:30,670
-What's wrong?
-
-153
-0:23:35,240 --> 0:23:36,160
-Uh,
-
-154
-0:23:36,839 --> 0:23:37,859
-the body.
-
-155
-0:23:38,539 --> 0:23:39,259
-Thank you.
-
-156
-0:23:44,250 --> 0:23:45,119
-Get up
-
-157
-0:23:45,789 --> 0:23:47,400
-the watch, do you?
-
-158
-0:23:50,619 --> 0:23:51,739
-Bizarre.
-
-159
-0:23:51,740 --> 0:23:53,139
-What's with him?
-
-160
-0:23:53,140 --> 0:23:53,730
-What?
-
-161
-0:24:17,640 --> 0:24:18,349
-What?
-
-162
-0:24:23,470 --> 0:24:24,099
-But
-
-163
-0:24:33,240 --> 0:24:34,019
-go
-
-164
-0:24:41,660 --> 0:24:42,940
-straight back.
-
-165
-0:24:44,640 --> 0:24:45,200
-Oh,
-
-166
-0:24:46,390 --> 0:24:47,220
-run.
-
-167
-0:24:55,039 --> 0:24:55,599
-No.
-
-168
-0:24:56,839 --> 0:24:57,609
-Fine.
-
-169
-0:24:59,440 --> 0:25:00,000
-Yeah,
-
-170
-0:25:08,539 --> 0:25:09,619
-definitely.
-
-171
-0:25:12,240 --> 0:25:14,779
-I'm I've got to get out of here.
-
-172
-0:25:21,339 --> 0:25:22,559
-She's through.
-
-173
-0:25:22,839 --> 0:25:26,059
-This man is a brutal, cold hearted killer.
-
-174
-0:25:26,109 --> 0:25:29,369
-We must all work toward his apprehension.
-
-175
-0:25:29,539 --> 0:25:30,200
-What?
-
-176
-0:25:31,240 --> 0:25:32,490
-Not yet.
-
-177
-0:25:34,240 --> 0:25:34,940
-No,
-
-178
-0:25:41,980 --> 0:25:43,069
-yours.
-
-179
-0:25:50,809 --> 0:25:51,858
-Oh, my Christ.
-
-180
-0:25:51,859 --> 0:25:54,348
-Pomegranate and effective for Mama.
-
-181
-0:25:54,349 --> 0:25:55,640
-How rude you are
-
-182
-0:25:56,170 --> 0:25:57,160
-already,
-
-183
-0:25:59,759 --> 0:26:01,098
-gentlemen, is everything.
-
-184
-0:26:01,099 --> 0:26:02,160
-Everyone?
-
-185
-0:26:02,410 --> 0:26:03,450
-Everything.
-
-186
-0:26:03,519 --> 0:26:04,859
-They got a base of it.
-
-187
-0:26:06,039 --> 0:26:06,650
-What?
-
-188
-0:26:09,960 --> 0:26:10,589
-What?
-
-189
-0:26:15,140 --> 0:26:15,839
-Yeah.
-
-190
-0:26:17,640 --> 0:26:18,230
-Okay.
-
-191
-0:26:44,539 --> 0:26:46,019
-Why go?
-
-192
-0:26:47,940 --> 0:26:48,500
-No.
-
-193
-0:26:51,240 --> 0:26:51,509
-Yes.
-
-194
-0:26:51,509 --> 0:26:53,759
-Lorenzo and his wife.
-
-195
-0:26:56,799 --> 0:26:58,368
-That's Juliana Angels.
-
-196
-0:26:58,369 --> 0:27:00,809
-Brother Francesco.
-
-197
-0:27:03,640 --> 0:27:04,539
-Stress.
-
-198
-0:27:05,579 --> 0:27:06,440
-Good.
-
-199
-0:27:08,839 --> 0:27:09,509
-Yeah,
-
-200
-0:27:15,589 --> 0:27:16,200
-yeah,
-
-201
-0:27:16,940 --> 0:27:17,500
-yeah.
-
-202
-0:27:21,740 --> 0:27:22,329
-Hey.
-
-203
-0:27:22,640 --> 0:27:23,200
-Yeah.
-
-204
-0:27:24,339 --> 0:27:25,099
-Good.
-
-205
-0:27:38,190 --> 0:27:39,799
-Oh, God.
-
-206
-0:27:40,740 --> 0:27:45,539
-Your entire family dies by my song.
-
-207
-0:27:46,740 --> 0:27:47,309
-Yeah,
-
-208
-0:27:48,990 --> 0:27:50,029
-I can't.
-
-209
-0:27:56,779 --> 0:27:57,470
-Right.
-
-210
-0:28:06,440 --> 0:28:07,119
-Yeah,
-
-211
-0:28:07,680 --> 0:28:08,279
-yeah.
-
-212
-0:28:09,039 --> 0:28:09,599
-No.
-
-213
-0:28:13,940 --> 0:28:14,529
-What?
-
-214
-0:28:14,640 --> 0:28:15,309
-Okay.
-
-215
-0:28:48,339 --> 0:28:48,970
-Yeah.
-
-216
-0:28:53,490 --> 0:28:54,160
-No.
-
-217
-0:29:05,039 --> 0:29:05,970
-Okay.
-
-218
-0:29:11,539 --> 0:29:12,500
-No.
-
-219
-0:29:16,839 --> 0:29:17,549
-Oh,
-
-220
-0:29:19,589 --> 0:29:20,359
-all right.
-
-221
-0:29:22,140 --> 0:29:22,700
-No.
-
-222
-0:29:32,640 --> 0:29:33,200
-Yeah.
-
-223
-0:29:36,539 --> 0:29:38,049
-Oh, no.
-
-224
-0:29:57,539 --> 0:30:00,348
-You You saved my life.
-
-225
-0:30:00,349 --> 0:30:04,269
-It's nothing but the man who did He's still us to pay.
-
-226
-0:30:05,240 --> 0:30:06,439
-Not now.
-
-227
-0:30:06,440 --> 0:30:08,119
-I need help first.
-
-228
-0:30:08,180 --> 0:30:11,049
-To my home, people like to ask them.
-
-229
-0:30:11,740 --> 0:30:12,849
-Can you
-
-230
-0:30:17,160 --> 0:30:18,339
-save me
-
-231
-0:30:19,839 --> 0:30:20,549
-that?
-
-232
-0:30:20,789 --> 0:30:21,420
-Yeah.
-
-233
-0:30:21,829 --> 0:30:23,940
-I'm losing a lot of blood.
-
-234
-0:30:25,109 --> 0:30:26,288
-Hang on, Teo.
-
-235
-0:30:26,289 --> 0:30:28,150
-Moving as fast as I can.
-
-236
-0:30:28,940 --> 0:30:29,569
-Yeah,
-
-237
-0:30:35,339 --> 0:30:36,480
-I'm just
-
-238
-0:30:39,650 --> 0:30:40,809
-my wife.
-
-239
-0:30:40,880 --> 0:30:43,150
-My family from the city.
-
-240
-0:30:43,900 --> 0:30:47,400
-Wait.
-
-241
-0:30:49,039 --> 0:30:51,960
-Your energy will be delivering a course.
-
-242
-0:30:52,450 --> 0:30:53,759
-We're almost there.
-
-243
-0:30:56,440 --> 0:30:57,660
-Leave me alone!
-
-244
-0:31:04,700 --> 0:31:05,539
-Huh?
-
-245
-0:31:05,589 --> 0:31:07,079
-I'm more than capable of
-
-246
-0:31:17,440 --> 0:31:18,279
-No,
-
-247
-0:31:24,940 --> 0:31:27,069
-I hope that could be avoided.
-
-248
-0:31:30,009 --> 0:31:31,099
-I'm not
-
-249
-0:31:32,519 --> 0:31:33,529
-following,
-
-250
-0:31:37,660 --> 0:31:38,528
-huh?
-
-251
-0:31:38,529 --> 0:31:42,029
-I'm more than capable of I'm capable of.
-
-252
-0:31:46,680 --> 0:31:48,950
-So let's go.
-
-253
-0:31:58,640 --> 0:31:59,359
-What?
-
-254
-0:32:01,400 --> 0:32:03,028
-No, please don't kill me.
-
-255
-0:32:03,029 --> 0:32:05,880
-Oh, Soo,
-
-256
-0:32:08,049 --> 0:32:09,119
-I'm not.
-
-257
-0:32:14,940 --> 0:32:17,299
-Yeah, I'm capable of
-
-258
-0:32:19,970 --> 0:32:21,049
-I hope
-
-259
-0:32:31,000 --> 0:32:32,299
-more than capable.
-
-260
-0:32:37,339 --> 0:32:38,230
-Don't.
-
-261
-0:32:41,299 --> 0:32:42,250
-All right,
-
-262
-0:32:44,940 --> 0:32:45,808
-Doren.
-
-263
-0:32:45,809 --> 0:32:46,219
-Trust me.
-
-264
-0:32:46,220 --> 0:32:48,548
-Wounded a pretty Laporta.
-
-265
-0:32:48,549 --> 0:32:49,649
+52
+00:18:58,966 --> 00:19:01,633
+They have weapons, enough for a battalion.
+
+53
+00:19:01,799 --> 00:19:03,766
+Even the Pope has given support.
+
+54
+00:19:03,766 --> 00:19:06,833
+Hmm, typical of Sixtus, but…
+
+55
+00:19:08,299 --> 00:19:10,466
+What the hell are they planning?
+
+56
+00:19:10,466 --> 00:19:14,133
+I couldn't understand the specifics, but it involves the 
+Medici.
+
+57
+00:19:14,133 --> 00:19:16,133
+And it begins tomorrow morning at the Duomo.
+
+58
+00:19:16,133 --> 00:19:19,400
+The Medici will all be there for Sunday service.
+
+59
+00:19:20,500 --> 00:19:23,166
+Along with the rest of Firenze!
+
+60
+00:19:23,166 --> 00:19:26,133
+They're going to do it right in the middle of High Mass!
+
+61
+00:19:26,200 --> 00:19:31,466
+But it's also a chance for me to blend with the crowd, get 
+close and stop this madness.
+
+62
+00:19:31,466 --> 00:19:36,566
+If they succeed, if we lose Lorenzo, and Firenze falls to 
+the Pazzi…
+
+63
+00:19:36,566 --> 00:19:39,299
+It will not come to that, I promise.
+
+64
+00:19:39,333 --> 00:19:41,533
+I hope you are right.
+
+65
+00:26:43,599 --> 00:26:46,133
+EZIO: There's Lorenzo and his wife.
+
+66
+00:26:49,166 --> 00:26:51,666
+That's Giuliano, Lorenzo's brother.
+
+67
+00:26:51,666 --> 00:26:53,299
+EZIO: But where is Francesco?
+
+68
+00:26:54,200 --> 00:26:56,766
+EZIO: There he is. Time to strike.
+
+69
+00:26:58,066 --> 00:27:00,133
+Crepa, traditore (Here, traitor)!
+
+
+70
+00:27:04,733 --> 00:27:06,366
+Giuliano, no!
+
+71
+00:27:10,666 --> 00:27:12,366
+No! In nome di Dio (In the name of God)!
+
+72
+00:27:12,366 --> 00:27:14,166
+Vi scongiuro, pìetà! (I beg you, mercy!)
+
+73
+00:27:14,166 --> 00:27:17,799
+Nessuna pìetà, cane maledetto (No mercy for you, dog)!
+
+
+74
+00:27:17,799 --> 00:27:20,033
+Muori (Die)! Muori!
+
+75
+00:27:20,033 --> 00:27:22,633
+MUORI!
+
+76
+00:27:30,566 --> 00:27:33,266
+Your day is done, Lorenzo.
+
+77
+00:27:33,266 --> 00:27:37,900
+Your entire family dies by my sword!
+
+78
+00:29:49,900 --> 00:29:52,766
+You … saved my life.
+
+79
+00:29:52,766 --> 00:29:56,633
+It's nothing, but the man who did this to you has to pay.
+
+80
+00:29:56,633 --> 00:30:00,500
+Aah! Not now. I need help first.
+
+81
+00:30:00,533 --> 00:30:03,400
+To my home, people I trust there.
+
+82
+00:30:04,099 --> 00:30:05,200
+C–Can you…?
+
+83
+00:30:14,200 --> 00:30:16,299
+LORENZO: I'm losing a lot of blood.
+
+84
+00:30:17,466 --> 00:30:20,533
+Hang on, Signore! I'm moving as fast as I can.
+
+85
+00:30:27,700 --> 00:30:32,066
+LORENZO: Francesco de' Pazzi! I'll kill him!
+
+86
+00:30:32,066 --> 00:30:35,666
+LORENZO: I'll wipe his entire family from the city!
+
+87
+00:30:36,266 --> 00:30:38,400
+LORENZO: They'll be erased!
+
+88
+00:30:39,299 --> 00:30:41,333
+EZIO: Quietatevi, Signore (Be still, sir).
+
+89
+00:30:41,333 --> 00:30:44,333
+EZIO: Conserve your energy, or I'll be delivering a corpse.
+
+90
+00:30:44,833 --> 00:30:46,400
+EZIO: We're almost there, now.
+
+91
+00:32:37,900 --> 00:32:40,900
+Lorenzo's been wounded! Aprite la porta (Open the door)!
+
+92
+00:32:40,900 --> 00:32:42,200
 What's the password?
 
-266
-0:32:49,650 --> 0:32:54,429
-Pulitzer opened the magnetic aboard the rice crate is coming quickly.
+93
+00:32:42,200 --> 00:32:44,766
+Poliziano! Open the maledetta porta (fucking door)!
 
-267
-0:32:54,430 --> 0:32:56,269
-The city is at war.
 
-268
-0:33:00,150 --> 0:33:01,160
-Wait.
+94
+00:32:44,766 --> 00:32:46,966
+By the Thrice Greatest! Come in, quickly!
 
-269
-0:33:02,369 --> 0:33:03,849
-I am in your head.
+95
+00:32:46,966 --> 00:32:49,233
+The city is at war! Hurry!
 
-270
-0:33:04,240 --> 0:33:05,849
-It's me.
 
-271
-0:33:05,900 --> 0:33:07,379
-Why did you help me?
+96
+00:32:52,533 --> 00:32:53,533
+Wait!
 
-272
-0:33:07,380 --> 0:33:11,079
-You are not the only one who lost a brother to the patsy.
+97
+00:32:54,733 --> 00:32:56,200
+I am in your debt.
 
-273
-0:33:11,299 --> 0:33:14,440
-My name is Ed Sewell Dettori, Huh?
+98
+00:32:57,266 --> 00:32:59,833
+Tell me, why did you help me?
 
-274
-0:33:15,140 --> 0:33:17,140
-Your job on the sun.
+99
+00:32:59,833 --> 00:33:03,433
+You are not the only one who lost a brother to the Pazzi.
 
-275
-0:33:18,240 --> 0:33:20,250
+100
+00:33:03,666 --> 00:33:05,733
+My name is Ezio Auditore.
+
+101
+00:33:05,733 --> 00:33:09,500
+Aah. You're Giovanni's son.
+
+102
+00:33:10,799 --> 00:33:12,633
 Your father was a good man.
 
-276
-0:33:20,539 --> 0:33:22,359
-He understood that on there.
+103
+00:33:12,900 --> 00:33:16,299
+He understood honour, loyalty…
 
-277
-0:33:22,630 --> 0:33:23,680
-Lawyers?
+104
+00:33:16,599 --> 00:33:19,766
+The Pazzi thugs are storming the Palazzo Della Signoria!
 
-278
-0:33:24,230 --> 0:33:35,259
-The party starts of storming the Palazzo Della Signoria way cannot hold them off much longer Now if they get inside their murder our supporters and put their own devils in power then my survival with me.
+105
+00:33:19,766 --> 00:33:21,366
+We cannot hold them off much longer!
 
-279
-0:33:35,259 --> 0:33:36,269
-Nothing.
+106
+00:33:21,366 --> 00:33:24,533
+POLIZIANO: No! If they get inside they'll murder our 
+supporters!
 
-280
-0:33:36,440 --> 0:33:37,660
-I have to
+107
+00:33:24,533 --> 00:33:26,533
+And put their own devils in power!
 
-281
-0:33:41,039 --> 0:33:43,660
-Francesco the Patsy!
+108
+00:33:26,533 --> 00:33:28,633
+Then my survival would mean nothing.
 
-282
-0:33:44,440 --> 0:33:45,848
-Help save our seats!
+109
+00:33:28,799 --> 00:33:30,033
+I have to…
 
-283
-0:33:45,849 --> 0:33:47,450
-The Audi Tony!
+110
+00:33:33,666 --> 00:33:36,299
+Francesco de' Pazzi!
 
-284
-0:33:48,220 --> 0:33:49,579
+111
+00:33:36,799 --> 00:33:39,833
+Help save our city, Auditore!
+
+112
+00:33:40,599 --> 00:33:41,933
 Kill him!
 
-285
-0:33:53,240 --> 0:33:53,940
-Me
-
-286
-0:34:06,200 --> 0:34:07,279
-seniority!
-
-287
-0:34:07,450 --> 0:34:11,750
-I saw Francesco Leader battalion around the back of the Palazzo Della Signoria.
-
-288
-0:34:11,780 --> 0:34:15,838
-I fear he may be seeking another way in Go before it's too late.
-
-289
-0:34:15,840 --> 0:34:17,250
-Do what you can.
-
-290
-0:34:31,639 --> 0:34:32,199
-No!
-
-291
-0:34:32,340 --> 0:34:33,159
-Oh,
-
-292
-0:35:01,739 --> 0:35:02,300
-yeah.
-
-293
-0:35:03,440 --> 0:35:04,438
-Wait.
-
-294
-0:35:04,440 --> 0:35:06,750
-With that, it's our ship.
-
-295
-0:35:07,139 --> 0:35:12,750
-No Arbour nor kindly thoughts for this hardened killer.
-
-296
-0:35:15,340 --> 0:35:15,900
-Yeah,
-
-297
-0:35:20,840 --> 0:35:22,849
-the citizens of Pisa.
-
-298
-0:35:23,019 --> 0:35:25,159
-I've had the most demonstration.
-
-299
-0:35:33,139 --> 0:35:33,699
-Yeah,
-
-300
-0:35:34,739 --> 0:35:35,349
-yeah,
-
-301
-0:35:38,739 --> 0:35:39,300
-yeah.
-
-302
-0:35:55,389 --> 0:35:56,300
-One.
-
-303
-0:35:58,139 --> 0:35:58,699
-No.
-
-304
-0:36:06,429 --> 0:36:06,989
-Yeah.
-
-305
-0:36:09,630 --> 0:36:10,840
-Respect.
-
-306
-0:36:11,230 --> 0:36:11,949
-No,
-
-307
-0:36:24,630 --> 0:36:26,128
-thank you.
-
-308
-0:36:26,130 --> 0:36:27,150
-I'm making
-
-309
-0:36:36,030 --> 0:36:36,590
-Yeah,
-
-310
-0:36:49,920 --> 0:36:50,550
-yeah.
-
-311
-0:36:50,679 --> 0:36:51,260
-No,
-
-312
-0:37:06,570 --> 0:37:08,039
-just let me go
-
-313
-0:37:13,920 --> 0:37:14,829
-One!
-
-314
-0:37:15,230 --> 0:37:15,789
-Yeah.
-
-315
-0:37:18,230 --> 0:37:20,739
-Please just leave me alone.
-
-316
-0:37:24,429 --> 0:37:26,840
-Yeah, not days.
-
-317
-0:37:26,929 --> 0:37:31,679
-This is our just rewards in crusting our security to incompetent thoughts.
-
-318
-0:37:52,130 --> 0:37:53,118
-You again?
-
-319
-0:37:53,119 --> 0:37:56,760
-Why aren't you dead men slaughter him?
-
-320
-0:38:27,320 --> 0:38:27,900
-Yeah,
-
-321
-0:38:33,119 --> 0:38:34,219
-not you.
-
-322
-0:38:35,219 --> 0:38:35,840
-What?
-
-323
-0:38:38,869 --> 0:38:39,750
-Hey,
-
-324
-0:38:41,320 --> 0:38:41,880
-Yeah,
-
-325
-0:39:07,630 --> 0:39:11,030
-Boy digs himself a swordsman.
-
-326
-0:39:14,380 --> 0:39:15,199
-Will
-
-327
-0:39:15,989 --> 0:39:18,400
-you busy, Steve?
-
-328
-0:39:18,510 --> 0:39:22,869
-They're only delay your inevitable painful end.
-
-329
-0:39:23,750 --> 0:39:24,889
-What do you
-
-330
-0:39:26,420 --> 0:39:32,420
-servant to the dog, Lorenzo, That reward
-
-331
-0:39:33,920 --> 0:39:34,610
-I
-
-332
-0:39:41,349 --> 0:39:41,949
-Yeah.
-
-333
-0:39:43,719 --> 0:39:44,530
-Wait,
-
-334
-0:39:52,849 --> 0:39:54,010
-God,
-
-335
-0:39:56,079 --> 0:39:57,880
-no one's coming.
-
-336
-0:39:58,519 --> 0:39:59,988
-It's just us now.
-
-337
-0:39:59,989 --> 0:40:01,958
-Modern day job.
-
-338
-0:40:01,960 --> 0:40:05,320
-Deportee, stop being a long tunnel.
-
-339
-0:40:11,710 --> 0:40:12,449
-It's
-
-340
-0:40:19,010 --> 0:40:19,690
-No,
-
-341
-0:40:26,409 --> 0:40:27,139
-no,
-
-342
-0:40:30,059 --> 0:40:30,630
-no,
-
-343
-0:40:37,510 --> 0:40:38,070
-no!
-
-344
-0:40:38,110 --> 0:40:38,670
-Yeah,
-
-345
-0:40:44,170 --> 0:40:44,809
-yeah!
-
-346
-0:40:53,269 --> 0:40:54,548
-Francesco!
-
-347
-0:40:54,550 --> 0:41:00,268
-Do Patsy brought up as a noble in a city captivated by the newly rich Medici family.
-
-348
-0:41:00,269 --> 0:41:05,988
-Francesca was taught to hate the middle class and its social climbers dismayed.
-
-349
-0:41:05,989 --> 0:41:13,130
-He watched as the Medici bank eclipsed his own and centuries of influence over the Florentine government slipped away.
-
-350
-0:41:13,610 --> 0:41:16,250
-It looks like the Spaniard offered him a solution.
-
-351
-0:41:16,280 --> 0:41:18,688
-Rather than compete in something as dirty as banking.
-
-352
-0:41:18,690 --> 0:41:21,598
-Francesco only had to do one thing for the Templars.
-
-353
-0:41:21,599 --> 0:41:24,869
-One thing to put the middle class in their place for good.
-
-354
-0:41:25,510 --> 0:41:28,708
-Kill the Medici Giovanni auditory.
-
-355
-0:41:28,710 --> 0:41:31,820
-Trying to stop Francesco by putting him in gaol.
-
-356
-0:41:32,019 --> 0:41:34,320
-But the Templars took care of that.
-
-357
-0:41:35,880 --> 0:41:39,138
-Now feeding say will judge you for what you've done.
-
-358
-0:41:39,139 --> 0:41:40,329
-It's over.
-
-359
-0:41:41,510 --> 0:41:43,630
-It's all over
-
-360
-0:41:48,150 --> 0:41:48,538
-in the U.
-
-361
-0:41:48,539 --> 0:41:48,888
-S.
-
-362
-0:41:48,889 --> 0:41:51,070
-And Philippine Sea in quest of it.
-
-363
-0:41:51,510 --> 0:41:55,320
-Yes, but there are several Naila Proxima
-
-364
-0:41:56,010 --> 0:41:56,578
-requiere.
-
-365
-0:41:56,579 --> 0:41:58,329
-Scott and Laci.
-
-366
-0:42:01,300 --> 0:42:01,860
-Yeah,
-
-367
-0:42:19,409 --> 0:42:20,409
-school.
-
-368
-0:42:32,860 --> 0:42:33,710
-Yeah!
-
-369
-0:42:35,199 --> 0:42:36,050
-God,
-
-370
-0:42:38,500 --> 0:42:39,130
-Yeah!
-
-371
-0:43:22,900 --> 0:43:23,460
-No.
-
-372
-0:43:29,960 --> 0:43:30,519
-Yeah.
-
-373
-0:43:31,000 --> 0:43:33,860
-When I was six years old, I fell into the army.
-
-374
-0:43:34,300 --> 0:43:38,550
-I soon found myself drifting down into darkness.
-
-375
-0:43:39,739 --> 0:43:42,010
-Certain my life was that name.
-
-376
-0:43:43,900 --> 0:43:47,239
-Instead, I woke to the sound of my mothers, weeping
-
-377
-0:43:48,210 --> 0:43:54,219
-at her sides to the stranger, soaking smiling at me.
-
-378
-0:43:55,800 --> 0:43:58,369
-My mother explained that he had saved me
-
-379
-0:44:00,150 --> 0:44:05,340
-and so began a long and prosperous relationship between two families.
-
-380
-0:44:06,119 --> 0:44:07,210
-Yours
-
-381
-0:44:07,989 --> 0:44:09,210
-on mine.
-
-382
-0:44:10,590 --> 0:44:11,259
-I am sorry.
-
-383
-0:44:11,260 --> 0:44:13,778
-I could not save your father and brothers.
-
-384
-0:44:13,780 --> 0:44:16,409
-You have knocked into apologise for
-
-385
-0:44:16,989 --> 0:44:20,259
-I believe yak about their party Played a part in their deaths.
-
-386
-0:44:20,260 --> 0:44:21,920
-Talk on you as well.
-
-387
-0:44:22,429 --> 0:44:26,268
-I need to find a coward Fled before we could arrest him.
-
-388
-0:44:26,269 --> 0:44:27,558
-If you any leads?
-
-389
-0:44:27,559 --> 0:44:28,338
-No.
-
-390
-0:44:28,340 --> 0:44:29,818
-They've hidden themselves Well.
-
-391
-0:44:29,820 --> 0:44:33,409
-Hey, Jacopo was not the only conspirator to escape.
-
-392
-0:44:34,269 --> 0:44:39,909
-If they work with Hackable, they will surely involved in the plot against my family as well.
-
-393
-0:44:40,289 --> 0:44:42,000
+113
+00:33:58,566 --> 00:34:04,133
+Signore, I saw Francesco lead a battalion around the back of
+ the Palazzo Della Signoria.
+
+114
+00:34:04,133 --> 00:34:06,799
+I fear he may be seeking another way in.
+
+115
+00:34:06,799 --> 00:34:09,633
+Go before it's too late, do what you can!
+
+116
+00:37:44,500 --> 00:37:49,133
+You again? Why aren't you dead? Men, slaughter him!
+
+117
+00:38:58,933 --> 00:39:03,599
+FRANCESCO: Oh, the boy thinks himself a master swordsman.
+
+118
+00:39:03,599 --> 00:39:09,433
+FRANCESCO: So you've drawn some blood! My men will make 
+short work of you!
+
+119
+00:39:09,433 --> 00:39:10,933
+FRANCESCO: Desisti (Stop)!
+
+120
+00:39:10,933 --> 00:39:15,233
+FRANCESCO: You're only delaying your inevitable, painful 
+end.
+
+121
+00:39:16,266 --> 00:39:18,000
+FRANCESCO: What do you think you're proving?
+
+122
+00:39:18,400 --> 00:39:22,300
+FRANCESCO: That you're a loyal servant to that dog, Lorenzo?
+
+123
+00:39:22,300 --> 00:39:25,333
+FRANCESCO: Death shall be your reward.
+
+124
+00:39:26,300 --> 00:39:30,666
+FRANCESCO: I grow tired of this game. Guards, finitelo 
+(finish him off)!
+
+
+125
+00:39:45,199 --> 00:39:48,633
+Guards! GUARDS!
+
+126
+00:39:48,633 --> 00:39:50,233
+EZIO: No-one's coming.
+
+127
+00:39:50,900 --> 00:39:52,366
+EZIO: It's just us now.
+
+128
+00:39:52,366 --> 00:39:55,699
+Maledetto (Damn you)! Che il diavolo ti porti (Damn you to 
+hell)!
+
+129
+00:39:55,699 --> 00:39:57,699
+Stammi lontano (Get away from me!)
+
+
+130
+00:40:46,066 --> 00:40:48,400
+SHAUN: Francesco de' Pazzi.
+
+131
+00:40:48,400 --> 00:40:53,166
+SHAUN: Brought up as a noble in a city captivated by the 
+newly rich Medici family.
+
+132
+00:40:53,166 --> 00:40:57,866
+SHAUN: Francesco was taught to hate the middle class and its
+ social climbers.
+
+133
+00:40:57,866 --> 00:41:01,233
+SHAUN: Dismayed, he watched as the Medici bank eclipsed his 
+own.
+
+134
+00:41:01,233 --> 00:41:05,500
+SHAUN: And centuries of influence over the Florentine 
+government slipped away.
+
+135
+00:41:05,966 --> 00:41:08,633
+SHAUN: It looks like the Spaniard offered him a solution.
+
+136
+00:41:08,633 --> 00:41:11,066
+SHAUN: Rather than compete in something as dirty as banking.
+
+137
+00:41:11,066 --> 00:41:13,966
+SHAUN: Francesco only had to do one thing for the Templars.
+
+138
+00:41:13,966 --> 00:41:17,233
+SHAUN: One thing to put the middle class in their place for 
+good.
+
+139
+00:41:17,866 --> 00:41:19,966
+SHAUN: Kill the Medici.
+
+140
+00:41:19,966 --> 00:41:24,199
+SHAUN: Giovanni Auditore tryied to stop Francesco by putting
+ him in jail.
+
+141
+00:41:24,400 --> 00:41:26,699
+SHAUN: But the Templars took care of that.
+
+142
+00:41:28,233 --> 00:41:31,500
+EZIO: Now Firenze  will judge you for what you've done.
+
+143
+00:41:31,500 --> 00:41:36,000
+FRANCESCO: It's over, it's all over.
+
+144
+00:41:40,533 --> 00:41:43,933
+EZIO: Meglio essere felici in questa vita (Better to be 
+content in this life)…
+
+145
+00:41:43,933 --> 00:41:48,366
+EZIO: …che aspirare a esserlo nella prossima (than aspire to
+ it in the next).
+
+146
+00:41:48,366 --> 00:41:50,699
+EZIO: Requiescat in pace (Rest in peace).
+
+147
+00:41:51,366 --> 00:41:57,133
+CROWD: Libertà (Liberty)! Libertà! Libertà! Libertà!
+
+148
+00:41:57,699 --> 00:42:02,599
+JACOPO: Libertà! Libertà! Libertà!
+
+149
+00:42:02,599 --> 00:42:05,199
+Popolo e libertà (People and liberty)!
+
+150
+00:42:05,199 --> 00:42:09,766
+CROWD: Libertà (Liberty)! Libertà! Libertà!
+
+151
+00:42:11,533 --> 00:42:12,766
+Francesco?
+
+152
+00:43:23,366 --> 00:43:26,233
+When I was six years old, I fell into the Arno.
+
+153
+00:43:26,666 --> 00:43:30,933
+I soon found myself drifting down and into darkness.
+
+154
+00:43:32,099 --> 00:43:34,766
+Certain my life was at an end.
+
+155
+00:43:36,266 --> 00:43:39,599
+Instead, I woke to the sound of my mother weeping. 
+
+156
+00:43:40,566 --> 00:43:46,599
+At her side stood a stranger, soaking, and smiling at me.
+
+157
+00:43:48,166 --> 00:43:50,733
+My mother explained that he had saved me.
+
+158
+00:43:52,533 --> 00:43:57,699
+And so began a long and prosperous relationship between two 
+families.
+
+159
+00:43:58,500 --> 00:44:01,566
+Yours, and mine.
+
+160
+00:44:02,966 --> 00:44:06,133
+I am sorry I could not save your father and brothers.
+
+161
+00:44:06,133 --> 00:44:08,766
+EZIO: You have nothing to apologise for.
+
+162
+00:44:09,366 --> 00:44:12,633
+EZIO: I believe Jacopo de' Pazzi played a part in their 
+deaths.
+
+163
+00:44:12,633 --> 00:44:14,300
+EZIO: The attack on you as well.
+
+164
+00:44:14,800 --> 00:44:16,133
+I need to find him.
+
+165
+00:44:16,133 --> 00:44:18,633
+That coward fled before we could arrest him.
+
+166
+00:44:18,633 --> 00:44:19,933
+Have you any leads?
+
+167
+00:44:19,933 --> 00:44:22,199
+LORENZO: No, they've hidden themselves well.
+
+168
+00:44:22,199 --> 00:44:23,000
+"They"?
+
+169
+00:44:23,000 --> 00:44:25,766
+LORENZO: Jacopo was not the only conspirator to escape.
+
+170
+00:44:26,633 --> 00:44:32,266
+If they work with Jacopo, they were surely involved in the 
+plot against my family as well.
+
+171
+00:44:32,666 --> 00:44:34,366
 Give me their names.
 
-394
-0:44:42,269 --> 0:44:43,988
+172
+00:44:34,633 --> 00:44:36,366
 Antonio Maffei.
 
-395
-0:44:43,989 --> 0:44:46,070
-Archbishop Francesco.
+173
+00:44:36,366 --> 00:44:39,366
+Archbishop Francesco Salviati.
 
-396
-0:44:46,989 --> 0:44:47,348
-Steph.
+174
+00:44:39,366 --> 00:44:41,566
+Stefano da Bagnone.
 
-397
-0:44:47,349 --> 0:44:48,230
-I know that
+175
+00:44:41,566 --> 00:44:43,333
+And Bernardo Baroncelli.
 
-398
-0:44:49,190 --> 0:44:50,969
-they're not gonna change.
+176
+00:44:43,766 --> 00:44:46,300
+Bene, I will go and see my uncle.
 
-399
-0:44:52,190 --> 0:44:53,940
-I will go and see my uncle.
+177
+00:44:46,433 --> 00:44:48,833
+He has men stationed in the countryside.
 
-400
-0:44:54,079 --> 0:44:56,480
-Yes, Men stationed in the countryside.
+178
+00:44:49,066 --> 00:44:51,500
+Wait, before you go…
 
-401
-0:44:56,690 --> 0:44:59,139
-Wait before you go
+179
+00:44:52,900 --> 00:44:54,066
+EZIO: A Codex page!
 
-402
-0:45:00,530 --> 0:45:01,688
-called X page.
+180
+00:44:54,066 --> 00:44:57,066
+I took it from the files of Francesco de' Pazzi.
 
-403
-0:45:01,690 --> 0:45:04,710
-I took it from the files of Francesco Departs.
-
-404
-0:45:05,110 --> 0:45:08,119
+181
+00:44:57,466 --> 00:45:00,500
 Seeing as he clearly no longer needs it.
 
-405
-0:45:09,119 --> 0:45:12,210
-I've always had an interest in things of any pity.
+182
+00:45:01,500 --> 00:45:04,566
+I've always had an interest in things of antiquity.
 
-406
-0:45:13,860 --> 0:45:17,528
-Did your flock It is meaningful to me as well.
+183
+00:45:06,233 --> 00:45:07,866
+As did your father.
 
-407
-0:45:17,530 --> 0:45:19,309
-Then consider it a gift
+184
+00:45:07,866 --> 00:45:09,900
+EZIO: It is meaningful to me as well.
 
-408
-0:45:19,989 --> 0:45:20,818
-cave, Senor.
+185
+00:45:09,900 --> 00:45:11,666
+Then consider it a gift!
 
-409
-0:45:20,820 --> 0:45:21,610
-Did you?
+186
+00:45:12,366 --> 00:45:14,566
+Che il Signore ci protegga (God save us all).
 
-410
-0:45:44,690 --> 0:45:45,269
-Yeah.
 
-411
-0:45:46,139 --> 0:45:46,750
-What?
+187
+00:45:58,166 --> 00:46:00,933
+REBECCA: I've marched the Palazzo Medici on your map.
 
-412
-0:45:59,489 --> 0:46:00,159
-What?
+188
+00:46:00,933 --> 00:46:05,599
+REBECCA: In order to achieve 100% sync with Ezio's life, you
+ should go explore it.
 
-413
-0:46:04,179 --> 0:46:04,900
-Two.
+189
+00:52:48,833 --> 00:52:51,033
+Ezio! Thank God you're alright.
 
-414
-0:46:05,789 --> 0:46:10,218
-I've marched the Palazzo Medici on your mat in order to achieve 100%.
+190
+00:52:51,033 --> 00:52:53,599
+This madness with the Medici and the Pazzi.
 
-415
-0:46:10,219 --> 0:46:11,748
-Sync with that CEO's life.
+191
+00:52:53,599 --> 00:52:55,466
+Is this why you pursued Francesco?
 
-416
-0:46:11,750 --> 0:46:13,239
-You should go explore.
-
-417
-0:46:37,380 --> 0:46:38,059
-You
-
-418
-0:46:39,579 --> 0:46:40,380
-stop.
-
-419
-0:46:48,980 --> 0:46:49,690
-Nice
-
-420
-0:46:50,889 --> 0:46:52,530
-you two.
-
-421
-0:47:18,559 --> 0:47:19,199
-Hey.
-
-422
-0:48:44,139 --> 0:48:44,719
-Yeah,
-
-423
-0:49:06,170 --> 0:49:06,929
-Go.
-
-424
-0:51:56,659 --> 0:51:57,650
-Yeah.
-
-425
-0:52:00,150 --> 0:52:01,320
-Stay back.
-
-426
-0:52:01,360 --> 0:52:02,760
-Thank you.
-
-427
-0:52:13,050 --> 0:52:13,860
-Oh,
-
-428
-0:52:24,809 --> 0:52:26,889
-no need to come forward.
-
-429
-0:52:36,949 --> 0:52:37,568
-That's better.
-
-430
-0:52:37,570 --> 0:52:40,268
-For now, prevention is the best cure.
-
-431
-0:52:40,269 --> 0:52:41,610
-I always say
-
-432
-0:52:57,510 --> 0:52:58,078
-it's you.
-
-433
-0:52:58,079 --> 0:52:59,698
-Thank God you're all right.
-
-434
-0:52:59,699 --> 0:53:04,118
-This madness with the Medici and the patsy is thiss Why you pursued Francesco?
-
-435
-0:53:04,119 --> 0:53:05,648
+192
+00:52:55,466 --> 00:52:56,699
 Not exactly.
 
-436
-0:53:05,650 --> 0:53:09,408
-Well, whatever your reasons, the city safe again, thanks to you.
+193
+00:52:57,166 --> 00:53:00,733
+Well, whatever your reasons, the city's safe again, thanks 
+to you.
 
-437
-0:53:09,409 --> 0:53:11,869
+194
+00:53:00,733 --> 00:53:03,199
 Now tell me, how may I be of service?
 
-438
-0:53:12,420 --> 0:53:14,670
+195
+00:53:03,766 --> 00:53:06,000
 Ah, another page.
 
-439
-0:53:16,389 --> 0:53:16,538
-My?
+196
+00:53:07,733 --> 00:53:10,733
+Aha, it's a similar cypher to the last one.
 
-440
-0:53:16,539 --> 0:53:17,208
-Huh?
-
-441
-0:53:17,210 --> 0:53:19,388
-It's a similar Cypher to the last one.
-
-442
-0:53:19,389 --> 0:53:20,869
+197
+00:53:10,733 --> 00:53:12,199
 This won't take long.
 
-443
-0:53:21,329 --> 0:53:22,869
+198
+00:53:12,666 --> 00:53:14,199
 Interesting.
 
-444
-0:53:23,019 --> 0:53:23,679
-Yeah,
+199
+00:53:14,366 --> 00:53:18,666
+Ohh, indeed, I see…
 
-445
-0:53:24,710 --> 0:53:27,320
-DD I see.
+200
+00:53:19,066 --> 00:53:23,066
+It's another blade design, for delivering poison.
 
-446
-0:53:27,739 --> 0:53:31,719
-It's another blade design for delivering poison.
-
-447
-0:53:32,119 --> 0:53:33,489
+201
+00:53:23,466 --> 00:53:24,833
 Can you build it?
 
-448
-0:53:33,650 --> 0:53:35,398
-See, it won't take very long.
+202
+00:53:25,000 --> 00:53:26,733
+Si, it won't take very long.
 
-449
-0:53:35,400 --> 0:53:39,769
-I just need to find a way to hollow out the blade without sacrificing their
+203
+00:53:26,733 --> 00:53:31,099
+I just need to find a way to hollow out the blade without 
+sacrificing the…
 
-450
-0:53:40,349 --> 0:53:42,260
-It's all right, Leonardo.
+204
+00:53:31,666 --> 00:53:35,266
+It's alright, Leonardo, just do what you need to do.
 
-451
-0:53:42,300 --> 0:53:44,059
-Just do what you need to do.
-
-452
-0:53:51,099 --> 0:53:52,148
+205
+00:53:42,433 --> 00:53:43,466
 All done.
 
-453
-0:53:52,150 --> 0:53:54,828
-I feel your blade with a bit of poison to start with.
+206
+00:53:43,500 --> 00:53:46,166
+I filled your blade with a bit of poison to start with.
 
-454
-0:53:54,829 --> 0:53:55,898
-Should you run out?
+207
+00:53:46,166 --> 00:53:49,300
+Should you run out just visit a doctor.
 
-455
-0:53:55,900 --> 0:54:04,188
-Just visit a doctor Boyzone my doctor in high enough doses that which cures can kill.
+208
+00:53:49,300 --> 00:53:51,699
+Poison, from a doctor?
 
-456
-0:54:04,190 --> 0:54:06,178
+209
+00:53:51,699 --> 00:53:55,533
+In high enough doses that which cures can kill.
+
+210
+00:53:55,533 --> 00:53:57,500
 I am in your debt once more, my friend.
 
-457
-0:54:06,179 --> 0:54:07,478
-Any time it's you.
-
-458
-0:54:07,480 --> 0:54:08,659
-Anytime.
-
-459
-0:54:09,440 --> 0:54:10,150
-Yeah,
-
-460
-0:54:12,539 --> 0:54:13,099
-Yeah,
-
-461
-0:54:18,139 --> 0:54:18,949
-Okay,
-
-462
-0:54:19,539 --> 0:54:21,050
-doesn't it?
-
-463
-0:54:28,940 --> 0:54:29,500
-No,
-
-464
-0:54:33,940 --> 0:54:34,550
-it's
-
-465
-0:54:51,639 --> 0:54:52,199
-Yeah.
-
-466
-0:55:24,039 --> 0:55:24,750
-Good.
-
-467
-0:55:25,389 --> 0:55:26,050
-No.
-
-468
-0:55:28,639 --> 0:55:29,460
-Okay.
-
-469
-0:55:31,289 --> 0:55:31,900
-No.
-
-470
-0:55:32,840 --> 0:55:33,809
-Yes.
-
-471
-0:55:38,539 --> 0:55:39,190
-Okay.
-
-472
-0:55:47,840 --> 0:55:48,400
-No,
-
-473
-0:55:50,599 --> 0:55:52,300
-no, No,
-
-474
-0:55:57,519 --> 0:55:58,349
-thank you.
-
-475
-0:56:00,429 --> 0:56:01,500
-No, no, no.
-
-476
-0:56:11,070 --> 0:56:12,378
-And they want to see the master.
-
-477
-0:56:12,380 --> 0:56:13,679
-Did this.
-
-478
-0:56:14,550 --> 0:56:15,239
-You
-
-479
-0:56:16,539 --> 0:56:17,179
-what
-
-480
-0:56:36,940 --> 0:56:37,840
-question
-
-481
-0:56:38,980 --> 0:56:39,789
-back?
-
-482
-0:58:09,219 --> 0:58:10,300
-Yeah.
-
-483
-0:58:13,119 --> 0:58:13,900
-Yeah.
-
-484
-0:58:23,119 --> 0:58:23,988
-Date of birth.
-
-485
-0:58:23,989 --> 0:58:24,558
-14.
-
-486
-0:58:24,559 --> 0:58:25,528
-49.
-
-487
-0:58:25,530 --> 0:58:26,358
-Profession.
-
-488
-0:58:26,360 --> 0:58:34,358
-Ruler of Florence simultaneously keeping the dream of the Florentine Republic alive while leaving the people with very little legitimate power.
-
-489
-0:58:34,360 --> 0:58:36,998
-Lorenzo de Medici definitely ruled Renaissance Florence.
-
-490
-0:58:37,000 --> 0:58:48,530
-During its golden age, Lorenzo's grandfather, Cosimo, built the Medici bank, creating one of the most powerful financial institutions in Europe and becoming fabulously rich in the process.
-
-491
-0:58:48,690 --> 0:58:51,398
-Considered the smartest of Kasim owes grandchildren.
-
-492
-0:58:51,400 --> 0:58:55,158
-Lorenzo was already being sent on diplomatic missions as a child.
-
-493
-0:58:55,159 --> 0:58:58,808
-Although his father was inept in sickly, his mother was a poet.
-
-494
-0:58:58,809 --> 0:59:04,619
-She introduced Lorenzo to many of the prominent artists of the day and stealing in him a love of art and culture.
-
-495
-0:59:04,730 --> 0:59:18,418
-In 14 69 when he was only 20 Lorenzo became the head of the Medici family, at which point he quickly gained control of the Florentine government through friends in the city, Council payoffs, strategic marriages and threats.
-
-496
-0:59:18,420 --> 0:59:21,418
-But Florence prospered with Lorenzo as its puppeteer.
-
-497
-0:59:21,420 --> 0:59:29,739
-A piece was made between the warring states of Italy and several masterpieces of Renaissance art by the likes of BOTTICELLI and Michelangelo were made under his care.
-
-498
-0:59:29,789 --> 0:59:35,428
-Ultimately, Lorenzo was happier writing poetry and shadow governing than directing his family's bank.
-
-499
-0:59:35,429 --> 0:59:43,070
-During his lifetime, several branches of the bank collapsed and the Medici assets were wasted on frivolities such as jousting tournaments.
-
-500
-0:59:43,190 --> 0:59:45,688
-Lorenzo died in 14 92.
-
-501
-0:59:45,690 --> 0:59:51,558
-Nearly broke, he was unable to prevent the popular backlash against his rich lifestyle and the mad monk Savonarola.
-
-502
-0:59:51,559 --> 0:59:53,110
-His rise to power.
-
-503
-0:59:56,519 --> 0:59:57,408
-Date of birth.
-
-504
-0:59:57,409 --> 1:00:02,908
-14 50 for profession, scholar, poet, somewhat of a prodigy.
-
-505
-1:00:02,909 --> 1:00:08,448
-Poland's Yano learned Latin and Greek at age 10 and by 18 had already become a published author.
-
-506
-1:00:08,449 --> 1:00:15,090
-Lorenzo de Medici hired him to act as the tutor for his Children and made sure he received a post at the studio Fiorentino.
-
-507
-1:00:15,210 --> 1:00:19,398
-Unfortunately, pullets Yano must not have been everyone's favourite instructor.
-
-508
-1:00:19,400 --> 1:00:26,010
-He died of arsenic poisoning in 14 94 probably murdered by Pierre of the Medici, his former student
-
-509
-1:00:28,610 --> 1:00:29,458
-Date of birth.
-
-510
-1:00:29,460 --> 1:00:31,058
-14 53.
-
-511
-1:00:31,059 --> 1:00:31,868
-Profession.
-
-512
-1:00:31,869 --> 1:00:42,710
-Noble, the playboy to his brother Lorenzo, statesman Giuliano de Medici was well known for his famous jousting tournaments, his handsome physique and his illegitimate child.
-
-513
-1:00:42,809 --> 1:00:45,688
-When Giuliano was killed in the pot, see conspiracy.
-
-514
-1:00:45,690 --> 1:00:56,858
-His son Giulio was considered legitimate due to a loophole in canon law that allowed marriages to occur privately between two people meeting that his parents could have agreed that they were actually married without telling anyone about it.
-
-515
-1:00:56,860 --> 1:00:58,158
-Watch out, Catholics.
-
-516
-1:00:58,159 --> 1:01:00,808
-Your mistresses have more power than you think.
-
-517
-1:01:00,809 --> 1:01:06,730
-Once legitimately a Medici, this child of a tradesman is daughter went on to become Pope Clement the seventh.
-
-518
-1:01:06,920 --> 1:01:08,158
-Get this Clement.
-
-519
-1:01:08,159 --> 1:01:14,759
-The seventh was Pope during the sack of Rome in 15 27 during which he was taken prisoner in the Costel Santangelo.
-
-520
-1:01:14,760 --> 1:01:18,170
-He escaped his captors disguised as a tradesman.
-
-521
-1:01:18,420 --> 1:01:24,018
-Son of a tradesman is daughter escapes poor pass to become pope on ly to become a tradesman once more.
-
-522
-1:01:24,019 --> 1:01:25,420
-Oh, the irony,
-
-523
-1:01:32,010 --> 1:01:38,518
-proclamations, local laws, news market days and advertisements were all called out by heralds.
-
-524
-1:01:38,519 --> 1:01:49,429
-Since many Renaissance Italians could not read, special laws had to be put in place to protect them from the crowd due to extreme displays of unhappiness following the announcement of tax increases.
-
-525
-1:01:59,409 --> 1:01:59,969
-Yeah.
-
-526
-1:02:04,909 --> 1:02:05,469
-Hey,
-
-527
-1:02:06,409 --> 1:02:07,130
-what?
-
-527
-1:02:14,909 --> 1:02:15,000
-Okay,
+211
+00:53:57,500 --> 00:54:00,000
+Any time, Ezio, any time.
 

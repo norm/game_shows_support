@@ -1,0 +1,20 @@
+<speak>
+
+<p>
+  Date of Birth: 14 54, Profession: Scholar, Poet.
+</p>
+
+<p>
+  Somewhat of a prodigy, Poliziano learned Latin and Greek at age 10, and by
+  18 had already become a published author. Lorenzo de' Medici hired him to
+  act as the tutor for his children and made sure he received a post at the
+  Studio Fiorentino.
+</p>
+
+<p>
+  Unfortunately, Poliziano must not have been everyone's favourite instructor.
+  He died of arsnic poisoning in 1494, probably murdered by Piero de' Medici,
+  his former student.
+</p>
+
+</speak>
