@@ -3,6 +3,8 @@
 # Generate draft captions using Amazon Transcribe for rendered videos where no
 # captions exist or where the video file is newer than the caption file.
 
+mkdir -p support
+
 for seq in $(seq 1 99); do
     chapter=$(printf '%02d' $seq)
 
@@ -24,10 +26,10 @@ for seq in $(seq 1 99); do
             -loglevel error \
             -stats \
             -i "$video" \
-            "$audio"
+            "support/$audio"
 
         remote_audio="s3://$S3_BUCKET/$S3_BUCKET_DIR/$audio"
-        aws s3 cp "$audio" "$remote_audio"
+        aws s3 cp "support/$audio" "$remote_audio"
 
         transcript="$( echo "$video" | sed -e 's/.mp4/.json/')"
         job_name="$(
@@ -66,11 +68,9 @@ for seq in $(seq 1 99); do
             | sed -e 's#https://s3.eu-west-2.amazonaws.com#s3:/#'
         )
 
-        aws s3 cp "$job_file" "$transcript"
+        aws s3 cp "$job_file" "support/$transcript"
         aws s3 rm "$job_file"
         transcript_to_sbv "$transcript" > "$sbv"
-        mkdir -p support
-        mv "$audio" "$transcript" support
         git add "$sbv"
         git commit -m"Add draft captions for ${sbv%%.sbv}"
         subl "$sbv"
