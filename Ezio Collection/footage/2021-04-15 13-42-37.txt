@@ -1,0 +1,4 @@
+0:01:55,e,Palazzo della Signoria
+0:04:35,sve,Herald
+0:08:00,d,Heralds
+0:12:10,e,Sanctuary

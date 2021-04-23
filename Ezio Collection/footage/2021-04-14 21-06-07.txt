@@ -1,0 +1,14 @@
+0:05:40,m,Fox Hunt
+0:17:30,m,See You There
+0:21:25,m,Novella's Secret
+0:58:00,m,Wolves In Sheep's Clothing
+1:10:55,m,Farewell Francesco
+1:16:00,m,Four To The Floor
+1:22:30,d,Pazzi Conspirators
+1:24:05,d,Lorenzo de' Medici
+1:25:50,d,Poliziano
+1:27:25,d,Guiliano de' Medici
+1:28:35,d,Santa Maria Novella
+1:29:10,d,Thieves
+1:30:05,d,Mercato Vecchio
+1:31:45,d,Santa Croce
