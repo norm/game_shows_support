@@ -38,6 +38,14 @@ function backup_to_local_disk {
         . \
         "$BACKUP_DIR/."
 
+    # backup Davinci Resolve
+    rsync $dryrun -avP \
+        "$HOME/Library/Application Support/Blackmagic Design/DaVinci Resolve/." \
+        "$BACKUP_BASE"/resolve-backups/application-support/.
+    rsync $dryrun -avP \
+        "$HOME/Library/Preferences/Blackmagic Design/DaVinci Resolve/." \
+        "$BACKUP_BASE"/resolve-backups/preferences/.
+
     # highlight any differences between the backup dir and the main dir
     # (shows files that can be deleted from the backup, for example)
     backup_status=$(mktemp)
@@ -94,7 +102,8 @@ if [ -d "${1:-}" ]; then
     shift
 fi
 
-export BACKUP_DIR='/Volumes/verne/video/Game Shows'
+export BACKUP_BASE='/Volumes/verne/video'
+export BACKUP_DIR="$BACKUP_BASE/Game Shows"
 export CAPTURE_DIR='Movies'
 export CAPTURE_HOST='portsider'
 export GAME_SHOW_NAME="$show"
