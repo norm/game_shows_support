@@ -37,5 +37,7 @@ for ((i=${#footage[@]}-1; i>=0; i--)); do
 
     play "$mp4"
     subl --new-window --wait "$notes"
-    git add "$notes"
+
+    cmp --silent footage/template.txt "$notes" \
+        || git add "$notes"
 done
