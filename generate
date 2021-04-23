@@ -26,11 +26,13 @@ function _pushd { pushd "$1" >/dev/null; }
 function _popd  { popd       >/dev/null; }
 
 function backup_to_local_disk {
+    local dryrun=''
+
     find . -name .DS_Store -exec rm {} \;
 
-    dryrun=''
     [ -n "${DRY_RUN:-}" ] && dryrun='-n'
 
+    chmod -R u+rw "$BACKUP_DIR/.git"   # no idea why this keeps happening
     rsync $dryrun -avP --inplace \
         --exclude "*/cache" \
         --exclude "*/support" \
@@ -58,10 +60,22 @@ function backup_to_local_disk {
 }
 
 function backup_to_s3 {
+    local quick="${1:-}"
+    local dryrun=''
+    local -a excludes
+
     _pushd "$BACKUP_DIR"
 
-    dryrun=''
     [ -n "${DRY_RUN:-}" ] && dryrun='--dryrun'
+    [ -n "$quick" ] && {
+        excludes+=(--exclude '*/footage/*.mp4')
+        excludes+=(--exclude '*/*.mp4')
+    }
+
+    for file in */in_draft; do
+        [ "$file" = "*/in_draft" ] && break
+        excludes+=(--exclude "$(dirname "$file")/*")
+    done
 
     aws s3 sync \
         $dryrun \
@@ -70,9 +84,11 @@ function backup_to_s3 {
         --exclude \*/raw/\* \
         --exclude \*/\*.m4v \
         --exclude .git\* \
+        "${excludes[@]}" \
             . \
             "s3://$S3_BUCKET"
 
+    [ -n "$quick" ] && status -l "== {magenta}full s3 backup should be performed"
     _popd
 }
 
@@ -117,9 +133,9 @@ export TV_LOCATION="/files/tv/$(echo "$show" | sed -e 's/ /\\ /g')/Season\ 1"
 export PATH="$PWD/bin:$PATH"
 
 case "${1:-all}" in
-    backup)
+    quick_backup)
         backup_to_local_disk
-        backup_to_s3
+        backup_to_s3 quick
         ;;
 
     local_backup)
@@ -151,7 +167,7 @@ case "${1:-all}" in
         status -l "== {bold}{yellow}local_backup"
         backup_to_local_disk
         status -l "== {bold}{yellow}s3_backup"
-        backup_to_s3
+        backup_to_s3 quick
 
         pushd "$show" >/dev/null
         status -l "== {bold}{yellow}clean"
