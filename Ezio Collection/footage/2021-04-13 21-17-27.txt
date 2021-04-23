@@ -1,0 +1,6 @@
+0:01:30,sv,Fox Hunt
+0:02:45,sv,Glyph (Mercato Vecchio)
+0:09:30,sv,See You There
+0:11:10,sv,Novella's Secret
+0:39:20,asv,Wolves In Sheep's Clothing
+0:39:50,,Copy save to USB and back

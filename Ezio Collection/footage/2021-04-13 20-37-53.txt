@@ -1,0 +1,6 @@
+0:00:25,d,Santa Maria Novella
+0:01:05,d,Mercato Vecchio
+0:02:20,d,Palazzo Comunale
+0:03:00,d,San Gimignano
+0:03:55,d,Mercenaries
+0:06:20,asv,Fox Hunt (multiple)
