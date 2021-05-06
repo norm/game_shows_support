@@ -1,0 +1,16 @@
+<speak>
+
+<p>
+  In a city famous for its towers, the Salvucci family, in a display of 13th
+  Century might, erected not one but two. And not only did they erect two,
+  they build them to be taller than the ruler of San Gimignano’s, the
+  Podestà’s tower, despite a law made in 1255 that prohibited such an act of
+  blatant brick and mortar-style aggression.
+</p>
+
+<p>
+  Outraged, the Podestà forced the towers to be cut down until they were
+  smaller than his.
+</p>
+
+</speak>

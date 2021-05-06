@@ -1,0 +1,24 @@
+<speak>
+
+<p>
+  Connected to the 13th Century Palazzo Vecchio del Podestà, the Torre Rognosa
+  rises 51 meters above San Gimignano.
+</p>
+
+<p>
+  Podestà (Power in English) was the title given to the appointed head of many
+  Italian cities. The Palazzo Vecchio was the residence of the Podestà of San
+  Gimignano for about 100 years, until, in 1337, he moved across the square
+  into the Palazzo Comunale.
+</p>
+
+<p>
+  Why would the Podestà simply abandon tradition like that? Perhaps because
+  the Palazzo Comunale has the largest tower in San Gimignano.
+</p>
+
+<p>
+  Tower Envy: do not underestimate it as a force for change.
+</p>
+
+</speak>

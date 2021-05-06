@@ -1,0 +1,10 @@
+<speak>
+
+<p>
+  Rising 54 meters above San Gimignano, the city’s largest tower, the Torre
+  Grossa, lives up to its name. Unlike some of the other towers, it even has a
+  bell inside it. Construction of the Torre Grossa began in 1300 and finished
+  in 1311.
+</p>
+
+</speak>

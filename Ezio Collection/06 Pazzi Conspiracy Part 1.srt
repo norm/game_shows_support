@@ -1,0 +1,592 @@
+1
+00:01:32,833 --> 00:01:34,833
+EZIO: Buon giorno.
+
+2
+00:01:34,833 --> 00:01:38,466
+ARCHITECT: Salute, Ser Ezio. Shall we take a look at the list?
+
+3
+00:02:31,666 --> 00:02:32,933
+ARCHITECT: Buon viaggio!
+
+4
+00:02:50,266 --> 00:02:54,066
+MARIO: Ezio! Ha, ha, come in, come in!
+
+5
+00:02:54,066 --> 00:02:55,866
+MARIO: To what do we owe the honour?
+
+6
+00:02:56,099 --> 00:03:00,533
+I have been sent from Firenze by El Magnifico
+to attend to some unfinished business.
+
+7
+00:03:00,533 --> 00:03:02,566
+I'm looking for Jacopo de' Pazzi.
+
+8
+00:03:02,566 --> 00:03:04,633
+Ha! Who isn't?
+
+9
+00:03:04,633 --> 00:03:06,533
+We've been at it for days.
+
+10
+00:03:06,533 --> 00:03:08,933
+EZIO: Then perhaps what I carry will help up us both.
+
+11
+00:03:08,933 --> 00:03:11,300
+A list of his co-conspirators.
+
+12
+00:03:11,633 --> 00:03:14,433
+One of them will talk before he dies.
+
+13
+00:03:14,599 --> 00:03:18,766
+Excellent, these men are sure to lack Jacopo's resources.
+
+14
+00:03:18,766 --> 00:03:21,566
+Which means they will be easier to find.
+
+15
+00:03:21,633 --> 00:03:24,699
+I will put my scouts to it at once.
+
+16
+00:03:24,699 --> 00:03:26,266
+I appreciate the help, Uncle.
+
+17
+00:03:26,266 --> 00:03:29,833
+I've got something else for you as well, more Codex pages.
+
+18
+00:03:29,833 --> 00:03:32,533
+Ah, let's see what we can learn.
+
+19
+00:03:33,433 --> 00:03:35,400
+What is this?
+
+20
+00:03:35,400 --> 00:03:36,666
+What "prophet"?
+
+21
+00:03:36,666 --> 00:03:37,933
+EZIO: What did you find, Uncle?
+
+22
+00:03:37,933 --> 00:03:40,133
+Just another damn mystery.
+
+23
+00:03:40,133 --> 00:03:44,433
+The text here roughly translates to "Only the prophet may open it."
+
+24
+00:03:44,433 --> 00:03:46,633
+There's reference to two pieces of Eden.
+
+25
+00:03:46,633 --> 00:03:49,366
+But these pages offer no answers, nipote.
+
+26
+00:03:49,366 --> 00:03:52,900
+At least not on their own, you must find more.
+
+27
+00:03:52,900 --> 00:03:55,666
+We'll have to save it for another day, uncle.
+
+28
+00:03:56,233 --> 00:03:58,300
+I have a mission to attend to.
+
+29
+00:03:58,300 --> 00:03:59,533
+As you wish.
+
+30
+00:03:59,533 --> 00:04:05,366
+Now, if you hope to defeat these bastardi, I will need to teach you a few things.
+
+31
+00:04:05,366 --> 00:04:07,333
+Meet me on the practice field.
+
+32
+00:04:14,333 --> 00:04:17,500
+MARIO: Alright Ezio, you're familiar with counterattacking.
+
+33
+00:04:17,500 --> 00:04:20,866
+MARIO: But what happens when your enemy is as well?
+
+34
+00:04:21,000 --> 00:04:23,833
+EZIO: I don't usually give them the opportunity.
+
+35
+00:04:23,833 --> 00:04:28,133
+MARIO: Tough talk offers little protection against Templar steel.
+
+36
+00:04:28,533 --> 00:04:32,533
+EZIO: Then by all means maestro, teach me what to do.
+
+37
+00:04:32,533 --> 00:04:33,899
+MARIO: Now, dodge!
+
+38
+00:05:26,433 --> 00:05:27,800
+Magnifico (magnificent)!
+
+39
+00:05:27,800 --> 00:05:31,100
+Once again, you exceed my expectations.
+
+40
+00:05:32,633 --> 00:05:38,133
+Signore, we've found Jacopo's men, and await your word to strike!
+
+41
+00:05:38,133 --> 00:05:39,333
+MARIO: Relay the following.
+
+42
+00:05:39,333 --> 00:05:43,199
+MARIO: No man moves until they have spoken with Ezio, intesi (understand)?
+
+43
+00:05:43,533 --> 00:05:44,933
+MERCENARY: It will be done.
+
+44
+00:05:44,933 --> 00:05:48,600
+MARIO: Go Ezio, visit with my mercenaries in the countryside.
+
+45
+00:05:48,600 --> 00:05:51,199
+MARIO: See if Jacopo's lackeys won't lead you to him.
+
+46
+00:05:51,199 --> 00:05:54,100
+MARIO: But be careful, they will be expecting you.
+
+47
+00:12:12,466 --> 00:12:17,600
+Ezio, about time you got here, we've found Bernardo Baroncelli.
+
+48
+00:12:17,600 --> 00:12:19,700
+EZIO: Ottima notizia (This is good news)!
+
+49
+00:12:19,700 --> 00:12:22,466
+EZIO: Tell me where he is and I'll see that he's dealt with.
+
+50
+00:12:22,600 --> 00:12:26,399
+MERCENARY: That's the trouble, Lorenzo actually had him arrested days ago.
+
+51
+00:12:26,399 --> 00:12:30,066
+MERCENARY: After being returned to us from Constantinople, but he escaped.
+
+52
+00:12:30,066 --> 00:12:32,799
+MERCENARY: We believe him to be somewhere inside San Gimignano.
+
+53
+00:12:32,799 --> 00:12:36,166
+EZIO: Va bene, I'll see if I can't pin him down.
+
+54
+00:12:36,166 --> 00:12:39,533
+MERCENARY: How do you expect to succeed where the rest of us have failed?
+
+55
+00:12:39,533 --> 00:12:41,466
+EZIO: I have my ways.
+
+56
+00:14:18,433 --> 00:14:20,966
+BERNARDO: I just need to take things one day at a time.
+
+57
+00:14:21,233 --> 00:14:26,700
+BERNARDO: He'll get bored, and lost, confused, distracted, killed.
+
+58
+00:14:27,233 --> 00:14:28,266
+BERNARDO: It'll be okay.
+
+59
+00:14:28,433 --> 00:14:32,033
+BERNARDO: And if he does come, if it happens, I'll keep moving.
+
+60
+00:14:32,033 --> 00:14:34,133
+BERNARDO: Never in one place for long.
+
+61
+00:14:34,133 --> 00:14:39,633
+BERNARDO: Only … only how to sleep, when to sleep, where to sleep?
+
+62
+00:14:39,633 --> 00:14:41,399
+BERNARDO: The guard tower, perhaps?
+
+63
+00:14:41,399 --> 00:14:44,033
+BERNARDO: They'll think me mad, they don't know.
+
+64
+00:14:44,033 --> 00:14:46,799
+BERNARDO: I'll pay them, yes, then what will it matter?
+
+65
+00:14:47,200 --> 00:14:48,833
+BERNARDO: All they care about is coin.
+
+66
+00:14:48,833 --> 00:14:50,266
+BERNARDO: All anyone cares about is coin.
+
+67
+00:14:51,366 --> 00:14:53,633
+BERNARDO: Good for the brotherhood, good for me.
+
+68
+00:14:53,633 --> 00:14:55,366
+BERNARDO: Safer this way, yes.
+
+69
+00:14:55,366 --> 00:14:57,366
+BERNARDO: Yes, I'll ask and then…
+
+70
+00:14:58,733 --> 00:15:00,533
+BERNARDO: I will be protected.
+
+71
+00:15:00,533 --> 00:15:03,899
+BERNARDO: We'll meet when it's time and I'll leave this place.
+
+72
+00:15:03,899 --> 00:15:07,200
+BERNARDO: Free, in time, in time.
+
+73
+00:15:08,200 --> 00:15:10,133
+BERNARDO: Wait! What is that?
+
+74
+00:15:10,133 --> 00:15:11,566
+BERNARDO: I saw something!
+
+75
+00:15:11,566 --> 00:15:14,033
+BERNARDO: Another mercenario come to spy on me!
+
+76
+00:15:14,799 --> 00:15:17,500
+BERNARDO: No, no, just my nerves.
+
+77
+00:15:18,133 --> 00:15:20,766
+BERNARDO: Hard to stay calm, knowing that he seeks me.
+
+78
+00:15:21,433 --> 00:15:25,500
+BERNARDO: I must stay focused and soon this will be done, soon.
+
+79
+00:15:53,733 --> 00:15:55,233
+BERNARDO: I knew you would come.
+
+80
+00:15:55,233 --> 00:15:56,966
+EZIO: Where is Jacopo?
+
+81
+00:15:56,966 --> 00:15:59,433
+BERNARDO: So you can do to him what you've done to me?
+
+82
+00:15:59,433 --> 00:16:02,633
+EZIO: There is still time for you to clear your conscience.
+
+83
+00:16:02,633 --> 00:16:05,899
+BERNARDO: We gather at the church when a meeting is called.
+
+84
+00:16:05,899 --> 00:16:09,133
+EZIO: Mi duole dover giungere a tanto (I am sorry that it came to this).
+
+85
+00:16:09,133 --> 00:16:11,366
+EZIO: Requiescat in pace.
+
+86
+00:23:11,700 --> 00:23:16,000
+SUBJECT 16: It's getting easier and easier to hack into Abstergo's mainframe.
+
+87
+00:23:16,233 --> 00:23:20,433
+SUBJECT 16: It's like I know what data I'm looking for, I've already lived it.
+
+88
+00:27:03,266 --> 00:27:05,866
+SUBJECT 16: Do you see what's going on?
+
+89
+00:27:06,666 --> 00:27:09,200
+SUBJECT 16: Not yet, but you will.
+
+90
+00:29:42,900 --> 00:29:48,633
+Salute Ezio, Antonio Maffei has sought refuge atop the city's tallest structure.
+
+91
+00:29:48,633 --> 00:29:51,466
+Spouting scripture and arrows in equal measure.
+
+92
+00:29:51,466 --> 00:29:53,833
+The man has clearly lost his mind.
+
+93
+00:29:54,000 --> 00:29:58,133
+Making matters worse, he's posted archers all around him.
+
+94
+00:29:58,133 --> 00:30:01,066
+You would do well to clear them out before approaching.
+
+95
+00:30:01,066 --> 00:30:03,133
+EZIO: Grazie for the information.
+
+96
+00:33:45,099 --> 00:33:47,233
+SUBJECT 16: They were mostly heroes.
+
+97
+00:33:47,233 --> 00:33:50,433
+SUBJECT 16: See how the lineages disrupted it?
+
+98
+00:33:50,433 --> 00:33:52,733
+SUBJECT 16: The web of history traps the good.
+
+99
+00:33:52,733 --> 00:33:55,900
+SUBJECT 16: And the evil take what is not theirs!
+
+100
+00:36:57,633 --> 00:37:01,000
+SUBJECT 16: Behold! The mark of Cain.
+
+101
+00:39:08,900 --> 00:39:14,033
+ANTONIO: Citizens of San Gimignano, heed well my words!
+
+102
+00:39:14,033 --> 00:39:18,666
+ANTONIO: You must repent! Repent, and seek forgiveness!
+
+103
+00:39:18,666 --> 00:39:22,966
+ANTONIO: For your wicked ways have incurred the wrath of a demon!
+
+104
+00:39:22,966 --> 00:39:29,300
+ANTONIO: Summoned by your sins,
+he now walks our world cloaked in shadow and darkness!
+
+105
+00:39:29,300 --> 00:39:33,000
+ANTONIO: And everywhere he treads death follows.
+
+106
+00:39:33,000 --> 00:39:42,500
+ANTONIO: Why you ask? Because you have strayed,
+and sacrified your liberty to that wretch Lorenzo de' Medici!
+
+107
+00:39:42,500 --> 00:39:46,500
+ANTONIO: You are puppets, enslaved by purse strings!
+
+108
+00:39:46,500 --> 00:39:49,699
+ANTONIO: Won over by poisonous words!
+
+109
+00:39:49,699 --> 00:39:54,000
+ANTONIO: You have lost your virtue, you have lost your dignity!
+
+110
+00:39:54,000 --> 00:39:59,933
+ANTONIO: You have lost your faith, and this draws the demons in to feast!
+
+111
+00:39:59,933 --> 00:40:06,033
+ANTONIO: And feed they will, all whilst you wander lost in ignorance.
+
+112
+00:40:06,033 --> 00:40:10,666
+ANTONIO: Know that good men have died protecting you from his evil.
+
+113
+00:40:10,666 --> 00:40:15,666
+ANTONIO: Men who sought to save these lands, to purify them!
+
+114
+00:40:17,166 --> 00:40:20,000
+ANTONIO: Join me in prayer, my children.
+
+115
+00:40:20,000 --> 00:40:24,500
+ANTONIO: So that together we might stand against this darkness.
+
+116
+00:40:24,500 --> 00:40:28,566
+ANTONIO: Give ear O Heaven, and I will speak.
+
+117
+00:40:28,566 --> 00:40:32,933
+ANTONIO: And hear O Earth, the words of my mouth.
+
+118
+00:40:32,933 --> 00:40:38,900
+ANTONIO: Let my teaching drop as the rain, my speech distill as the dew.
+
+119
+00:40:38,900 --> 00:40:44,633
+ANTONIO: As raindrops on the tender herb and as showers on the grass.
+
+120
+00:40:44,633 --> 00:40:50,699
+ANTONIO: For I proclaim the name of the Lord, ascribe greatness to our God.
+
+121
+00:40:51,566 --> 00:40:55,633
+ANTONIO: He is the rock, His work is perfect.
+
+122
+00:40:55,633 --> 00:40:59,000
+ANTONIO: For all His ways are justice.
+
+123
+00:40:59,000 --> 00:41:02,833
+ANTONIO: A God of truth and without injustice.
+
+124
+00:41:02,833 --> 00:41:05,933
+ANTONIO: Righteous and upright is He.
+
+125
+00:41:05,933 --> 00:41:09,000
+ANTONIO: They have corrupted themselves.
+
+126
+00:41:09,000 --> 00:41:13,066
+ANTONIO: They are not His children because of their blemish.
+
+127
+00:41:13,066 --> 00:41:16,533
+ANTONIO: A perverse and crooked generation.
+
+128
+00:41:17,766 --> 00:41:22,900
+ANTONIO: Do you thus deal with the Lord, O foolish and unwise people?
+
+129
+00:41:22,900 --> 00:41:26,166
+ANTONIO: Is He not your father, who bought you?
+
+130
+00:41:26,166 --> 00:41:29,400
+ANTONIO: Has He not made you and established you?
+
+131
+00:42:34,233 --> 00:42:37,166
+ANTONIO: By the light of the Lord be cleansed!
+
+132
+00:42:37,166 --> 00:42:38,666
+EZIO: No grazie.
+
+133
+00:42:39,666 --> 00:42:42,766
+ANTONIO: I will put you on your knees, sinner.
+
+134
+00:42:44,566 --> 00:42:46,900
+EZIO: You would enjoy that, wouldn't you?
+
+135
+00:42:47,166 --> 00:42:49,066
+ANTONIO: Beg forgiveness!
+
+136
+00:42:49,466 --> 00:42:52,000
+EZIO: I have no need to.
+
+137
+00:42:52,000 --> 00:42:57,400
+ANTONIO: Give me strength, O Lord, that I might cast out this demon.
+
+138
+00:42:57,966 --> 00:43:01,533
+ANTONIO: It is not too late for you to turn away from evil!
+
+139
+00:43:01,533 --> 00:43:04,966
+ANTONIO: Repent, sinner, and you may yet be forgiven.
+
+140
+00:43:04,966 --> 00:43:08,666
+ANTONIO: I do God's work and it is good.
+
+141
+00:43:21,266 --> 00:43:22,966
+ANTONIO: Away with you, demon.
+
+142
+00:43:22,966 --> 00:43:26,066
+EZIO: Have some respect for death, my friend.
+
+143
+00:43:26,066 --> 00:43:27,533
+ANTONIO: I'll show you respect!
+
+144
+00:43:27,533 --> 00:43:29,566
+EZIO: No, I will.
+
+145
+00:43:29,566 --> 00:43:35,666
+EZIO: Che tu possa alfine trovare riposo nel corpo e nella mente
+(May your body and mind at last be still).
+
+146
+00:43:35,666 --> 00:43:37,699
+EZIO: Requiescat in pace.
+
+147
+00:47:56,333 --> 00:48:01,333
+Ah, there you are. Listen, we've found Stefano da Bagnone.
+
