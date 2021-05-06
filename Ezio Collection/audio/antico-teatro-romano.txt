@@ -1,0 +1,18 @@
+<speak>
+
+<p>
+  Inspired by Greek theatres, which had a similar structure, ruins of Ancient
+  Roman theatres can be found throughout the territories once ruled by the
+  Empire. Typical Roman theatres were constructed of concrete, a material no
+  longer used in Renaissance Italy because the recipe had been lost. Their
+  semicircular design created superior acoustics, allowing spectators to hear
+  the plays, speeches, or choral events performed on stage.
+</p>
+
+<p>
+  Notice the lack of marble? Renaissance Italians practiced a rudimentary form
+  of recycling when dealing with Roman structures: any marble that could be
+  found was ripped off the buildings to be reused for free.
+</p>
+
+</speak>

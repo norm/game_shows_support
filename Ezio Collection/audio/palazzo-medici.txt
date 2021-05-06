@@ -1,0 +1,31 @@
+<speak>
+
+<p>
+  Completed in 1455 by Cosimo de' Medici’s live-in architect Michelosso di
+  Bartolomeo Michelozzi, the Palazzo Medici was constructed as the private
+  residence of the Medici family. It was designed according to the values of
+  humanism, the dominant ideology of the Renaissance, which attempts to engage
+  the viewer with structures built on a more human scale.
+</p>
+
+<p>
+  At least, that’s the theoretical ideology of the palazzo, but, the effect
+  goes something more like this: the outside is foreboding and keeps people
+  out. If the façade could talk, it seems to be saying: “Get back! You do not
+  belong here! You are not important enough to enter!”
+</p>
+
+<p>
+  In contrast, the interior courtyard, which only the Medici and their guests
+  saw, has none of the exterior’s hard edges, it’s full of luscious curving
+  rounded arches, like a wedding cake. It says: “You’ve arrived, welcome to
+  paradise!”
+</p>
+
+<p>
+  In fact, Cosimo both approved the courtyard and rejected an earlier
+  architectural plan by Brunelleschi that would have led to a more open
+  façade. He wanted a Medici fortress inside Florence.
+</p>
+
+</speak>

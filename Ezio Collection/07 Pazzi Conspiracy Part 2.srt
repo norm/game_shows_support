@@ -1,0 +1,679 @@
+1
+00:00:21,399 --> 00:00:26,699
+Ah, there you are. Listen, we've found Stefano da Bagnone.
+
+2
+00:00:26,699 --> 00:00:31,000
+Just follow this road, and it'll bring you
+to the abbey where he's taken refuge.
+
+3
+00:00:31,000 --> 00:00:34,533
+Wait, before you go take these.
+
+4
+00:00:34,533 --> 00:00:37,266
+You can use them to create a distraction.
+
+5
+00:00:37,399 --> 00:00:38,766
+EZIO: My thanks, friend.
+
+6
+00:04:33,500 --> 00:04:34,966
+MONK: Let us pray, brother.
+
+7
+00:04:34,966 --> 00:04:36,933
+STEFANO: Pray? Pray for what?
+
+8
+00:04:36,933 --> 00:04:38,233
+MONK: The Lord's protection.
+
+9
+00:04:38,233 --> 00:04:44,766
+STEFANO: If you think the Lord has any interest in our affairs,
+you've another think coming.
+
+10
+00:04:44,766 --> 00:04:51,166
+STEFANO: But please, by all means,
+continue to delude yourself if it helps to pass the time.
+
+11
+00:04:51,166 --> 00:04:52,399
+MONK: You speak blasphemy!
+
+12
+00:04:52,399 --> 00:04:54,133
+STEFANO: No, I speak truth.
+
+13
+00:04:54,133 --> 00:04:56,800
+MONK: But to deny His most exalted existence—
+
+14
+00:04:56,800 --> 00:05:05,166
+STEFANO: …is the only rational response when faced with the
+declaration that there exists some invisible madman in the sky.
+
+15
+00:05:05,166 --> 00:05:13,199
+STEFANO: And believe me, if your precious Bible is anything
+to go by, he's completely lost his mind.
+
+16
+00:05:13,199 --> 00:05:16,766
+MONK: How can you speak of such, you wear His vestments!
+
+17
+00:05:16,766 --> 00:05:21,899
+STEFANO: Only because they afforded me
+the opportunity to get close to the Medici.
+
+18
+00:05:21,899 --> 00:05:28,566
+STEFANO: But you're right, I should look into replacing them
+after the assassin is dealt with.
+
+19
+00:05:28,566 --> 00:05:30,433
+MONK: Oh! That unholy demon!
+
+20
+00:05:30,433 --> 00:05:32,533
+STEFANO: At least on this, we agree.
+
+21
+00:05:32,533 --> 00:05:37,366
+MONK: They say the devil has gifted him
+with unnatural speed and strength.
+
+22
+00:05:37,366 --> 00:05:42,899
+STEFANO: The devil? No.
+These are gifts he gave himself through training.
+
+23
+00:05:42,899 --> 00:05:48,533
+STEFANO: It is disturbing how unwilling
+you are to credit people for their circumstances.
+
+24
+00:05:48,533 --> 00:05:53,033
+STEFANO: I think you'd make victims
+out of the entire world if you could.
+
+25
+00:05:53,033 --> 00:05:56,166
+MONK: I forgive your lack of faith and forked tongue.
+
+26
+00:05:56,633 --> 00:05:58,766
+MONK: You are still one of His children.
+
+27
+00:05:58,766 --> 00:06:02,399
+STEFANO:  I told you… oh, what's the use?
+
+28
+00:06:02,399 --> 00:06:05,233
+STEFANO: Enough of this, it is like speaking to the wind.
+
+29
+00:06:05,233 --> 00:06:06,666
+MONK: I will pray for you.
+
+30
+00:06:06,666 --> 00:06:12,100
+STEFANO: As you wish, but do so quietly, I must keep watch.
+
+31
+00:06:25,633 --> 00:06:28,733
+STEFANO: Now I will see who was right.
+
+32
+00:06:29,399 --> 00:06:31,100
+EZIO: Where is Jacopo?
+
+33
+00:06:31,100 --> 00:06:34,399
+STEFANO: Nothing to fear, I suppose.
+
+34
+00:06:35,000 --> 00:06:39,533
+STEFANO: They meet in the shadow of the Roman gods.
+
+35
+00:06:40,333 --> 00:06:42,466
+EZIO: Ora sei libero dalla paura (Be free of your fear now).
+
+36
+00:06:42,466 --> 00:06:44,533
+EZIO: Requiescat in pace.
+
+37
+00:09:28,333 --> 00:09:29,633
+MERCENARY: Over here, Ezio.
+
+38
+00:09:38,399 --> 00:09:39,700
+MERCENARY: Over here, Ezio.
+
+39
+00:09:46,600 --> 00:09:49,000
+We've found Archbishop Salviati.
+
+40
+00:09:49,000 --> 00:09:51,833
+He's barricaded himself inside that villa.
+
+41
+00:09:51,833 --> 00:09:54,933
+Take some of my men, use them to clear the fields.
+
+42
+00:09:54,933 --> 00:09:58,233
+Then find a way over the wall so you can open the gates.
+
+43
+00:09:59,366 --> 00:10:02,600
+EZIO: Ah, command over my own army.
+
+44
+00:10:02,899 --> 00:10:06,566
+EZIO: A nice change of pace
+from the usual sneaking and stabbing.
+
+45
+00:10:06,566 --> 00:10:07,933
+EZIO: I like it.
+
+46
+00:10:43,799 --> 00:10:46,433
+SALVIATI: I see you there Assassin!
+
+47
+00:10:48,000 --> 00:10:53,600
+SALVIATI: These walls have stood for a hundred years,
+and will stand for a hundred more.
+
+48
+00:10:53,600 --> 00:10:56,399
+SALVIATI: Stop wasting the lives of your men!
+
+49
+00:10:56,399 --> 00:10:58,533
+SALVIATI: Vattene (Get out)! Vattene via (Go away)!
+
+50
+00:10:59,200 --> 00:11:02,833
+SALVIATI: All that awaits you here is death, turn back!
+
+51
+00:17:16,666 --> 00:17:20,366
+SALVIATI: Men, prepare yourselves. The Assassin has arrived!
+
+52
+00:17:20,799 --> 00:17:23,833
+EZIO: I need to find a way to open the gates.
+
+53
+00:18:17,799 --> 00:18:21,833
+SALVIATI: I warned you to stay away, Assassin!
+You should have listened.
+
+54
+00:18:27,966 --> 00:18:30,833
+SALVIATI: You're finished, Assassin. You hear me?
+
+55
+00:18:45,366 --> 00:18:49,099
+EZIO: You Templars, always singing the same song.
+
+56
+00:18:49,099 --> 00:18:52,599
+SALVIATI: You think a few mercenari will scare me? Ha!
+
+57
+00:18:55,033 --> 00:18:56,133
+EZIO: They should.
+
+58
+00:18:56,133 --> 00:18:59,933
+SALVIATI: Shall I send your remains
+to that ubriacone (drunkard), Mario?
+
+59
+00:18:59,933 --> 00:19:04,733
+SALVIATI: Ha ha, what's the point?
+There won't be anything left of you to recognise.
+
+60
+00:19:04,733 --> 00:19:10,166
+EZIO: It's quite a plan you have,
+spouting nonsense while you send these other men to die.
+
+61
+00:19:10,166 --> 00:19:13,833
+SALVIATI: I am a reasonable man, what say you to this?
+
+62
+00:19:13,833 --> 00:19:16,599
+SALVIATI: Turn back now and I'll call off my men.
+
+63
+00:19:16,799 --> 00:19:21,500
+EZIO: Sorry, friend. You are on my list. Your fate is sealed.
+
+64
+00:19:22,333 --> 00:19:25,566
+SALVIATI: Tear him limb from limb, let us paint the—
+
+65
+00:19:25,566 --> 00:19:27,633
+EZIO: That is no way to treat a guest.
+
+66
+00:19:30,700 --> 00:19:32,633
+EZIO: Where is Jacopo?
+
+67
+00:19:33,099 --> 00:19:35,500
+SALVIATI: He knows you come for him.
+
+68
+00:19:35,500 --> 00:19:39,266
+SALVIATI: Emerging only in darkness to meet with the others.
+
+69
+00:19:39,266 --> 00:19:41,066
+EZIO: That answers when.
+
+70
+00:19:41,066 --> 00:19:47,000
+EZIO: La fede dovrebbe dare conforto, non pena.
+(Faith should bring comfort, not pain.)
+
+71
+00:19:47,633 --> 00:19:49,799
+EZIO: Requiescat in pace.
+
+72
+00:26:02,466 --> 00:26:08,400
+If I can stay my blade long enough to follow him,
+he'll lead me to his Templar brothers.
+
+73
+00:26:08,400 --> 00:26:10,633
+EZIO: I'll have more names for my list.
+
+74
+00:26:52,799 --> 00:26:57,033
+EZIO: What's going on here? Are they late?
+They haven't seen me, this much I know.
+
+75
+00:28:15,366 --> 00:28:18,233
+EZIO: What are you and the others planning, Jacopo?
+
+76
+00:29:49,200 --> 00:29:53,633
+EZIO: Your letter mentioned Venezia.
+Are there Templars there as well?
+
+77
+00:31:30,266 --> 00:31:33,766
+EZIO: How many men are responsible for my father's death?
+
+78
+00:31:36,700 --> 00:31:44,266
+JACOPO: I'm sorry maestro.
+I did all I could but the Assassin proved too strong.
+
+79
+00:31:44,266 --> 00:31:48,299
+Clearly, else the others would be here with you.
+
+80
+00:31:49,200 --> 00:31:54,000
+To say nothing of the fact that Firenze remains in Medici hands.
+
+81
+00:31:54,366 --> 00:31:59,299
+It's Francesco's fault, his impatience made him reckless.
+
+82
+00:31:59,299 --> 00:32:02,966
+I–I tried to be the voice of reason.
+
+83
+00:32:02,966 --> 00:32:04,966
+More like the voice of cowardice.
+
+84
+00:32:04,966 --> 00:32:07,866
+You're one to talk, Signor Barbarigo.
+
+85
+00:32:07,866 --> 00:32:11,866
+Had you sent us quality weapons instead of
+this garbage you Venetians call armament—
+
+86
+00:32:11,866 --> 00:32:12,799
+ENOUGH!
+
+87
+00:32:13,966 --> 00:32:19,966
+We put our faith in your family,
+and you repay us with inaction and incompetence?!
+
+88
+00:32:20,400 --> 00:32:26,033
+Then when asked to account for your failures,
+you make excuses and insult us?! 
+
+89
+00:32:26,299 --> 00:32:28,066
+How do you expect me to respond?
+
+90
+00:32:28,066 --> 00:32:29,566
+I don't know.
+
+91
+00:32:30,566 --> 00:32:33,900
+It's alright, I do.
+
+92
+00:32:35,433 --> 00:32:38,299
+JACOPO: Aaah, no!
+
+93
+00:32:38,833 --> 00:32:43,000
+Please, d–d–don't!
+
+94
+00:32:43,000 --> 00:32:46,033
+Ha ha ha! Please don't what?
+
+95
+00:32:54,166 --> 00:32:56,966
+I can … fix this.
+
+96
+00:33:00,000 --> 00:33:01,466
+Spare me!
+
+97
+00:33:02,700 --> 00:33:03,766
+No!
+
+98
+00:33:07,599 --> 00:33:09,166
+What a mess.
+
+99
+00:33:11,166 --> 00:33:15,000
+So sorry to have claimed your prize, Assassin!
+
+100
+00:33:18,000 --> 00:33:21,533
+Did you honestly think I wouldn't expect you to follow?
+
+101
+00:33:22,166 --> 00:33:24,299
+That I didn't plan for it?
+
+102
+00:33:25,066 --> 00:33:27,666
+We've been at this a lot longer than you.
+
+103
+00:33:29,233 --> 00:33:30,299
+Kill him.
+
+104
+00:33:33,033 --> 00:33:38,266
+I know you're only doing as you're told,
+so if you release me I will spare your lives.
+
+105
+00:33:38,266 --> 00:33:40,333
+Ha! Listen to this—
+
+106
+00:37:23,300 --> 00:37:28,833
+EZIO: Vai, amico, libero da fardelli e paure
+(Go on, friend, unburdened and unafraid).
+
+107
+00:37:28,833 --> 00:37:30,833
+EZIO: Requiescat in pace.
+
+108
+00:38:47,666 --> 00:38:51,033
+The Pazzi are dead, every one of them.
+
+109
+00:38:51,033 --> 00:38:57,666
+I must admit, I've never before believed
+I could desire the death of others so badly.
+
+110
+00:38:57,666 --> 00:38:59,266
+Nor I.
+
+111
+00:38:59,266 --> 00:39:00,266
+Ezio.
+
+112
+00:39:01,466 --> 00:39:06,199
+Thank you for the role you've played
+in keeping this dream of mine alive a little longer.
+
+113
+00:39:06,199 --> 00:39:08,900
+L'onore è mio (The honour is mine), Signore.
+
+114
+00:39:08,900 --> 00:39:11,400
+What will you do now, figliolo (my boy)?
+
+115
+00:39:11,400 --> 00:39:13,833
+There are still others I must hunt, Signore.
+
+116
+00:39:13,833 --> 00:39:17,233
+They're already digging their claws into the heart of Venezia.
+
+117
+00:39:17,233 --> 00:39:20,500
+No! La Bella Venezia (beautiful Venice)…
+
+118
+00:39:21,733 --> 00:39:24,533
+Then that is where your journey must take you, Ezio.
+
+119
+00:39:24,533 --> 00:39:28,866
+Before you leave us, I have something for you. A gift.
+
+120
+00:39:30,266 --> 00:39:33,599
+This cape identifies you as a friend of the Medici.
+
+121
+00:39:33,866 --> 00:39:39,633
+As long as you wear it,
+the city guards will be more tolerant of your actions.
+
+122
+00:39:39,733 --> 00:39:44,066
+But be warned, it will not grant you immunity from the law.
+
+123
+00:39:48,466 --> 00:39:51,466
+Che la fortuna favorisca la tua lama
+(May fortune favour your blade).
+
+124
+00:42:42,866 --> 00:42:45,333
+Leonardo. Leonardo!
+
+125
+00:42:46,233 --> 00:42:49,066
+Mi dispiace, Messere (I am sorry, sir), but he is gone.
+
+126
+00:42:49,066 --> 00:42:53,533
+Maestro Leonardo was commissioned
+by a Venetian noble to paint some portraits.
+
+127
+00:42:53,533 --> 00:42:57,666
+He paid for the maestro
+to move his entire workshop to Venezia.
+
+128
+00:42:57,666 --> 00:42:58,933
+It's quite an opportunity.
+
+129
+00:42:58,933 --> 00:43:00,800
+Grazie mile (Thanks a lot), friend.
+
+130
+00:44:25,433 --> 00:44:26,766
+EZIO: Buon giorno.
+
+131
+00:44:27,466 --> 00:44:31,033
+ARCHITECT: Salute, Ser Ezio. Shall we take a look at the list?
+
+
+132
+00:44:58,033 --> 00:44:59,333
+ARCHITECT: Buon viaggio!
+
+133
+00:48:37,466 --> 00:48:39,133
+Leonardo!
+
+134
+00:48:39,133 --> 00:48:45,300
+Ezio? What luck! I er … have run into a bit of trouble.
+
+135
+00:48:45,966 --> 00:48:47,333
+EZIO: Let me see if I can help.
+
+136
+00:48:47,333 --> 00:48:50,099
+LEONARDO: I know how to fix it, but lack the means to do so.
+
+137
+00:48:50,099 --> 00:48:52,033
+LEONARDO: If you could just lift the wagon…
+
+138
+00:48:58,466 --> 00:48:59,500
+What is this thing?
+
+139
+00:48:59,500 --> 00:49:00,333
+LEONARDO: Eh?
+
+140
+00:49:00,333 --> 00:49:02,066
+It looks like a giant bat.
+
+141
+00:49:02,066 --> 00:49:05,000
+Oh nothing, just an idea I've been working on.
+
+142
+00:49:05,000 --> 00:49:06,633
+I could not leave it behind.
+
+143
+00:49:07,766 --> 00:49:08,800
+What is it for?
+
+144
+00:49:08,800 --> 00:49:11,566
+Well, I shouldn't really talk about it.
+
+145
+00:49:12,000 --> 00:49:15,866
+Ehi, al diavolo (the hell with it), I can't hold it in anymore!
+
+146
+00:49:15,900 --> 00:49:21,533
+Ezio, I think I figured out how to make a man fly!
+
+147
+00:49:21,533 --> 00:49:25,599
+[laughs] Come on, I'll drive.
+
+148
+00:49:25,599 --> 00:49:28,199
+LEONARDO: But I haven't even told you where I'm going?
+
+149
+00:49:43,933 --> 00:49:47,900
+Venezia, such a beautiful city, so many sources of inspiration.
+
+150
+00:49:47,900 --> 00:49:50,599
+Ponte de Rialto, Piazzo San Marco, L'Arsenale–
+
+151
+00:49:50,599 --> 00:49:51,900
+EZIO: Ssh!
+LEONARDO: What's wrong?
+
+152
+00:49:51,900 --> 00:49:53,300
+We're not alone.
+
+153
+00:49:56,000 --> 00:49:57,800
+What's happening? Who are they?
+
+154
+00:49:57,800 --> 00:49:59,400
+Rodrigo Borgia's men.
+
+155
+00:49:59,400 --> 00:50:01,333
+Why, what do they want with us?
+
+156
+00:50:01,900 --> 00:50:03,533
+I think they want us dead.
+
+157
+00:50:04,099 --> 00:50:05,500
+Leonardo, hide!
+
+158
+00:51:19,966 --> 00:51:22,833
+EZIO: Hold on tight, it's going to be a little rough!
+
+159
+00:52:48,033 --> 00:52:50,900
+LEONARDO: Hold on, Ezio! We're almost there!
+
+160
+00:53:08,333 --> 00:53:12,099
+Go, Leonardo! They're here for me, not you.
+
+161
+00:53:12,099 --> 00:53:13,699
+I'll catch up with you later.
+

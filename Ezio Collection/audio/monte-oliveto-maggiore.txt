@@ -1,0 +1,17 @@
+<speak>
+
+<p>
+  Founded in 1313 by Bernardo Tolomei, the monastery of Monte Oliveto Maggiore
+  is Benedictine in practice. Benedictine monks are the most mainstream,
+  practicing “peace, prayer, and work,” while living in autonomous communities
+  with their own local government.
+</p>
+
+<p>
+  Monte Oliveto Maggiore owned most of the land in the Siena region, so having
+  its own private government would come in handy when dealing with such
+  riches, as would a good lawyer. Fortunately, Bernardo Tolomei was a jurist,
+  leaving the monastery in a very lucrative state by the time he died.
+</p>
+
+</speak>
