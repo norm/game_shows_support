@@ -32,6 +32,7 @@ function backup_to_local_disk {
 
     [ -n "${DRY_RUN:-}" ] && dryrun='-n'
 
+    status "== {cyan}backup Game Shows"
     chmod -R u+rw "$BACKUP_DIR/.git"   # no idea why this keeps happening
     rsync \
         $dryrun \
@@ -44,6 +45,7 @@ function backup_to_local_disk {
         "$BACKUP_DIR/."
 
     # backup Davinci Resolve
+    status "== {cyan}backup Davinci Resolve"
     rsync \
         $dryrun \
         --archive \
@@ -64,6 +66,7 @@ function backup_to_local_disk {
     git status -bs > $backup_status
     _popd
 
+    status "== {cyan}git diff"
     colordiff -u <(git status -bs) $backup_status \
         || true
 }
@@ -142,12 +145,16 @@ export PATH="$PWD/bin:$PATH"
 
 case "${1:-all}" in
     full_backup)
+        status -l "== {bold}{yellow}local_backup"
         backup_to_local_disk
+        status -l "== {bold}{yellow}s3_backup"
         backup_to_s3
         ;;
 
     quick_backup|backup)
+        status -l "== {bold}{yellow}local_backup"
         backup_to_local_disk
+        status -l "== {bold}{yellow}s3_backup"
         backup_to_s3 quick
         ;;
 
