@@ -120,8 +120,7 @@ fi
 
 export BACKUP_BASE='/Volumes/verne/video'
 export BACKUP_DIR="$BACKUP_BASE/Game Shows"
-export CAPTURE_DIR='Movies'
-export CAPTURE_HOST='portsider'
+export CAPTURE_DIR="$HOME/Movies"
 export GAME_SHOW_NAME="$show"
 export S3_BUCKET=gameshows.m17s.net
 export S3_BUCKET_DIR="Game Shows/$show"

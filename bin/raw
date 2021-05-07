@@ -1,12 +1,13 @@
 #!/usr/bin/env bash -euo pipefail
 #
-# Collect the raw footage from the capture laptop.
+# Collect the raw footage.
 
-mapfile -t captures < \
-    <( ssh ${CAPTURE_HOST} ls ${CAPTURE_DIR}/\*mkv 2>/dev/null )
+mapfile -t captures < <(ls "$CAPTURE_DIR/"*mkv 2>/dev/null)
 
 for capture in "${captures[@]}"; do
     file="$(basename "$capture")"
+    [ "$file" = '*mkv' ] && break
+
     escaped="$(echo "$capture" | sed -e 's/ /\\ /g')"
     status "++ {green}$file"
     if [ -z "${DRY_RUN:-}" ]; then
@@ -15,7 +16,7 @@ for capture in "${captures[@]}"; do
             --times \
             --partial \
             --info=progress \
-                "${CAPTURE_HOST}:$escaped" \
+                "${escaped}" \
                 raw/
     fi
 done

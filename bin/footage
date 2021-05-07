@@ -1,7 +1,7 @@
 #!/usr/bin/env bash -euo pipefail
 #
 # Generate files from the raw captures (mkv) which is usable in Davinci
-# Resolve (mp4), adjusting the volume up to a sensible working level.
+# Resolve (mp4).
 #
 # For each new piece of footage, create a text file for capturing the
 # contents of the footage for later reference, and a Things task to
@@ -23,7 +23,6 @@ for mkv in raw/*mkv; do
             -stats \
             -i "$mkv" \
             -vcodec copy \
-            -filter:a "volume=15dB" \
             "$mp4"
 
         # create annotation files for each video, and open

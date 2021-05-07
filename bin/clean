@@ -2,26 +2,25 @@
 #
 # Clean the raw footage from the capture laptop.
 
-mapfile -t captures < \
-    <( ssh ${CAPTURE_HOST} ls ${CAPTURE_DIR}/\*mkv 2>/dev/null )
+mapfile -t captures < <(ls "$CAPTURE_DIR/"*mkv 2>/dev/null)
 
 for capture in "${captures[@]}"; do
     file="$(basename "$capture")"
-    if [ -f "$BACKUP_DIR/$GAME_SHOW_NAME/raw/$file" ]; then
-        status -- "-- {cyan}removing $file"
-        if [ -z "${DRY_RUN:-}" ]; then
-            ssh ${CAPTURE_HOST} "rm '$capture'"
-            rm "raw/$file"
-        fi
+    remove=0
+
+    if [ "${1:-}" = 'force' ]; then
+        status -- "-- {cyan}removing $file (forced)"
+        remove=1
     else
-        if [ "${1:-}" = 'force' ]; then
-            status -- "-- {cyan}removing $file (forced)"
-            if [ -z "${DRY_RUN:-}" ]; then
-                ssh ${CAPTURE_HOST} "rm '$capture'"
-                rm -f "raw/$file"
-            fi
+        if [ -f "$BACKUP_DIR/$GAME_SHOW_NAME/raw/$file" ]; then
+            status -- "-- {cyan}removing $file"
+            remove=1
         else
             status "** {magenta}{bold}$file not removed; not in local backup"
         fi
+    fi
+
+    if [ $remove = 1 -a -z "${DRY_RUN:-}" ]; then
+        rm -f "${CAPTURE_DIR}/$file" "raw/$file"
     fi
 done
