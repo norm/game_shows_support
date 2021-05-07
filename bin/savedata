@@ -17,6 +17,7 @@ dryrun=''
 
 case "$1" in
     backup)
+        mkdir -p saves/$2
         rsync $dryrun -avP /Volumes/$USB_DRIVE/$USB_DIR/. saves/$2/.
         git add saves/$2
         ;;
