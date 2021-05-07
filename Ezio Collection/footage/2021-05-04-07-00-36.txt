@@ -1,0 +1,12 @@
+0:00:10,asv,Evasive Maneuvers (x2)
+0:06:27,sv,Evasive Maneuvers
+0:17:00,asv,Come Out And Play
+0:18:30,av,Come Out And Play
+0:20:28,av,Come Out And Play (Baroncelli's speech)
+0:23:32,as,Come Out And Play (climb tower)
+0:25:49,sv,Come Out And Play
+0:37:30,g,Torre del Diavolo
+0:41:28,g,Santa Maria Assunta
+0:46:07,asv,Town Crier
+0:47:40,av,Town Crier
+0:49:15,av,Town Crier (Maffei's speech)

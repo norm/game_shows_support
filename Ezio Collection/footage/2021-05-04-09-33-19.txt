@@ -1,0 +1,14 @@
+0:00:01,as,Town Crier (up to glyph)
+0:04:43,asv,Town Crier
+0:05:37,asv,Town Crier
+0:11:51,g,Torri dei Salvucci
+0:15:27,asv,Town Crier (end)
+0:19:40,sv,Town Crier
+0:28:30,sv,Town Crier
+0:42:45,asv,The Cowl Does Not Make The Monk
+0:43:40,d,Monte Oliveto Maggiore
+0:45:45,d,Torre Grossa
+0:46:11,d,Santa Maria Assunta
+0:46:38,d,Torri dei Salvucci
+0:47:42,d,Torre del Diavolo
+0:48:25,d,Torre Rognosa

@@ -1,0 +1,4 @@
+0:00:10,d,Palazzo Medici
+0:01:17,d,Antico Teatro Romano
+0:02:00,d,Villa Salviati
+0:02:45,d,Monte Oliveto Maggiore
