@@ -33,7 +33,10 @@ function backup_to_local_disk {
     [ -n "${DRY_RUN:-}" ] && dryrun='-n'
 
     chmod -R u+rw "$BACKUP_DIR/.git"   # no idea why this keeps happening
-    rsync $dryrun -avP --inplace \
+    rsync \
+        $dryrun \
+        --archive \
+        --info=name,progress \
         --exclude "*/cache" \
         --exclude "*/support" \
         --exclude "*/*.m4v" \
@@ -41,10 +44,16 @@ function backup_to_local_disk {
         "$BACKUP_DIR/."
 
     # backup Davinci Resolve
-    rsync $dryrun -avP \
+    rsync \
+        $dryrun \
+        --archive \
+        --info=name,progress \
         "$HOME/Library/Application Support/Blackmagic Design/DaVinci Resolve/." \
         "$BACKUP_BASE"/resolve-backups/application-support/.
-    rsync $dryrun -avP \
+    rsync \
+        $dryrun \
+        --archive \
+        --info=name,progress \
         "$HOME/Library/Preferences/Blackmagic Design/DaVinci Resolve/." \
         "$BACKUP_BASE"/resolve-backups/preferences/.
 
