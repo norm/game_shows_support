@@ -71,9 +71,5 @@ for seq in $(seq 1 99); do
         aws s3 cp "$job_file" "support/$transcript"
         aws s3 rm "$job_file"
         transcript_to_captions "support/$transcript" > "$captions"
-        git add "$captions"
-        git commit -m"Add draft captions for ${captions%%.srt}"
-        subl "$captions"
-        play "$video"
     done
 done
