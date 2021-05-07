@@ -141,7 +141,12 @@ export TV_LOCATION="/files/tv/$(echo "$show" | sed -e 's/ /\\ /g')/Season\ 1"
 export PATH="$PWD/bin:$PATH"
 
 case "${1:-all}" in
-    quick_backup)
+    full_backup)
+        backup_to_local_disk
+        backup_to_s3
+        ;;
+
+    quick_backup|backup)
         backup_to_local_disk
         backup_to_s3 quick
         ;;
