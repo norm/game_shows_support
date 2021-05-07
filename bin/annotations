@@ -4,10 +4,15 @@
 #     re-edit annotations one by one, in newest-first order
 #
 # Usage:
-#     annotations [empty | glob*]
+#     annotations [-n] [empty | glob*]
+#
+#        -n   don't wait for the text editor to close
 #
 #     empty   only edit unfinished annotation files
 #     glob*   only edit annotations that match the provided filename pattern
+
+wait=1
+[ "${1:-}" = '-n' ] && { wait=0; shift; }
 
 footage=(footage/*mp4)
 for ((i=${#footage[@]}-1; i>=0; i--)); do
@@ -35,8 +40,12 @@ for ((i=${#footage[@]}-1; i>=0; i--)); do
     status "++ {yellow}$notes ($(duration "$mp4"))"
     [ -n "${DRY_RUN:-}" ] && continue
 
+    args=''
     play "$mp4"
-    subl --new-window --wait "$notes"
+    [ $wait = 1 ] \
+        && args='--new-window --wait' \
+        || sleep 1
+    subl $args "$notes"
 
     cmp --silent footage/template.txt "$notes" \
         || git add "$notes"
