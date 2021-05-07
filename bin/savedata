@@ -16,11 +16,18 @@ dryrun=''
 [ -n "${DRY_RUN:-}" ] && dryrun='-n'
 
 case "$1" in
-    backup)     rsync $dryrun -avP /Volumes/$USB_DRIVE/$USB_DIR/. saves/$2/.
-                git add saves/$2
-                ;;
-    restore)    rsync $dryrun -avP saves/$2/. /Volumes/$USB_DRIVE/$USB_DIR/.
-                ;;
-    list)       ls -l saves
-                ;;
+    backup)
+        rsync $dryrun -avP /Volumes/$USB_DRIVE/$USB_DIR/. saves/$2/.
+        git add saves/$2
+        ;;
+    restore)
+        rsync $dryrun -avP saves/$2/. /Volumes/$USB_DRIVE/$USB_DIR/.
+        ;;
+    list)
+        ls -l saves
+        ;;
+    *)
+        echo Unknown argument: "$1"
+        exit 2
+        ;;
 esac
