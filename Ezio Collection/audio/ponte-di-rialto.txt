@@ -1,0 +1,17 @@
+<speak>
+
+<p>
+  The oldest, and the most famous bridge in Venice, the Rialto is the
+  dividing line between the districts of San Marco and San Polo. The bridge is
+  notable not only for the size of its large arch, but also for its main
+  walkway lined with shops and stalls, which was a vibrant strolling and
+  meeting place for the community around it.
+</p>
+
+<p>
+  Contrast that with today’s Rialto, where crowd of tourists fight over cheap
+  knockoffs of Venetian glass while some idiot attempts to spit off the edge
+  of the bridge onto passing boats. Ah, modernity.
+</p>
+
+</speak>

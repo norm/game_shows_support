@@ -1,0 +1,22 @@
+<speak>
+
+<p>
+  Venice is situated on a series of islands surrounded by a lagoon, requiring
+  travellers arriving or departing to take a traghetti (ferry). Traghetti come
+  in all sizes, from the small ferries that shuttle people around the city to
+  large ships that carry passengers to and from the mainland.
+</p>
+
+<p>
+  Traghetto stations were run by guilds, which enacted all kinds of laws to
+  make sure that only the most connected members had the lucrative privilege
+  of working at a station.
+</p>
+
+<p>
+  Each station had its own rules, which could range from allowing only people
+  40 years of age and older to work there, to forcing pilots to only carry 10
+  passengers per ship.
+</p>
+
+</speak>

@@ -1,0 +1,15 @@
+<speak>
+
+<p>
+  Built by Franciscan monks, Santa Maria Gloriosa dei Frari (The Frari for
+  short) is the second largest church in Venice. Following the guidelines of
+  St Francis, who advocated poverty, the church has very basic exterior
+  decoration.
+</p>
+
+<p>
+  It is rumored that in the 15th century, the Frari housed a hidden tomb,
+  which has since collapsed.
+</p>
+
+</speak>

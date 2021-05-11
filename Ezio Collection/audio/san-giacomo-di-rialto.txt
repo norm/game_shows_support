@@ -1,0 +1,19 @@
+<speak>
+
+<p>
+  Originally founded in 4 21, San Giacomo is believed to be the oldest church
+  in Venice, although the current building was constructed around 10 71.
+</p>
+
+<p>
+  The 15th Century facade is crowned with a magnificent 24-hour celestial
+  clock. During the Renaissance, the church was typically used by the
+  merchants in the nearby market as a place to stop and pray during the
+  workday.
+</p>
+
+<p>
+  At least, that's what they told their wives.
+</p>
+
+</speak>

@@ -1,0 +1,14 @@
+0:00:35,d,Gilda dei Ladri di Venezia
+0:01:25,d,Ponte di Rialto
+0:02:04,d,San Giacomo di Rialto
+0:02:56,d,Palazzo della Seta
+0:03:21,d,Bottega di Leonardo a Venezia
+0:03:58,d,Emilio Barbarigo
+0:04:40,d,Santa Maria Gloriosa dei Frari
+0:05:17,d,Rosa
+0:06:20,d,Venezia
+0:09:32,d,Fast Travel Station
+0:10:45,d,Alvise da Vilandino
+0:11:28,d,Caterina Sforza
+0:14:49,d,Avamposto Veneziano
+0:16:00,sv,Building Blocks

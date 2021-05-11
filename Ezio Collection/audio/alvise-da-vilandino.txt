@@ -1,0 +1,24 @@
+<speak>
+
+<p>
+  Date of Birth: 14 41, Profession: Baggage Handler.
+</p>
+
+<p>
+  A Venetian native, Alvise worked as a baggage handler for several years,
+  until, convinced of Venice's superiority, he enlisted in the navy. In 1500,
+  he was tasked with defending the fortress of Modon from the Turks.
+</p>
+
+<p>
+  After a heavy night of drinking, Alvise awoke to Turkish cannon fire
+  bombarding the town. Panicking while running across the deck, he tripped,
+  hit his head, and drowned.
+</p>
+
+<p>
+  When it became clear Venice had lost the battle, he was accused of
+  negligence by the ship's captain and erased from the logs of the navy.
+</p>
+
+</speak>

@@ -1,0 +1,26 @@
+<speak>
+
+<p>
+  Date of Birth: 14 60, Profession: Thief.
+</p>
+
+<p>
+  The child of an unknown Venetian nobleman and a prostitute, Rosa grew up on
+  her own in the streets of Venice. In 1475, she attempted to pickpocket the
+  leader of the Venetian Thieves Guild and was caught red-handed. But,
+  Antonio, instead of reporting her to the police, took her on as a pupil.
+</p>
+
+<p>
+  He kept several logs of her training, noting that her ability to leap up
+  from the street to seemingly unreachable windowsills "was unprecedented".
+</p>
+
+<p>
+  In terms of her social skills, her vocabulary was "colourful to say the
+  least". Apparently, she could also hold her own in a fight. Antonio writes
+  that "the last of my thieves who tried to kiss her escaped with most of
+  his mouth intact".
+</p>
+
+</speak>

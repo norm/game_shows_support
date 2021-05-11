@@ -1,0 +1,14 @@
+<speak>
+
+<p>
+  Established sometime around 14 65, the Venetian Thieves Guild, due to its
+  illegality, had no permanent headquarters.
+</p>
+
+<p>
+  Although efforts were made by the magistrates to crack down on thievery,
+  accused culprits never seemed to be around when the city guard went
+  searching for them.
+</p>
+
+</speak>

@@ -1,0 +1,17 @@
+<speak>
+
+<p>
+  During his brief stay in Venice, Leonardo da Vinci was a paid military
+  engineer for the Venetian army, and claimed to be working on a painting of
+  the famous Isabella d’Este, of whom he had made a cartoon while visiting
+  Mantua. Despite promising her repeatedly that he was hard at work, no
+  painting ever materialized.
+</p>
+
+<p>
+  Although many history books claim Leonardo only visited Venice once, it
+  seems that he used his workshop there as a sort of secret retreat, returning
+  to it repeatedly during his life.
+</p>
+
+</speak>
