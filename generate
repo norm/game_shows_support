@@ -117,7 +117,7 @@ esac
 if [ "${2:-}" = 'help' ]; then
     cat bin/$1 \
         | awk '
-            /env.bash/{show=1; next}
+            /env.*bash/{show=1; next}
             /^[^#]/{show=0}
             show
           ' \
