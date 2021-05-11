@@ -44,6 +44,24 @@ function backup_to_local_disk {
         . \
         "$BACKUP_DIR/."
 
+    backup_davinci
+
+    # highlight any differences between the backup dir and the main dir
+    # (shows files that can be deleted from the backup, for example)
+    status "== {cyan}git diff"
+    backup_status=$(mktemp)
+    _pushd "$BACKUP_DIR"
+    git status -bs > $backup_status
+    _popd
+    colordiff -u <(git status -bs) $backup_status \
+        || true
+}
+
+function backup_davinci {
+    local dryrun=''
+
+    [ -n "${DRY_RUN:-}" ] && dryrun='-n'
+
     # backup Davinci Resolve
     status "== {cyan}backup Davinci Resolve"
     rsync \
@@ -58,17 +76,6 @@ function backup_to_local_disk {
         --info=name,progress \
         "$HOME/Library/Preferences/Blackmagic Design/DaVinci Resolve/." \
         "$BACKUP_BASE"/resolve-backups/preferences/.
-
-    # highlight any differences between the backup dir and the main dir
-    # (shows files that can be deleted from the backup, for example)
-    backup_status=$(mktemp)
-    _pushd "$BACKUP_DIR"
-    git status -bs > $backup_status
-    _popd
-
-    status "== {cyan}git diff"
-    colordiff -u <(git status -bs) $backup_status \
-        || true
 }
 
 function backup_to_s3 {
@@ -156,6 +163,10 @@ case "${1:-all}" in
         backup_to_local_disk
         status -l "== {bold}{yellow}s3_backup"
         backup_to_s3 quick
+        ;;
+
+    davinci_backup)
+        backup_davinci
         ;;
 
     local_backup)
