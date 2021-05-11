@@ -4,13 +4,14 @@ Capture chapter %d end card
 Edit chapter %d footage
 Add music to chapter %d
 Add any database entries found in chapter %d
-Render chapter %d
+Render chapter %d for captions
 Generate and edit chapter %d captions
-Double-check chapter %d footage
+Final render chapter %d
+Double-check chapter %d
 Create chapter %d thumbnail
 Upload chapter %d
 Set chapter %d details and end card positions
-Retime chapter %d captions 
+Final check of chapter %d captions 
 Publish chapter %d
 Add chapter %d to EC playlist
 Write detailed thread about chapter %d
