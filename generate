@@ -179,8 +179,6 @@ case "${1:-all}" in
 
     all)
         pushd "$show" >/dev/null
-        status "== {bold}{yellow}raw"
-        raw
         status -l "== {bold}{yellow}footage"
         footage
         status -l "== {bold}{yellow}annotations"

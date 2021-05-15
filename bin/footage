@@ -1,35 +1,34 @@
 #!/usr/bin/env bash -euo pipefail
 #
-# Generate files from the raw captures (mkv) which is usable in Davinci
-# Resolve (mp4).
+# Copy newly captured footage from the capture directory to the
+# project directory.
 #
 # For each new piece of footage, create a text file for capturing the
 # contents of the footage for later reference, and a Things task to
 # track whether or not this has been done.
 
-for mkv in raw/*mkv; do
-    [ ! -f "$mkv" ] && break
+mapfile -t captures < <(ls "$CAPTURE_DIR/"*mkv 2>/dev/null)
+for capture in "${captures[@]}"; do
+    file="$(basename "$capture")"
+    [ "$file" = '*mkv' ] && break
 
-    mp4="$( echo "$mkv" | sed -e 's/^raw/footage/' -e 's/.mkv/.mp4/')"
-    notes="$( echo "$mkv" | sed -e 's/^raw/footage/' -e 's/.mkv/.txt/')"
+    destination="footage/$file"
+    notes="$( echo "$destination" | sed -e 's/.mkv/.txt/')"
 
-    if [ ! -f "$mp4" ]; then
-        status "++ {green}$mp4 [$(duration "$mkv")]"
+    if [ ! -f "$destination" ]; then
+        status "++ {green}$file [$(duration "$capture")]"
         [ -n "${DRY_RUN:-}" ] && continue
 
-        # convert to mp4, boosting the volume
-        ffmpeg \
-            -loglevel error \
-            -stats \
-            -i "$mkv" \
-            -vcodec copy \
-            "$mp4"
+        escaped="$(echo "$capture" | sed -e 's/ /\\ /g')"
+        rsync \
+            --perms \
+            --times \
+            --partial \
+            --info=progress \
+                "${escaped}" \
+                footage/
 
-        # create annotation files for each video, and open
-        # the video and text as a prompt to fill it out
-        [ ! -f "$notes" ] && cat footage/template.txt > "$notes"
-        subl "$notes"
-        play "$mp4"
+        play "$destination"
 
         chose=0
         while [ $chose = 0 ]; do
@@ -38,10 +37,14 @@ for mkv in raw/*mkv; do
             echo -n $keeper
             case $keeper in
                 n|N)    chose=1
-                        rm "$mp4" "$notes" "$mkv"
+                        rm "$destination"
                         ;;
                 y|Y)    chose=1
-                        add_to_things "Properly annotate $(basename "$mp4")"
+                        if [ ! -f "$notes" ]; then
+                            cat footage/template.txt > "$notes"
+                            add_to_things "Properly annotate $file"
+                        fi
+                        subl "$notes"
                         git add "$notes"
                         ;;
                 *)      sleep 1

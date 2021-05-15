@@ -14,14 +14,14 @@
 wait=1
 [ "${1:-}" = '-n' ] && { wait=0; shift; }
 
-footage=(footage/*mp4)
+footage=(footage/*mp4 footage/*mkv)
 for ((i=${#footage[@]}-1; i>=0; i--)); do
     mp4="${footage[$i]}"
 
     # skip rendered maps
     [[ "$mp4" = footage/*Map\ Base* ]] && continue
 
-    notes="$( echo "$mp4" | sed -e 's/.mp4/.txt/')"
+    notes="$( echo "$mp4" | sed -e 's/.m[pk][4v]/.txt/')"
     [ ! -f "$notes" ] && cat footage/template.txt > "$notes"
 
     if [ "${1:-}" = empty ]; then
