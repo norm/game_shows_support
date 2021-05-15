@@ -1,0 +1,23 @@
+<speak>
+
+<p>
+  Constructed in the late 15th century as a display of Venice's wealth, the
+  Torre dell'Orologio displays the time of day, the current phase of the
+  moon, and for those of us who believe that all of human behaviour is
+  governed by little shapes in the stars, the dominant sign of the Zodiac.
+</p>
+
+<p>
+  According to legend, the designers of the clock face were blinded once their
+  work was complete, so they could never duplicate it elsewhere. While this is
+  probably bollocks, the designers did live inside the clock tower for the
+  rest of their lives to maintain it.
+</p>
+
+<p>
+  The Torre dell'Orologio ended up serving one very important practical
+  purpose; it was used by sailors in the nearby harbour to time their
+  departures with the tides.
+</p>
+
+</speak>

@@ -1,0 +1,1150 @@
+1
+00:00:23,266 --> 00:00:26,566
+Rescuing my brothers was more than just an act of charity, Ezio.
+
+2
+00:00:26,933 --> 00:00:30,333
+The men you've freed will play a vital role in the weeks to come.
+
+3
+00:00:30,466 --> 00:00:32,833
+Just ask for their help and they'll join you.
+
+4
+00:00:32,833 --> 00:00:35,066
+EZIO: And once I have my little band of thieves?
+
+5
+00:00:35,066 --> 00:00:38,700
+Send them towards a group of guards and they'll create a distraction.
+
+6
+00:00:38,700 --> 00:00:42,399
+EZIO: Opening the way for me, saves me from having to bloody my sword.
+
+7
+00:00:42,399 --> 00:00:43,666
+Exactly!
+
+8
+00:00:44,033 --> 00:00:45,966
+Now I'll tell you what to do with them.
+
+9
+00:00:46,366 --> 00:00:49,133
+Antonio's plan calls for a bit of deception.
+
+10
+00:00:49,433 --> 00:00:53,666
+We're to imitate his archers, which means we'll need the armour that they wear.
+
+11
+00:00:53,933 --> 00:00:59,366
+A shipment of this stuff has just been loaded into chests
+and now awaits delivery to Seta.
+
+12
+00:00:59,366 --> 00:01:02,266
+Loot the chests and retrieve the outfits.
+
+13
+00:01:02,733 --> 00:01:06,533
+When that's finished, I'll need you to
+fetch me a boat as well and bring it back here.
+
+14
+00:01:06,799 --> 00:01:09,799
+We'll use it to move our men into the Palazzo undetected.
+
+15
+00:01:09,799 --> 00:01:11,333
+EZIO: Consider it done.
+
+16
+00:11:53,733 --> 00:11:57,266
+UGO: Molto bene, Ezio, this is exactly what we needed.
+
+17
+00:11:57,399 --> 00:11:59,766
+UGO: I'll let Antonio know you've finished the job.
+
+18
+00:12:48,433 --> 00:12:49,833
+ANTONIO: Please enter.
+
+19
+00:12:53,700 --> 00:12:56,866
+Your good work has restored us to our former strength, Ezio.
+
+20
+00:12:56,866 --> 00:12:59,000
+We are ready to strike.
+
+21
+00:12:59,333 --> 00:13:03,000
+Just tell me what needs to be done, and I'll see that it is.
+
+22
+00:13:03,000 --> 00:13:05,666
+You'll approach from above under the cover of night.
+
+23
+00:13:05,666 --> 00:13:10,333
+Emilio has posted archers around the Palazzo. Kill them, but do so quietly.
+
+24
+00:13:10,333 --> 00:13:13,100
+As they fall, my men shall replace them.
+
+25
+00:13:13,100 --> 00:13:14,700
+EZIO: What about the guards?
+
+26
+00:13:14,700 --> 00:13:20,466
+When you've finished with the archers,
+we will regroup in front of this building here and discuss next steps.
+
+27
+00:13:20,466 --> 00:13:24,799
+EZIO: Nessun problema. I'll take care of the archers and return to you.
+
+28
+00:13:24,799 --> 00:13:29,133
+Then it's settled. In bocca al lupo (Into the wolf's mouth [good luck])!
+
+29
+00:13:29,133 --> 00:13:30,633
+Crepi il lupo (May the wolf die)!
+
+30
+00:17:46,566 --> 00:17:50,599
+Well done, Ezio. Everything is going according to plan.
+
+31
+00:17:51,833 --> 00:17:55,366
+ANTONIO: As we speak, my men are replacing the archers you've removed.
+
+32
+00:17:55,366 --> 00:17:57,766
+ANTONIO: The way to The Palazzo is clear now.
+
+33
+00:17:57,766 --> 00:18:02,033
+EZIO: But not the building itself, Emilio's guards still patrol its border.
+
+34
+00:18:02,033 --> 00:18:05,700
+Use my men, they can distract the guards.
+
+35
+00:18:05,700 --> 00:18:10,166
+And when it comes time to storm the place, remember what I've taught you.
+
+36
+00:18:10,166 --> 00:18:15,033
+Sii cauto (Take care), Ezio. We await word of your success.
+
+37
+00:20:01,900 --> 00:20:05,033
+CARLO: Your little house of cards is crumbling, Emilio.
+
+38
+00:20:05,033 --> 00:20:08,033
+EMILIO: A minor setback, it will be dealt with.
+
+39
+00:20:08,033 --> 00:20:09,833
+This povero scemo (poor fool) Antonio and his thieves—
+
+40
+00:20:09,833 --> 00:20:12,833
+CARLO: Never mind them, it's the Assassin you should be worried about.
+
+41
+00:20:12,833 --> 00:20:16,366
+EMILIO: Why, is–is he in Venezia?
+
+42
+00:20:16,366 --> 00:20:19,500
+CARLO: He's been here for weeks! How could you be so blind?
+
+43
+00:20:19,500 --> 00:20:22,099
+EMILIO: Unlike you, I've been busy.
+
+44
+00:20:22,099 --> 00:20:25,133
+EMILIO: Someone had to provide the weapons to our brothers in Firenze.
+
+45
+00:20:25,133 --> 00:20:27,966
+CARLO: Yes, and we all saw what good that did..
+
+46
+00:20:27,966 --> 00:20:31,299
+EMILIO: Enough with the barbs! What is it you want, Carlo?
+
+47
+00:20:31,299 --> 00:20:35,400
+CARLO: Maestro has called a meeting, three days from now at Santo Stefano.
+
+48
+00:20:35,400 --> 00:20:37,066
+EMILIO: Very well, I'll be there.
+
+49
+00:20:37,066 --> 00:20:39,633
+CARLO: Assuming you still live.
+
+50
+00:20:39,633 --> 00:20:45,900
+CARLO: If you want my advice, I'd find a less conspicuous place to wait.
+Seta is a target now.
+
+51
+00:20:45,900 --> 00:20:47,366
+EMILIO: Seta is a fortress!
+
+52
+00:20:47,366 --> 00:20:50,766
+CARLO: If you say so. Goodbye, Emilio.
+
+53
+00:20:51,166 --> 00:20:53,233
+EMILIO: Cazzo (Fuck), what if he's right?
+
+54
+00:20:53,233 --> 00:20:55,766
+EMILIO: You! Call for my boat, it should be close.
+
+55
+00:20:55,766 --> 00:21:00,333
+EMILIO: When it arrives load those crates and prepare to sail.
+I'll be right back.
+
+56
+00:21:01,066 --> 00:21:05,733
+EMILIO: If Carlo speaks true, I must find a place to hide,
+just until the meeting.
+
+57
+00:21:05,733 --> 00:21:08,333
+EMILIO: Then we'll deal with the Assassin.
+
+58
+00:21:08,333 --> 00:21:10,533
+EMILIO: He must be working with Antonio.
+
+59
+00:21:10,533 --> 00:21:12,233
+EMILIO: That means the attacks…
+
+60
+00:21:12,233 --> 00:21:15,633
+EMILIO: No! I've worked too hard for this.
+
+61
+00:21:50,000 --> 00:21:51,933
+EMILIO: Don't they understand?
+
+62
+00:21:51,933 --> 00:21:54,866
+EMILIO: There's so much less crime, the people have better lives!
+
+63
+00:21:54,866 --> 00:21:57,900
+EMILIO: So some must leave, it is the price of progress.
+
+64
+00:21:57,900 --> 00:22:01,900
+EMILIO: Why must the Assassins always interfere, like Giovanni?
+
+65
+00:22:01,900 --> 00:22:04,933
+EMILIO: If he had just left well enough alone.
+
+66
+00:22:14,066 --> 00:22:16,166
+EMILIO: Guardia! Guardia!
+
+67
+00:22:22,166 --> 00:22:27,733
+SHAUN: Emilio Barbarigo. Titan of Venetian industry, terror of the underworld.
+
+68
+00:22:27,733 --> 00:22:32,799
+SHAUN: Aided by his powerful family,
+he cornered the market through smart business practises,
+
+69
+00:22:32,799 --> 00:22:37,000
+SHAUN: …such as edging out the competition and lobbying the government.
+
+70
+00:22:37,000 --> 00:22:40,666
+SHAUN: He funded the Venetian police force almost single-handedly.
+
+71
+00:22:40,666 --> 00:22:45,066
+SHAUN: Keeping the streets safe from crime and his finances tax free.
+
+72
+00:22:45,066 --> 00:22:48,000
+SHAUN: Emilio claims to be a supporter of the Republic.
+
+73
+00:22:48,000 --> 00:22:53,366
+SHAUN: The problem is, once you own the police force,
+voting becomes, well… inefficient.
+
+74
+00:22:53,366 --> 00:22:56,799
+SHAUN: As does, you know, opposition.
+
+75
+00:22:59,033 --> 00:23:01,066
+EZIO: Do not be afraid.
+
+76
+00:23:01,066 --> 00:23:04,900
+EMILIO: I feel no fear, Assassin, only regret.
+
+77
+00:23:05,666 --> 00:23:10,833
+EMILIO: I sought unity, stability, order.
+
+78
+00:23:11,500 --> 00:23:13,733
+EZIO: At too great a cost.
+
+79
+00:23:13,733 --> 00:23:17,066
+EMILIO: Progress demands sacrifice.
+
+80
+00:23:17,066 --> 00:23:22,766
+EZIO: Non trovo alcuna gioia in questo, ma non c'e altro modo
+(I take no joy in this, but I see no other way).
+
+81
+00:23:22,766 --> 00:23:25,166
+EZIO: Requiescat in pace.
+
+82
+00:23:35,033 --> 00:23:37,900
+Sorry, they couldn't resist.
+
+83
+00:23:45,099 --> 00:23:48,066
+Seta is fallen and Emilio is no more.
+
+84
+00:23:48,066 --> 00:23:50,366
+All thanks to you, Ezio.
+
+85
+00:23:50,366 --> 00:23:53,099
+Go! Tear down Emilio's banners.
+
+86
+00:23:53,099 --> 00:23:55,400
+Return what he has stolen from the people.
+
+87
+00:23:59,266 --> 00:24:05,000
+Tell me, Ezio, how can I repay you for your service?
+
+88
+00:24:05,000 --> 00:24:06,633
+EZIO: Money's always nice.
+
+89
+00:24:06,633 --> 00:24:08,033
+ANTONIO: Easy enough.
+
+90
+00:24:10,700 --> 00:24:11,900
+ANTONIO: What else?
+
+91
+00:24:12,633 --> 00:24:15,133
+Emilio was meeting with a man named Carlo.
+
+92
+00:24:15,133 --> 00:24:18,299
+He looked to be a government official. Do you know him?
+
+93
+00:24:18,299 --> 00:24:21,799
+Carlo Grimaldi. He sits on the Council of Ten.
+
+94
+00:24:21,799 --> 00:24:24,700
+Why do you ask, what are you up to?
+
+95
+00:24:25,700 --> 00:24:27,833
+I have a meeting to attend.
+
+96
+00:27:09,033 --> 00:27:10,200
+SILVIO: Where is Emilio?
+
+97
+00:27:10,200 --> 00:27:12,099
+CARLO: I told him to be here.
+
+98
+00:27:12,166 --> 00:27:14,033
+You told him yourself? In person?
+
+99
+00:27:14,366 --> 00:27:16,599
+Yes, myself in person.
+
+100
+00:27:17,200 --> 00:27:19,133
+I'm concerned that you don't trust me.
+
+101
+00:27:19,966 --> 00:27:21,400
+As am I.
+
+102
+00:27:23,266 --> 00:27:25,200
+Perhaps he'll arrive with the others.
+
+103
+00:27:25,266 --> 00:27:26,266
+Walk with me.
+
+104
+00:27:35,466 --> 00:27:38,366
+SILVIO: So, how go things in the palace?
+
+105
+00:27:38,366 --> 00:27:40,599
+CARLO: Honestly, it's difficult.
+
+106
+00:27:40,900 --> 00:27:42,966
+CARLO: Mocenigo keeps his circle close.
+
+107
+00:27:43,633 --> 00:27:49,766
+CARLO: I've tried to lay the groundwork, making suggestions,
+but he has other voices at his ears.
+
+108
+00:27:49,766 --> 00:27:53,266
+SILVIO: Then you must work hard, you must become part of his inner circle.
+
+109
+00:27:53,366 --> 00:27:57,766
+CARLO: Si, I understand, but it's harder than I expected.
+
+110
+00:27:57,766 --> 00:27:59,633
+SILVIO: And why is that, Carlo?
+
+111
+00:27:59,966 --> 00:28:01,833
+CARLO: I don't know! He just…
+
+112
+00:28:02,366 --> 00:28:04,400
+CARLO: The Doge doesn't like me.
+
+113
+00:28:05,366 --> 00:28:07,133
+SILVIO: I wonder why.
+
+114
+00:28:08,099 --> 00:28:11,633
+CARLO: It's not my fault! I keep trying to please him.
+
+115
+00:28:11,633 --> 00:28:14,033
+CARLO: I learn what he craves and I have it delivered.
+
+116
+00:28:14,033 --> 00:28:16,900
+CARLO: The finest jams from the orchards of Sardinia.
+
+117
+00:28:16,900 --> 00:28:18,833
+CARLO: The newest fashions from Milano.
+
+118
+00:28:19,099 --> 00:28:21,799
+SILVIO: Yes, and that's called being a sycophant.
+
+119
+00:28:22,633 --> 00:28:25,133
+CARLO: A what? What did you call me?!
+
+120
+00:28:25,133 --> 00:28:28,433
+SILVIO: A doormat. A flatterer. A bootlicker!
+
+121
+00:28:28,433 --> 00:28:29,933
+CARLO: Need I go on?
+
+122
+00:28:31,533 --> 00:28:34,200
+CARLO: Bastardo! You don't know what it's like.
+
+123
+00:28:34,200 --> 00:28:36,466
+CARLO: You don't understand the pressure in there.
+
+124
+00:28:36,466 --> 00:28:38,466
+SILVIO: Oh, I don't understand pressure?!
+
+125
+00:28:40,833 --> 00:28:42,400
+CARLO: No, you have no idea!
+
+126
+00:28:42,400 --> 00:28:44,500
+CARLO: You are a government official!
+
+127
+00:28:44,500 --> 00:28:47,099
+CARLO: I am two steps from the Doge himself!
+
+128
+00:28:47,099 --> 00:28:49,500
+CARLO: I am beside him day and night!
+
+129
+00:28:49,500 --> 00:28:51,866
+CARLO: You wish you could be where I am!
+
+130
+00:28:52,633 --> 00:28:55,333
+SILVIO: Are you done?
+
+131
+00:28:55,333 --> 00:28:57,833
+CARLO: Hardly! You listen to me now.
+
+132
+00:28:58,833 --> 00:29:04,700
+CARLO: I am close. The Doge can be recruited to our cause, I am sure of it!
+
+133
+00:29:05,166 --> 00:29:08,433
+CARLO: I just… I need a little more time.
+
+134
+00:29:08,799 --> 00:29:11,700
+SILVIO: Time is not a thing we have in great supply.
+
+135
+00:29:32,033 --> 00:29:35,633
+CARLO: My feet are killing me! Can we sit down inside somewhere?
+
+136
+00:29:35,633 --> 00:29:39,633
+SILVIO: Do you know anywhere truly safe to discuss things such as these?
+
+137
+00:29:59,266 --> 00:30:02,266
+MARCO: Buon giorno (Good day), cousin. Signor Carlo.
+
+138
+00:30:02,266 --> 00:30:03,966
+We thought Emilio would be with you.
+
+139
+00:30:03,966 --> 00:30:05,400
+MARCO: Emilio is dead.
+
+140
+00:30:05,400 --> 00:30:06,833
+What?! How?
+
+141
+00:30:07,599 --> 00:30:12,900
+The Assassin! The same one who hunted down the Pazzi. He's here, in Venezia.
+
+142
+00:30:12,900 --> 00:30:16,000
+MARCO:  È così (It is so). Silvio, did you not know?
+
+143
+00:30:17,366 --> 00:30:21,433
+CARLO: He could be anywhere.
+He could be here right now and we might not even know.
+
+144
+00:30:21,799 --> 00:30:25,366
+He struck Emilio inside his own palazzo.
+
+145
+00:30:25,366 --> 00:30:27,633
+And so, what of our plans?
+
+146
+00:30:27,666 --> 00:30:32,066
+There is no longer time for subtlety, my brothers. We must act now.
+
+147
+00:30:32,066 --> 00:30:35,966
+But Marco, I'm so close. A few more days. If I can just—
+
+148
+00:30:35,966 --> 00:30:38,833
+No! It happens this week.
+
+149
+00:30:40,033 --> 00:30:42,033
+DANTE: We should keep moving.
+
+150
+00:30:42,366 --> 00:30:45,233
+SILVIO: What does the Spaniard have to say to this change of plan?
+
+151
+00:30:45,299 --> 00:30:48,066
+MARCO: You can ask him yourself soon enough.
+
+152
+00:30:48,066 --> 00:30:50,333
+CARLO: He's here? From Roma?
+
+153
+00:30:50,333 --> 00:30:51,799
+MARCO: So I've heard.
+
+154
+00:30:51,799 --> 00:30:54,599
+SILVIO: Good, then perhaps he's made a decision.
+
+155
+00:30:54,599 --> 00:30:58,500
+MARCO: About what, cousin?
+
+156
+00:31:00,166 --> 00:31:03,966
+SILVIO: About which of us shall step into the role of the Doge.
+
+157
+00:31:07,033 --> 00:31:10,166
+MARCO: I didn't know there was a decision to be made.
+
+158
+00:31:10,366 --> 00:31:13,366
+MARCO: Surely the choice is obvious to all.
+
+159
+00:31:13,366 --> 00:31:18,333
+SILVIO: Obvious indeed. It should be the one who organised the entire operation.
+
+160
+00:31:18,333 --> 00:31:22,200
+SILVIO: The one who came up with the idea of how to save this city.
+
+161
+00:31:24,000 --> 00:31:28,566
+MARCO: There is no lack of value in tactical intelligence, good Silvio.
+
+162
+00:31:28,566 --> 00:31:34,766
+MARCO: But it is wisdom one needs to rule, do not think otherwise.
+
+163
+00:31:34,900 --> 00:31:39,500
+CARLO: Calma, calma, amici (calm, calm, friends). There is no need for this.
+
+164
+00:31:39,500 --> 00:31:41,700
+CARLO: You know it's not up to either of you.
+
+165
+00:31:41,700 --> 00:31:45,633
+CARLO: For all we know, he may not even choose a Barbarigo.
+
+166
+00:31:45,833 --> 00:31:49,633
+MARCO, SILVIO: [laugh]
+
+167
+00:31:50,900 --> 00:31:54,633
+CARLO: Why not me? I'm the one who's done all the hard work!
+
+168
+00:31:55,233 --> 00:31:58,133
+MARCO: Basta (Enough)! We wait for his arrival.
+
+169
+00:31:58,133 --> 00:32:00,000
+CARLO: Are you sure he's coming?
+
+170
+00:32:01,700 --> 00:32:02,666
+MARCO: Yes!
+
+171
+00:32:05,666 --> 00:32:12,000
+DANTE: Signori, we should move a little faster. I feel eyes on us.
+
+172
+00:32:12,000 --> 00:32:15,766
+MARCO: Thank you, Dante. We will move at your pace.
+
+173
+00:32:17,900 --> 00:32:22,066
+SILVIO: This guard's a good find, cousin. How much did you pay for him?
+
+174
+00:32:23,033 --> 00:32:25,500
+MARCO: Perhaps not as much as he deserves.
+
+175
+00:32:25,500 --> 00:32:27,933
+MARCO: He's saved my life on two occasions.
+
+176
+00:32:27,933 --> 00:32:30,566
+MARCO: Though he's not much of a conversationalist.
+
+177
+00:32:31,400 --> 00:32:33,700
+Enough with your inane prattle!
+
+178
+00:32:33,900 --> 00:32:36,633
+The choice of Doge was never up to any of you.
+
+179
+00:32:36,633 --> 00:32:40,299
+And you were never given permission to make plans.
+
+180
+00:32:40,299 --> 00:32:44,366
+Forgive us, Maestro, we wish only to serve.
+
+181
+00:32:45,700 --> 00:32:47,433
+The plan is this.
+
+182
+00:32:48,099 --> 00:32:50,700
+Doge Mocenigo will die tonight.
+
+183
+00:32:51,666 --> 00:32:56,766
+And once the deed's been done Marco shall take his place.
+
+184
+00:32:56,766 --> 00:33:00,700
+Vi ringrazio umilmente, Maestro
+(I humbly thank you, Master).
+
+
+185
+00:33:01,299 --> 00:33:04,500
+Good! Messer Grimaldi…
+
+186
+00:33:05,366 --> 00:33:09,966
+RODRIGO: You are closest to Mocenigo, your work the most vital.
+
+187
+00:33:10,866 --> 00:33:14,533
+Serve us well and it won't be forgotten.
+
+188
+00:33:16,200 --> 00:33:17,333
+RODRIGO: Walk with me.
+
+189
+00:33:19,733 --> 00:33:22,633
+RODRIGO: I don't want any blood spilled, you understand?
+
+190
+00:33:22,900 --> 00:33:25,900
+RODRIGO: It must appear to all that he goes quietly.
+
+191
+00:33:25,900 --> 00:33:27,700
+CARLO: Certo (Of course), Maestro.
+
+192
+00:33:27,700 --> 00:33:29,633
+RODRIGO: When are you closest to him?
+
+193
+00:33:31,933 --> 00:33:34,700
+CARLO: I have full run of the palace.
+
+194
+00:33:34,700 --> 00:33:40,866
+CARLO: He may not care to hear what I have to say,
+but he trusts me by now as one of his own.
+
+195
+00:33:41,466 --> 00:33:46,799
+RODRIGO: Bravo. Then I want you to infiltrate the kitchen and poison his meal.
+
+196
+00:33:47,299 --> 00:33:48,533
+CARLO: So be it.
+
+197
+00:33:49,400 --> 00:33:53,900
+RODRIGO: Marco, can you furnish us with a suitable toxin on short notice?
+
+198
+00:33:53,900 --> 00:33:59,333
+MARCO: I defer to my cousin. That is really his area of expertise.
+
+199
+00:34:01,666 --> 00:34:02,633
+RODRIGO: Silvio?
+
+200
+00:34:03,900 --> 00:34:06,433
+SILVIO: I am at your service, Maestro.
+
+201
+00:34:07,299 --> 00:34:09,433
+RODRIGO: What can you bring to get this done?
+
+202
+00:34:10,000 --> 00:34:12,433
+SILVIO: I will confer with my associates in the streets.
+
+203
+00:34:12,433 --> 00:34:15,300
+SILVIO: But chances are good that I could procure some Cantarella.
+
+204
+00:34:18,933 --> 00:34:20,966
+RODRIGO: Yes, and what is that?
+
+205
+00:34:20,966 --> 00:34:25,666
+SILVIO: It is a most effective form of arsenic, yet difficult to trace.
+
+206
+00:34:30,000 --> 00:34:34,233
+RODRIGO: Ah, va bene, va bene, then it's decided.
+
+207
+00:35:17,733 --> 00:35:22,833
+MARCO: Forgive me, Maestro, but is this not perhaps a tad dangerous for you?
+
+208
+00:35:22,833 --> 00:35:27,199
+Involving yourself so intimately with the minutiae of our plans?
+
+209
+00:35:27,199 --> 00:35:30,733
+I feel the need to involve myself more directly.
+
+210
+00:35:31,266 --> 00:35:33,800
+The Pazzi disappointed us in Firenze.
+
+211
+00:35:34,733 --> 00:35:37,300
+I pray you will not do the same.
+
+212
+00:35:37,366 --> 00:35:40,866
+Do not worry this time. The Pazzi were a bunch of foolish—
+
+213
+00:35:40,866 --> 00:35:47,333
+Pazzis were a potent and venerable family,
+reduced to rubble by one young Assassin.
+
+214
+00:35:47,333 --> 00:35:53,166
+Do not underestimate this troublesome foe who now haunts your city.
+
+215
+00:35:54,466 --> 00:35:58,300
+Or the same fate will befall the Barbarigo.
+
+216
+00:35:58,800 --> 00:36:00,966
+I want this done promptly.
+
+217
+00:36:04,500 --> 00:36:07,199
+Bene, I must return to Roma.
+
+218
+00:36:07,833 --> 00:36:09,533
+RODRIGO: Time is of the essence.
+
+219
+00:36:10,000 --> 00:36:11,966
+RODRIGO: Do not fail us.
+
+220
+00:36:17,766 --> 00:36:21,766
+Che idiota sono (What an idiot I am)! I should have kept my eyes on them.
+
+221
+00:36:22,300 --> 00:36:26,933
+I need to go and see Antonio if I have any hope of salvaging this mess I've made.
+
+222
+00:41:11,300 --> 00:41:14,266
+Salute, bello mio (Hello beautiful). Come stai (How are you)?
+
+223
+00:41:14,266 --> 00:41:16,033
+You back to see me, already?
+
+224
+00:41:19,599 --> 00:41:22,800
+Desolato, mia cara (Sorry, my dear), but I am not here to play.
+
+225
+00:41:23,000 --> 00:41:25,733
+I must speak with Antonio, it's urgent.
+
+226
+00:41:26,800 --> 00:41:29,300
+Antonio! Ezio's here!
+
+227
+00:41:34,199 --> 00:41:36,300
+Ezio, is everything alright?
+
+228
+00:41:36,300 --> 00:41:40,633
+Carlo Grimaldi and the Barbarigo
+are in league with the one they call the Spaniard.
+
+229
+00:41:40,633 --> 00:41:44,199
+They're going to murder the Doge and replace him with one of their own.
+
+230
+00:41:44,199 --> 00:41:47,800
+They would have all of Venezia, her entire fleet in their grasp.
+
+231
+00:41:47,800 --> 00:41:49,566
+And they call me a criminal!
+
+232
+00:41:49,566 --> 00:41:50,733
+EZIO: Then you'll help me?
+
+233
+00:41:50,733 --> 00:41:54,366
+You have me on your side, brother, and the support of all my men.
+
+234
+00:41:54,366 --> 00:41:55,300
+And women.
+
+235
+00:41:55,300 --> 00:41:56,666
+Grazie, amici.
+
+236
+00:41:56,666 --> 00:41:59,466
+ANTONIO: But, Ezio, I must warn you.
+
+237
+00:41:59,466 --> 00:42:02,133
+It's not going to be so easy this time.
+
+238
+00:42:02,133 --> 00:42:05,466
+Palazzo Ducale is the most heavily guarded building in Venezia.
+
+239
+00:42:05,466 --> 00:42:07,033
+Nothing is impenetrable.
+
+240
+00:42:07,033 --> 00:42:11,066
+[laughs] This is why we like you, Ezio.
+
+241
+00:42:11,066 --> 00:42:14,199
+ANTONIO: Come, let's go take a look, we'll come up with a plan.
+
+242
+00:42:22,166 --> 00:42:24,666
+ANTONIO: This business with the Doge, terrible.
+
+243
+00:42:24,666 --> 00:42:27,666
+ANTONIO: Though treachery like this no longer surprises me.
+
+244
+00:42:27,666 --> 00:42:31,833
+ANTONIO: When I was a child, we were taught that the nobles were just and kind.
+
+245
+00:42:31,833 --> 00:42:33,000
+ANTONIO: I believed it.
+
+246
+00:42:33,000 --> 00:42:38,366
+ANTONIO: Though my father was only a cobbler, and my mother a scullery maid,
+I aspired to be much more.
+
+247
+00:42:38,366 --> 00:42:42,900
+ANTONIO: I studied hard, I persevered, but the nobles would never have me.
+
+248
+00:42:42,933 --> 00:42:46,533
+ANTONIO: If you are not born one of them, acceptance is impossible.
+
+249
+00:42:46,533 --> 00:42:51,166
+ANTONIO: So I ask you, Ezio, who are the true nobles of Venezia?
+
+250
+00:42:51,166 --> 00:42:55,266
+ANTONIO: Men like Carlo Grimaldi and Marco Barbarigo? No!
+
+251
+00:42:55,266 --> 00:43:00,633
+ANTONIO: I say we are, the thieves and mercenari and whores.
+
+252
+00:43:02,133 --> 00:43:07,066
+ANTONIO: While we work to save this city and its people,
+the nobles seek to make it their plaything.
+
+253
+00:43:29,266 --> 00:43:32,533
+ANTONIO: We need to scout the Palazzo carefully, see it from every angle.
+
+254
+00:43:32,533 --> 00:43:34,300
+ANTONIO: We just might find a way in.
+
+255
+00:43:34,866 --> 00:43:37,366
+ANTONIO: I know of a tall campanile behind the palazzo.
+
+256
+00:43:37,366 --> 00:43:40,300
+ANTONIO: Or we might find a way to climb the back of the basilica.
+
+257
+00:43:40,666 --> 00:43:42,266
+ANTONIO: Do you have any ideas?
+
+258
+00:43:42,266 --> 00:43:44,599
+EZIO: I assume the front door is out.
+
+259
+00:43:44,699 --> 00:43:49,699
+ANTONIO: [laughs] Va bene, we'll try the front door as well, saputello (wise ass).
+
+260
+00:44:20,633 --> 00:44:22,233
+EZIO: So, what do you think?
+
+261
+00:44:22,233 --> 00:44:23,966
+ANTONIO: We're not getting in this way.
+
+262
+00:44:24,433 --> 00:44:28,199
+ANTONIO: They'll have time to murder the Doge
+before we're able to get through all these guards.
+
+263
+00:46:05,866 --> 00:46:09,266
+ANTONIO: Look at that, archers everywhere.
+
+264
+00:46:09,266 --> 00:46:11,933
+EZIO: And the walls are impossible to climb on this side.
+
+265
+00:47:52,533 --> 00:47:54,466
+ANTONIO: Bene, we're in luck.
+
+266
+00:47:54,699 --> 00:47:58,699
+ANTONIO: Looks like there's a perfect path
+up the scaffolding to the roof of the basilica.
+
+267
+00:47:59,000 --> 00:47:59,966
+ANTONIO: Shall we?
+
+268
+00:49:06,599 --> 00:49:10,166
+ANTONIO: Ezio, look! Isn't that him? Grimaldi?
+
+269
+00:49:10,400 --> 00:49:13,233
+CARLO: Don't you understand what I'm offering you, Signore?
+
+270
+00:49:13,933 --> 00:49:16,066
+CARLO: Listen to me, please.
+
+271
+00:49:16,533 --> 00:49:19,233
+CARLO: Or this will be your last chance.
+
+272
+00:49:19,400 --> 00:49:21,599
+DOGE: How dare you?
+
+273
+00:49:21,699 --> 00:49:23,933
+CARLO: I'm sorry, mi dispiace (I'm sorry).
+
+274
+00:49:24,133 --> 00:49:27,233
+CARLO: I meant nothing by it, I'm only looking out for your safety.
+
+275
+00:49:27,233 --> 00:49:32,666
+ANTONIO: We're running out of time. There's no way through this fence,
+and there are guards everywhere! Diavolo!
+
+276
+00:49:34,500 --> 00:49:35,833
+It's impossible.
+
+277
+00:49:36,933 --> 00:49:40,400
+There's no way in or out for men, only birds.
+
+278
+00:49:40,833 --> 00:49:43,000
+Yes, birds!
+
+279
+00:49:43,000 --> 00:49:44,133
+ANTONIO: Where are you going now?
+
+280
+00:49:44,133 --> 00:49:46,333
+EZIO: To see my friend Leonardo!
+
+281
+00:54:19,300 --> 00:54:20,633
+EZIO: I need your help, Leonardo.
+
+282
+00:54:22,066 --> 00:54:24,666
+EZIO: Does it work?
+LEONARDO: What? What are you asking?
+

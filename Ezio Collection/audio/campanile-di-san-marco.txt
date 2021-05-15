@@ -1,0 +1,11 @@
+<speak>
+
+<p>
+  Originally built as a watchtower in the 9th Century, the Campanile di San
+  Marco was later transformed into a bell tower. Each of the five bells has a
+  special purpose: one announces the Senate, another announces midday, a third
+  the opening and closing of the work day, the fourth council meetings, and
+  the fifth and final bell: Executions.
+</p>
+
+</speak>

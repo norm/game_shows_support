@@ -1,0 +1,32 @@
+<speak>
+
+<p>
+  The Palazzo Ducale was constructed from 1309-1424, in the Gothic style, as
+  the residence for the Doge eh, or, rather, his prison, since the Doge eh was
+  rarely allowed to leave once elected.
+</p>
+
+<p>
+  The Doge eh was the highest ranking elder in Venice and served in his position
+  for life. In 1172, the selection of the Doge eh became entrusted to a committee
+  of 40 (the Forty), whose members were chosen by the Venetian Great Council.
+</p>
+
+<p>
+  Venice liked to think of itself as a Republic, meaning that the people could
+  participate in the government. When the Doge eh took office he was introduced
+  to the people with the words: "This is the Doge eh, if it please you." In fact,
+  members of the Great Council were appointed by the forty, which in turn
+  chose the Forty. See the problem there?
+</p>
+
+<p>
+  Candidates for the Great Council were selected from a microscopic pool
+  containing only noble families and although the Doge eh could nominate anyone
+  to the Council, the Forty and the Council itself had to approve the
+  nomination. Because the general population was largely uneducated, the
+  election rules were purposefully complicated, and the Council controlled the
+  guards, Venice followed the historical norm: the people got screwed.
+</p>
+
+</speak>

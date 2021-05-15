@@ -1,0 +1,16 @@
+<speak>
+
+<p>
+  The Basilica di San Marco was first built in 8 28 to house supposed relics of
+  St. Mark stolen from Alexandria. The present Byzantine-style basilica was
+  constructed in 1063.
+</p>
+
+<p>
+  Check out the façade. Many of the decorations were brought back from the
+  Crusades or given as gifts from wealthy merchants. The church was considered
+  the Doge eh's personal chapel; a passageway inside connects to the Palazzo
+  Ducale next door.
+</p>
+
+</speak>

@@ -1,0 +1,13 @@
+<speak>
+
+<p>
+  This gothic church was constructed in the 13th Century, then rebuilt in the
+  14th.
+</p>
+
+<p>
+  It’s notable for being the resting place of a doge eh (Andrea Contarini) as
+  well as for the fact that Martin Luther once said mass inside.
+</p>
+
+</speak>
