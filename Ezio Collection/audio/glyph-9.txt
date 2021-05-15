@@ -1,0 +1,29 @@
+<speak>
+
+<p>
+  Operation New Frontier.
+</p>
+
+<p>
+  HQ has given the go-head to extract the resource. Negotiations are over.
+  F is planning to give the vote to everyone. Reason just doesn't work with 
+  someone like that.
+</p>
+
+<p>
+  I'll send you the driver. We've trained him with PE2 in our labs, he
+  shouldn't be any trouble.
+</p>
+
+<p>
+  The motorcade root is marked below. Once the target has been downed,
+  either by Oswald or Z, use PE1 to stage a distraction. Make some kind of
+  phantom appear around this slope I've marked with an X.
+</p>
+
+<p>
+  Freak people out.
+  The driver will grab PE3 in the confusion.
+</p>
+
+</speak>

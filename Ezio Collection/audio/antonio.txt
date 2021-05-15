@@ -1,0 +1,29 @@
+<speak>
+
+<p>
+  Date of Birth: 14 43, Profession: Leader of the Gilda dei Ladri di Venezia (Venetian Thieves Guild).
+</p>
+
+<p>
+  Antonio was born at the very bottom of Venetian society. Records indicate
+  his father was a cobbler while his mother was a live-in maid for the Bellini
+  family.
+</p>
+
+<p>
+  Teaching himself to read and write between apprenticeship sessions with his
+  father, Antonio applied to the University of Padua, but was denied due to
+  his low social rank. Documents found in several Italian archives indicate he
+  applied to other schools around Italy as well, and was denied at all of
+  them. Around 14 65, he drops out of the record books, only to re-emerge four
+  years later in connection with a robbery of a notable Venetian estate that
+  happened to be owned by the rector of the University of Padua.
+</p>
+
+<p>
+  In a statement recorded by the city guard, before Antonio mysteriously
+  escaped from prison, he said: "Hard work is not enough to gain superiority
+  in Venetian society. If one truly wants more, one has to take it!"
+</p>
+
+</speak>

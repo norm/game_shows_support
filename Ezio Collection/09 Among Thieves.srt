@@ -1,0 +1,313 @@
+1
+00:03:35,166 --> 00:03:37,066
+EZIO: You seem to be healing well.
+
+2
+00:03:37,066 --> 00:03:38,599
+How are you finding Venezia?
+
+3
+00:03:38,599 --> 00:03:40,199
+It has it's charms.
+
+4
+00:03:40,199 --> 00:03:43,300
+But how do you deal with the smell? Che schifo (How disgusting)!
+
+5
+00:03:43,766 --> 00:03:46,666
+So what brings you to me?
+
+6
+00:03:46,666 --> 00:03:49,099
+I was hoping you could help me with something.
+
+7
+00:03:49,266 --> 00:03:51,066
+ROSA: And that would be…?
+
+8
+00:03:51,066 --> 00:03:53,099
+EZIO: I want to learn to climb the way you do.
+
+9
+00:03:53,099 --> 00:03:56,199
+Oh. Va bene, I can do that.
+
+10
+00:03:56,433 --> 00:03:59,633
+Well, I can't, but Franco can.
+
+11
+00:04:00,533 --> 00:04:03,066
+ROSA: Franco! Muovi il culo (move your ass)!
+
+12
+00:04:03,666 --> 00:04:06,866
+ROSA: Show Ezio how to reach the top of that scaffolding.
+
+13
+00:04:10,566 --> 00:04:12,833
+Begin in a hanging position.
+
+14
+00:04:13,833 --> 00:04:15,666
+ROSA: Then jump to the ledge above you.
+
+15
+00:04:16,600 --> 00:04:20,399
+ROSA: As you reach it, grab it with your hand and pull yourself up.
+
+16
+00:04:21,333 --> 00:04:23,533
+There, see how it works?
+
+17
+00:04:23,766 --> 00:04:24,733
+I think so.
+
+18
+00:04:24,733 --> 00:04:28,100
+Only one way to find out, try for yourself.
+
+19
+00:04:45,266 --> 00:04:46,800
+ROSA: Jump, Ezio!
+
+20
+00:04:54,066 --> 00:04:56,466
+ROSA: Grab the ledge at the height of your jump.
+
+21
+00:05:03,566 --> 00:05:05,899
+So? How did I do?
+
+22
+00:05:06,266 --> 00:05:07,766
+I've seen better.
+
+23
+00:05:07,766 --> 00:05:11,366
+Ah, you wound me with your cruel, cruel words.
+
+24
+00:05:11,366 --> 00:05:15,366
+Alright smargiasso (show off), let's put your skills to the test.
+
+25
+00:05:15,466 --> 00:05:17,066
+EZIO: I'm all ears.
+
+26
+00:05:17,066 --> 00:05:19,533
+ROSA: Meet me in front of the Frari!
+
+27
+00:06:13,266 --> 00:06:16,666
+Ah, Ezio, I was hoping you might return.
+
+28
+00:06:16,866 --> 00:06:18,466
+I want your advice on something.
+
+29
+00:06:18,466 --> 00:06:21,100
+EZIO: Of course. Tell me what troubles you.
+
+30
+00:06:22,266 --> 00:06:25,033
+Emilio has turned some of my own men against me.
+
+31
+00:06:25,033 --> 00:06:27,066
+Bribery and blackmail, is it? 
+
+32
+00:06:27,466 --> 00:06:30,766
+Yes. And we cannot strike until the traitors are dealt with.
+
+33
+00:06:30,766 --> 00:06:32,633
+They're still somewhere in this district.
+
+34
+00:06:32,633 --> 00:06:34,800
+Keeping tabs on us and reporting back to Emilio.
+
+35
+00:06:34,800 --> 00:06:37,100
+Not for much longer, they're not.
+
+36
+00:15:41,766 --> 00:15:45,933
+SUBJECT 16: Without the staff, the Czar was powerless.
+
+37
+00:15:45,933 --> 00:15:49,266
+SUBJECT 16: He could no longer control his subjects.
+
+38
+00:15:50,000 --> 00:15:53,500
+SUBJECT 16: Revolution! Revolution!
+
+39
+00:20:50,900 --> 00:20:54,333
+SUBJECT 16: Three thefts, hidden by the murders.
+
+40
+00:20:55,099 --> 00:20:58,200
+SUBJECT 16: People only see what they're trained to see…
+
+41
+00:20:58,200 --> 00:21:01,099
+SUBJECT 16: What the organisation wants them to see.
+
+42
+00:21:35,799 --> 00:21:37,500
+SUBJECT 16: The wolves are out hunting.
+
+43
+00:21:38,599 --> 00:21:42,833
+SUBJECT 16: Where oh where has Jack gone?
+
+44
+00:26:35,900 --> 00:26:40,966
+ROSA: Climbing a bit of scaffolding is all well and good,
+but let's see how you do out in the open.
+
+45
+00:26:40,966 --> 00:26:42,933
+EZIO: The top of that tower then?
+
+46
+00:26:42,933 --> 00:26:44,599
+EZIO: Torno fra un attimo (I'll be right back).
+
+47
+00:28:28,599 --> 00:28:29,599
+EZIO: So?
+
+48
+00:28:29,599 --> 00:28:32,299
+Looks like you've learned all I have to teach you.
+
+49
+00:28:32,299 --> 00:28:34,400
+I'll let Antonio know of your progress.
+
+50
+00:28:34,400 --> 00:28:37,733
+Finish your other tasks, we're almost there.
+
+51
+00:29:51,833 --> 00:29:54,233
+EZIO: Ben trovato (Good to see you), Ugo. What's the trouble?
+
+52
+00:29:54,233 --> 00:29:58,533
+You and Rosa managed to escape from Seta, but the others were not so lucky.
+
+53
+00:29:58,533 --> 00:30:00,933
+Emilio's captured them, and now they await execution.
+
+54
+00:30:00,933 --> 00:30:02,766
+EZIO: Do you know where they're being held?
+
+55
+00:30:03,099 --> 00:30:06,166
+I know they're still in the district, but beyond that, no.
+
+56
+00:30:06,833 --> 00:30:08,366
+You'll have to look for them.
+
+57
+00:30:08,466 --> 00:30:10,933
+EZIO: I'll have your brothers back here in no time.
+
+58
+00:33:14,366 --> 00:33:18,933
+THIEF: The markets belong to the people! Emilio says he seeks unity—
+
+59
+00:36:29,366 --> 00:36:31,266
+GUARD: Where's your—
+
+60
+00:40:55,500 --> 00:40:57,133
+THIEVES: Aaah! Ow!
+
+61
+00:40:57,133 --> 00:41:00,500
+GUARD 1: Ha ha ha ha, listen to them squeal!
+
+62
+00:41:01,800 --> 00:41:04,533
+GUARD 2: It's no wonder their master hides.
+
+63
+00:41:06,900 --> 00:41:10,400
+GUARD 3: Where is Emilio? I'd like to be rid of this trash.
+
+64
+00:44:09,766 --> 00:44:13,500
+I'm impressed, I didn't expect you to succeed so quickly.
+
+65
+00:44:13,500 --> 00:44:15,333
+EZIO: I am to please.
+
+66
+00:44:15,333 --> 00:44:17,400
+I'll let Antonio know about our progress.
+
+67
+00:44:17,400 --> 00:44:20,066
+Come find me later, I've got another job for you.
+
+68
+00:44:20,066 --> 00:44:21,133
+EZIO: What sort of job?
+
+69
+00:44:21,133 --> 00:44:23,099
+Meet me near the docks, and I'll explain.
+
+70
+00:44:23,099 --> 00:44:24,466
+EZIO: Molto bene.
+
+71
+00:48:10,033 --> 00:48:11,266
+EZIO: Leonardo!
+
+72
+00:48:11,266 --> 00:48:13,233
+Ezio, so good to see you.
+
+73
+00:48:13,233 --> 00:48:14,900
+How can I help you?
+
+74
+00:48:14,900 --> 00:48:19,033
+Ha ha, you found another one! How exciting!
+
+75
+00:48:22,366 --> 00:48:25,966
+If you transpose this word, and move this line to the left…
+
+76
+00:48:25,966 --> 00:48:27,300
+It's deciphered!
+
+77
+00:55:35,733 --> 00:55:39,033
+Rescuing my brothers was more than just an act of charity, Ezio.
+
+78
+00:55:39,400 --> 00:55:42,733
+The men you freed will play a vital role in the weeks to come.
+
