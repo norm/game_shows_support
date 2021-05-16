@@ -1,0 +1,11 @@
+0:00:02,sv,Birds Of A Feather
+0:10:20,sv,pitstop in Monteriggioni
+0:15:00,asv,If At First You Don't Succeed
+0:17:40,sv,If At First You Don't Succeed
+0:32:36,d,Carlo Grimaldi
+0:33:55,d,Palazzo Ducale di Venezia
+0:35:50,d,Campanile di San Marco
+0:36:53,d,Basilica di San Marco
+0:37:30,d,Torre dell'orologio
+0:39:14,d,Santo Stefano
+0:40:00,d,Antonio

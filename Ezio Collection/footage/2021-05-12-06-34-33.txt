@@ -1,0 +1,14 @@
+0:00:10,sv,restocking and viewpoint
+0:03:30,av,Monkey See, Monkey Do
+0:05:18,as,Monkey See, Monkey Do
+0:07:20,sv,Monkey See, Monkey Do
+0:09:39,asv,Cleaning House
+0:10:44,asv,Cleaning House
+0:12:48,asv,Cleaning House
+0:17:29,sv,Cleaning House
+0:26:09,g,San Giacomo di Rialto
+0:32:40,g,Ponte di Rialto
+0:38:25,sv,By Leaps And Bounds
+0:42:00,asv,Breakout (x3)
+0:44:29,sv,Breakout
+0:58:50,sv,restock, codex pages, monteriggioni
