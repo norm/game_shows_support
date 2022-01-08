@@ -4,6 +4,10 @@ end = "Granger's Hoggery"
 type = 'item-request'
 autobegin = true
 
+after = [
+    'emmet-granger',    # to be same place, same time
+]
+
 
 [[action]]
 text = "Get harmonica for Sadie from cabin"

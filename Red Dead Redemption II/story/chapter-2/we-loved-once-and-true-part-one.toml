@@ -8,6 +8,10 @@ unlocks = [
     'we-loved-once-and-true-part-three',
 ]
 
+before = [
+    'pouring-forth-oil-part-one',
+]
+
 
 [[post_action]]
 text = "Meet Mary in Valentine (be sure to have a hat on), choose to help Jamie"

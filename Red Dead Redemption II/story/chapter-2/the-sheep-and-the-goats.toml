@@ -8,6 +8,10 @@ unlocks = [
     'a-strange-kindness',
 ]
 
+before = [
+    'an-american-pastoral-scene',
+]
+
 
 [[action]]
 text = "Go get a sniper rifle, rustle some sheep, try to sell them"

@@ -8,6 +8,10 @@ unlocks = [
     'visiting-hours',
 ]
 
+before = [
+    'thats-murfree-country',
+]
+
 
 [[action]]
 text = "Ride the balloon to the penitentiary and back"

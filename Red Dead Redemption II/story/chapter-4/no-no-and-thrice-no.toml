@@ -8,6 +8,11 @@ unlocks = [
     'horsemen-apocalypses',
 ]
 
+before = [
+    'fatherhood-and-other-dreams',
+    'the-gilded-cage',
+]
+
 
 [[action]]
 text = "Free Tilly from the kidnappers, spare Anthony"

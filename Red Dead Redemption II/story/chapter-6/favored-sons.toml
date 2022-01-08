@@ -9,6 +9,10 @@ unlocks = [
     'mrs-sadie-adler-widow-part-one',
 ]
 
+before = [
+    'the-bridge-to-nowhere',
+]
+
 
 [[action]]
 text = "Kill the soldiers and escape"

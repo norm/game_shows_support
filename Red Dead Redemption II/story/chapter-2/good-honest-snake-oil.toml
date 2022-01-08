@@ -8,6 +8,11 @@ unlocks = [
     'pouring-forth-oil-part-one',
 ]
 
+before = [
+    'americans-at-rest',
+    'the-noblest-of-men-and-a-woman-part-one',
+]
+
 
 [[action]]
 text = "Capture Allbright alive, return to the sheriff"

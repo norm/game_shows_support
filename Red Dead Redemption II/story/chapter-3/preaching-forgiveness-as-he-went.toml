@@ -8,6 +8,11 @@ unlocks = [
     'sodom-back-to-gomorrah',
 ]
 
+before = [
+    'friends-in-very-low-places',
+    'the-course-of-true-love-part-three',
+]
+
 
 [[action]]
 text = "Investigate Shady Belle, fight the Lemoyne Raiders"

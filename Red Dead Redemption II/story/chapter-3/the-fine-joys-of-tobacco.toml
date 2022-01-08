@@ -8,6 +8,10 @@ unlocks = [
     'blessed-are-the-peacemakers',
 ]
 
+before = [
+    'sodom-back-to-gomorrah',
+]
+
 
 [[action]]
 text = "Accompany Sean with the moonshine to Caliga Hall"

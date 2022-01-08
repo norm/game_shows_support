@@ -3,3 +3,9 @@ type = 'stranger'
 start = "Saint Denis"
 end = "Saint Denis"
 begin = "[off camera] Meet Algernon to clear the marker"
+
+before = [
+    'a-fine-night-of-debauchery',
+    'american-fathers-part-one',
+    'horsemen-apocalypses',
+]

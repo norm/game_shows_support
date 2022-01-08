@@ -9,6 +9,10 @@ unlocks = [
     'mrs-sadie-adler-widow-part-one',
 ]
 
+before = [
+    'a-rage-unleashed',
+]
+
 
 [[action]]
 text = "Rob the dynamite stagecoach"

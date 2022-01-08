@@ -8,6 +8,10 @@ unlocks = [
     'the-sheep-and-the-goats',
 ]
 
+before = [
+    'a-fisher-of-men',
+]
+
 
 [[action]]
 text = "Try to get money from Thomas Downes"

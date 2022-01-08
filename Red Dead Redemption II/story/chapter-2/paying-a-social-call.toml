@@ -9,6 +9,11 @@ unlocks = [
     'pouring-forth-oil-part-one',
 ]
 
+before = [
+    'money-lending-and-other-sins-part-three',
+    'a-fisher-of-men',
+]
+
 
 [[action]]
 text = "Follow Kieran to Six Point Cabin, kill some O'Driscolls, escape the law"

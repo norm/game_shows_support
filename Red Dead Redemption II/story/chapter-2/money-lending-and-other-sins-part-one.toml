@@ -8,19 +8,36 @@ unlocks = [
     'a-quiet-time',
 ]
 
+before = [
+    'paying-a-social-call',
+    'the-spines-of-america',
+]
+
+after = [
+    'exit-pursued-by-a-bruised-ego',
+]
+
+# after = [
+#     'polite-society-valentine-style',
+#     'the-first-shall-be-last',
+# ]
+
 
 # Part II is these, but they can be performed whenever
 [[post_action]]
 text = "Get money from Chick Matthews"
 location = 'Guthrie Farm'
 unlocks = ['money-lending-and-other-sins-part-three']
+before = ['the-spines-of-america']
 
 [[post_action]]
 text = "Get money from Wrobel"
 location = 'Painted Sky'
 unlocks = ['money-lending-and-other-sins-part-three']
+after = ['the-spines-of-america']
 
 [[post_action]]
 text = "Get money from Lilly Millet"
 location = 'Emerald Ranch'
 unlocks = ['money-lending-and-other-sins-part-three']
+before = ['the-spines-of-america']

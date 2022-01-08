@@ -7,3 +7,7 @@ begin = "Speak to Jack (try doing it at night), then take him fishing"
 unlocks = [
     'a-new-future-imagined',
 ]
+
+before = [
+    'a-really-big-bastard',
+]

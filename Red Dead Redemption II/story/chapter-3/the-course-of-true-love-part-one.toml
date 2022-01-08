@@ -8,6 +8,11 @@ unlocks = [
     'the-course-of-true-love-part-three',
 ]
 
+before = [
+    'advertising-the-new-american-art',
+    'an-honest-mistake',
+]
+
 
 [[action]]
 text = "Sneak into Braithwaite Manor, give Penelope letter and gift"

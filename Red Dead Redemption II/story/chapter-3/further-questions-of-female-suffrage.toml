@@ -13,6 +13,12 @@ unlocks = [
     'emmet-granger',
 ]
 
+before = [
+    'an-honest-mistake',
+    'advertising-the-new-american-art',
+    'the-course-of-true-love-part-one',
+]
+
 
 [[action]]
 text = "Take Sadie to Rhodes, follow her into the store"

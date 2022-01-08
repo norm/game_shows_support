@@ -12,6 +12,10 @@ unlocks = [
     'the-spines-of-america',
 ]
 
+after = [
+    'the-first-shall-be-last',
+]
+
 
 [[action]]
 text = "Ride with Hosea to Valentine, sell horse, then go hunting"

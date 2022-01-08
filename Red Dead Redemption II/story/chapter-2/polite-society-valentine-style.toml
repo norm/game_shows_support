@@ -9,6 +9,12 @@ unlocks = [
     'good-honest-snake-oil',
 ]
 
+before = [
+    'the-first-shall-be-last',
+    'americans-at-rest',
+    'good-honest-snake-oil',
+]
+
 
 [[action]]
 text = "Chase man who recognises you, save from falling"

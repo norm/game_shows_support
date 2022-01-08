@@ -11,6 +11,11 @@ unlocks = [
     'the-iniquities-of-history',
 ]
 
+before = [
+    'friends-in-very-low-places',
+    'the-course-of-true-love-part-three',
+]
+
 
 [[action]]
 text = "Go to rob the stagecoach, lose fight, hide in outhouse"

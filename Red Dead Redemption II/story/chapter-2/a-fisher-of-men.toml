@@ -10,6 +10,11 @@ unlocks = [
     'an-american-pastoral-scene',
 ]
 
+before = [
+    'blessed-are-the-meek',
+    'pouring-forth-oil-part-one',
+]
+
 
 [[action]]
 text = "Take Jack (slowly) to the river, show him how to fish"

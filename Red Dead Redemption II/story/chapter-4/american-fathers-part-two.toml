@@ -8,6 +8,10 @@ unlocks = [
     'banking-the-old-american-art',
 ]
 
+before = [
+    'a-fine-night-of-debauchery',
+]
+
 
 [[action]]
 text = "Infiltrate the office of Danbury, and question him"

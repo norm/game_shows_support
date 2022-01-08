@@ -7,6 +7,7 @@ autobegin = true
 
 [[action]]
 text = "Get penny dreadful for Jack from cabin"
+after = ['the-spines-of-america']  # to be in the area
 
 [[post_action]]
 text = "Give Jack penny dreadful"

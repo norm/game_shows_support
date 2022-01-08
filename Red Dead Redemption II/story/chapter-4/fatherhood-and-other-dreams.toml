@@ -4,6 +4,10 @@ start = 'Shady Belle'
 end = 'Saint Denis'
 begin = "Arthur reads a letter from Mary"
 
+before = [
+    'the-gilded-cage',
+]
+
 
 [[action]]
 text = "Meet Mary at her hotel, follow her father"

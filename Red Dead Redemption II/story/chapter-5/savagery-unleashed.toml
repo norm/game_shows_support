@@ -8,6 +8,10 @@ unlocks = [
     'hell-hath-no-fury',
 ]
 
+before = [
+    'a-kind-and-benevolent-despot',
+]
+
 
 [[action]]
 text = "Break free, and rescue the workers being hanged"

@@ -8,6 +8,10 @@ finish_before = [
     'a-strange-kindness',
 ]
 
+after = [
+    'money-lending-and-other-sins-part-three',
+]
+
 
 [[action]]
 text = "Kill everyone, loot everything"

@@ -8,6 +8,10 @@ unlocks = [
     'honor-amongst-thieves',
 ]
 
+after = [
+    'the-bridge-to-nowhere',
+]
+
 
 [[action]]
 text = "Investigate the site, find the army camp, listen to their conversations"

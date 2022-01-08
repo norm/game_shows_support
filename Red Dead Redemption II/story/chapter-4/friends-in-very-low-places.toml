@@ -8,6 +8,10 @@ unlocks = [
     'a-short-walk-in-a-pretty-town',
 ]
 
+before = [
+    'the-course-of-true-love-part-three',
+]
+
 
 [[action]]
 text = "Go to the Rhodes station, talk to Alden"

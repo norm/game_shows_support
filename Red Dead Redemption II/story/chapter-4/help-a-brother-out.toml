@@ -8,6 +8,11 @@ unlocks = [
     'brothers-and-sisters-one-and-all',
 ]
 
+before = [
+    'angelo-bronte-a-man-of-honor',
+    'no-no-and-thrice-no',
+]
+
 
 [[action]]
 text = "Meet Brother Dorkins, donate money"

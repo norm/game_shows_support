@@ -7,3 +7,7 @@ begin = "Meet Sadie in the saloon, go get a bounty"
 unlocks = [
     'bare-knuckle-friendships',
 ]
+
+before = [
+    'the-landowning-classes',
+]

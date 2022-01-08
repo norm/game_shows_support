@@ -10,3 +10,12 @@ unlocks = [
     'flaco-hernandez',
     'billy-midnight',
 ]
+
+after = [
+    # should have been to valentine already
+    'polite-society-valentine-style',
+]
+before = [
+    # do it before shooting Valentine up
+    'the-sheep-and-the-goats',
+]

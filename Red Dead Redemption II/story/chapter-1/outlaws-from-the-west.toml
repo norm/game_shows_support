@@ -15,3 +15,4 @@ text = "Spare the O'Driscoll"
 [[post_action]]
 text = "Offer Sadie the horse"
 location = 'Colter'
+# after = ['enter-pursued-by-a-memory']

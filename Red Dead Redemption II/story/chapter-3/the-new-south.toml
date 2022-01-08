@@ -21,6 +21,10 @@ returns = [
     'trelawny',
 ]
 
+before = [
+    'further-questions-of-female-suffrage',
+]
+
 
 [[action]]
 text = "Ride out, come across wagon"

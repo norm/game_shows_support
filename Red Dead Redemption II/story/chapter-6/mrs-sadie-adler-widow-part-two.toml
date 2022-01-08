@@ -8,6 +8,10 @@ unlocks = [
     'my-last-boy',
 ]
 
+before = [
+    'the-bridge-to-nowhere',
+]
+
 
 [[action]]
 text = "Kill the remaining O'Driscolls"

@@ -19,6 +19,13 @@ returns = [
     'lenny',
 ]
 
+before = [
+    'money-lending-and-other-sins-part-three',
+    'paying-a-social-call',
+    'pouring-forth-oil-part-one',
+    'we-loved-once-and-true-part-one',
+]
+
 
 [[action]]
 text = "Take Lenny to Valentine for a drink"

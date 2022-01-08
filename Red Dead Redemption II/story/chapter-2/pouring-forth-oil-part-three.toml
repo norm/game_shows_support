@@ -11,6 +11,10 @@ unlocks = [
     # dead eye level 2
 ]
 
+before = [
+    'blessed-are-the-meek',
+]
+
 
 [[action]]
 text = "Steal oil wagon from Cornwall, take to hiding spot"

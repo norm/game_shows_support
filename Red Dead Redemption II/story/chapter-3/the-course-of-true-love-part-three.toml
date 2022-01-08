@@ -8,6 +8,11 @@ unlocks = [
     'the-course-of-true-love-part-four',
 ]
 
+before = [
+    'the-fine-joys-of-tobacco',
+    'sodom-back-to-gomorrah',
+]
+
 
 [[action]]
 text = "Sneak into Braithwaite Manor, give Penelope letter and gift"

@@ -4,6 +4,10 @@ start = 'Beaver Hollow'
 end = 'Riggs Station'
 begin = "Read a letter from Penelope Braithwaite"
 
+before = [
+    'just-a-social-call',
+]
+
 
 [[action]]
 text = "Ride with Penelope to Rhodes"

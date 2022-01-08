@@ -4,6 +4,11 @@ start = 'Cumberland Forest'
 end = 'Valentine'
 begin = "Find the Chelonians atop the hill"
 
+before = [
+    'a-fisher-of-men',
+    'money-lending-and-other-sins-part-three',
+]
+
 
 [[action]]
 text = "Respond positively to the leader to talk to Jamie"

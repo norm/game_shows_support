@@ -12,6 +12,10 @@ unlocks = [
     'the-noblest-of-men-and-a-woman-part-two',
 ]
 
+before = [
+    'horsemen-apocalypses',
+]
+
 
 [[action]]
 text = "Get a new suit and a trim"

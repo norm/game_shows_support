@@ -4,11 +4,16 @@ end = "Osman Grove"
 type = 'item-request'
 begin = "Speak to Mary-Beth when she is writing"
 
+before = [
+    'a-fisher-of-men',
+]
+
+
 
 [[post_action]]
 text = "Get fountain pen for Mary-Beth from cabin"
 location = 'Osman Grove'
-after = ['a-fisher-of-men']
+after = ['a-fisher-of-men', 'the-spines-of-america']  # to be in the area
 
 [[post_action]]
 text = "Give Mary-Beth fountain pen"

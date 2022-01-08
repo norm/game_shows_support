@@ -4,6 +4,11 @@ start = 'Beaver Hollow'
 end = 'Beaver Hollow'
 begin = "Return to camp, chuck Strauss out of the gang"
 
+before = [
+    'the-course-of-true-love-part-four',
+]
+
+
 leaves = [
     'strauss',
 ]

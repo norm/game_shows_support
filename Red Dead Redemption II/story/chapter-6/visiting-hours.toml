@@ -12,6 +12,11 @@ returns = [
     'john',
 ]
 
+before = [
+    'money-lending-and-other-sins-part-six',
+    'the-course-of-true-love-part-four',
+]
+
 
 [[action]]
 text = "Rescue John, do not kill the guard"

@@ -8,6 +8,10 @@ unlocks = [
     'a-short-walk-in-a-pretty-town',
 ]
 
+before = [
+    'magicians-for-sport',
+]
+
 
 [[action]]
 text = "Talk your way into the stable, wait for the stablehand to describe all three horses so Javier knocks him out"

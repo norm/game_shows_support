@@ -7,3 +7,7 @@ begin = "Kill some gang members at Hanging Dog Ranch"
 unlocks = [
     'motherhood',
 ]
+
+after = [
+    'fatherhood-for-idiots',
+]

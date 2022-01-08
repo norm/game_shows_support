@@ -11,6 +11,10 @@ unlocks = [
     # dead eye level 5
 ]
 
+before = [
+    'the-bridge-to-nowhere',
+]
+
 
 [[action]]
 text = "Snipe some O'Driscolls, escape"

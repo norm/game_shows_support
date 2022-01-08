@@ -3,6 +3,13 @@ start = 'Horseshoe Overlook'
 end = 'Horseshoe Overlook'
 type = 'location'
 
+after = [
+    # clear the markers first
+    'a-fisher-of-fish',
+    'a-test-of-faith',
+    'smoking-and-other-hobbies',
+]
+
 
 [[post_action]]
 text = 'Hunt food whenever camp supplies run low'

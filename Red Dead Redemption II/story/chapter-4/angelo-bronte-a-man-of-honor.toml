@@ -15,6 +15,10 @@ unlocks = [
     'hunt-crawfish',
 ]
 
+before = [
+    'no-no-and-thrice-no',
+]
+
 
 [[action]]
 text = "Go kill the grave-robbers, sneak away from the law"

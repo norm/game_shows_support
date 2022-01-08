@@ -12,6 +12,11 @@ unlocks = [
     'no-good-deed',
 ]
 
+before = [
+    'further-questions-of-female-suffrage',
+    'the-course-of-true-love-part-one',
+]
+
 
 [[action]]
 text = "Accompany the wagon"

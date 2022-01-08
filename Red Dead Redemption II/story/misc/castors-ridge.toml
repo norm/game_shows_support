@@ -12,6 +12,7 @@ text = "Rescue the farmer from extortionists"
 
 [[action]]
 text = "Help the farmer get some lumber"
+after = ['appleseed-timber_3']  # to get the lumber for free
 
 [[action]]
 text = "Say goodbye to the farmer, who has sold up"

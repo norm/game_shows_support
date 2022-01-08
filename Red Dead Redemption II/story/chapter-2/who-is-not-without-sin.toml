@@ -12,6 +12,10 @@ returns = [
     'swanson',
 ]
 
+before = [
+    'polite-society-valentine-style',
+]
+
 
 [[action]]
 text = "Go to Flatneck Station, find Swanson, play poker, find Swanson again"

@@ -7,3 +7,8 @@ begin = "Break Micah out of jail, shoot up the place"
 unlocks = [
     'an-american-pastoral-scene',
 ]
+
+before = [
+    'a-strange-kindness',
+    'the-sheep-and-the-goats',
+]

@@ -10,6 +10,11 @@ unlocks = [
     'the-fine-joys-of-tobacco',
 ]
 
+before = [
+    'an-honest-mistake',
+    'the-course-of-true-love-part-three',
+]
+
 
 [[action]]
 text = "Accompany Hosea to Braithwaite Manor to sell the moonshine"

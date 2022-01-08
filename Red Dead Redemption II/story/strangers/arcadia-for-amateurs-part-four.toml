@@ -7,3 +7,6 @@ begin = "Help Mason photograph some alligators"
 unlocks = [
     'arcadia-for-amateurs-part-five',
 ]
+
+after = ['chapter-3']
+before = ['the-artists-way_1']  # so Mason's pictures are in the gallery

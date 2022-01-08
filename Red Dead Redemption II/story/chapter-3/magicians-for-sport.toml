@@ -9,6 +9,12 @@ unlocks = [
     'blessed-are-the-peacemakers',
 ]
 
+before = [
+    'the-fine-joys-of-tobacco',
+    'an-honest-mistake',
+    'the-course-of-true-love-part-three',
+]
+
 
 [[action]]
 text = "Investigate Trelawny's caravan, interrogate the men"
