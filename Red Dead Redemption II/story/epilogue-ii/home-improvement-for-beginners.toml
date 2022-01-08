@@ -1,0 +1,9 @@
+title = 'Home Improvement for Beginners'
+type = 'story'
+start = "Beecher's Hope"
+end = "Beecher's Hope"
+begin = "One morning, join Uncle and Charles at the campfire and pull a buiding down"
+
+unlocks = [
+    'the-tool-box',
+]

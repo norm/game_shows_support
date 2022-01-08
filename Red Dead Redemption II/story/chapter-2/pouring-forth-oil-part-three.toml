@@ -1,0 +1,16 @@
+title = 'Pouring Forth Oil III'
+type = 'story'
+start = 'Horseshoe Overlook'
+end = 'The Heartlands'
+begin = "Speak to John, refresh your weapons and go meet the gang"
+
+unlocks = [
+    'the-sheep-and-the-goats',
+    'an-american-pastoral-scene',
+
+    # dead eye level 2
+]
+
+
+[[action]]
+text = "Steal oil wagon from Cornwall, take to hiding spot"

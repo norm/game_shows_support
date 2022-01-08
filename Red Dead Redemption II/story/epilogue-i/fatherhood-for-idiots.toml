@@ -1,0 +1,9 @@
+title = 'Fatherhood, for Idiots'
+type = 'story'
+start = 'Pronghorn Ranch'
+end = 'Pronghorn Ranch'
+begin = "Run some errands in Strawberry, then kill some fellers"
+
+unlocks = [
+    'motherhood',
+]

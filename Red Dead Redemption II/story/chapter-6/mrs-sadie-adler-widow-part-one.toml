@@ -1,0 +1,13 @@
+title = 'Mrs Sadie Adler, Widow'
+type = 'story'
+start = 'Beaver Hollow'
+end = 'Beaver Hollow'
+begin = "One morning, talk to Sadie when she is throwing knives"
+
+unlocks = [
+    'mrs-sadie-adler-widow-part-two',
+]
+
+
+[[action]]
+text = "Agree to helping, but say you'll meet her there"

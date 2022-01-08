@@ -1,0 +1,20 @@
+title = 'Charlotte Balfour'
+type = 'location'
+start = "Willard's Rest"
+end = "Willard's Rest"
+
+
+[[action]]
+text = "Help Charlotte hunt rabbits"
+
+[[post_action]]
+text = "See if you can find a chap in a tent nearby, scare him off"
+finish_before = ['our-best-selves']
+
+[[post_action]]
+text = "[>2 days later] Help Charlotte learn to shoot"
+finish_before = ['our-best-selves']
+
+[[post_action]]
+text = "[>4 days later] Visit Charlotte one last time"
+finish_before = ['our-best-selves']

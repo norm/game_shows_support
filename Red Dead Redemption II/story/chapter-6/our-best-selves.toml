@@ -1,0 +1,10 @@
+title = 'Our Best Selves'
+type = 'story'
+start = 'Beaver Hollow'
+end = 'Bacchus Station'
+begin = "One morning, talk to Dutch"
+triggers = 'red-dead-redemption'
+
+
+[[action]]
+text = "Rob the train"

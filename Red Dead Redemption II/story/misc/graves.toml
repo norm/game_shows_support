@@ -1,0 +1,41 @@
+title = 'Paying Your Respects'
+type = 'location'
+start = "Big Valley"
+end = "Big Valley"
+autobegin = true
+
+
+[[post_action]]
+text = "Visit Sean's grave"
+location = "Clemens Point"
+finish_before = ['a-new-future-imagined']
+
+[[post_action]]
+text = "Visit Jenny and Davey's graves"
+location = "Colter"
+finish_before = ['a-new-future-imagined']
+
+[[post_action]]
+text = "Visit Kieran's grave"
+location = "Shady Belle"
+finish_before = ['a-new-future-imagined']
+
+[[post_action]]
+text = "Visit Hosea and Lenny's graves"
+location = "Bluewater Marsh"
+finish_before = ['a-new-future-imagined']
+
+[[post_action]]
+text = "Visit Eagle Flies's grave"
+location = "Donner Falls"
+finish_before = ['a-new-future-imagined']
+
+[[post_action]]
+text = "Visit Susan's grave"
+location = "Elysian Pool"
+finish_before = ['a-new-future-imagined']
+
+[[post_action]]
+text = "Visit Arthur's grave"
+location = "Mysterious Hill Home"
+finish_before = ['a-new-future-imagined']

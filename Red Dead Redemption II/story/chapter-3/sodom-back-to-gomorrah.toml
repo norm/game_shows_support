@@ -1,0 +1,16 @@
+title = 'Sodom? Back to Gomorrah'
+type = 'story'
+start = 'Clemens Point'
+end = 'Clemens Point'
+begin = "One morning, speak to Bill and Karen"
+
+unlocks = [
+    'blessed-are-the-peacemakers',
+]
+
+
+[[action]]
+text = "Rob the bank in Valentine, cracking the safes"
+
+[[action]]
+text = "Go to the Downes Ranch to collect the debt"

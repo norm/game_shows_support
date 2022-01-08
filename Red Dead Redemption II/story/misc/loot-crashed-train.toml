@@ -1,0 +1,5 @@
+title = 'Loot Crashed Train'
+type = 'location'
+start = 'Cotorra Springs'
+end = 'Cotorra Springs'
+begin = "Loot the crashed train (gold bars)"

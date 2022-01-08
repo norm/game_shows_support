@@ -1,0 +1,19 @@
+title = 'START THE GAME'
+type = 'marker'
+start = 'start'
+end = 'Colter'
+triggers = 'chapter-1'
+autobegin = true
+
+
+completed_threads = [
+]
+
+completed_nodes = [
+]
+
+abandoned_threads = [
+]
+
+abandoned_nodes = [
+]

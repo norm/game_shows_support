@@ -1,0 +1,21 @@
+title = 'The Fine Art of Conversation'
+type = 'story'
+start = 'Beaver Hollow'
+end = 'Emerald Station'
+begin = "One morning, speak to Trelawny, then go to the Army parley"
+
+unlocks = [
+    'the-kings-son',
+]
+
+leaves = [
+    'swanson',
+    'trelawny',
+]
+
+
+[[action]]
+text = "Protect Monroe from the soldiers"
+
+[[action]]
+text = "Talk to Sister Calderon"

@@ -1,0 +1,18 @@
+title = "Railroad Camp"
+start = "Railroad Camp"
+end = "Railroad Camp"
+type = 'location'
+
+
+[[action]]
+text = "Speak to the foreman, find the thief"
+
+[[action]]
+text = "Speak to the foreman, go retrieve land deed"
+
+[[action]]
+text = "Speak to the foreman, get some supplies"
+
+[[action]]
+text = "Ride along the completed railroad"
+after = ['epilogue-i']

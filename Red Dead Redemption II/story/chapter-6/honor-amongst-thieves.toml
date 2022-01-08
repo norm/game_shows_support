@@ -1,0 +1,13 @@
+title = 'Honor, Amongst Thieves'
+type = 'story'
+start = 'Wapiti Indian Reservation'
+end = 'Wapiti Indian Reservation'
+begin = "Speak to Captain Monroe"
+
+unlocks = [
+    'the-fine-art-of-conversation',
+]
+
+
+[[action]]
+text = "Steal the vaccine from the wagon without being detected"

@@ -1,0 +1,14 @@
+title = 'The Delights of Van Horn'
+type = 'story'
+start = 'Roanoke Ridge'
+end = 'Kamassa River'
+begin = "Speak to Micah, who is sitting on the porch"
+
+unlocks = [
+    'the-bridge-to-nowhere',
+    'mrs-sadie-adler-widow-part-one',
+]
+
+
+[[action]]
+text = "Rob the dynamite stagecoach"

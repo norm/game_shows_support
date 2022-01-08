@@ -1,0 +1,14 @@
+title = 'The Smell of the Grease Paint'
+type = 'stranger'
+start = "Van Horn"
+end = "Van Horn"
+begin = "Enter the saloon, fight Bertram"
+
+
+[[action]]
+text = "Go southwest to find Magnifico"
+
+[[post_action]]
+text = "Watch the show at the Vaudeville Theatre, collect reward"
+location = 'Saint Denis'
+

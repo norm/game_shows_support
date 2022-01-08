@@ -1,0 +1,15 @@
+title = 'Motherhood'
+type = 'story'
+start = 'Pronghorn Ranch'
+end = 'Big Valley'
+begin = "Get a telegram, pass some time, leave the ranch"
+
+unlocks = [
+    'gainful-employment',
+    'the-landowning-classes',
+
+    # stranger
+    'the-american-inferno-burnt-out',
+    'fundraiser-part-two',
+    'graves',
+]

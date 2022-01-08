@@ -1,0 +1,16 @@
+title = 'Help a Brother Out'
+type = 'story'
+start = 'Saint Denis'
+end = 'Saint Denis'
+begin = "One morning, talk to Swanson, he'll tell you about Dorkins"
+
+unlocks = [
+    'brothers-and-sisters-one-and-all',
+]
+
+
+[[action]]
+text = "Meet Brother Dorkins, donate money"
+
+[[action]]
+text = "Rescue the children from the fence's shop, give them the money from the till"

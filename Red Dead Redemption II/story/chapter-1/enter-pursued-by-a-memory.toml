@@ -1,0 +1,14 @@
+title = 'Enter, Persued by a Memory'
+type = 'story'
+start = 'Colter'
+end = 'Colter'
+autobegin = true
+
+unlocks = [
+    'old-friends',
+    'the-aftermath-of-genesis',
+]
+
+
+[[action]]
+text = "Go with Javier to rescue John"

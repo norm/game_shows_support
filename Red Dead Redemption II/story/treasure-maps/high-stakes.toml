@@ -1,0 +1,19 @@
+title = 'High Stakes'
+type = 'treasure-map'
+start = "Riggs Station"
+end = "Riggs Station"
+begin = "Find the treasure hunter between 10am-midday, rob him of his map"
+
+
+[[action]]
+text = "Get the second treasure map"
+location = 'Cumberland Falls'
+
+[[action]]
+text = "Get the third treasure map"
+location = 'Barrow Lagoon'
+
+[[action]]
+text = "Get the treasure"
+location = "Fort Wallace"
+finish_before = ['our-best-selves']

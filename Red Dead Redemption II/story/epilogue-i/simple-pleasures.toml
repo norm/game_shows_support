@@ -1,0 +1,10 @@
+title = 'Simple Pleasures'
+type = 'story'
+start = 'Pronghorn Ranch'
+end = 'Pronghorn Ranch'
+begin = "Talk to the foreman, do some chores"
+
+unlocks = [
+    'farming-for-beginners',
+    'fatherhood-for-beginners'
+]

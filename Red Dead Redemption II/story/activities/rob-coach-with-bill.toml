@@ -1,0 +1,13 @@
+title = "Rob a coach with Bill"
+start = 'Clemens Point'
+end = "The Heartlands"
+type = 'activity'
+begin = "One morning, talk to Bill as he's looking at the paper"
+
+finish_before = [
+    'revenge-is-a-dish-best-eaten',
+]
+
+
+[[action]]
+text = "Kill the guards, stop the coach, blow it open"

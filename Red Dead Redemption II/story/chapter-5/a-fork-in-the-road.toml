@@ -1,0 +1,18 @@
+title = 'A Fork in the Road'
+type = 'story'
+start = 'Saint Denis'
+end = 'Saint Denis'
+begin = "Go to Doyle's Tavern to join Sadie"
+
+unlocks = [
+    # story
+    'icarus-and-friends',
+
+    # stranger
+    'do-not-seek-absolution-part-one',
+    'charlotte-balfour-part-one',
+]
+
+
+[[action]]
+text = "Speak to the doctor, find out"

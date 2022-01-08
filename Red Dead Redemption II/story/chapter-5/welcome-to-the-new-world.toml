@@ -1,0 +1,14 @@
+title = 'Welcome to the New World'
+type = 'story'
+start = 'Guarma'
+end = 'La Capilla'
+begin = "Wake up on the shore of a tropical island"
+
+unlocks = [
+    'a-kind-and-benevolent-despot',
+    'savagery-unleashed',
+]
+
+
+[[action]]
+text = "Get captured, then escape the chain gang"

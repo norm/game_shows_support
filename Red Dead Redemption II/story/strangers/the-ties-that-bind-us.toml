@@ -1,0 +1,17 @@
+title = 'The Ties That Bind Us'
+type = 'stranger'
+start = "Rhodes"
+end = "Rhodes"
+begin = "Meet the two convicts on the other side of the tracks"
+
+
+[[action]]
+text = "Obtain the posters, give them their 'freedom'"
+
+[[post_action]]
+text = "[days later] Find the convicts again, give them medicine"
+location = 'Southfield Flats'
+
+[[post_action]]
+text = "[days later] Find the convicts for the last time"
+location = 'Stilt Shack'

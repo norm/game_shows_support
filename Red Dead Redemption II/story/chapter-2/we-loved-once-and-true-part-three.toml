@@ -1,0 +1,12 @@
+title = 'We Loved Once and True III'
+type = 'story'
+start = 'Cumberland Forest'
+end = 'Valentine'
+begin = "Find the Chelonians atop the hill"
+
+
+[[action]]
+text = "Respond positively to the leader to talk to Jamie"
+
+[[action]]
+text = "Stop Jamie committing suicide, return him to Valentine"

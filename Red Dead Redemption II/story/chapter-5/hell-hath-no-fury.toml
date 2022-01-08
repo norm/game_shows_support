@@ -1,0 +1,13 @@
+title = 'Hell Hath No Fury'
+type = 'story'
+start = 'Cinco Torres'
+end = 'paradise-mercifully-departed'
+begin = "Meet the gang at the fortress"
+
+unlocks = [
+    'paradise-mercifully-departed',
+]
+
+
+[[action]]
+text = "Shoot the incoming soldiers, destroy the warship"

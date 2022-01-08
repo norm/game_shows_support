@@ -1,0 +1,16 @@
+title = 'Goodbye, Dear Friend'
+type = 'story'
+start = 'Saint Denis'
+end = 'Beaver Hollow'
+begin = "Meet Sadie and Dutch in Doyle's Tavern"
+
+unlocks = [
+    'mrs-sadie-adler-widow-part-one',
+    'favored-sons',
+
+    # dead eye level 5
+]
+
+
+[[action]]
+text = "Snipe some O'Driscolls, escape"

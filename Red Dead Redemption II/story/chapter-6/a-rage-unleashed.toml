@@ -1,0 +1,14 @@
+title = 'A Rage Unleashed'
+type = 'story'
+start = 'Beaver Hollow'
+end = 'Lannahechee River'
+begin = "One morning, speak to Swanson"
+
+unlocks = [
+    'goodbye-dear-friend',
+    'archeology-for-beginners',
+]
+
+
+[[action]]
+text = "Subdue the soldiers, rescue the horses, accept talking to Rains Fall"

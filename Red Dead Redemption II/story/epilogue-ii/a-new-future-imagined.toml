@@ -1,0 +1,9 @@
+title = 'A New Future Imagined'
+type = 'story'
+start = "Beecher's Hope"
+end = "Beecher's Hope"
+begin = "Take Abigail to Blackwater for the day"
+
+unlocks = [
+    'american-venom',
+]

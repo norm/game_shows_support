@@ -1,0 +1,20 @@
+title = 'Visiting Hours'
+type = 'story'
+start = 'Copperhead Landing'
+end = 'Beaver Hollow'
+begin = "Meet Sadie at the dock and row to the penitentiary"
+
+unlocks = [
+    'just-a-social-call',
+]
+
+returns = [
+    'john',
+]
+
+
+[[action]]
+text = "Rescue John, do not kill the guard"
+
+[[action]]
+text = "While escaping by boat, watch for prisoners running for the shore"

@@ -1,0 +1,61 @@
+title = 'Geology for Beginners'
+type = 'stranger'
+start = "Strawberry"
+end = "Strawberry"
+begin = "Meet Francis at his hut"
+
+
+[[post_action]]
+text = "Find the rock carving"
+location = 'Mount Hagen'
+finish_before = ['chapter-5']
+
+[[post_action]]
+text = "Find the rock carving"
+location = 'Whinyard Strait'
+finish_before = ['chapter-5']
+
+[[post_action]]
+text = "Find the rock carving"
+location = 'Fort Wallace'
+finish_before = ['chapter-5']
+
+[[post_action]]
+text = "Find the rock carving"
+location = 'Cumberland Forest'
+finish_before = ['chapter-5']
+
+[[post_action]]
+text = "Find the rock carving"
+location = 'Owanjilla'
+finish_before = ['chapter-5']
+
+[[post_action]]
+text = "Find the rock carving"
+location = 'Mount Shann'
+finish_before = ['chapter-5']
+
+[[post_action]]
+text = "Find the rock carving"
+location = 'Flatneck Station'
+finish_before = ['chapter-5']
+
+[[post_action]]
+text = "Find the rock carving"
+location = 'Deer Cottage'
+finish_before = ['chapter-5']
+
+[[post_action]]
+text = "Find the rock carving"
+location = 'Moonstone Pond'
+finish_before = ['chapter-5']
+
+[[post_action]]
+text = "Find the rock carving"
+location = 'Elysian Pool'
+finish_before = ['chapter-5']
+
+[[post_action]]
+text = "After mailing the carving locations, visit Francis at his hut again, then return to inspect the map and loot"
+location = 'Strawberry'
+finish_before = ['chapter-5']

@@ -1,0 +1,17 @@
+title = 'Bare Knuckle Friendships'
+type = 'story'
+start = "Beecher's Hope"
+end = "Beecher's Hope"
+begin = "One morning, speak to Uncle"
+
+unlocks = [
+    'an-honest-days-labors',
+    'home-improvement-for-beginners',
+]
+
+
+[[action]]
+text = "Find Charles, then bet on him to win"
+
+[[action]]
+text = "Shoot some guys, then leave town"

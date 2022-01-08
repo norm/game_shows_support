@@ -1,0 +1,26 @@
+title = 'The American Inferno, Burnt Out'
+type = 'stranger'
+start = "Upper Montana River"
+end = "Upper Montana River"
+begin = "Meet Evelyn Miller, get invited to his cabin"
+
+
+[[action]]
+text = "Meet Evelyn Miller, go deal with some hunters"
+location = "Tanner's Reach"
+finish_before = ['a-new-future-imagined']
+
+[[action]]
+text = "Meet Evelyn Miller, give him some food"
+location = "Tanner's Reach"
+finish_before = ['a-new-future-imagined']
+
+[[action]]
+text = "Meet Evelyn Miller, give him some more food"
+location = "Tanner's Reach"
+finish_before = ['a-new-future-imagined']
+
+[[action]]
+text = "Meet Evelyn Miller's corpse, burn the shack"
+location = "Tanner's Reach"
+finish_before = ['a-new-future-imagined']

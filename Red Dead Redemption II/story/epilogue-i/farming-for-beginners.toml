@@ -1,0 +1,9 @@
+title = 'Farming, for Beginners'
+type = 'story'
+start = 'Pronghorn Ranch'
+end = 'Pronghorn Ranch'
+begin = "Help the foreman, and do some farming chores"
+
+unlocks = [
+    'old-habits',
+]

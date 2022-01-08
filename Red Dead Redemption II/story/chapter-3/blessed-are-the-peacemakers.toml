@@ -1,0 +1,19 @@
+title = 'Blessed are the Peacemakers'
+type = 'story'
+start = 'Clemens Point'
+end = 'Clemens Point'
+begin = "One morning, talk to Micah at Dutch's tent"
+
+unlocks = [
+    'a-short-walk-in-a-pretty-town',
+]
+
+
+[[action]]
+text = "Accompany Dutch and Micah to a meet, get captured"
+
+[[action]]
+text = "Break free, retrieve guns, kill O'Driscolls"
+
+[[action]]
+text = "Escape on foot, collapse cutscene, horse returns you to camp"

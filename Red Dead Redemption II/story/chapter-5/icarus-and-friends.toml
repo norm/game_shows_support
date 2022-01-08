@@ -1,0 +1,13 @@
+title = 'Icarus and Friends'
+type = 'story'
+start = 'Saint Denis'
+end = 'Kamassa River'
+begin = "Meet Sadie at Doyle's Tavern"
+
+unlocks = [
+    'visiting-hours',
+]
+
+
+[[action]]
+text = "Ride the balloon to the penitentiary and back"

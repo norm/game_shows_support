@@ -1,0 +1,10 @@
+title = 'The Battle of Shady Belle'
+type = 'story'
+start = 'Clemens Point'
+end = 'Saint Denis'
+begin = 'One morning, talk to Dutch, Hosea, and John'
+triggers = 'chapter-4'
+
+
+[[action]]
+text = "Refuse the Pinkertons offer, ride to Shady Belle, kill the raiders"

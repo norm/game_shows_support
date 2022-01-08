@@ -1,0 +1,13 @@
+title = 'An American Pastoral Scene'
+type = 'story'
+start = "Monto's Rest"
+end = 'Dakota River'
+begin = "Talk to Micah, help rob a stagecoach"
+
+unlocks = [
+    'advertising-the-new-american-art',
+]
+
+returns = [
+    'micah',
+]

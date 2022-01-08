@@ -1,0 +1,16 @@
+title = "Friends in Very Low Places"
+type = 'story'
+start = 'Clemens Point'
+end = 'Siltwater Strand'
+begin = "Talk to Trelawny at camp"
+
+unlocks = [
+    'a-short-walk-in-a-pretty-town',
+]
+
+
+[[action]]
+text = "Go to the Rhodes station, talk to Alden"
+
+[[action]]
+text = "Ride to the stagecoach, rob it"

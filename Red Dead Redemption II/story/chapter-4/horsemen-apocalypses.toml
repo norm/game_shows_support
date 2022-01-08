@@ -1,0 +1,21 @@
+title = 'Horsemen, Apocalypses'
+type = 'story'
+start = 'Shady Belle'
+end = 'Shady Belle'
+begin = "One morning, talk to Sadie"
+
+unlocks = [
+    'urban-pleasures',
+]
+
+dies = [
+    'kieran',
+]
+
+
+[[action]]
+text = "Defend the camp from the O'Driscolls"
+
+[[action]]
+text = "Talk to Mary-Beth after writing in your journal"
+

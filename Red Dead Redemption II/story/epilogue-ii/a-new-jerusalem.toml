@@ -1,0 +1,9 @@
+title = 'A New Jerusalem'
+type = 'story'
+start = "Beecher's Hope"
+end = "Beecher's Hope"
+begin = "Speak to Uncle, build a home"
+
+unlocks = [
+    'a-quick-favor-for-an-old-friend',
+]

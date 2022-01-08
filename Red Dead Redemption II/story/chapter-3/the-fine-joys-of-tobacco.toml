@@ -1,0 +1,16 @@
+title = 'The Fine Joys of Tobacco'
+type = 'story'
+start = 'Braithwaite Manor'
+end = 'Clemens Point'
+begin = "Arthur meets Hosea at Braithwaite Manor"
+
+unlocks = [
+    'blessed-are-the-peacemakers',
+]
+
+
+[[action]]
+text = "Accompany Sean with the moonshine to Caliga Hall"
+
+[[action]]
+text = "Kill the guard silently, burn the tobacco, kill the guards, escape"

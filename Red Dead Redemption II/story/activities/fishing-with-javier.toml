@@ -1,0 +1,13 @@
+title = "Go fishing with Javier"
+start = 'Clemens Point'
+end = "Ringneck Creek"
+type = 'activity'
+begin = "One morning, talk to Javier while he is sewing(?)"
+
+finish_before = [
+    'blessed-are-the-peacemakers',
+]
+
+
+[[action]]
+text = "Fail to catch fish, get crickets, say goodbye to Javier"

@@ -1,0 +1,13 @@
+title = 'Paradise Mercifully Departed'
+type = 'story'
+start = 'paradise-mercifully-departed'
+end = 'Van Horn'
+begin = "Go with Fontaine to destroy the gun batteries"
+
+unlocks = [
+    'dear-uncle-tacitus',
+]
+
+
+[[action]]
+text = "Rescue the ship's captain, resolve the standoff, kill Fussar"

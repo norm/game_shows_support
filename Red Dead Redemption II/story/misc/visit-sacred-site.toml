@@ -1,0 +1,8 @@
+title = 'Visit Sacred Site'
+start = 'Norteast Ambarino'
+end = 'Northeast Ambarino'
+type = 'location'
+begin = "Visit/pass by the Sacred Site while it is still intact"
+
+after = ['chapter-4']
+before = ['archeology-for-beginners']

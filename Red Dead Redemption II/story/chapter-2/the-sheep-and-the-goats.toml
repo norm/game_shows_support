@@ -1,0 +1,16 @@
+title = 'The Sheep and The Goats'
+type = 'story'
+start = 'Valentine'
+end = 'The Heartlands'
+begin = "Meet John by the station"
+
+unlocks = [
+    'a-strange-kindness',
+]
+
+
+[[action]]
+text = "Go get a sniper rifle, rustle some sheep, try to sell them"
+
+[[action]]
+text = "Meet Dutch at the saloon, get into a fight, escape the law"

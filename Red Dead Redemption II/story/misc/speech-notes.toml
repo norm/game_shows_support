@@ -1,0 +1,7 @@
+title = "Speech notes"
+start = "Horseshoe Overlook"
+end = "Horseshoe Overlook"
+type = 'location'
+begin = "Find Dutch's speech notes on table beside broken wagon"
+
+finish_before = ['who-is-not-without-sin']

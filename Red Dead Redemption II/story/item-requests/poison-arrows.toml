@@ -1,0 +1,14 @@
+title = "Poison arrows"
+start = "Horseshoe Overlook"
+end = "Horseshoe Overlook"
+type = 'item-request'
+begin = "Talk to Charles when he is making poison arrows"
+
+
+[[action]]
+text = "Pick oleander sage"
+
+[[post_action]]
+text = "Give Charles the oleander"
+location = 'Horseshoe Overlook'
+finish_before = ['a-strange-kindness']

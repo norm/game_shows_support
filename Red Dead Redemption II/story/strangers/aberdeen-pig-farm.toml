@@ -1,0 +1,12 @@
+title = 'Aberdeen Pig Farm'
+type = 'stranger'
+start = 'Aberdeen Pig Farm'
+end = 'Aberdeen Pig Farm'
+begin = "Stop at the farm, go inside the house, get robbed and thrown in the pit"
+
+
+[[action]]
+text = "Return, hogtie Tammy and take her to the pit"
+
+[[action]]
+text = "Loot the house, get money back from behind painting"

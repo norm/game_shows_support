@@ -1,0 +1,15 @@
+title = 'A Fisher of Men'
+type = 'story'
+start = 'Horseshoe Overlook'
+end = 'Horseshoe Overlook'
+begin = "Talk to Abigail one morning"
+triggers = 'penny-dreadful'     # item request
+
+unlocks = [
+    'the-sheep-and-the-goats',
+    'an-american-pastoral-scene',
+]
+
+
+[[action]]
+text = "Take Jack (slowly) to the river, show him how to fish"

@@ -1,0 +1,16 @@
+title = 'Money Lending and Other Sins IV'
+type = 'stranger'
+start = 'Clemens Point'
+end = 'Clemens Point'
+begin = "One morning, talk to Strauss"
+
+
+[[post_action]]
+text = "Meet Gwyn, dig up a body and stand guard"
+location = 'Rhodes'
+before = ['blessed-are-the-peacemakers']
+
+[[post_action]]
+text = "Meet Winton, kill the cougar in the cave"
+location = 'Strawberry'
+before = ['blessed-are-the-peacemakers']

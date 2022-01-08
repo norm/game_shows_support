@@ -1,0 +1,19 @@
+title = 'Revenge is a Dish Best Eaten'
+type = 'story'
+start = 'Lagras'
+end = 'Shady Belle'
+begin = "Meet Dutch at the bait place"
+
+unlocks = [
+    'banking-the-old-american-art',
+]
+
+
+[[action]]
+text = "Break into Bronte's place, and kill people"
+
+[[action]]
+text = "Make sure to loot Bronte after knocking him out"
+
+[[action]]
+text = "Escape the lawmen"

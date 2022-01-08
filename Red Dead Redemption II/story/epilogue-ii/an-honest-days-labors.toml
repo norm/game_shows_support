@@ -1,0 +1,13 @@
+title = "An Honest Day's Labors"
+type = 'story'
+start = "Blackwater"
+end = "Blackwater"
+begin = "Meet Sadie in the saloon"
+
+unlocks = [
+    'the-tool-box',
+]
+
+
+[[action]]
+text = "Kill Langton and his men, return the bounty target"

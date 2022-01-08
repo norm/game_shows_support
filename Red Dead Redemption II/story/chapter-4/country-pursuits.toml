@@ -1,0 +1,13 @@
+title = 'Country Pursuits'
+type = 'story'
+start = 'Saint Denis Shady Belle'
+end = 'Lagras'
+begin = "Dutch beckons Arthur up to his room"
+
+unlocks = [
+    'revenge-is-a-dish-best-eaten',
+]
+
+
+[[action]]
+text = "Help Thomas with his crawfish traps"

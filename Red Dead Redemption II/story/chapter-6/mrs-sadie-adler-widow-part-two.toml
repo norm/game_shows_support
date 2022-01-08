@@ -1,0 +1,14 @@
+title = 'Mrs Sadie Adler II'
+type = 'story'
+start = 'Hanging Dog Ranch'
+end = 'Hanging Dog Ranch'
+begin = "Find Sadie outside the ranch"
+
+unlocks = [
+    'my-last-boy',
+]
+
+
+[[action]]
+text = "Kill the remaining O'Driscolls"
+

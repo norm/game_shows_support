@@ -1,0 +1,10 @@
+title = "Five Dollars"
+start = "Horseshoe Overlook"
+end = "Horseshoe Overlook"
+type = 'item-request'
+begin = "Talk to Abigail when she is complaining about Jack's clothes"
+
+
+[[action]]
+text = "Give Abigail $5"
+finish_before = ['a-strange-kindness']

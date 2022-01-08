@@ -1,0 +1,19 @@
+title = 'Poisonous Trail'
+type = 'treasure-map'
+start = "Cairn Lake"
+end = "Cairn Lake"
+begin = "Find treasure map inside lockbox"
+
+
+[[action]]
+text = "Get the second treasure map"
+location = 'Face Rock'
+
+[[action]]
+text = "Get the third treasure map"
+location = 'Serpent Mound'
+
+[[action]]
+text = "Get the treasure"
+location = "Elysian Pool"
+finish_before = ['our-best-selves']

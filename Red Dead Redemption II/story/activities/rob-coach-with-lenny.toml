@@ -1,0 +1,13 @@
+title = "Rob a coach with Lenny"
+start = 'Shady Belle'
+end = 'Scarlett Meadows'
+type = 'activity'
+begin = "One morning, talk to Lenny in the house while he is polishing his rifle"
+
+finish_before = [
+    'banking-the-old-american-art',
+]
+
+
+[[action]]
+text = "Wait for Lenny to hold up the stage, kill the marshals"

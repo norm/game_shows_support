@@ -1,0 +1,11 @@
+title = "Thimble"
+start = "Horseshoe Overlook"
+end = "Horseshoe Overlook"
+type = 'item-request'
+begin = "Talk to Jack, he requests a thimble"
+
+
+[[post_action]]
+text = "Once looted, give Jack the thimble"
+location = 'Horseshoe Overlook'
+finish_before = ['a-strange-kindness']

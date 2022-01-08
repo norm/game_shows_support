@@ -1,0 +1,14 @@
+title = 'American Venom'
+type = 'story'
+start = "Beecher's Hope"
+end = "Beecher's Hope"
+begin = "Listen to Jack reading a story, then agree to go with Sadie"
+
+
+[[action]]
+text = "Get information out of Cleet, then hang him"
+location = 'Strawberry'
+
+[[action]]
+text = "Climb the mountain, then kill Micah"
+location = 'Mount Hagen'

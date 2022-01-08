@@ -1,0 +1,6 @@
+title = "White rabbit"
+start = 'Clemens Point'
+end = 'Clemens Point'
+type = 'location'
+begin = "Try to oversee Sean and Jack finding a dead white rabbit (foreshadowing)"
+triggers = 'a-short-walk-in-a-pretty-town'

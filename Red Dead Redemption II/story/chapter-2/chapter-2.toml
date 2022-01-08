@@ -1,0 +1,48 @@
+title = 'Chapter 2'
+type = 'marker'
+start = 'Horseshoe Overlook'
+end = 'Horseshoe Overlook'
+
+unlocks = [
+    # story
+    'americans-at-rest',
+    'polite-society-valentine-style',
+    'who-is-not-without-sin',
+
+    # stranger missions
+    'a-fisher-of-fish',
+    'a-test-of-faith',
+    'american-dreams',
+    'arcadia-for-amateurs-part-one',
+    'fundraiser-part-one',
+    'geology-for-beginners',
+    'smoking-and-other-hobbies',
+    'the-noblest-of-men-and-a-woman-part-one',
+
+    # item requests
+    'book',
+    'five-dollars',
+    'fountain-pen',
+    'pipe',
+    'poison-knives',
+    'rabbit',
+    'thimble',
+
+    # activities
+    'hunt-bison',
+    'rob-chez-porter',
+
+    # treasure maps
+    'all-that-glitters',
+    'landmarks-of-riches',
+    'poisonous-trail',
+
+    # other
+    'aberdeen-pig-farm',
+    'appleseed-timber',
+    'castors-ridge',
+    'camp-supplies',
+    'loot-crashed-train',
+    'railroad-camp',
+    'speech-notes',
+]

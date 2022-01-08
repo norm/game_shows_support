@@ -1,0 +1,16 @@
+title = 'Fatherhood and Other Dreams'
+type = 'story'
+start = 'Shady Belle'
+end = 'Saint Denis'
+begin = "Arthur reads a letter from Mary"
+
+
+[[action]]
+text = "Meet Mary at her hotel, follow her father"
+location = 'Saint Denis'
+
+[[action]]
+text = "Get the brooch back; and loot the lockbox of the wagon"
+
+[[action]]
+text = "Return to Mary, go to the theatre"

@@ -1,0 +1,9 @@
+title = 'The Aftermath of Genesis'
+type = 'story'
+start = 'Colter'
+end = 'Colter'
+begin = "Speak to Pearson, go hunting with Charles"
+
+unlocks = [
+    'who-the-hell-is-leviticus-cornwall',
+]

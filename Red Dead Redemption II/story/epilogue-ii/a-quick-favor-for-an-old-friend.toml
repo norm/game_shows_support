@@ -1,0 +1,16 @@
+title = 'A Quick Favor for an Old Friend'
+type = 'story'
+start = "Beecher's Hope"
+end = "Beecher's Hope"
+begin = "Speak to Uncle, under the tree"
+
+unlocks = [
+    'uncles-bad-day',
+]
+
+
+[[action]]
+text = "Get a bounty with Sadie and take him to Rhodes"
+
+[[action]]
+text = "Defend Rhodes, then retrieve the bounty again"

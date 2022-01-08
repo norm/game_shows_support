@@ -1,0 +1,13 @@
+title = 'No, No, and Thrice, No'
+type = 'story'
+start = 'Shady Belle'
+end = "Radley's House"
+begin = "One morning, speak to Mary-Beth"
+
+unlocks = [
+    'horsemen-apocalypses',
+]
+
+
+[[action]]
+text = "Free Tilly from the kidnappers, spare Anthony"

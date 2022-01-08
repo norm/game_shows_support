@@ -1,0 +1,22 @@
+title = 'American Dreams'
+type = 'stranger'
+start = "Valentine"
+end = "Valentine"
+begin = "Find the corpse under the railway bridge, on the way back to camp"
+
+
+[[post_action]]
+text = "Find the corpse on the rocks"
+location = "Wallace Station"
+
+[[post_action]]
+text = "Find the corpse on the tree"
+location = "Bolger Glade"
+
+[[post_action]]
+text = "Confront Lowry, get knocked out, kill him"
+location = "Lucky's Cabin"
+
+[[post_action]]
+text = "Return Lowry to the sheriff, be sure to save the sheriff"
+location = 'Valentine'

@@ -1,0 +1,12 @@
+title = 'The Iniquities of History'
+type = 'stranger'
+start = "Rhodes"
+end = "Compson's Stead"
+begin = "Talk to Compson outside the station"
+
+
+[[action]]
+text = "Break into his home, steal items"
+
+[[action]]
+text = "Return to Compson, burn his things, shoot him"

@@ -1,0 +1,9 @@
+title = 'Fatherhood, for Beginners'
+type = 'story'
+start = 'Pronghorn Ranch'
+end = 'Pronghorn Ranch'
+begin = "Talk to the ranch owner, help with the horses"
+
+unlocks = [
+    'old-habits',
+]

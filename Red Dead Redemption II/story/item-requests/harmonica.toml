@@ -1,0 +1,14 @@
+title = "Sadie's Harmonica"
+start = "Granger's Hoggery"
+end = "Granger's Hoggery"
+type = 'item-request'
+autobegin = true
+
+
+[[action]]
+text = "Get harmonica for Sadie from cabin"
+
+[[post_action]]
+text = "Give Sadie harmonica"
+location = 'Clemens Point'
+finish_before = ['blessed-are-the-peacemakers']

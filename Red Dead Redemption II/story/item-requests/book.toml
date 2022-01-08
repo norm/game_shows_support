@@ -1,0 +1,15 @@
+title = "Book"
+start = "Horseshoe Overlook"
+end = "Horseshoe Overlook"
+type = 'item-request'
+begin = "Pick up Hosea's book while he is in/near his tent"
+
+
+[[action]]
+text = "Loot the book"
+location = "Hagen Orchards"
+
+[[post_action]]
+text = "Give Hosea the book"
+location = 'Clemens Point'
+finish_before = ['blessed-are-the-peacemakers']

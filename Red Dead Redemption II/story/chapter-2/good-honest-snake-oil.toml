@@ -1,0 +1,13 @@
+title = 'Good, Honest, Snake Oil'
+type = 'story'
+start = 'Valentine'
+end = 'Valentine'
+begin = "Talk to the Sheriff, learn about wanted posters"
+
+unlocks = [
+    'pouring-forth-oil-part-one',
+]
+
+
+[[action]]
+text = "Capture Allbright alive, return to the sheriff"

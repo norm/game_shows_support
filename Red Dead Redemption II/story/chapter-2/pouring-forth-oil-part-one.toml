@@ -1,0 +1,13 @@
+title = 'Pouring Forth Oil I'
+type = 'story'
+start = 'Horseshoe Overlook'
+end = 'Old Trail Rise'
+begin = "Speak to Susan, go find John"
+
+unlocks = [
+    'pouring-forth-oil-part-three',
+]
+
+
+[[action]]
+text = "Steal oil wagon from Cornwall, take to hiding spot"

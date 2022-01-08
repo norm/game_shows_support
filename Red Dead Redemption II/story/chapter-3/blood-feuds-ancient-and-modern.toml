@@ -1,0 +1,22 @@
+title = 'Blood Feuds, Ancient and Modern'
+type = 'story'
+start = 'Clemens Point'
+end = 'Braithwaite Manor'
+begin = "Talk to Abigail"
+
+unlocks = [
+    'the-battle-of-shady-belle',
+]
+
+leaves = [
+    'jack',
+]
+
+
+[[action]]
+text = "Ride to Braithwaite Manor, kill people, burn it to the ground"
+
+[[post_action]]
+text = "Loot Catherine Braithwaite's corpse, and the manor (gold bar)"
+location = 'Braithwaite Manor'
+after = ['chapter-4']

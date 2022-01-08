@@ -1,0 +1,14 @@
+title = "Ginseng"
+start = "Clemens Point"
+end = "Clemens Point"
+type = 'item-request'
+begin = "Talk to Hosea when he is grinding herbs"
+
+
+[[action]]
+text = "Pick at least two American Ginseng"
+
+[[post_action]]
+text = "Give Hosea the ginseng"
+location = 'Clemens Point'
+finish_before = ['blessed-are-the-peacemakers']

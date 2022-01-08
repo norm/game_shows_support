@@ -1,0 +1,16 @@
+title = 'Archeology for Beginners'
+type = 'story'
+start = 'Wapiti Indian Reservation'
+end = "O'Creagh's Run"
+begin = "Visit Rains Fall's tent"
+
+unlocks = [
+    'honor-amongst-thieves',
+]
+
+
+[[action]]
+text = "Investigate the site, find the army camp, listen to their conversations"
+
+[[action]]
+text = "Return the pipe to Rains Fall without killing anyone"

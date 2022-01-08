@@ -1,0 +1,17 @@
+title = "Appleseed Timber"
+start = "Appleseed Timber"
+end = "Appleseed Timber"
+type = 'location'
+
+
+[[action]]
+text = "Speak to the foreman, sell him provisions (for profit, so stock up)"
+
+[[action]]
+text = "Help free the chap trapped under the fallen tree, give him $5"
+
+[[action]]
+text = "Speak to the foreman, kill the wolves"
+
+[[action]]
+text = "Visit the abandoned camp"

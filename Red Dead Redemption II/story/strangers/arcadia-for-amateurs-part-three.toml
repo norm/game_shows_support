@@ -1,0 +1,9 @@
+title = 'Arcadia for Amateurs'
+type = 'stranger'
+start = 'Emerald Station'
+end = 'Emerald Station'
+begin = "Help Mason photograph some horses"
+
+unlocks = [
+    'arcadia-for-amateurs-part-four',
+]

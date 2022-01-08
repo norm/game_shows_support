@@ -1,0 +1,26 @@
+title = "Money Lending and Other Sins I"
+type = 'story'
+start = 'Horseshoe Overlook'
+end = 'Horseshoe Overlook'
+begin = "One morning speak to Strauss to identify first three debtors"
+
+unlocks = [
+    'a-quiet-time',
+]
+
+
+# Part II is these, but they can be performed whenever
+[[post_action]]
+text = "Get money from Chick Matthews"
+location = 'Guthrie Farm'
+unlocks = ['money-lending-and-other-sins-part-three']
+
+[[post_action]]
+text = "Get money from Wrobel"
+location = 'Painted Sky'
+unlocks = ['money-lending-and-other-sins-part-three']
+
+[[post_action]]
+text = "Get money from Lilly Millet"
+location = 'Emerald Ranch'
+unlocks = ['money-lending-and-other-sins-part-three']

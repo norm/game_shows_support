@@ -1,0 +1,23 @@
+title = 'Angelo Bronte, A Man of Honor'
+type = 'story'
+start = 'Saint Denis'
+end = 'Shady Belle'
+begin = "Meet Dutch and John in a park across from Bronte's house"
+
+unlocks = [
+    # story
+    'the-gilded-cage',
+    'fatherhood-and-other-dreams',
+
+    # activities
+    'rob-coach-with-lenny',
+    'rob-coach-with-micah',
+    'hunt-crawfish',
+]
+
+
+[[action]]
+text = "Go kill the grave-robbers, sneak away from the law"
+
+[[action]]
+text = "Return to Shady Belle and celebrate the return of John"

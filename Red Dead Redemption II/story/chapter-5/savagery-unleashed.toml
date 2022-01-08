@@ -1,0 +1,13 @@
+title = 'Savagery Unleashed'
+type = 'story'
+start = 'Guarma'
+end = 'La Capilla'
+begin = "Get shot by a tranq going to rescue local workers"
+
+unlocks = [
+    'hell-hath-no-fury',
+]
+
+
+[[action]]
+text = "Break free, and rescue the workers being hanged"

@@ -1,0 +1,9 @@
+title = 'Of Men and Angels'
+type = 'stranger'
+start = 'Saint Denis'
+end = 'Saint Denis'
+begin = "Approach Sister Calderon at the cathedral"
+
+finish_before = [
+    'the-fine-art-of-conversation',
+]

@@ -1,0 +1,14 @@
+title = "Burdock"
+start = "Clemens Point"
+end = "Clemens Point"
+type = 'item-request'
+begin = "Talk to Kieran when he is brushing horses"
+
+
+[[action]]
+text = "Pick at least two Burdock Root"
+
+[[post_action]]
+text = "Give Kieran the burdock"
+location = 'Clemens Point'
+finish_before = ['blessed-are-the-peacemakers']

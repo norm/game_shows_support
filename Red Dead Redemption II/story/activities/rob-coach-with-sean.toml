@@ -1,0 +1,18 @@
+title = "Rob a coach with Sean"
+start = 'Clemens Point'
+end = "Face Rock"
+type = 'activity'
+begin = "One morning, talk to Sean"
+
+finish_before = [
+    'blessed-are-the-peacemakers',
+    'rob-coach-with-bill',
+]
+
+
+[[action]]
+text = "Take too long, Mary-Beth will be taken hostage"
+
+[[post_action]]
+text = "Talk to Mary-Beth about the stagecoach robbery experience"
+location = 'Clemens Point'

@@ -1,0 +1,13 @@
+title = "Go hunting with Pearson"
+start = 'Shady Belle'
+end = 'Shady Belle'
+type = 'activity'
+begin = "Talk to Pearson when he's out on the dock"
+
+finish_before = [
+    'revenge-is-a-dish-best-eaten',
+]
+
+
+[[action]]
+text = "Get some crawfish and gator eggs"

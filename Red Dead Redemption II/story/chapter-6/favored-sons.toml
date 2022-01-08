@@ -1,0 +1,14 @@
+title = 'Favored Sons'
+type = 'story'
+start = 'Cumberland Forest'
+end = 'Dakota River'
+begin = "Speak to Dutch atop the cliff, plant the dynamite"
+
+unlocks = [
+    'the-kings-son',
+    'mrs-sadie-adler-widow-part-one',
+]
+
+
+[[action]]
+text = "Kill the soldiers and escape"

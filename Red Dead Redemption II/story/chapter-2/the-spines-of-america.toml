@@ -1,0 +1,18 @@
+title = 'The Spines of America'
+type = 'story'
+start = 'Emerald Ranch'
+end = 'Emerald Ranch'
+begin = "One fine morning, speak to Hosea, and go steal back a stagecoach"
+
+unlocks = [
+    'the-sheep-and-the-goats',
+    'a-quiet-time',
+]
+
+returns = [
+    'hosea',
+]
+
+
+[[action]]
+text = "Break into Carmody Dell in the day"

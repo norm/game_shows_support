@@ -1,0 +1,13 @@
+title = "Rob Chez Porter"
+start = 'Horseshoe Overlook'
+end = "Chez Porter"
+type = 'activity'
+begin = "One morning, talk to Javier"
+
+finish_before = [
+    'a-strange-kindness',
+]
+
+
+[[action]]
+text = "Kill everyone, loot everything"

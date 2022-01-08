@@ -1,0 +1,15 @@
+title = "Fire arrows"
+start = "Horseshoe Overlook"
+end = "Horseshoe Overlook"
+type = 'item-request'
+begin = "Talk to Charles when he is making fire arrows"
+
+
+[[action]]
+text = "Buy/loot moonshine"
+
+[[post_action]]
+text = "Give Charles the moonshine"
+location = 'Horseshoe Overlook'
+finish_before = ['a-strange-kindness']
+unlocks = ['poison-arrows']

@@ -1,0 +1,14 @@
+title = "Poison Knives"
+start = "Horseshoe Overlook"
+end = "Horseshoe Overlook"
+type = 'item-request'
+begin = "Talk to Javier while he is making poison knives"
+
+
+[[action]]
+text = "Find some oleander sage"
+
+[[post_action]]
+text = "Give Javier the oleander sage"
+location = 'Horseshoe Overlook'
+finish_before = ['a-strange-kindness']

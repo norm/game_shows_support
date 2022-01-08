@@ -1,0 +1,18 @@
+title = 'Red Dead Redemption'
+type = 'story'
+start = 'Bacchus Station'
+end = 'Grizzlies East'
+autobegin = true
+triggers = 'epilogue-i'
+
+dies = [
+    'arthur',
+    'susan',
+]
+
+
+[[action]]
+text = "Rescue Abigail, escape Van Horn"
+
+[[action]]
+text = "Help John to escape, then fight Micah"

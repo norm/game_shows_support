@@ -1,0 +1,9 @@
+title = 'Chapter 1'
+type = 'marker'
+start = 'Colter'
+end = 'Colter'
+triggers = 'outlaws-from-the-west'
+
+leaves = [
+    'sean',
+]

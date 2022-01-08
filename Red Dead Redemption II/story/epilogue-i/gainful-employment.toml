@@ -1,0 +1,9 @@
+title = 'Gainful Employment'
+type = 'story'
+start = 'Valentine'
+end = 'Diablo Ridge'
+begin = "Meet Sadie in the saloon, go get a bounty"
+
+unlocks = [
+    'bare-knuckle-friendships',
+]

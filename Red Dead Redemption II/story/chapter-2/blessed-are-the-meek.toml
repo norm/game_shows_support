@@ -1,0 +1,9 @@
+title = 'Blessed are the Meek?'
+type = 'story'
+start = 'Strawberry'
+end = 'Lone Mule Stead'
+begin = "Break Micah out of jail, shoot up the place"
+
+unlocks = [
+    'an-american-pastoral-scene',
+]

@@ -1,0 +1,15 @@
+title = "Pipe"
+start = "Horseshoe Overlook"
+end = "Horseshoe Overlook"
+type = 'item-request'
+begin = "Talk to Dutch while he is smoking a cigar, right after arrival"
+
+
+[[action]]
+text = "Loot the pipe"
+location = "Vetter's Echo"
+
+[[post_action]]
+text = "Give Dutch the pipe"
+location = 'Horseshoe Overlook'
+finish_before = ['a-strange-kindness']

@@ -1,0 +1,24 @@
+title = 'Old Friends'
+type = 'story'
+start = 'Colter'
+end = 'Colter'
+begin = 'Check on Bill at camp, go to the gang hideout'
+
+unlocks = [
+    'who-the-hell-is-leviticus-cornwall',
+
+    # dead eye level 1
+]
+
+
+[[action]]
+text = "See Colm scolding Kieran"
+
+[[action]]
+text = "Listen to the previously spared O'Driscoll's comments"
+
+[[action]]
+text = "Kill the O'Driscolls"
+
+[[post_action]]
+text = "Find Kieran tied in the barn and talk to him"

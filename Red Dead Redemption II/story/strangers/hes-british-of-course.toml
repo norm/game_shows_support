@@ -1,0 +1,9 @@
+title = "He's British, of Course"
+type = 'stranger'
+start = "Lemoyne"
+end = "Lemoyne"
+begin = "Help Margaret get back his exotic animals"
+
+
+[[post_action]]
+text = "Get the lion's paw trinket from a fence"

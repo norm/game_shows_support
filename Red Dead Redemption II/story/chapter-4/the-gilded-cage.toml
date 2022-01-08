@@ -1,0 +1,19 @@
+title = 'The Gilded Cage'
+type = 'story'
+start = 'Shady Belle'
+end = 'Shady Belle'
+begin = "Speak to Hosea one evening, then attend a party"
+
+unlocks = [
+    # story
+    'a-fine-night-of-debauchery',
+    'american-fathers-part-one',
+    'horsemen-apocalypses',
+
+    # strangere
+    'duchesses-and-other-animals',
+]
+
+
+[[action]]
+text = "Steal the documents and leave"

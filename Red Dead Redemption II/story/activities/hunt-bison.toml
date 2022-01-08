@@ -1,0 +1,13 @@
+title = "Hunt bison with Charles"
+start = 'Horseshoe Overlook'
+end = "The Heartlands"
+type = 'activity'
+begin = "Talk to Charles while he is sharpening his knife"
+
+finish_before = [
+    'a-strange-kindness',
+]
+
+
+[[action]]
+text = "Hunt a bison, let the poacher go, loot the camp"

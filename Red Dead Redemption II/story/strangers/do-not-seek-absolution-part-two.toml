@@ -1,0 +1,12 @@
+title = 'Do Not Seek Absolution II'
+type = 'stranger'
+start = 'Annesburg'
+end = 'Annesburg'
+begin = "Meet Archie by the store, then go find his mother"
+
+
+[[action]]
+text = "Listen to enough of the conversation, then interrupt"
+
+[[action]]
+text = "Ask her to leave, ride back, give them money"

@@ -1,0 +1,15 @@
+title = 'A Strange Kindness'
+type = 'story'
+start = 'Horseshoe Overlook'
+end = 'Clemens Point'
+begin = "One morning, walk into Dutch's tent while he's arguing with Hosea"
+triggers = 'chapter-3'
+
+
+[[action]]
+text = "Investigate Dewberry Creek"
+
+[[post_action]]
+text = "Overhear Hosea at campfire saying '…if you stare into the fire…'"
+after = ['chapter-3']
+location = 'Clemens Point'

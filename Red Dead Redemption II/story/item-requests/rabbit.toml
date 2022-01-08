@@ -1,0 +1,14 @@
+title = "Rabbit"
+start = "Horseshoe Overlook"
+end = "Horseshoe Overlook"
+type = 'item-request'
+begin = "Talk to Pearson while he is drinking beer between 8am and noon"
+
+
+[[action]]
+text = "Bag a rabbit, but don't skin it"
+
+[[post_action]]
+text = "Give Pearson the rabbit carcass"
+location = 'Horseshoe Overlook'
+finish_before = ['a-strange-kindness']

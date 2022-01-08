@@ -1,0 +1,28 @@
+title = 'A Quiet Time'
+type = 'story'
+start = 'Horseshoe Overlook'
+end = 'Valentine'
+begin = "One evening before sunset, talk to Dutch at his tent"
+
+unlocks = [
+    'blessed-are-the-meek',
+    'a-fisher-of-men',
+
+    # lenny's item request
+    'pocket-watch',
+
+    # activity
+    'five-finger-fillet-with-lenny',
+]
+
+returns = [
+    'lenny',
+]
+
+
+[[action]]
+text = "Take Lenny to Valentine for a drink"
+location = 'Valentine'
+
+[[action]]
+text = "Catch Lenny in the act when searching for the third time"

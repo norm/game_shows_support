@@ -1,0 +1,418 @@
+#!/usr/bin/env python
+
+import argparse
+import csv
+import networkx as nx
+import os
+from pprint import pformat
+import string
+import sys
+import toml
+
+
+# FIXME
+# copy output to story.txt
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--csv', action='store_true')
+parser.add_argument('--debug', action='store_true')
+parser.add_argument('--main', action='store_true')
+parser.add_argument('--outline', action='store_true')
+parser.add_argument('--test', action='store_true')
+args = parser.parse_args()
+
+
+errors = False
+
+# abandoned -> story -> completed -> remaining threads
+story = toml.load(os.path.join('story', 'story.toml'))
+graph = nx.DiGraph()
+graph.add_node(
+    'abandoned',
+    text = '',
+    location = 'start',
+    type = 'marker',
+    context = 'ABANDONED',
+)
+graph.add_node(
+    'abandoned_end',
+    text = 'END OF ABANDONED',
+    location = 'start',
+    type = 'border',
+    context = 'ABANDONED',
+)
+graph.add_edge('abandoned', 'abandoned_end')
+graph.add_edge('abandoned_end', 'story')
+
+
+
+graph.add_node(
+    'completed',
+    text = 'COMPLETED TO HERE',
+    location = 'continue',
+    type = 'border',
+    context = 'COMPLETED',
+)
+
+
+for thread in story['completed_threads']:
+    graph.add_edge('%s_end' % thread, 'completed')
+for node in story['completed_nodes']:
+    graph.add_edge(node, 'completed')
+
+# where no threads connect to completed, it comes before start
+# where threads have been connected to completed, it will come after start
+if not story['completed_threads'] and not story['completed_nodes']:
+    graph.add_edge('completed', 'story')
+
+
+for root, dirs, files in os.walk('story'):
+    for file in files:
+        if not file.endswith('.toml'):
+            continue
+
+        thread = toml.load(os.path.join(root, file))
+        node = file[:-5]
+
+        for key in ('title', 'start', 'end', 'type'):
+            if key not in thread:
+                print('** %s missing from "%s"' % (key, node))
+                errors = True
+
+        last_node = node
+        location = thread['start']
+        if 'begin' in thread:
+            graph.add_node(
+                node,
+                action=True,
+                location=location,
+                text=thread['begin'],
+                context=thread['title'],
+                thread=node,
+                type=thread['type'],
+            )
+        else:
+            if (
+                    thread['type'] not in ('marker', 'location')
+                and 'autobegin' not in thread
+            ):
+                print('** no begin in "%s"' % node)
+                errors = True
+            graph.add_node(
+                node,
+                location=location,
+                text=thread['title'],
+                context=thread['title'],
+                thread=node,
+                type=thread['type'],
+            )
+
+        if 'action' in thread:
+            for index, action in enumerate(thread['action']):
+                node_id = '%s_%s' % (node, index)
+                if 'location' in action:
+                    location = action['location']
+                graph.add_node(
+                    node_id,
+                    action=True,
+                    location=location,
+                    text=action['text'],
+                    context=thread['title'],
+                    thread=node,
+                    type=thread['type'],
+                )
+                graph.add_edge(last_node, node_id)
+                last_node = node_id
+
+        node_id = '%s_end' % node
+        graph.add_node(
+            node_id,
+            location=thread['end'],
+            text='',
+            context=thread['title'],
+            thread=node,
+            type=thread['type'],
+        )
+        graph.add_edge(last_node, node_id)
+        last_node = node_id
+
+        # this mission immediately starts another
+        if 'triggers' in thread:
+            graph.add_edge(last_node, thread['triggers'])
+
+        # this mission unlocks further missions
+        # (so they necessarily come after)
+        if 'unlocks' in thread:
+            for unlock in thread['unlocks']:
+                graph.add_edge(last_node, unlock)
+
+        # this mission MUST be completed before some point
+        if 'finish_before' in thread:
+            for before in thread['finish_before']:
+                graph.add_edge(last_node, before)
+
+        # editorial ordering
+        if 'before' in thread:
+            for before in thread['before']:
+                graph.add_edge(last_node, before)
+
+        # editorial ordering
+        if 'after' in thread:
+            for after in thread['after']:
+                graph.add_edge('%s_end' % after, node)
+
+        # post actions come after the "end" of the mission,
+        # because they can be resolved at your leisure;
+        # they have the same unlocks/finish_before/before/after links
+        # available as the main mission
+        if 'post_action' in thread:
+            for index, action in enumerate(thread['post_action']):
+                node_id = '%s_post_%s' % (node, index)
+                if 'location' in action:
+                    location = action['location']
+                graph.add_node(
+                    node_id,
+                    action=True,
+                    location=location,
+                    text=action['text'],
+                    context=thread['title'],
+                    type=thread['type'],
+                )
+                graph.add_edge(last_node, node_id)
+                if 'unlocks' in action:
+                    for unlock in action['unlocks']:
+                        graph.add_edge(node_id, unlock)
+                if 'finish_before' in action:
+                    for before in action['finish_before']:
+                        graph.add_edge(node_id, before)
+                if 'before' in action:
+                    for before in action['before']:
+                        graph.add_edge(node_id, before)
+                if 'after' in action:
+                    for after in action['after']:
+                        graph.add_edge('%s_end' % after, node_id)
+
+
+# remove storyline edges for abandoned threads/nodes,
+# then connect them to abandoned for sorting
+remove_edges = []
+for thread in story['abandoned_threads']:
+    for edge in graph.edges:
+        if edge[0].startswith(thread) and not edge[1].startswith(thread):
+            remove_edges.append(edge)
+        if edge[1].startswith(thread) and not edge[0].startswith(thread):
+            remove_edges.append(edge)
+    graph.add_edge('%s_end' % thread, 'abandoned_end')
+    graph.add_edge('abandoned', thread)
+for edge in remove_edges:
+    if args.debug:
+        print('-- removing edge', edge)
+    graph.remove_edge(*edge)
+
+remove_edges = []
+for node in story['abandoned_nodes']:
+    for edge in graph.edges:
+        if edge[0] == node or edge[1] == node:
+            remove_edges.append(edge)
+    graph.add_edge('abandoned', node)
+for edge in remove_edges:
+    if args.debug:
+        print('-- removing edge', edge)
+    graph.remove_edge(*edge)
+
+
+if not nx.is_directed_acyclic_graph(graph):
+    print('** LOOP FOUND')
+    cycle = list(nx.find_cycle(graph, orientation='original'))
+    print("   '%s' [%s]" % (graph.nodes[cycle[0][0]]['text'], cycle[0][0]))
+    for index in cycle[1:]:
+        print("      => '%s' [%s]" % (
+            graph.nodes[index[1]]['text'],
+            index[1],
+        ))
+    sys.exit(2)
+
+
+if args.debug:
+    print(' == NODES')
+    nodes = list(graph.nodes)
+    for node in nodes:
+        print('   ', node, graph.nodes[node])
+    print(' == EDGES')
+    for edge in graph.edges:
+        print('   ', edge)
+    print(' == GRAPH')
+    for index in nx.topological_generations(graph):
+        print('   ', index)
+    print()
+
+
+# where threads of equal standing include certain types of threads,
+# those threads get elevated out
+sorted_graph = []
+for threads in list(nx.topological_generations(graph)):
+    if len(threads) > 1:
+        still_equal = []
+        for thread in threads:
+            node = graph.nodes[thread]
+            if node['type'] == 'border':
+                sorted_graph.append([thread])
+            elif '_post_' in thread:
+                sorted_graph.append([thread])
+            else:
+                still_equal.append(thread)
+        if len(still_equal):
+            sorted_graph.append(sorted(still_equal))
+    else:
+        sorted_graph.append(threads)
+
+
+if args.csv:
+    step = 0
+    current_location = ''
+    with open('story.csv', 'w') as handle:
+        writer = csv.DictWriter(
+            handle,
+            fieldnames=['step','location','node','text']
+        )
+        writer.writeheader()
+
+        for threads in sorted_graph:
+            step += 1
+            for index, node_id in enumerate(threads):
+                node = graph.nodes[node_id]
+
+                if 'location' in node:
+                    current_location = node['location']
+
+                row = {
+                    'location': current_location,
+                    'node': node_id,
+                }
+                if 'text' in node:
+                    row['text'] = node['text']
+                if index == 0:
+                    row['step'] = step
+
+                writer.writerow(row)
+
+
+current_location = ''
+used = {}
+for threads in sorted_graph:
+    def print_node(node_id, indent=''):
+        node = graph.nodes[node_id]
+        location = ' {%s}' % node['location']
+        bullet = ' '
+
+        if current_location != node['location']:
+            context = ''
+            if not '_post_' in node_id:
+                context = ' for %s' % node['context']
+            if node['type'] != 'border':
+                print(
+                    '%s%s {%s} %s%s' % (
+                        indent,
+                        bullet,
+                        current_location,
+                        'Go to %s' % node['location'],
+                        context,
+                    )
+                )
+        if 'type' in node and node['type'] == 'border':
+            print('\n%s\n' % (' %s ' % node['text']).center(80, '='))
+        elif 'type' in node and node['type'] == 'marker':
+            print('\n==== %s ====' % node['text'])
+        else:
+            bullet = '.'
+            if node['type'] == 'story':
+                bullet = '*'
+                if '_post_' in node_id:
+                    bullet = '-'
+            print(
+                '%s%s%s %s [%s]' % (
+                    indent,
+                    bullet,
+                    location,
+                    node['text'], 
+                    node['context'],
+                )
+            )
+
+    output_nodes = []
+
+    if args.debug:
+        print('<', threads)
+    for index in threads:
+        node = graph.nodes[index]
+        used[index] = 1
+        if not args.test and 'text' in node and node['text']:
+            if args.main:
+                if node['type'] == 'story':
+                    output_nodes.append(index)
+            else:
+                output_nodes.append(index)
+
+    if args.debug:
+        print('>', output_nodes)
+    if len(output_nodes) == 1:
+        if args.outline:
+            print(output_nodes[0])
+        else:
+            print_node(output_nodes[0])
+    elif len(output_nodes) > 1:
+        if args.outline:
+            print('--- %d equal options' % len(output_nodes))
+            for index in output_nodes:
+                print('   ', index)
+        else:
+            print(
+                '--- %d equal options:\n        [%s]' % (
+                    len(output_nodes),
+                    pformat(
+                        [ index for index in output_nodes ],
+                        indent = 9,
+                        width = 100,
+                        compact = True,
+                    )[1:-1].lstrip(),
+                )
+            )
+            for index in output_nodes:
+                print_node(index, indent='    ')
+
+    # update the current location only when there is a single thread
+    if len(threads) == 1:
+        if not (args.main and node['type'] not in ('story', 'marker')):
+            node = graph.nodes[threads[0]]
+            location = None
+            if 'location' in node:
+                location = node['location']
+            if args.debug and current_location != location:
+                print('  location: %s => %s' % (current_location, location))
+            if location:
+                current_location = location
+
+# look for missing or unused nodes
+for threads in sorted_graph:
+    for index in threads:
+        node = graph.nodes[index]
+        if 'text' not in node:
+            print('** node "%s" not populated' % index)
+            errors = True
+        if index not in used:
+            print('** node "%s" not used' % index)
+            errors = True
+
+# look for nodes without placement
+for threads in sorted_graph:
+    if 'abandoned' in threads and len(threads) > 1:
+        print(threads)
+        for node in threads:
+            if node == 'abandoned':
+                continue
+            print('** node "%s" not correctly placed' % node)
+            errors = True
+
+if args.test and errors:
+    sys.exit(1)

@@ -1,0 +1,13 @@
+title = 'Preaching Forgiveness as He Went'
+type = 'story'
+start = 'Clemens Point'
+end = 'Clemens Point'
+begin = "One morning, speak to Lenny by the lake"
+
+unlocks = [
+    'sodom-back-to-gomorrah',
+]
+
+
+[[action]]
+text = "Investigate Shady Belle, fight the Lemoyne Raiders"

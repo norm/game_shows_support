@@ -1,0 +1,15 @@
+title = "Molly's Pocket Mirror"
+start = "Clemens Point"
+end = "Martha's Swain"
+type = 'item-request'
+begin = "Molly will randomly speak to you and ask for pocket mirror"
+
+
+[[action]]
+text = "Get pocket mirror for Molly from cabin"
+location = "Martha's Swain"
+
+[[post_action]]
+text = "Give Molly pocket mirror"
+location = 'Clemens Point'
+finish_before = ['blessed-are-the-peacemakers']

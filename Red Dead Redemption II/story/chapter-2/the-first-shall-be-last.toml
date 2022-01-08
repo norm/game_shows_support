@@ -1,0 +1,26 @@
+title = 'The First Shall Be Last'
+type = 'story'
+start = 'Blackwater'
+end = 'Big Valley'
+begin = "Meet Javier, rescue Sean"
+
+returns = [
+    'charles',
+    'javier',
+    'sean',
+]
+
+unlocks = [
+    # activities
+    'hunt-bison',
+    'rob-chez-porter',
+
+    # requests
+    'fire-bottles',
+    'fire-arrows',
+]
+
+
+[[post_action]]
+text = "Celebrate Sean's return, catch Karen and Sean going to a tent together"
+location = 'Horseshoe Overlook'

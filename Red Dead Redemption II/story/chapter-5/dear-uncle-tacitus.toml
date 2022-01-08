@@ -1,0 +1,13 @@
+title = 'Dear Uncle Tacitus'
+type = 'story'
+start = 'Van Horn'
+end = 'Lakay'
+begin = "Grab a horse, and head to Shady Belle (triggering the cinematic camera)"
+triggers = 'fleeting-joy'
+
+
+[[action]]
+text = "Search upstairs first, do not read the letter, let the Pinkerton read it"
+
+[[action]]
+text = "Take your time escaping, to let the cutscene happen"

@@ -1,0 +1,13 @@
+title = "Go fishing with Kieran"
+start = 'Clemens Point'
+end = "Radley's Pasture"
+type = 'activity'
+begin = "One morning, talk to Kieran while he is sitting with his rod"
+
+finish_before = [
+    'blessed-are-the-peacemakers',
+]
+
+
+[[action]]
+text = "Start fishing, speak to the nude swimmer, try to catch the legendary fish"

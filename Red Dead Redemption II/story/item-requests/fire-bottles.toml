@@ -1,0 +1,14 @@
+title = "Fire bottles"
+start = "Horseshoe Overlook"
+end = "Horseshoe Overlook"
+type = 'item-request'
+begin = "Talk to Sean while he is making fire bottles"
+
+
+[[action]]
+text = "Buy/loot a bottle of Kentucky Bourbon"
+
+[[post_action]]
+text = "Give Sean the bottle of bourbon"
+location = 'Horseshoe Overlook'
+finish_before = ['a-strange-kindness']

@@ -1,0 +1,15 @@
+title = "Pocket Watch"
+start = "Horseshoe Overlook"
+end = "Horseshoe Overlook"
+type = 'item-request'
+begin = "Listen to Lenny during nighttime campfire talk, he will mention a pocket watch"
+
+
+[[action]]
+text = "Loot the pocket watch"
+location = "Vetter's Echo"
+
+[[post_action]]
+text = "Give Lenny the pocket watch"
+location = 'Horseshoe Overlook'
+finish_before = ['a-strange-kindness']

@@ -1,0 +1,16 @@
+title = "Mary-Beth's Fountain Pen"
+start = "Horseshoe Overlook"
+end = "Osman Grove"
+type = 'item-request'
+begin = "Speak to Mary-Beth when she is writing"
+
+
+[[post_action]]
+text = "Get fountain pen for Mary-Beth from cabin"
+location = 'Osman Grove'
+after = ['a-fisher-of-men']
+
+[[post_action]]
+text = "Give Mary-Beth fountain pen"
+location = 'Horseshoe Overlook'
+finish_before = ['a-strange-kindness']

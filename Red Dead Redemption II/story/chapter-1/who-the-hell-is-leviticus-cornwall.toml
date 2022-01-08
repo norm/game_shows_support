@@ -1,0 +1,18 @@
+title = 'Who the Hell is Leviticus Cornwall?'
+type = 'story'
+start = 'Colter'
+end = 'Granite Pass'
+begin = "Check on John in camp, go to rob a train with Dutch"
+
+unlocks = [
+    'eastward-bound',
+]
+
+
+[[action]]
+text = "Be sure to loot the two letters"
+
+[[post_action]]
+text = "Read the two letters looted from the train"
+location = 'Colter'
+finish_before = ['chapter-2']

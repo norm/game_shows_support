@@ -1,0 +1,12 @@
+title = 'Slim Grant'
+type = 'stranger'
+start = "Annesburg"
+end = "Brandywine Drop"
+begin = "Talk to the sheriff"
+
+
+[[action]]
+text = "Find Slim Grant, take him to Calloway, shoot him"
+
+[[post_action]]
+text = "[>3 days] Collect reward at Post Office"

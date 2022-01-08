@@ -14,6 +14,34 @@ of providing the right environment variables, including setting up `$PATH`
 to find the companion scripts kept in [bin/](bin).
 
 
+## Before capturing
+
+Some games are very linear in their story telling (eg. Assassin's Creed II)
+and some are open-world and will let you experience things in (mostly) any
+order (eg. Horizon Zero Dawn).
+
+The `story` script takes a collection of narrative threads and how they
+interplay and helps to resolve the ordering. Each thread gets its own file,
+describing what to do and its relationship to other threads, and the script
+gives you a list of actions to take.
+
+The format is described more in [story resolution][story-resolution.markdown].
+
+    # show the actions to take when capturing footage
+    # (also generates story.txt and story.csv)
+    ./generate story
+
+    # only show the main storyline, or the thread structure without the text
+    ./generate story --main
+    ./generate story --outline
+
+    # when something isn't connecting right, get a bunch of extra info
+    ./generate story --debug
+
+    # test the story graph (exits 1 for a thread error, 2 for a story loop)
+    ./generate story --test
+
+
 ## Preparing footage
 
 The raw capture footage is in `mkv` format and the audio level is quite quiet,

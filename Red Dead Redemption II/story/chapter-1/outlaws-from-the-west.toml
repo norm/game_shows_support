@@ -1,0 +1,17 @@
+title = 'Outlaws from the West'
+type = 'story'
+start = 'Colter'
+end = 'Colter'
+triggers = 'enter-pursued-by-a-memory'
+autobegin = true
+
+
+[[action]]
+text = "Rescue Sadie from the O'Driscolls"
+
+[[action]]
+text = "Spare the O'Driscoll"
+
+[[post_action]]
+text = "Offer Sadie the horse"
+location = 'Colter'

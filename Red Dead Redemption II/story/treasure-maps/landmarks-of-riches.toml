@@ -1,0 +1,23 @@
+title = 'Landmarks of Riches'
+type = 'treasure-map'
+start = "Obelisk"
+end = "Obelisk"
+begin = "Find treasure map inside"
+
+
+[[action]]
+text = "Get the second treasure map"
+location = 'Tiny Church'
+
+[[action]]
+text = "Get the third treasure map"
+location = 'Mysterious Hill Home'
+
+[[action]]
+text = "Get the fourth treasure map"
+location = 'Bolger Glade'
+
+[[action]]
+text = "Get the treasure"
+location = "Mount Shann"
+finish_before = ['our-best-selves']

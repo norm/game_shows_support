@@ -1,0 +1,20 @@
+title = 'Exit, Pursued by a Bruised Ego'
+type = 'story'
+start = 'Horseshoe Overlook'
+end = "O'Creagh's Run"
+begin = "One morning, talk to Hosea"
+
+leaves = [
+    'hosea',
+]
+
+unlocks = [
+    'the-spines-of-america',
+]
+
+
+[[action]]
+text = "Ride with Hosea to Valentine, sell horse, then go hunting"
+
+[[action]]
+text = "Attack but don't kill the legendary bear"

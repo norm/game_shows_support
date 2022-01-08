@@ -1,0 +1,19 @@
+title = 'All That Glitters'
+type = 'treasure-map'
+start = "Flatneck Station"
+end = "Flatneck Station"
+begin = "Meet Maximo and buy his map for $5 (refuse first offer)"
+
+
+[[action]]
+text = "Get the second treasure map"
+location = "Caliban's Seat"
+
+[[action]]
+text = "Get the third treasure map"
+location = 'Cotorra Springs'
+
+[[action]]
+text = "Get the treasure"
+location = "O'Creagh's Run"
+finish_before = ['our-best-selves']

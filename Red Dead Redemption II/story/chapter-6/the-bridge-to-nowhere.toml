@@ -1,0 +1,13 @@
+title = 'The Bridge to Nowhere'
+type = 'story'
+start = 'Bacchus Station'
+end = 'Bacchus Station'
+begin = "Meet John by the bridge"
+
+unlocks = [
+    'my-last-boy',
+]
+
+
+[[action]]
+text = "Plant the dynamite, escape the oncoming train, blow up the bridge"

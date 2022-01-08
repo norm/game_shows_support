@@ -1,0 +1,13 @@
+title = "Rob Lonnie's Shack"
+start = 'Clemens Point'
+end = "Lonnie's Shack"
+type = 'activity'
+begin = "Talk to Sean"
+
+finish_before = [
+    'blessed-are-the-peacemakers',
+]
+
+
+[[action]]
+text = "Rob Lonnie's Shack, don't kill the last outlaw"

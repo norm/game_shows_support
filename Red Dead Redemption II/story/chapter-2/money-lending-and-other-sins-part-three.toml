@@ -1,0 +1,16 @@
+title = "Money Lending and Other Sins III"
+type = 'story'
+start = 'Horseshoe Overlook'
+end = 'Horseshoe Overlook'
+begin = "Put a recovered debt in the camp box"
+
+unlocks = [
+    'the-sheep-and-the-goats',
+]
+
+
+[[action]]
+text = "Try to get money from Thomas Downes"
+
+[[action]]
+text = "Return to Strauss"

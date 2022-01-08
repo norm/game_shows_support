@@ -1,0 +1,20 @@
+title = 'My Last Boy'
+type = 'story'
+start = 'Beaver Hollow'
+end = 'Annesburg'
+begin = "One morning, speak to Dutch and Micah"
+
+unlocks = [
+    'our-best-selves',
+]
+
+leaves = [
+    'charles',
+    'karen',
+    'mary-beth',
+    'pearson',
+    'uncle',
+]
+
+[[action]]
+text = "Assault Cornwall Kerosene & Tar, take Eagle Flies home, then collapse"

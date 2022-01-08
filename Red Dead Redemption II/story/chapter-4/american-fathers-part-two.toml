@@ -1,0 +1,17 @@
+title = 'American Fathers II'
+type = 'story'
+start = 'The Heartlands'
+end = 'Twin Stack Pass'
+begin = "Meet Eagle Flies near the oil fields"
+
+unlocks = [
+    'banking-the-old-american-art',
+]
+
+
+[[action]]
+text = "Infiltrate the office of Danbury, and question him"
+
+[[action]]
+text = "Shoot your way out"
+

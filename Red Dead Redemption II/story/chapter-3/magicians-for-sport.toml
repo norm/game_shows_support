@@ -1,0 +1,17 @@
+title = 'Magicians for Sport'
+type = 'story'
+start = 'Clemens Point'
+end = 'Rhodes'
+begin = "One morning, Arthur speaks to dutch about bounty hunters"
+
+unlocks = [
+    'friends-in-very-low-places',
+    'blessed-are-the-peacemakers',
+]
+
+
+[[action]]
+text = "Investigate Trelawny's caravan, interrogate the men"
+
+[[action]]
+text = "Kill the bounty hunters, taking care to loot them and get the rare sniper rifle"

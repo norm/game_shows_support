@@ -1,0 +1,16 @@
+title = 'Americans at Rest'
+type = 'story'
+start = 'Valentine'
+end = 'Valentine'
+begin = 'Find Javier at the main saloon bar, get into a fight'
+
+unlocks = [
+    'the-first-shall-be-last',
+    'paying-a-social-call',
+    'money-lending-and-other-sins-part-one',
+    'exit-pursued-by-a-bruised-ego',
+]
+
+returns = [
+    'bill',
+]

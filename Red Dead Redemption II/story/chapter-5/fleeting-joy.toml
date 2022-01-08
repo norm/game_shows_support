@@ -1,0 +1,20 @@
+title = 'Fleeting Joy'
+type = 'story'
+start = 'Lakay'
+end = 'Lakay'
+begin = "Reunite with the gang"
+
+unlocks = [
+    # story
+    'a-fork-in-the-road',
+    'thats-murfree-country',
+
+    # strangers
+    'the-wisdom-of-the-elders-part-one'
+
+    # dead eye level 4
+]
+
+
+[[action]]
+text = "Fend off the Pinkerton attack"

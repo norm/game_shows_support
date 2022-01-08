@@ -1,0 +1,9 @@
+title = 'A Really Big Bastard'
+type = 'story'
+start = "Beecher's Hope"
+end = "Blackwater"
+begin = "Speak with Abigail, then go with Sadie to fetch a bounty"
+
+unlocks = [
+    'a-new-future-imagined',
+]

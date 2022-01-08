@@ -1,0 +1,17 @@
+title = 'The Wisdom of the Elders II'
+type = 'stranger'
+start = "Butcher's Creek"
+end = "Butcher's Creek"
+begin = "One night, visit Obediah, defend pigs from the mangy dogs"
+
+
+[[action]]
+text = "Destroy the 13 charms (a little to the south)"
+
+[[action]]
+text = "Invesigate the mine"
+location = 'Elysian Pool'
+
+[[action]]
+text = "Return to the creek, poison the shaman, take the money and read the letter"
+location = "Butcher's Creek"

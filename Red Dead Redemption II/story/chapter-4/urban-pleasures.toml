@@ -1,0 +1,15 @@
+title = 'Urban Pleasures'
+type = 'story'
+start = 'Saint Denis'
+end = 'Bayou Nwa'
+begin = "Meet Dutch by the trolley station"
+
+unlocks = [
+    'country-pursuits',
+
+    # dead eye level 3
+]
+
+
+[[action]]
+text = "Rob the trolley station, fight off the police, escape to the bayou"

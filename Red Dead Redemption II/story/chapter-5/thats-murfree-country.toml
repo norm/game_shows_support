@@ -1,0 +1,17 @@
+title = "That's Murfree Country"
+type = 'story'
+start = 'Lakay'
+end = 'Beaver Hollow'
+begin = "Listen to Dutch making chess moves, then speak to him"
+triggers = 'chapter-6'
+
+dies = [
+    'molly',
+]
+
+
+[[action]]
+text = "Ride to Beaver Hollow by canoe, dispatch the Murfrees"
+
+[[action]]
+text = "Take Meredith home to Annesburg"

@@ -1,0 +1,9 @@
+title = 'Jim Milton Rides, Again?'
+type = 'story'
+start = 'Pronghorn Ranch'
+end = 'Pronghorn Ranch'
+begin = "Kill some gang members at Hanging Dog Ranch"
+
+unlocks = [
+    'motherhood',
+]

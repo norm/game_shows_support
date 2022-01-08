@@ -1,0 +1,16 @@
+title = 'Horse Flesh for Dinner'
+type = 'story'
+start = 'Caliga Hall'
+end = 'Clemens Point'
+begin = 'Ask the guards where Javier and John are'
+
+unlocks = [
+    'a-short-walk-in-a-pretty-town',
+]
+
+
+[[action]]
+text = "Talk your way into the stable, wait for the stablehand to describe all three horses so Javier knocks him out"
+
+[[action]]
+text = "Steal the horses from the stables, and go sell them"

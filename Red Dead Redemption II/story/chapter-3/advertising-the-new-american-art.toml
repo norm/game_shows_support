@@ -1,0 +1,18 @@
+title = 'Advertising, the New American Art'
+type = 'story'
+start = 'Clemens Point'
+end = 'Clemens Point'
+begin = "Abigail tells Arthur to meet Hosea and John at the moonshine stash"
+
+unlocks = [
+    'magicians-for-sport',
+    'horse-flesh-for-dinner',
+    'the-fine-joys-of-tobacco',
+]
+
+
+[[action]]
+text = "Accompany Hosea to Braithwaite Manor to sell the moonshine"
+
+[[action]]
+text = "Sell moonshine in the Rhodes saloon, fight your way out of Rhodes"

@@ -1,0 +1,9 @@
+title = 'Trying Again'
+type = 'story'
+start = "Beecher's Hope"
+end = "Beecher's Hope"
+begin = "Speak to Jack (try doing it at night), then take him fishing"
+
+unlocks = [
+    'a-new-future-imagined',
+]

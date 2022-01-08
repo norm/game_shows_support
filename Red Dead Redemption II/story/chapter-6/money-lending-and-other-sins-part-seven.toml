@@ -1,0 +1,9 @@
+title = 'Money Lending and Other Sins VII'
+type = 'story'
+start = 'Beaver Hollow'
+end = 'Beaver Hollow'
+begin = "Return to camp, chuck Strauss out of the gang"
+
+leaves = [
+    'strauss',
+]

@@ -1,0 +1,19 @@
+title = 'An Honest Mistake'
+type = 'story'
+start = 'Clemens Point'
+end = 'Scarlett Meadows'
+begin = "Molly calls Arthur over to talk to him, but Uncle interrupts"
+
+unlocks = [
+    'preaching-forgiveness-as-he-went',
+
+    # strangers
+    'the-iniquities-of-history',
+]
+
+
+[[action]]
+text = "Go to rob the stagecoach, lose fight, hide in outhouse"
+
+[[action]]
+text = "Fight Cornwall's men, saving Uncle who gets overpowered"

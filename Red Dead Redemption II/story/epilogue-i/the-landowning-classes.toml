@@ -1,0 +1,13 @@
+title = 'The Landowning Classes'
+type = 'story'
+start = 'Blackwater'
+end = "Beecher's Hope"
+begin = "John gets a loan from the bank"
+triggers = 'epilogue-ii'
+
+
+[[action]]
+text = "Give the squatters money to leave, then return to the bank"
+
+[[action]]
+text = "Return to Beecher's Hope with Uncle"

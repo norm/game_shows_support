@@ -1,0 +1,9 @@
+title = 'The Wheel'
+type = 'story'
+start = 'Strawberry'
+end = 'Pronghorn Ranch'
+begin = "Deliver supplies to Pronghorn Ranch"
+
+unlocks = [
+    'simple-pleasures',
+]

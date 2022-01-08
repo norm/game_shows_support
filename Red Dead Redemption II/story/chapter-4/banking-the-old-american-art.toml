@@ -1,0 +1,19 @@
+title = 'Banking, the Old American Art'
+type = 'story'
+start = 'Saint Denis Shady Belle'
+end = 'Saint Denis Shady Belle'
+begin = "Meet Dutch and Hosea in Dutch's room"
+triggers = 'chapter-5'
+
+leaves = [
+    'john',
+]
+
+dies = [
+    'lenny',
+    'hosea',
+]
+
+
+[[action]]
+text = "Rob the bank, shoot a bunch of lawmen, escape on the boat"

@@ -1,0 +1,13 @@
+title = 'The Wisdom of the Elders I'
+type = 'stranger'
+start = 'Van Horn'
+end = "Butcher's Creek"
+begin = "Find Lemuel, take him home"
+
+unlocks = [
+    'the-wisdom-of-the-elders-part-two',
+]
+
+after = [
+    'thats-murfree-country',
+]

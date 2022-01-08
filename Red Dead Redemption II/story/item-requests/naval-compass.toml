@@ -1,0 +1,14 @@
+title = "Naval compass"
+start = "Clemens Point"
+end = "Braithwaite Manor"
+type = 'item-request'
+begin = "While playing poker, Pearson will mention a compass"
+
+
+[[action]]
+text = "Loot the compass from the Braithwaite Manor boathouse"
+
+[[post_action]]
+text = "Give Pearson the compass"
+location = 'Clemens Point'
+finish_before = ['blessed-are-the-peacemakers']

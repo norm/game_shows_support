@@ -1,0 +1,13 @@
+title = "The King's Son"
+type = 'story'
+start = 'Wapiti Indian Reservation'
+end = 'Dakota River'
+begin = "Speak to Charles"
+
+unlocks = [
+    'my-last-boy',
+]
+
+
+[[action]]
+text = "Assault Fort Wallace, escape by canoe"

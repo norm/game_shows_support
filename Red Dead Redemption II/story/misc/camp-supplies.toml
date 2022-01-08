@@ -1,0 +1,8 @@
+title = 'Camp Supplies'
+start = 'Horseshoe Overlook'
+end = 'Horseshoe Overlook'
+type = 'location'
+
+
+[[post_action]]
+text = 'Hunt food whenever camp supplies run low'

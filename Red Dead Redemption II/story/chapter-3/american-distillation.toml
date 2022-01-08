@@ -1,0 +1,23 @@
+title = 'American Distillation'
+type = 'story'
+start = 'Scarlett Meadows'
+end = 'Clemens Point'
+begin = "Speak to Dutch in the Sheriff's office"
+
+unlocks = [
+    'an-honest-mistake',
+    'advertising-the-new-american-art',
+
+    # stranger
+    'no-good-deed',
+]
+
+
+[[action]]
+text = "Accompany the wagon"
+
+[[action]]
+text = "Kill the moonshiners"
+
+[[action]]
+text = "Win the race back to camp"

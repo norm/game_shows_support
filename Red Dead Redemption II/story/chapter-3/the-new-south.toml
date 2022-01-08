@@ -1,0 +1,32 @@
+title = 'The New South'
+type = 'story'
+start = 'Clemens Point'
+end = 'Clemens Point'
+begin = "One morning, speak to Dutch by the lake"
+
+unlocks = [
+    # story
+    'the-course-of-true-love-part-one',
+    'american-distillation',
+
+    # activities
+    'fishing-with-javier',
+    'fishing-with-kieran',
+
+    # treasure map
+    'high-stakes',
+]
+
+returns = [
+    'trelawny',
+]
+
+
+[[action]]
+text = "Ride out, come across wagon"
+
+[[action]]
+text = "Board train, knock out Andersons, return Anders to sheriff"
+
+[[action]]
+text = "Go fishing with Dutch and Hosea"

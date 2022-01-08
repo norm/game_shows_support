@@ -1,0 +1,13 @@
+title = 'Do Not Seek Absolution I'
+type = 'stranger'
+start = 'Annesburg'
+end = 'Annesburg'
+begin = "Speak to Mrs Downes, under the bridge"
+
+unlocks = [
+    'do-not-seek-absolution-part-two',
+]
+
+
+[[action]]
+text = "Rescue Archie from the mine"

@@ -1,0 +1,20 @@
+title = 'A Short Walk in a Pretty Town'
+type = 'story'
+start = 'Rhodes'
+end = 'Scarlett Meadows'
+begin = "Meet Micah, Bill, and Sean"
+
+unlocks = [
+    'blood-feuds-ancient-and-modern',
+]
+
+dies = [
+    'sean',
+]
+
+
+[[action]]
+text = "Note the station and town are devoid of people (because of ambush)"
+
+[[action]]
+text = "Get ambushed, kill the Grays"

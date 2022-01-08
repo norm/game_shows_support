@@ -1,0 +1,8 @@
+title = 'Charlotte Balfour'
+type = 'location'
+start = "Willard's Rest"
+end = "Willard's Rest"
+
+
+[[action]]
+text = "Visit Charlotte and tell her of Arthur"

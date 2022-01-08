@@ -1,0 +1,13 @@
+title = 'The Course of True Love I+II'
+type = 'story'
+start = 'Caliga Hall'
+end = 'Braithwaite Manor'
+begin = 'Speak to Beau'
+
+unlocks = [
+    'the-course-of-true-love-part-three',
+]
+
+
+[[action]]
+text = "Sneak into Braithwaite Manor, give Penelope letter and gift"

@@ -1,0 +1,23 @@
+title = 'The Joys of Civilization'
+type = 'story'
+start = 'Saint Denis'
+end = 'Saint Denis'
+begin = "Try to enter the saloon"
+
+unlocks = [
+    # story
+    'no-no-and-thrice-no',
+    'angelo-bronte-a-man-of-honor',
+    'help-a-brother-out',
+
+    # strangers
+    'money-lending-and-other-sins-part-five',
+    'the-ties-that-bind-us',
+]
+
+
+[[action]]
+text = "Ask the bartender, then the urchins about Bronte"
+
+[[action]]
+text = "Catch Cleet before he reaches the market"

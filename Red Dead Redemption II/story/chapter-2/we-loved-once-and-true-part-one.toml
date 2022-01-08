@@ -1,0 +1,15 @@
+title = 'We Loved Once and True I'
+type = 'story'
+start = 'Horseshoe Overlook'
+end = 'Horseshoe Overlook'
+begin = "Read letter from Mary"
+
+unlocks = [
+    'we-loved-once-and-true-part-three',
+]
+
+
+[[post_action]]
+text = "Meet Mary in Valentine (be sure to have a hat on), choose to help Jamie"
+location = 'Valentine'
+unlocks = ['we-loved-once-and-true-part-three']

@@ -1,0 +1,14 @@
+title = "Uncle's Bad Day"
+type = 'story'
+start = "Beecher's Hope"
+end = "Beecher's Hope"
+begin = "Go the barn, drink the night away"
+
+unlocks = [
+    'trying-again',
+    'a-really-big-bastard',
+]
+
+
+[[action]]
+text = "Rescue Uncle from the Skinners"

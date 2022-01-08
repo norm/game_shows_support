@@ -1,0 +1,10 @@
+title = 'Old Habits'
+type = 'story'
+start = 'Pronghorn Ranch'
+end = 'Pronghorn Ranch'
+begin = "Fight a gang member"
+
+unlocks = [
+    'fatherhood-for-idiots',
+    'jim-milton-rides-again',
+]

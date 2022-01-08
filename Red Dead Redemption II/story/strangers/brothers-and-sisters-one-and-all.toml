@@ -1,0 +1,13 @@
+title = 'Brothers and Sisters, One and All'
+type = 'stranger'
+start = 'Saint Denis'
+end = 'Saint Denis'
+begin = "Speak to Sister Calderon outside the church"
+
+unlocks = [
+    'of-men-and-angels',
+]
+
+
+[[action]]
+text = "Get the crucifix back, escape the law, return to Sister Calderon"

@@ -1,0 +1,17 @@
+title = "Castor's Ridge"
+start = "Castor's Ridge"
+end = "Castor's Ridge"
+type = 'location'
+
+
+[[action]]
+text = "Watch the farmer and sons putting up the house"
+
+[[action]]
+text = "Rescue the farmer from extortionists"
+
+[[action]]
+text = "Help the farmer get some lumber"
+
+[[action]]
+text = "Say goodbye to the farmer, who has sold up"

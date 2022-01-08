@@ -1,0 +1,18 @@
+title = 'The Veteran'
+type = 'stranger'
+start = "O'Creagh's Run"
+end = "O'Creagh's Run"
+begin = "Find Hamish sat by a rock, help him back to his horse"
+
+
+[[post_action]]
+text = "[>1 day later] Go fishing with Hamish"
+finish_before = ['our-best-selves']
+
+[[post_action]]
+text = "[>1 day later] Go hunting wolves with Hamish"
+finish_before = ['our-best-selves']
+
+[[post_action]]
+text = "[>1 day later] Go hunting boar with Hamish; take Buell"
+finish_before = ['our-best-selves']

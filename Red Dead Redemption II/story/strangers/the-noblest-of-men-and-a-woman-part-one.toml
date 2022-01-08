@@ -1,0 +1,12 @@
+title = 'The Noblest of Men, and a Woman I'
+start = 'Valentine'
+end = 'Valentine'
+type = 'stranger'
+begin = "Enter Keane's Saloon, meet Theodore Levin"
+
+unlocks = [
+    'black-belle',
+    'emmet-granger',
+    'flaco-hernandez',
+    'billy-midnight',
+]

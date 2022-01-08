@@ -1,0 +1,9 @@
+title = 'Arcadia for Amateurs'
+type = 'stranger'
+start = 'Lagras'
+end = 'Lagras'
+begin = "Help Mason photograph some alligators"
+
+unlocks = [
+    'arcadia-for-amateurs-part-five',
+]

@@ -1,0 +1,23 @@
+title = 'A Fine Night of Debauchery'
+type = 'story'
+start = 'Saint Denis'
+end = 'Saint Denis'
+begin = "Speak to Trelawny, near the park"
+
+unlocks = [
+    # story
+    'banking-the-old-american-art',
+
+    # strangers
+    'the-noblest-of-men-and-a-woman-part-two',
+]
+
+
+[[action]]
+text = "Get a new suit and a trim"
+
+[[action]]
+text = "Rob the riverboat, do not kill the guard walks into the poker room shootout"
+
+[[post_action]]
+text = "Save the Wittemore outfit (from your horse) if you want to keep it"

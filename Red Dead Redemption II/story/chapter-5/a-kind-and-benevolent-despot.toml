@@ -1,0 +1,13 @@
+title = 'A Kind and Benevolent Despot'
+type = 'story'
+start = 'Arroyo de la Vibora'
+end = 'La Capilla'
+begin = "Meet Dutch by the entrance to a cave"
+
+unlocks = [
+    'hell-hath-no-fury',
+]
+
+
+[[action]]
+text = "Go through the cave and rescue Javier"

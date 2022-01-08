@@ -1,6 +1,6 @@
-#!/usr/bin/env bash -euo pipefail
+#!/usr/bin/env -S bash -euo pipefail
 
-DEFAULT_SHOW='Ezio Collection'
+DEFAULT_SHOW='Red Dead Redemption II'
 show="$DEFAULT_SHOW"
 
 function usage {
@@ -175,6 +175,18 @@ case "${1:-all}" in
 
     s3_backup)
         backup_to_s3
+        ;;
+
+    story)
+        _pushd "$show" >/dev/null
+        shift
+        if [ "$#" -gt 0 ]; then
+            resolve_story "$@"
+        else
+            resolve_story --test \
+                && resolve_story --csv | tee story.txt
+        fi
+        _popd
         ;;
 
     all)

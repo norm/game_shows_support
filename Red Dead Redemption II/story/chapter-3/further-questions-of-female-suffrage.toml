@@ -1,0 +1,21 @@
+title = 'Further Questions of Female Suffrage'
+type = 'story'
+start = 'Clemens Point'
+end = 'Clemens Point'
+begin = "One morning, see Pearson and Sadie arguing"
+triggers = 'harmonica'      # item request
+
+unlocks = [
+    # story
+    'blessed-are-the-peacemakers',
+
+    # stranger
+    'emmet-granger',
+]
+
+
+[[action]]
+text = "Take Sadie to Rhodes, follow her into the store"
+
+[[action]]
+text = "Shoot up the Lemoyne Raiders on the way back"

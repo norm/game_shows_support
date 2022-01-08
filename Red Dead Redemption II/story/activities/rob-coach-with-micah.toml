@@ -1,0 +1,16 @@
+title = "Rob a coach with Lenny"
+start = 'Shady Belle'
+end = 'Bayou Nwa'
+type = 'activity'
+begin = "One morning, talk to Micah"
+
+finish_before = [
+    'revenge-is-a-dish-best-eaten',
+]
+
+
+[[action]]
+text = "Ride slowly to get all the conversation"
+
+[[action]]
+text = "Blow up the dynamite, kill everyone, take the money"

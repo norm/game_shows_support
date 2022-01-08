@@ -1,0 +1,8 @@
+title = 'Epilogue II'
+type = 'marker'
+start = "Beecher's Hope"
+end = "Beecher's Hope"
+
+unlocks = [
+    'bare-knuckle-friendships',
+]

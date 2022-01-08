@@ -1,0 +1,14 @@
+title = 'Chapter 6'
+type = 'marker'
+start = 'Beaver Hollow'
+end = 'Beaver Hollow'
+
+unlocks = [
+    # story
+    'the-course-of-true-love-part-four',
+    'money-lending-and-other-sins-part-six',
+    'visiting-hours',
+
+    # strangers
+    'the-veteran',
+]

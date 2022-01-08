@@ -1,0 +1,13 @@
+title = 'The Course of True Love IV'
+type = 'story'
+start = 'Beaver Hollow'
+end = 'Riggs Station'
+begin = "Read a letter from Penelope Braithwaite"
+
+
+[[action]]
+text = "Ride with Penelope to Rhodes"
+location = 'Braithwaite Manor'
+
+[[action]]
+text = "Beat up the Grays, shoot those following the train; then decline the bracelet"

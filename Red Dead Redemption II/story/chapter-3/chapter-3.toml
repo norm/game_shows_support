@@ -1,0 +1,33 @@
+title = 'Chapter 3'
+type = 'marker'
+start = 'Clemens Point'
+end = 'Clemens Point'
+
+unlocks = [
+    # story
+    'further-questions-of-female-suffrage',
+    'the-new-south',
+    'money-lending-and-other-sins-part-four',
+
+    # item requests
+    'burdock',
+    'ginseng',
+    'naval-compass',
+    'necklace',
+    'pocket-mirror',
+
+    # stranger
+    'hes-british-of-course',
+    'the-smell-of-the-grease-paint',
+    'arcadia-for-amateurs-part-three',
+
+    # activities
+    'rob-lonnies-shack',
+    'rob-coach-with-sean',
+    'rob-coach-with-bill',
+
+    # other
+    'braithwaites-secret',
+    'white-rabbit',
+    'lorena',
+]

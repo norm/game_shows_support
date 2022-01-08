@@ -1,0 +1,15 @@
+title = "The Artist's Way"
+type = 'stranger'
+start = "Saint Denis"
+end = "Saint Denis"
+begin = "Meet Chatenay at Doyle's Tavern, by him a brandy"
+
+
+[[action]]
+text = "Rescue Chatenay from the jealous man"
+
+[[action]]
+text = "Attend an exhibition of Chatenay's"
+
+[[action]]
+text = "Help Chateney escape Saint Denis by boat"

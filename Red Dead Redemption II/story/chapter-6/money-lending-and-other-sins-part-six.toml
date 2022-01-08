@@ -1,0 +1,16 @@
+title = 'Money Lending and Other Sins VI'
+type = 'story'
+start = 'Beaver Hollow'
+end = 'Beaver Hollow'
+begin = "One morning, talk to Strauss"
+
+
+[[post_action]]
+text = "Find Weathers, fight off the army, absolve the debt"
+location = 'Three Sisters'
+unlocks = ['money-lending-and-other-sins-part-seven']
+
+[[post_action]]
+text = "Check the mine, go to the widow, absolve the debt and give her money"
+location = 'Annesburg'
+unlocks = ['money-lending-and-other-sins-part-seven']

@@ -1,0 +1,26 @@
+title = 'Who is not Without Sin'
+type = 'story'
+start = 'Horseshoe Overlook'
+end = 'Horseshoe Overlook'
+begin = "Get someone to mention Swanson has gone"
+
+unlocks = [
+    'a-strange-kindness',
+]
+
+returns = [
+    'swanson',
+]
+
+
+[[action]]
+text = "Go to Flatneck Station, find Swanson, play poker, find Swanson again"
+
+[[action]]
+text = "Beat stranger, rope witness (try to finish with camera facing bridge)"
+
+[[action]]
+text = "Save Swanson from the train"
+
+[[action]]
+text = "Greet gang members while still carrying Swanson"

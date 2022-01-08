@@ -1,0 +1,9 @@
+title = 'American Fathers I'
+type = 'story'
+start = 'Saint Denis'
+end = 'Saint Denis'
+begin = "Meet Evelyn Miller by the courthouse, introducing Eagle Flies and Rain Falls"
+
+unlocks = [
+    'american-fathers-part-two',
+]

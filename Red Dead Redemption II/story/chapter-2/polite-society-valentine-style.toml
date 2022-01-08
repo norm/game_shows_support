@@ -1,0 +1,30 @@
+title = 'Polite Society, Valentine Style'
+type = 'story'
+start = 'Horseshoe Overlook'
+end = "Valentine"
+begin = "One morning, wake up Uncle and take the girls to Valentine"
+
+unlocks = [
+    'exit-pursued-by-a-bruised-ego',
+    'good-honest-snake-oil',
+]
+
+
+[[action]]
+text = "Chase man who recognises you, save from falling"
+location = 'Valentine'
+
+[[action]]
+text = "Return horse to owner"
+
+[[post_action]]
+text = "Read journal about trip to Valentine"
+location = 'Horseshoe Overlook'
+
+[[post_action]]
+text = "Tell Dutch about man in Valentine recognising you"
+location = 'Horseshoe Overlook'
+
+[[post_action]]
+text = "Talk to Karen, Tilly, and Mary-Beth about trip to Valentine"
+location = 'Horseshoe Overlook'

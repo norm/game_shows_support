@@ -1,0 +1,33 @@
+title = 'Eastward Bound'
+type = 'story'
+start = 'Colter'
+end = 'Horseshoe Overlook'
+begin = "Returning to camp, speak to Dutch"
+triggers = 'chapter-2'
+
+leaves = [
+    'lenny',
+    'micah',
+    'swanson',
+    'charles',
+    'javier',
+    'bill',
+]
+
+
+[[action]]
+text = "Ride to the new camp with Hosea"
+location = 'Horseshoe Overlook'
+
+[[action]]
+text = "Talk to Lenny before he disappears"
+
+[[action]]
+text = "Insult Micah before he disappears"
+
+[[action]]
+text = "Read about moving camps in Journal"
+
+[[post_action]]
+after = ['chapter-2']
+text = "Listen to Karen/Tilly/Mary-Beth talk about being bored"

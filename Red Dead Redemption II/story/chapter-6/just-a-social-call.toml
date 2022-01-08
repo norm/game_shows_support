@@ -1,0 +1,14 @@
+title = 'Just a Social Call'
+type = 'story'
+start = 'Annesburg'
+end = 'Kamassa River'
+begin = "Meet Micah, then watch Dutch kill Cornwall"
+
+unlocks = [
+    'the-delights-of-van-horn',
+    'a-rage-unleashed',
+]
+
+
+[[action]]
+text = "Fight your way out of town, shooting the oil wagon for the explosion"

@@ -1,0 +1,12 @@
+title = 'Epilogue I'
+type = 'marker'
+start = 'Strawberry'
+end = 'Strawberry'
+
+unlocks = [
+    'the-wheel',
+
+    # stranger
+    'fundraiser-part-one',
+    'charlotte-balfour-part-two',
+]

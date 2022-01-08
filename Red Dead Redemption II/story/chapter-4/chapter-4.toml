@@ -1,0 +1,16 @@
+title = 'Chapter 4'
+type = 'marker'
+start = 'Shady Belle'
+end = 'Shady Belle'
+
+unlocks = [
+    # story
+    'the-joys-of-civilization',
+
+    # stranger
+    'the-artists-way',
+    'a-bright-bouncing-boy',
+
+    # activities
+    'rob-coach-with-lenny',
+]

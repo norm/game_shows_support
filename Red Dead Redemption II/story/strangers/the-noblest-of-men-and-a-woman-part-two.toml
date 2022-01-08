@@ -1,0 +1,11 @@
+title = 'The Noblest of Men, and a Woman II'
+start = 'Valentine'
+end = 'Valentine'
+type = 'stranger'
+begin = "Talk to the bartender about Theodore Levin"
+
+
+[[post_action]]
+text = "Board the ferry, talk to Theodore Levin"
+location = 'Saint Denis'
+unlocks = ['slim-grant']

@@ -1,0 +1,12 @@
+title = "Jack's Penny Dreadful"
+start = "Osman Grove"
+end = "Osman Grove"
+type = 'item-request'
+autobegin = true
+
+
+[[action]]
+text = "Get penny dreadful for Jack from cabin"
+
+[[post_action]]
+text = "Give Jack penny dreadful"

@@ -1,0 +1,13 @@
+title = 'The Tool Box'
+type = 'story'
+start = "Blackwater"
+end = "Beecher's Hope"
+begin = "Buy a home from Cakes Hardwood and Timber"
+
+unlocks = [
+    'a-new-jerusalem',
+]
+
+
+[[action]]
+text = "Buy some tools, get ambushed and kill the Skinners"

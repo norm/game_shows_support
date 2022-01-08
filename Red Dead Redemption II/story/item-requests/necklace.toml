@@ -1,0 +1,14 @@
+title = "Necklace"
+start = "Clemens Point"
+end = "Clemens Point"
+type = 'item-request'
+begin = "Play dominoes with Tilly, she'll mention a necklace"
+
+
+[[action]]
+text = "Loot a necklace"
+
+[[post_action]]
+text = "Give Tilly the necklace"
+location = 'Clemens Point'
+finish_before = ['blessed-are-the-peacemakers']

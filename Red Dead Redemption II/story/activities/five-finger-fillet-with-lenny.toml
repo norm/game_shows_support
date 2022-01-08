@@ -1,0 +1,9 @@
+title = "Five Finger Fillet with Lenny"
+start = 'Horseshoe Overlook'
+end = 'Horseshoe Overlook'
+type = 'activity'
+begin = "One morning, talk to Lenny at the table"
+
+finish_before = [
+    'a-strange-kindness',
+]
