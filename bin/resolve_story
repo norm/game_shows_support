@@ -106,6 +106,7 @@ for root, dirs, files in os.walk('story'):
                 context=thread['title'],
                 thread=node,
                 type=thread['type'],
+                autobegin='autobegin' in thread,
             )
 
         if 'action' in thread:
@@ -347,12 +348,19 @@ for threads in sorted_graph:
     for index in threads:
         node = graph.nodes[index]
         used[index] = 1
-        if not args.test and 'text' in node and node['text']:
-            if args.main:
-                if node['type'] == 'story':
+        if not args.test:
+            if (
+                    'autobegin' in node
+                and node['autobegin']
+                and node['type'] != 'marker'
+            ):
+                continue
+            if 'text' in node and node['text']:
+                if args.main:
+                    if node['type'] in ('story', 'marker', 'border'):
+                        output_nodes.append(index)
+                else:
                     output_nodes.append(index)
-            else:
-                output_nodes.append(index)
 
     if args.debug:
         print('>', output_nodes)
@@ -383,15 +391,12 @@ for threads in sorted_graph:
 
     # update the current location only when there is a single thread
     if len(threads) == 1:
-        if not (args.main and node['type'] not in ('story', 'marker')):
-            node = graph.nodes[threads[0]]
-            location = None
-            if 'location' in node:
-                location = node['location']
+        node = graph.nodes[threads[0]]
+        if 'location' in node:
+            location = node['location']
             if args.debug and current_location != location:
                 print('  location: %s => %s' % (current_location, location))
-            if location:
-                current_location = location
+            current_location = location
 
 # look for missing or unused nodes
 for threads in sorted_graph:
@@ -407,7 +412,6 @@ for threads in sorted_graph:
 # look for nodes without placement
 for threads in sorted_graph:
     if 'abandoned' in threads and len(threads) > 1:
-        print(threads)
         for node in threads:
             if node == 'abandoned':
                 continue

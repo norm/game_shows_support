@@ -8,11 +8,9 @@
 ==== START THE GAME ====
 
 ==== Chapter 1 ====
-* {Colter} Outlaws from the West [Outlaws from the West]
 * {Colter} Rescue Sadie from the O'Driscolls [Outlaws from the West]
 * {Colter} Spare the O'Driscoll [Outlaws from the West]
 - {Colter} Offer Sadie the horse [Outlaws from the West]
-* {Colter} Enter, Persued by a Memory [Enter, Persued by a Memory]
 * {Colter} Go with Javier to rescue John [Enter, Persued by a Memory]
 * {Colter} Check on Bill at camp, go to the gang hideout [Old Friends]
 * {Colter} See Colm scolding Kieran [Old Friends]
@@ -334,11 +332,8 @@
     . {Horseshoe Overlook} Kill everyone, loot everything [Rob Chez Porter]
   {Horseshoe Overlook} Go to Osman Grove
 . {Osman Grove} Get fountain pen for Mary-Beth from cabin [Mary-Beth's Fountain Pen]
---- 2 equal options:
-        ['penny-dreadful', 'pouring-forth-oil-part-one']
-    . {Osman Grove} Jack's Penny Dreadful [Jack's Penny Dreadful]
-      {Osman Grove} Go to Horseshoe Overlook for Pouring Forth Oil I
-    * {Horseshoe Overlook} Speak to Susan, go find John [Pouring Forth Oil I]
+  {Osman Grove} Go to Horseshoe Overlook for Pouring Forth Oil I
+* {Horseshoe Overlook} Speak to Susan, go find John [Pouring Forth Oil I]
 --- 2 equal options:
         ['penny-dreadful_0', 'pouring-forth-oil-part-one_0']
     . {Osman Grove} Get penny dreadful for Jack from cabin [Jack's Penny Dreadful]
@@ -475,8 +470,6 @@
     * {Caliga Hall} Speak to Beau [The Course of True Love I+II]
   {Clemens Point} Go to Caliga Hall for The Course of True Love I+II
 * {Caliga Hall} Sneak into Braithwaite Manor, give Penelope letter and gift [The Course of True Love I+II]
-  {Clemens Point} Go to Granger's Hoggery for Sadie's Harmonica
-. {Granger's Hoggery} Sadie's Harmonica [Sadie's Harmonica]
 --- 2 equal options:
         ['advertising-the-new-american-art', 'harmonica_0']
     * {Clemens Point} Abigail tells Arthur to meet Hosea and John at the moonshine stash [Advertising, the New American Art]
@@ -820,7 +813,6 @@
   {Annesburg} Go to Beaver Hollow for Our Best Selves
 * {Beaver Hollow} One morning, talk to Dutch [Our Best Selves]
 * {Beaver Hollow} Rob the train [Our Best Selves]
-* {Bacchus Station} Red Dead Redemption [Red Dead Redemption]
 * {Bacchus Station} Rescue Abigail, escape Van Horn [Red Dead Redemption]
 * {Bacchus Station} Help John to escape, then fight Micah [Red Dead Redemption]
   {Grizzlies East} Go to Strawberry for Epilogue I
@@ -843,13 +835,12 @@
 * {Pronghorn Ranch} Run some errands in Strawberry, then kill some fellers [Fatherhood, for Idiots]
 * {Pronghorn Ranch} Kill some gang members at Hanging Dog Ranch [Jim Milton Rides, Again?]
 * {Pronghorn Ranch} Get a telegram, pass some time, leave the ranch [Motherhood]
---- 4 equal options:
-        ['fundraiser-part-two', 'gainful-employment', 'graves', 'the-american-inferno-burnt-out']
+--- 3 equal options:
+        ['fundraiser-part-two', 'gainful-employment', 'the-american-inferno-burnt-out']
       {Big Valley} Go to Saint Denis for Fundraiser
     . {Saint Denis} Go see Arthur's name on the plaque at Quincy Harris Memorial Hall [Fundraiser]
       {Big Valley} Go to Valentine for Gainful Employment
     * {Valentine} Meet Sadie in the saloon, go get a bounty [Gainful Employment]
-    . {Big Valley} Paying Your Respects [Paying Your Respects]
       {Big Valley} Go to Upper Montana River for The American Inferno, Burnt Out
     . {Upper Montana River} Meet Evelyn Miller, get invited to his cabin [The American Inferno, Burnt Out]
   {Big Valley} Go to Tanner's Reach for The American Inferno, Burnt Out
