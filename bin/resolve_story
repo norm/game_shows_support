@@ -328,6 +328,7 @@ if args.csv:
 
 
 current_location = ''
+current_context = ''
 used = {}
 for threads in sorted_graph:
     def print_node(node_id, indent=''):
@@ -335,7 +336,14 @@ for threads in sorted_graph:
         location = ' {%s}' % node['location']
         bullet = ' '
 
-        if current_location != node['location']:
+        if (
+            current_location != node['location']
+            and (
+                current_context != node['context']
+                or
+                '_post_' in node_id
+            )
+        ):
             context = ''
             if not '_post_' in node_id:
                 context = ' for %s' % node['context']
@@ -417,14 +425,21 @@ for threads in sorted_graph:
             for index in output_nodes:
                 print_node(index, indent='    ')
 
-    # update the current location only when there is a single thread
-    if len(threads) == 1:
-        node = graph.nodes[threads[0]]
-        if 'location' in node:
-            location = node['location']
-            if args.debug and current_location != location:
-                print('  location: %s => %s' % (current_location, location))
-            current_location = location
+    # update the current location and context, but only if there is 
+    # one definitive change
+    new_locations = set([ graph.nodes[n]['location'] for n in threads ])
+    if len(new_locations) == 1:
+        location = list(new_locations)[0]
+        if args.debug and current_location != location:
+            print('  location: %s => %s' % (current_location, location))
+        current_location = location
+
+    new_contexts = set([ graph.nodes[n]['context'] for n in threads ])
+    if len(new_contexts) == 1:
+        context = list(new_contexts)[0]
+        if args.debug and current_context != context:
+            print('  context: %s => %s' % (current_context, context))
+        current_context = context
 
 # look for missing or unused nodes
 for threads in sorted_graph:

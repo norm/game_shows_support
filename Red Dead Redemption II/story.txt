@@ -23,7 +23,6 @@
   {Granite Pass} Go to Colter
 - {Colter} Read the two letters looted from the train [Who the Hell is Leviticus Cornwall?]
 * {Colter} Returning to camp, speak to Dutch [Eastward Bound]
-  {Colter} Go to Horseshoe Overlook for Eastward Bound
 * {Horseshoe Overlook} Ride to the new camp with Hosea [Eastward Bound]
 * {Horseshoe Overlook} Talk to Lenny before he disappears [Eastward Bound]
 * {Horseshoe Overlook} Insult Micah before he disappears [Eastward Bound]
@@ -222,7 +221,6 @@
 * {Flatneck Station} Save Swanson from the train [Who is not Without Sin]
 * {Horseshoe Overlook} Greet gang members while still carrying Swanson [Who is not Without Sin]
 * {Horseshoe Overlook} One morning, wake up Uncle and take the girls to Valentine [Polite Society, Valentine Style]
-  {Horseshoe Overlook} Go to Valentine for Polite Society, Valentine Style
 * {Valentine} Chase man who recognises you, save from falling [Polite Society, Valentine Style]
 * {Valentine} Return horse to owner [Polite Society, Valentine Style]
 --- 3 equal options:
@@ -234,6 +232,7 @@
     - {Horseshoe Overlook} Tell Dutch about man in Valentine recognising you [Polite Society, Valentine Style]
       {Valentine} Go to Horseshoe Overlook
     - {Horseshoe Overlook} Talk to Karen, Tilly, and Mary-Beth about trip to Valentine [Polite Society, Valentine Style]
+  {Horseshoe Overlook} Go to Valentine for Good, Honest, Snake Oil
 * {Valentine} Talk to the Sheriff, learn about wanted posters [Good, Honest, Snake Oil]
 * {Valentine} Capture Allbright alive, return to the sheriff [Good, Honest, Snake Oil]
 --- 2 equal options:
@@ -314,7 +313,6 @@
     - {Painted Sky} Get money from Wrobel [Money Lending and Other Sins I]
   {Emerald Ranch} Go to Horseshoe Overlook for A Quiet Time
 * {Horseshoe Overlook} One evening before sunset, talk to Dutch at his tent [A Quiet Time]
-  {Horseshoe Overlook} Go to Valentine for A Quiet Time
 * {Valentine} Take Lenny to Valentine for a drink [A Quiet Time]
 * {Valentine} Catch Lenny in the act when searching for the third time [A Quiet Time]
 --- 3 equal options:
@@ -327,17 +325,13 @@
     . {Horseshoe Overlook} Listen to Lenny during nighttime campfire talk, he will mention a pocket watch [Pocket Watch]
 --- 2 equal options:
         ['paying-a-social-call_0', 'pocket-watch_0']
-      {Valentine} Go to Horseshoe Overlook for Paying a Social Call
     * {Horseshoe Overlook} Follow Kieran to Six Point Cabin, kill some O'Driscolls, escape the law [Paying a Social Call]
-      {Valentine} Go to Vetter's Echo for Pocket Watch
+      {Horseshoe Overlook} Go to Vetter's Echo for Pocket Watch
     . {Vetter's Echo} Loot the pocket watch [Pocket Watch]
 --- 2 equal options:
         ['paying-a-social-call_post_0', 'pocket-watch_post_0']
-      {Valentine} Go to Horseshoe Overlook
     - {Horseshoe Overlook} Read about shotgun in journal [Paying a Social Call]
-      {Valentine} Go to Horseshoe Overlook
     . {Horseshoe Overlook} Give Lenny the pocket watch [Pocket Watch]
-  {Valentine} Go to Horseshoe Overlook for We Loved Once and True I
 * {Horseshoe Overlook} Read letter from Mary [We Loved Once and True I]
   {Horseshoe Overlook} Go to Valentine
 - {Valentine} Meet Mary in Valentine (be sure to have a hat on), choose to help Jamie [We Loved Once and True I]
@@ -371,7 +365,6 @@
     . {Horseshoe Overlook} Give Mary-Beth fountain pen [Mary-Beth's Fountain Pen]
       {Old Trail Rise} Go to Horseshoe Overlook
     . {Horseshoe Overlook} Give Jack penny dreadful [Jack's Penny Dreadful]
-  {Old Trail Rise} Go to Horseshoe Overlook for Pouring Forth Oil III
 * {Horseshoe Overlook} Speak to John, refresh your weapons and go meet the gang [Pouring Forth Oil III]
 * {Horseshoe Overlook} Steal oil wagon from Cornwall, take to hiding spot [Pouring Forth Oil III]
   {The Heartlands} Go to Strawberry for Blessed are the Meek?
@@ -621,39 +614,33 @@
     . {Saint Denis} Speak to Sister Calderon outside the church [Brothers and Sisters, One and All]
 --- 2 equal options:
         ['angelo-bronte-a-man-of-honor_0', 'brothers-and-sisters-one-and-all_0']
-      {Stilt Shack} Go to Saint Denis for Angelo Bronte, A Man of Honor
     * {Saint Denis} Go kill the grave-robbers, sneak away from the law [Angelo Bronte, A Man of Honor]
-      {Stilt Shack} Go to Saint Denis for Brothers and Sisters, One and All
     . {Saint Denis} Get the crucifix back, escape the law, return to Sister Calderon [Brothers and Sisters, One and All]
-  {Stilt Shack} Go to Saint Denis for Angelo Bronte, A Man of Honor
 * {Saint Denis} Return to Shady Belle and celebrate the return of John [Angelo Bronte, A Man of Honor]
-  {Stilt Shack} Go to Saint Denis for Of Men and Angels
 . {Saint Denis} Approach Sister Calderon at the cathedral [Of Men and Angels]
 --- 4 equal options:
         ['hunt-crawfish', 'no-no-and-thrice-no', 'rob-coach-with-lenny', 'rob-coach-with-micah']
-      {Stilt Shack} Go to Shady Belle for Go hunting with Pearson
+      {Saint Denis} Go to Shady Belle for Go hunting with Pearson
     . {Shady Belle} Talk to Pearson when he's out on the dock [Go hunting with Pearson]
-      {Stilt Shack} Go to Shady Belle for No, No, and Thrice, No
+      {Saint Denis} Go to Shady Belle for No, No, and Thrice, No
     * {Shady Belle} One morning, speak to Mary-Beth [No, No, and Thrice, No]
-      {Stilt Shack} Go to Shady Belle for Rob a coach with Lenny
+      {Saint Denis} Go to Shady Belle for Rob a coach with Lenny
     . {Shady Belle} One morning, talk to Lenny in the house while he is polishing his rifle [Rob a coach with Lenny]
-      {Stilt Shack} Go to Shady Belle for Rob a coach with Lenny
+      {Saint Denis} Go to Shady Belle for Rob a coach with Lenny
     . {Shady Belle} One morning, talk to Micah [Rob a coach with Lenny]
 --- 4 equal options:
         ['hunt-crawfish_0', 'no-no-and-thrice-no_0', 'rob-coach-with-lenny_0', 'rob-coach-with-micah_0']
-      {Stilt Shack} Go to Shady Belle for Go hunting with Pearson
+      {Saint Denis} Go to Shady Belle for Go hunting with Pearson
     . {Shady Belle} Get some crawfish and gator eggs [Go hunting with Pearson]
-      {Stilt Shack} Go to Shady Belle for No, No, and Thrice, No
+      {Saint Denis} Go to Shady Belle for No, No, and Thrice, No
     * {Shady Belle} Free Tilly from the kidnappers, spare Anthony [No, No, and Thrice, No]
-      {Stilt Shack} Go to Shady Belle for Rob a coach with Lenny
+      {Saint Denis} Go to Shady Belle for Rob a coach with Lenny
     . {Shady Belle} Wait for Lenny to hold up the stage, kill the marshals [Rob a coach with Lenny]
-      {Stilt Shack} Go to Shady Belle for Rob a coach with Lenny
+      {Saint Denis} Go to Shady Belle for Rob a coach with Lenny
     . {Shady Belle} Ride slowly to get all the conversation [Rob a coach with Lenny]
-  {Stilt Shack} Go to Shady Belle for Rob a coach with Lenny
 . {Shady Belle} Blow up the dynamite, kill everyone, take the money [Rob a coach with Lenny]
-  {Stilt Shack} Go to Shady Belle for Fatherhood and Other Dreams
 * {Shady Belle} Arthur reads a letter from Mary [Fatherhood and Other Dreams]
-  {Stilt Shack} Go to Saint Denis for Fatherhood and Other Dreams
+  {Shady Belle} Go to Saint Denis for Fatherhood and Other Dreams
 * {Saint Denis} Meet Mary at her hotel, follow her father [Fatherhood and Other Dreams]
 * {Saint Denis} Get the brooch back; and loot the lockbox of the wagon [Fatherhood and Other Dreams]
 * {Saint Denis} Return to Mary, go to the theatre [Fatherhood and Other Dreams]
@@ -808,7 +795,6 @@
     - {Three Sisters} Find Weathers, fight off the army, absolve the debt [Money Lending and Other Sins VI]
 * {Beaver Hollow} Return to camp, chuck Strauss out of the gang [Money Lending and Other Sins VII]
 * {Beaver Hollow} Read a letter from Penelope Braithwaite [The Course of True Love IV]
-  {Beaver Hollow} Go to Braithwaite Manor for The Course of True Love IV
 * {Braithwaite Manor} Ride with Penelope to Rhodes [The Course of True Love IV]
 * {Braithwaite Manor} Beat up the Grays, shoot those following the train; then decline the bracelet [The Course of True Love IV]
   {Riggs Station} Go to Annesburg for Just a Social Call
@@ -949,7 +935,5 @@
   {Blackwater} Go to Beecher's Hope for A New Future Imagined
 * {Beecher's Hope} Take Abigail to Blackwater for the day [A New Future Imagined]
 * {Beecher's Hope} Listen to Jack reading a story, then agree to go with Sadie [American Venom]
-  {Beecher's Hope} Go to Strawberry for American Venom
 * {Strawberry} Get information out of Cleet, then hang him [American Venom]
-  {Strawberry} Go to Mount Hagen for American Venom
 * {Mount Hagen} Climb the mountain, then kill Micah [American Venom]
