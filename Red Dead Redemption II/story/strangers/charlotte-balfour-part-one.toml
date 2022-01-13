@@ -12,9 +12,11 @@ text = "See if you can find a chap in a tent nearby, scare him off"
 finish_before = ['our-best-selves']
 
 [[post_action]]
+chained = true
 text = "[>2 days later] Help Charlotte learn to shoot"
 finish_before = ['our-best-selves']
 
 [[post_action]]
+chained = true
 text = "[>4 days later] Visit Charlotte one last time"
 finish_before = ['our-best-selves']

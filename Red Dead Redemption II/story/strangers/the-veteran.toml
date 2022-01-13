@@ -10,9 +10,11 @@ text = "[>1 day later] Go fishing with Hamish"
 finish_before = ['our-best-selves']
 
 [[post_action]]
+chained = true
 text = "[>1 day later] Go hunting wolves with Hamish"
 finish_before = ['our-best-selves']
 
 [[post_action]]
+chained = true
 text = "[>1 day later] Go hunting boar with Hamish; take Buell"
 finish_before = ['our-best-selves']

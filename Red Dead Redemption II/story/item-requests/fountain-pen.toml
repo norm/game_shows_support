@@ -1,6 +1,6 @@
 title = "Mary-Beth's Fountain Pen"
 start = "Horseshoe Overlook"
-end = "Osman Grove"
+end = "Horseshoe Overlook"
 type = 'item-request'
 begin = "Speak to Mary-Beth when she is writing"
 
@@ -9,13 +9,12 @@ before = [
 ]
 
 
-
 [[post_action]]
 text = "Get fountain pen for Mary-Beth from cabin"
 location = 'Osman Grove'
-after = ['a-fisher-of-men', 'the-spines-of-america']  # to be in the area
+after = ['penny-dreadful']  # same looting location
 
 [[post_action]]
+chained = true
 text = "Give Mary-Beth fountain pen"
 location = 'Horseshoe Overlook'
-finish_before = ['a-strange-kindness']

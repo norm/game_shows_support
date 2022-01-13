@@ -112,16 +112,14 @@
     . {Tiny Church} Get the second treasure map [Landmarks of Riches]
       {Horseshoe Overlook} Go to Vetter's Echo for Pipe
     . {Vetter's Echo} Loot the pipe [Pipe]
---- 18 equal options:
-        ['fountain-pen_post_1', 'thimble_post_0', 'american-dreams_post_1',
-         'geology-for-beginners_post_3', 'geology-for-beginners_post_7',
-         'geology-for-beginners_post_9', 'geology-for-beginners_post_11',
-         'geology-for-beginners_post_6', 'geology-for-beginners_post_2', 'american-dreams_post_2',
-         'geology-for-beginners_post_8', 'geology-for-beginners_post_0',
-         'geology-for-beginners_post_5', 'geology-for-beginners_post_4',
-         'geology-for-beginners_post_10', 'american-dreams_post_3', 'american-dreams_post_0',
-         'geology-for-beginners_post_1']
-    . {Horseshoe Overlook} Give Mary-Beth fountain pen [Mary-Beth's Fountain Pen]
+--- 17 equal options:
+        ['thimble_post_0', 'american-dreams_post_1', 'geology-for-beginners_post_3',
+         'geology-for-beginners_post_7', 'geology-for-beginners_post_9',
+         'geology-for-beginners_post_11', 'geology-for-beginners_post_6',
+         'geology-for-beginners_post_2', 'american-dreams_post_2', 'geology-for-beginners_post_8',
+         'geology-for-beginners_post_0', 'geology-for-beginners_post_5',
+         'geology-for-beginners_post_4', 'geology-for-beginners_post_10', 'american-dreams_post_3',
+         'american-dreams_post_0', 'geology-for-beginners_post_1']
     . {Horseshoe Overlook} Once looted, give Jack the thimble [Thimble]
       {Horseshoe Overlook} Go to Bolger Glade
     . {Bolger Glade} Find the corpse on the tree [American Dreams]
@@ -359,17 +357,21 @@
         ['a-fisher-of-men_0', 'rob-chez-porter_0']
     * {Horseshoe Overlook} Take Jack (slowly) to the river, show him how to fish [A Fisher of Men]
     . {Horseshoe Overlook} Kill everyone, loot everything [Rob Chez Porter]
-  {Horseshoe Overlook} Go to Osman Grove
-. {Osman Grove} Get fountain pen for Mary-Beth from cabin [Mary-Beth's Fountain Pen]
-  {Osman Grove} Go to Horseshoe Overlook for Pouring Forth Oil I
 * {Horseshoe Overlook} Speak to Susan, go find John [Pouring Forth Oil I]
+* {Horseshoe Overlook} Steal oil wagon from Cornwall, take to hiding spot [Pouring Forth Oil I]
 --- 2 equal options:
-        ['pouring-forth-oil-part-one_0', 'penny-dreadful_0']
-      {Osman Grove} Go to Horseshoe Overlook for Pouring Forth Oil I
-    * {Horseshoe Overlook} Steal oil wagon from Cornwall, take to hiding spot [Pouring Forth Oil I]
+        ['fountain-pen_post_0', 'penny-dreadful_post_0']
+      {Horseshoe Overlook} Go to Osman Grove
+    . {Osman Grove} Get fountain pen for Mary-Beth from cabin [Mary-Beth's Fountain Pen]
+      {Horseshoe Overlook} Go to Osman Grove
     . {Osman Grove} Get penny dreadful for Jack from cabin [Jack's Penny Dreadful]
-. {Osman Grove} Give Jack penny dreadful [Jack's Penny Dreadful]
-  {Osman Grove} Go to Horseshoe Overlook for Pouring Forth Oil III
+--- 2 equal options:
+        ['fountain-pen_post_1', 'penny-dreadful_post_1']
+      {Old Trail Rise} Go to Horseshoe Overlook
+    . {Horseshoe Overlook} Give Mary-Beth fountain pen [Mary-Beth's Fountain Pen]
+      {Old Trail Rise} Go to Horseshoe Overlook
+    . {Horseshoe Overlook} Give Jack penny dreadful [Jack's Penny Dreadful]
+  {Old Trail Rise} Go to Horseshoe Overlook for Pouring Forth Oil III
 * {Horseshoe Overlook} Speak to John, refresh your weapons and go meet the gang [Pouring Forth Oil III]
 * {Horseshoe Overlook} Steal oil wagon from Cornwall, take to hiding spot [Pouring Forth Oil III]
   {The Heartlands} Go to Strawberry for Blessed are the Meek?
@@ -586,76 +588,72 @@
     . {Saint Denis} Rescue Chatenay from the jealous man [The Artist's Way]
       {Braithwaite Manor} Go to Saint Denis for The Joys of Civilization
     * {Saint Denis} Ask the bartender, then the urchins about Bronte [The Joys of Civilization]
---- 2 equal options:
-        ['a-bright-bouncing-boy_post_0', 'a-bright-bouncing-boy_post_1']
-      {Braithwaite Manor} Go to Saint Denis
-    . {Saint Denis} [days later] Visit Dragic and conduct some lightning [A Bright Bouncing Boy]
-      {Braithwaite Manor} Go to Saint Denis
-    . {Saint Denis} [at least 1 day later] You can loot the workshop for notes and a lantern (if you want to find the robot) [A Bright Bouncing Boy]
+  {Braithwaite Manor} Go to Saint Denis
+. {Saint Denis} [days later] Visit Dragic and conduct some lightning [A Bright Bouncing Boy]
 --- 2 equal options:
         ['the-artists-way_1', 'the-joys-of-civilization_1']
-      {Braithwaite Manor} Go to Saint Denis for The Artist's Way
     . {Saint Denis} Attend an exhibition of Chatenay's [The Artist's Way]
-      {Braithwaite Manor} Go to Saint Denis for The Joys of Civilization
     * {Saint Denis} Catch Cleet before he reaches the market [The Joys of Civilization]
-  {Braithwaite Manor} Go to Saint Denis for The Artist's Way
+. {Saint Denis} [at least 1 day later] You can loot the workshop for notes and a lantern (if you want to find the robot) [A Bright Bouncing Boy]
 . {Saint Denis} Help Chateney escape Saint Denis by boat [The Artist's Way]
 --- 3 equal options:
         ['money-lending-and-other-sins-part-five', 'the-ties-that-bind-us', 'help-a-brother-out']
-      {Braithwaite Manor} Go to Shady Belle for Money Lending and Other Sins V
+      {Saint Denis} Go to Shady Belle for Money Lending and Other Sins V
     . {Shady Belle} Talk to Strauss, go to Catfish Jackson's, return the money [Money Lending and Other Sins V]
-      {Braithwaite Manor} Go to Rhodes for The Ties That Bind Us
+      {Saint Denis} Go to Rhodes for The Ties That Bind Us
     . {Rhodes} Meet the two convicts on the other side of the tracks [The Ties That Bind Us]
-      {Braithwaite Manor} Go to Saint Denis for Help a Brother Out
     * {Saint Denis} One morning, talk to Swanson, he'll tell you about Dorkins [Help a Brother Out]
 --- 2 equal options:
         ['the-ties-that-bind-us_0', 'help-a-brother-out_0']
-      {Braithwaite Manor} Go to Rhodes for The Ties That Bind Us
+      {Saint Denis} Go to Rhodes for The Ties That Bind Us
     . {Rhodes} Obtain the posters, give them their 'freedom' [The Ties That Bind Us]
-      {Braithwaite Manor} Go to Saint Denis for Help a Brother Out
     * {Saint Denis} Meet Brother Dorkins, donate money [Help a Brother Out]
-  {Braithwaite Manor} Go to Saint Denis for Help a Brother Out
 * {Saint Denis} Rescue the children from the fence's shop, give them the money from the till [Help a Brother Out]
---- 2 equal options:
-        ['the-ties-that-bind-us_post_0', 'the-ties-that-bind-us_post_1']
-      {Braithwaite Manor} Go to Southfield Flats
-    . {Southfield Flats} [days later] Find the convicts again, give them medicine [The Ties That Bind Us]
-      {Braithwaite Manor} Go to Stilt Shack
-    . {Stilt Shack} [days later] Find the convicts for the last time [The Ties That Bind Us]
+  {Saint Denis} Go to Southfield Flats
+. {Southfield Flats} [days later] Find the convicts again, give them medicine [The Ties That Bind Us]
+  {Saint Denis} Go to Stilt Shack
+. {Stilt Shack} [days later] Find the convicts for the last time [The Ties That Bind Us]
 --- 2 equal options:
         ['angelo-bronte-a-man-of-honor', 'brothers-and-sisters-one-and-all']
+      {Stilt Shack} Go to Saint Denis for Angelo Bronte, A Man of Honor
     * {Saint Denis} Meet Dutch and John in a park across from Bronte's house [Angelo Bronte, A Man of Honor]
+      {Stilt Shack} Go to Saint Denis for Brothers and Sisters, One and All
     . {Saint Denis} Speak to Sister Calderon outside the church [Brothers and Sisters, One and All]
 --- 2 equal options:
         ['angelo-bronte-a-man-of-honor_0', 'brothers-and-sisters-one-and-all_0']
+      {Stilt Shack} Go to Saint Denis for Angelo Bronte, A Man of Honor
     * {Saint Denis} Go kill the grave-robbers, sneak away from the law [Angelo Bronte, A Man of Honor]
+      {Stilt Shack} Go to Saint Denis for Brothers and Sisters, One and All
     . {Saint Denis} Get the crucifix back, escape the law, return to Sister Calderon [Brothers and Sisters, One and All]
+  {Stilt Shack} Go to Saint Denis for Angelo Bronte, A Man of Honor
 * {Saint Denis} Return to Shady Belle and celebrate the return of John [Angelo Bronte, A Man of Honor]
+  {Stilt Shack} Go to Saint Denis for Of Men and Angels
 . {Saint Denis} Approach Sister Calderon at the cathedral [Of Men and Angels]
 --- 4 equal options:
         ['hunt-crawfish', 'no-no-and-thrice-no', 'rob-coach-with-lenny', 'rob-coach-with-micah']
-      {Saint Denis} Go to Shady Belle for Go hunting with Pearson
+      {Stilt Shack} Go to Shady Belle for Go hunting with Pearson
     . {Shady Belle} Talk to Pearson when he's out on the dock [Go hunting with Pearson]
-      {Saint Denis} Go to Shady Belle for No, No, and Thrice, No
+      {Stilt Shack} Go to Shady Belle for No, No, and Thrice, No
     * {Shady Belle} One morning, speak to Mary-Beth [No, No, and Thrice, No]
-      {Saint Denis} Go to Shady Belle for Rob a coach with Lenny
+      {Stilt Shack} Go to Shady Belle for Rob a coach with Lenny
     . {Shady Belle} One morning, talk to Lenny in the house while he is polishing his rifle [Rob a coach with Lenny]
-      {Saint Denis} Go to Shady Belle for Rob a coach with Lenny
+      {Stilt Shack} Go to Shady Belle for Rob a coach with Lenny
     . {Shady Belle} One morning, talk to Micah [Rob a coach with Lenny]
 --- 4 equal options:
         ['hunt-crawfish_0', 'no-no-and-thrice-no_0', 'rob-coach-with-lenny_0', 'rob-coach-with-micah_0']
-      {Saint Denis} Go to Shady Belle for Go hunting with Pearson
+      {Stilt Shack} Go to Shady Belle for Go hunting with Pearson
     . {Shady Belle} Get some crawfish and gator eggs [Go hunting with Pearson]
-      {Saint Denis} Go to Shady Belle for No, No, and Thrice, No
+      {Stilt Shack} Go to Shady Belle for No, No, and Thrice, No
     * {Shady Belle} Free Tilly from the kidnappers, spare Anthony [No, No, and Thrice, No]
-      {Saint Denis} Go to Shady Belle for Rob a coach with Lenny
+      {Stilt Shack} Go to Shady Belle for Rob a coach with Lenny
     . {Shady Belle} Wait for Lenny to hold up the stage, kill the marshals [Rob a coach with Lenny]
-      {Saint Denis} Go to Shady Belle for Rob a coach with Lenny
+      {Stilt Shack} Go to Shady Belle for Rob a coach with Lenny
     . {Shady Belle} Ride slowly to get all the conversation [Rob a coach with Lenny]
-  {Saint Denis} Go to Shady Belle for Rob a coach with Lenny
+  {Stilt Shack} Go to Shady Belle for Rob a coach with Lenny
 . {Shady Belle} Blow up the dynamite, kill everyone, take the money [Rob a coach with Lenny]
-  {Saint Denis} Go to Shady Belle for Fatherhood and Other Dreams
+  {Stilt Shack} Go to Shady Belle for Fatherhood and Other Dreams
 * {Shady Belle} Arthur reads a letter from Mary [Fatherhood and Other Dreams]
+  {Stilt Shack} Go to Saint Denis for Fatherhood and Other Dreams
 * {Saint Denis} Meet Mary at her hotel, follow her father [Fatherhood and Other Dreams]
 * {Saint Denis} Get the brooch back; and loot the lockbox of the wagon [Fatherhood and Other Dreams]
 * {Saint Denis} Return to Mary, go to the theatre [Fatherhood and Other Dreams]
@@ -745,71 +743,62 @@
     . {Annesburg} Rescue Archie from the mine [Do Not Seek Absolution I]
       {Saint Denis} Go to Willard's Rest for Charlotte Balfour
     . {Willard's Rest} Help Charlotte hunt rabbits [Charlotte Balfour]
---- 3 equal options:
-        ['charlotte-balfour-part-one_post_0', 'charlotte-balfour-part-one_post_1',
-         'charlotte-balfour-part-one_post_2']
-      {Saint Denis} Go to Willard's Rest
-    . {Willard's Rest} See if you can find a chap in a tent nearby, scare him off [Charlotte Balfour]
-      {Saint Denis} Go to Willard's Rest
-    . {Willard's Rest} [>2 days later] Help Charlotte learn to shoot [Charlotte Balfour]
-      {Saint Denis} Go to Willard's Rest
-    . {Willard's Rest} [>4 days later] Visit Charlotte one last time [Charlotte Balfour]
+  {Saint Denis} Go to Willard's Rest
+. {Willard's Rest} See if you can find a chap in a tent nearby, scare him off [Charlotte Balfour]
 --- 2 equal options:
         ['do-not-seek-absolution-part-two', 'thats-murfree-country']
-      {Saint Denis} Go to Annesburg for Do Not Seek Absolution II
+      {Willard's Rest} Go to Annesburg for Do Not Seek Absolution II
     . {Annesburg} Meet Archie by the store, then go find his mother [Do Not Seek Absolution II]
-      {Saint Denis} Go to Lakay for That's Murfree Country
+      {Willard's Rest} Go to Lakay for That's Murfree Country
     * {Lakay} Listen to Dutch making chess moves, then speak to him [That's Murfree Country]
+. {Willard's Rest} [>2 days later] Help Charlotte learn to shoot [Charlotte Balfour]
 --- 2 equal options:
         ['do-not-seek-absolution-part-two_0', 'thats-murfree-country_0']
-      {Saint Denis} Go to Annesburg for Do Not Seek Absolution II
+      {Willard's Rest} Go to Annesburg for Do Not Seek Absolution II
     . {Annesburg} Listen to enough of the conversation, then interrupt [Do Not Seek Absolution II]
-      {Saint Denis} Go to Lakay for That's Murfree Country
+      {Willard's Rest} Go to Lakay for That's Murfree Country
     * {Lakay} Ride to Beaver Hollow by canoe, dispatch the Murfrees [That's Murfree Country]
+. {Willard's Rest} [>4 days later] Visit Charlotte one last time [Charlotte Balfour]
 --- 2 equal options:
         ['do-not-seek-absolution-part-two_1', 'thats-murfree-country_1']
-      {Saint Denis} Go to Annesburg for Do Not Seek Absolution II
+      {Willard's Rest} Go to Annesburg for Do Not Seek Absolution II
     . {Annesburg} Ask her to leave, ride back, give them money [Do Not Seek Absolution II]
-      {Saint Denis} Go to Lakay for That's Murfree Country
+      {Willard's Rest} Go to Lakay for That's Murfree Country
     * {Lakay} Take Meredith home to Annesburg [That's Murfree Country]
 --- 2 equal options:
         ['chapter-6', 'the-wisdom-of-the-elders-part-one']
-      {Saint Denis} Go to Beaver Hollow for Chapter 6
+      {Willard's Rest} Go to Beaver Hollow for Chapter 6
 
 ==== Chapter 6 ====
-      {Saint Denis} Go to Van Horn for The Wisdom of the Elders I
+      {Willard's Rest} Go to Van Horn for The Wisdom of the Elders I
     . {Van Horn} Find Lemuel, take him home [The Wisdom of the Elders I]
 --- 3 equal options:
         ['the-wisdom-of-the-elders-part-two', 'visiting-hours', 'the-veteran']
-      {Saint Denis} Go to Butcher's Creek for The Wisdom of the Elders II
+      {Willard's Rest} Go to Butcher's Creek for The Wisdom of the Elders II
     . {Butcher's Creek} One night, visit Obediah, defend pigs from the mangy dogs [The Wisdom of the Elders II]
-      {Saint Denis} Go to Copperhead Landing for Visiting Hours
+      {Willard's Rest} Go to Copperhead Landing for Visiting Hours
     * {Copperhead Landing} Meet Sadie at the dock and row to the penitentiary [Visiting Hours]
-      {Saint Denis} Go to O'Creagh's Run for The Veteran
+      {Willard's Rest} Go to O'Creagh's Run for The Veteran
     . {O'Creagh's Run} Find Hamish sat by a rock, help him back to his horse [The Veteran]
 --- 2 equal options:
         ['the-wisdom-of-the-elders-part-two_0', 'visiting-hours_0']
-      {Saint Denis} Go to Butcher's Creek for The Wisdom of the Elders II
+      {Willard's Rest} Go to Butcher's Creek for The Wisdom of the Elders II
     . {Butcher's Creek} Destroy the 13 charms (a little to the south) [The Wisdom of the Elders II]
-      {Saint Denis} Go to Copperhead Landing for Visiting Hours
+      {Willard's Rest} Go to Copperhead Landing for Visiting Hours
     * {Copperhead Landing} Rescue John, do not kill the guard [Visiting Hours]
---- 3 equal options:
-        ['the-veteran_post_0', 'the-veteran_post_1', 'the-veteran_post_2']
-      {Saint Denis} Go to O'Creagh's Run
-    . {O'Creagh's Run} [>1 day later] Go fishing with Hamish [The Veteran]
-      {Saint Denis} Go to O'Creagh's Run
-    . {O'Creagh's Run} [>1 day later] Go hunting wolves with Hamish [The Veteran]
-      {Saint Denis} Go to O'Creagh's Run
-    . {O'Creagh's Run} [>1 day later] Go hunting boar with Hamish; take Buell [The Veteran]
+  {Willard's Rest} Go to O'Creagh's Run
+. {O'Creagh's Run} [>1 day later] Go fishing with Hamish [The Veteran]
 --- 2 equal options:
         ['visiting-hours_1', 'the-wisdom-of-the-elders-part-two_1']
-      {Saint Denis} Go to Copperhead Landing for Visiting Hours
+      {O'Creagh's Run} Go to Copperhead Landing for Visiting Hours
     * {Copperhead Landing} While escaping by boat, watch for prisoners running for the shore [Visiting Hours]
-      {Saint Denis} Go to Elysian Pool for The Wisdom of the Elders II
+      {O'Creagh's Run} Go to Elysian Pool for The Wisdom of the Elders II
     . {Elysian Pool} Invesigate the mine [The Wisdom of the Elders II]
-  {Saint Denis} Go to Butcher's Creek for The Wisdom of the Elders II
+. {O'Creagh's Run} [>1 day later] Go hunting wolves with Hamish [The Veteran]
+  {O'Creagh's Run} Go to Butcher's Creek for The Wisdom of the Elders II
 . {Butcher's Creek} Return to the creek, poison the shaman, take the money and read the letter [The Wisdom of the Elders II]
-  {Saint Denis} Go to Beaver Hollow for Money Lending and Other Sins VI
+. {O'Creagh's Run} [>1 day later] Go hunting boar with Hamish; take Buell [The Veteran]
+  {O'Creagh's Run} Go to Beaver Hollow for Money Lending and Other Sins VI
 * {Beaver Hollow} One morning, talk to Strauss [Money Lending and Other Sins VI]
 --- 2 equal options:
         ['money-lending-and-other-sins-part-six_post_1', 'money-lending-and-other-sins-part-six_post_0']

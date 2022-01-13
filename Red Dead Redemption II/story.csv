@@ -64,6 +64,7 @@ step,location,node,text
 ,Strawberry,geology-for-beginners,Meet Francis at his hut
 ,Valentine,american-dreams,"Find the corpse under the railway bridge, on the way back to camp"
 38,Horseshoe Overlook,five-dollars_0,Give Abigail $5
+,Horseshoe Overlook,fountain-pen_end,
 ,Horseshoe Overlook,poison-knives_0,Find some oleander sage
 ,Horseshoe Overlook,rabbit_0,"Bag a rabbit, but don't skin it"
 ,Horseshoe Overlook,speech-notes_end,
@@ -83,7 +84,6 @@ step,location,node,text
 ,Hagen Orchards,book_0,Loot the book
 ,Lake Isabella,arabian_end,
 ,Near Horseshoe Overlook,a-test-of-faith_end,
-,Osman Grove,fountain-pen_end,
 ,Railroad Camp,railroad-camp_0,"Speak to the foreman, find the thief"
 ,Riggs Station,arcadia-for-amateurs-part-one_end,
 ,San Luis River,a-fisher-of-fish_end,
@@ -91,8 +91,7 @@ step,location,node,text
 ,Tiny Church,landmarks-of-riches_0,Get the second treasure map
 ,Valentine,american-dreams_end,
 ,Vetter's Echo,pipe_0,Loot the pipe
-39,Horseshoe Overlook,fountain-pen_post_1,Give Mary-Beth fountain pen
-,Horseshoe Overlook,thimble_post_0,"Once looted, give Jack the thimble"
+39,Horseshoe Overlook,thimble_post_0,"Once looted, give Jack the thimble"
 ,Bolger Glade,american-dreams_post_1,Find the corpse on the tree
 ,Cumberland Forest,geology-for-beginners_post_3,Find the rock carving
 ,Deer Cottage,geology-for-beginners_post_7,Find the rock carving
@@ -253,14 +252,15 @@ step,location,node,text
 ,Horseshoe Overlook,rob-chez-porter_0,"Kill everyone, loot everything"
 96,Horseshoe Overlook,a-fisher-of-men_end,
 ,Chez Porter,rob-chez-porter_end,
-97,Osman Grove,fountain-pen_post_0,Get fountain pen for Mary-Beth from cabin
-98,Horseshoe Overlook,pouring-forth-oil-part-one,"Speak to Susan, go find John"
-,Osman Grove,penny-dreadful,Jack's Penny Dreadful
-99,Horseshoe Overlook,pouring-forth-oil-part-one_0,"Steal oil wagon from Cornwall, take to hiding spot"
-,Osman Grove,penny-dreadful_0,Get penny dreadful for Jack from cabin
+97,Horseshoe Overlook,penny-dreadful,Jack's Penny Dreadful
+,Horseshoe Overlook,pouring-forth-oil-part-one,"Speak to Susan, go find John"
+98,Horseshoe Overlook,penny-dreadful_end,
+,Horseshoe Overlook,pouring-forth-oil-part-one_0,"Steal oil wagon from Cornwall, take to hiding spot"
+99,Osman Grove,fountain-pen_post_0,Get fountain pen for Mary-Beth from cabin
+,Osman Grove,penny-dreadful_post_0,Get penny dreadful for Jack from cabin
 100,Old Trail Rise,pouring-forth-oil-part-one_end,
-,Osman Grove,penny-dreadful_end,
-101,Osman Grove,penny-dreadful_post_0,Give Jack penny dreadful
+101,Horseshoe Overlook,fountain-pen_post_1,Give Mary-Beth fountain pen
+,Horseshoe Overlook,penny-dreadful_post_1,Give Jack penny dreadful
 102,Horseshoe Overlook,pouring-forth-oil-part-three,"Speak to John, refresh your weapons and go meet the gang"
 103,Horseshoe Overlook,pouring-forth-oil-part-three_0,"Steal oil wagon from Cornwall, take to hiding spot"
 104,The Heartlands,pouring-forth-oil-part-three_end,
@@ -432,293 +432,293 @@ step,location,node,text
 ,Saint Denis,the-artists-way_0,Rescue Chatenay from the jealous man
 ,Saint Denis,the-joys-of-civilization_0,"Ask the bartender, then the urchins about Bronte"
 193,Saint Denis,a-bright-bouncing-boy_post_0,[days later] Visit Dragic and conduct some lightning
-,Saint Denis,a-bright-bouncing-boy_post_1,[at least 1 day later] You can loot the workshop for notes and a lantern (if you want to find the robot)
 194,Saint Denis,the-artists-way_1,Attend an exhibition of Chatenay's
 ,Saint Denis,the-joys-of-civilization_1,Catch Cleet before he reaches the market
-195,Saint Denis,the-artists-way_2,Help Chateney escape Saint Denis by boat
+195,Saint Denis,a-bright-bouncing-boy_post_1,[at least 1 day later] You can loot the workshop for notes and a lantern (if you want to find the robot)
+196,Saint Denis,the-artists-way_2,Help Chateney escape Saint Denis by boat
 ,Saint Denis,the-joys-of-civilization_end,
-196,Shady Belle,money-lending-and-other-sins-part-five,"Talk to Strauss, go to Catfish Jackson's, return the money"
+197,Shady Belle,money-lending-and-other-sins-part-five,"Talk to Strauss, go to Catfish Jackson's, return the money"
 ,Rhodes,the-ties-that-bind-us,Meet the two convicts on the other side of the tracks
 ,Saint Denis,help-a-brother-out,"One morning, talk to Swanson, he'll tell you about Dorkins"
 ,Saint Denis,the-artists-way_end,
-197,Shady Belle,money-lending-and-other-sins-part-five_end,
+198,Shady Belle,money-lending-and-other-sins-part-five_end,
 ,Rhodes,the-ties-that-bind-us_0,"Obtain the posters, give them their 'freedom'"
 ,Saint Denis,help-a-brother-out_0,"Meet Brother Dorkins, donate money"
-198,Rhodes,the-ties-that-bind-us_end,
+199,Rhodes,the-ties-that-bind-us_end,
 ,Saint Denis,help-a-brother-out_1,"Rescue the children from the fence's shop, give them the money from the till"
-199,Southfield Flats,the-ties-that-bind-us_post_0,"[days later] Find the convicts again, give them medicine"
-,Stilt Shack,the-ties-that-bind-us_post_1,[days later] Find the convicts for the last time
-200,Saint Denis,help-a-brother-out_end,
-201,Saint Denis,angelo-bronte-a-man-of-honor,Meet Dutch and John in a park across from Bronte's house
+200,Southfield Flats,the-ties-that-bind-us_post_0,"[days later] Find the convicts again, give them medicine"
+201,Saint Denis,help-a-brother-out_end,
+202,Stilt Shack,the-ties-that-bind-us_post_1,[days later] Find the convicts for the last time
+203,Saint Denis,angelo-bronte-a-man-of-honor,Meet Dutch and John in a park across from Bronte's house
 ,Saint Denis,brothers-and-sisters-one-and-all,Speak to Sister Calderon outside the church
-202,Saint Denis,angelo-bronte-a-man-of-honor_0,"Go kill the grave-robbers, sneak away from the law"
+204,Saint Denis,angelo-bronte-a-man-of-honor_0,"Go kill the grave-robbers, sneak away from the law"
 ,Saint Denis,brothers-and-sisters-one-and-all_0,"Get the crucifix back, escape the law, return to Sister Calderon"
-203,Saint Denis,angelo-bronte-a-man-of-honor_1,Return to Shady Belle and celebrate the return of John
+205,Saint Denis,angelo-bronte-a-man-of-honor_1,Return to Shady Belle and celebrate the return of John
 ,Saint Denis,brothers-and-sisters-one-and-all_end,
-204,Shady Belle,angelo-bronte-a-man-of-honor_end,
+206,Shady Belle,angelo-bronte-a-man-of-honor_end,
 ,Saint Denis,of-men-and-angels,Approach Sister Calderon at the cathedral
-205,Shady Belle,hunt-crawfish,Talk to Pearson when he's out on the dock
+207,Shady Belle,hunt-crawfish,Talk to Pearson when he's out on the dock
 ,Shady Belle,no-no-and-thrice-no,"One morning, speak to Mary-Beth"
 ,Shady Belle,rob-coach-with-lenny,"One morning, talk to Lenny in the house while he is polishing his rifle"
 ,Shady Belle,rob-coach-with-micah,"One morning, talk to Micah"
 ,Saint Denis,of-men-and-angels_end,
-206,Shady Belle,hunt-crawfish_0,Get some crawfish and gator eggs
+208,Shady Belle,hunt-crawfish_0,Get some crawfish and gator eggs
 ,Shady Belle,no-no-and-thrice-no_0,"Free Tilly from the kidnappers, spare Anthony"
 ,Shady Belle,rob-coach-with-lenny_0,"Wait for Lenny to hold up the stage, kill the marshals"
 ,Shady Belle,rob-coach-with-micah_0,Ride slowly to get all the conversation
-207,Shady Belle,hunt-crawfish_end,
+209,Shady Belle,hunt-crawfish_end,
 ,Shady Belle,rob-coach-with-micah_1,"Blow up the dynamite, kill everyone, take the money"
 ,Radley's House,no-no-and-thrice-no_end,
 ,Scarlett Meadows,rob-coach-with-lenny_end,
-208,Shady Belle,fatherhood-and-other-dreams,Arthur reads a letter from Mary
+210,Shady Belle,fatherhood-and-other-dreams,Arthur reads a letter from Mary
 ,Bayou Nwa,rob-coach-with-micah_end,
-209,Saint Denis,fatherhood-and-other-dreams_0,"Meet Mary at her hotel, follow her father"
-210,Saint Denis,fatherhood-and-other-dreams_1,Get the brooch back; and loot the lockbox of the wagon
-211,Saint Denis,fatherhood-and-other-dreams_2,"Return to Mary, go to the theatre"
-212,Saint Denis,fatherhood-and-other-dreams_end,
-213,Shady Belle,the-gilded-cage,"Speak to Hosea one evening, then attend a party"
-214,Shady Belle,the-gilded-cage_0,Steal the documents and leave
-215,Shady Belle,the-gilded-cage_end,
-216,Saint Denis,duchesses-and-other-animals,[off camera] Meet Algernon to clear the marker
-217,Saint Denis,duchesses-and-other-animals_end,
-218,Saint Denis,american-fathers-part-one,"Meet Evelyn Miller by the courthouse, introducing Eagle Flies and Rain Falls"
-219,Saint Denis,american-fathers-part-one_end,
-220,The Heartlands,american-fathers-part-two,Meet Eagle Flies near the oil fields
-221,The Heartlands,american-fathers-part-two_0,"Infiltrate the office of Danbury, and question him"
-222,The Heartlands,american-fathers-part-two_1,Shoot your way out
-223,Twin Stack Pass,american-fathers-part-two_end,
-224,Saint Denis,a-fine-night-of-debauchery,"Speak to Trelawny, near the park"
-225,Saint Denis,a-fine-night-of-debauchery_0,Get a new suit and a trim
-226,Saint Denis,a-fine-night-of-debauchery_1,"Rob the riverboat, do not kill the guard walks into the poker room shootout"
-227,Saint Denis,a-fine-night-of-debauchery_end,
-228,Saint Denis,a-fine-night-of-debauchery_post_0,Save the Wittemore outfit (from your horse) if you want to keep it
-229,Shady Belle,horsemen-apocalypses,"One morning, talk to Sadie"
+211,Saint Denis,fatherhood-and-other-dreams_0,"Meet Mary at her hotel, follow her father"
+212,Saint Denis,fatherhood-and-other-dreams_1,Get the brooch back; and loot the lockbox of the wagon
+213,Saint Denis,fatherhood-and-other-dreams_2,"Return to Mary, go to the theatre"
+214,Saint Denis,fatherhood-and-other-dreams_end,
+215,Shady Belle,the-gilded-cage,"Speak to Hosea one evening, then attend a party"
+216,Shady Belle,the-gilded-cage_0,Steal the documents and leave
+217,Shady Belle,the-gilded-cage_end,
+218,Saint Denis,duchesses-and-other-animals,[off camera] Meet Algernon to clear the marker
+219,Saint Denis,duchesses-and-other-animals_end,
+220,Saint Denis,american-fathers-part-one,"Meet Evelyn Miller by the courthouse, introducing Eagle Flies and Rain Falls"
+221,Saint Denis,american-fathers-part-one_end,
+222,The Heartlands,american-fathers-part-two,Meet Eagle Flies near the oil fields
+223,The Heartlands,american-fathers-part-two_0,"Infiltrate the office of Danbury, and question him"
+224,The Heartlands,american-fathers-part-two_1,Shoot your way out
+225,Twin Stack Pass,american-fathers-part-two_end,
+226,Saint Denis,a-fine-night-of-debauchery,"Speak to Trelawny, near the park"
+227,Saint Denis,a-fine-night-of-debauchery_0,Get a new suit and a trim
+228,Saint Denis,a-fine-night-of-debauchery_1,"Rob the riverboat, do not kill the guard walks into the poker room shootout"
+229,Saint Denis,a-fine-night-of-debauchery_end,
+230,Saint Denis,a-fine-night-of-debauchery_post_0,Save the Wittemore outfit (from your horse) if you want to keep it
+231,Shady Belle,horsemen-apocalypses,"One morning, talk to Sadie"
 ,Valentine,the-noblest-of-men-and-a-woman-part-two,Talk to the bartender about Theodore Levin
-230,Shady Belle,horsemen-apocalypses_0,Defend the camp from the O'Driscolls
+232,Shady Belle,horsemen-apocalypses_0,Defend the camp from the O'Driscolls
 ,Valentine,the-noblest-of-men-and-a-woman-part-two_end,
-231,Saint Denis,the-noblest-of-men-and-a-woman-part-two_post_0,"Board the ferry, talk to Theodore Levin"
-232,Shady Belle,horsemen-apocalypses_1,Talk to Mary-Beth after writing in your journal
-233,Annesburg,slim-grant,Talk to the sheriff
+233,Saint Denis,the-noblest-of-men-and-a-woman-part-two_post_0,"Board the ferry, talk to Theodore Levin"
+234,Shady Belle,horsemen-apocalypses_1,Talk to Mary-Beth after writing in your journal
+235,Annesburg,slim-grant,Talk to the sheriff
 ,Shady Belle,horsemen-apocalypses_end,
-234,Saint Denis,urban-pleasures,Meet Dutch by the trolley station
+236,Saint Denis,urban-pleasures,Meet Dutch by the trolley station
 ,Annesburg,slim-grant_0,"Find Slim Grant, take him to Calloway, shoot him"
-235,Saint Denis,urban-pleasures_0,"Rob the trolley station, fight off the police, escape to the bayou"
+237,Saint Denis,urban-pleasures_0,"Rob the trolley station, fight off the police, escape to the bayou"
 ,Brandywine Drop,slim-grant_end,
-236,Annesburg,slim-grant_post_0,[>3 days] Collect reward at Post Office
-237,Bayou Nwa,urban-pleasures_end,
-238,Saint Denis Shady Belle,country-pursuits,Dutch beckons Arthur up to his room
-239,Saint Denis Shady Belle,country-pursuits_0,Help Thomas with his crawfish traps
-240,Lagras,country-pursuits_end,
-241,Lagras,revenge-is-a-dish-best-eaten,Meet Dutch at the bait place
-242,Lagras,revenge-is-a-dish-best-eaten_0,"Break into Bronte's place, and kill people"
-243,Lagras,revenge-is-a-dish-best-eaten_1,Make sure to loot Bronte after knocking him out
-244,Lagras,revenge-is-a-dish-best-eaten_2,Escape the lawmen
-245,Shady Belle,revenge-is-a-dish-best-eaten_end,
-246,Saint Denis Shady Belle,banking-the-old-american-art,Meet Dutch and Hosea in Dutch's room
-247,Saint Denis Shady Belle,banking-the-old-american-art_0,"Rob the bank, shoot a bunch of lawmen, escape on the boat"
-248,Saint Denis Shady Belle,banking-the-old-american-art_end,
-249,Guarma,chapter-5,Chapter 5
-250,Guarma,chapter-5_end,
-251,Guarma,welcome-to-the-new-world,Wake up on the shore of a tropical island
-252,Guarma,welcome-to-the-new-world_0,"Get captured, then escape the chain gang"
-253,La Capilla,welcome-to-the-new-world_end,
-254,Guarma,savagery-unleashed,Get shot by a tranq going to rescue local workers
-255,Guarma,savagery-unleashed_0,"Break free, and rescue the workers being hanged"
-256,La Capilla,savagery-unleashed_end,
-257,Arroyo de la Vibora,a-kind-and-benevolent-despot,Meet Dutch by the entrance to a cave
-258,Arroyo de la Vibora,a-kind-and-benevolent-despot_0,Go through the cave and rescue Javier
-259,La Capilla,a-kind-and-benevolent-despot_end,
-260,Cinco Torres,hell-hath-no-fury,Meet the gang at the fortress
-261,Cinco Torres,hell-hath-no-fury_0,"Shoot the incoming soldiers, destroy the warship"
-262,paradise-mercifully-departed,hell-hath-no-fury_end,
-263,paradise-mercifully-departed,paradise-mercifully-departed,Go with Fontaine to destroy the gun batteries
-264,paradise-mercifully-departed,paradise-mercifully-departed_0,"Rescue the ship's captain, resolve the standoff, kill Fussar"
-265,Van Horn,paradise-mercifully-departed_end,
-266,Van Horn,dear-uncle-tacitus,"Grab a horse, and head to Shady Belle (triggering the cinematic camera)"
-267,Van Horn,dear-uncle-tacitus_0,"Search upstairs first, do not read the letter, let the Pinkerton read it"
-268,Van Horn,dear-uncle-tacitus_1,"Take your time escaping, to let the cutscene happen"
-269,Lakay,dear-uncle-tacitus_end,
-270,Lakay,fleeting-joy,Reunite with the gang
-271,Lakay,fleeting-joy_0,Fend off the Pinkerton attack
-272,Lakay,fleeting-joy_end,
-273,Saint Denis,a-fork-in-the-road,Go to Doyle's Tavern to join Sadie
-274,Saint Denis,a-fork-in-the-road_0,"Speak to the doctor, find out"
-275,Saint Denis,a-fork-in-the-road_end,
-276,Saint Denis,icarus-and-friends,Meet Sadie at Doyle's Tavern
+238,Annesburg,slim-grant_post_0,[>3 days] Collect reward at Post Office
+239,Bayou Nwa,urban-pleasures_end,
+240,Saint Denis Shady Belle,country-pursuits,Dutch beckons Arthur up to his room
+241,Saint Denis Shady Belle,country-pursuits_0,Help Thomas with his crawfish traps
+242,Lagras,country-pursuits_end,
+243,Lagras,revenge-is-a-dish-best-eaten,Meet Dutch at the bait place
+244,Lagras,revenge-is-a-dish-best-eaten_0,"Break into Bronte's place, and kill people"
+245,Lagras,revenge-is-a-dish-best-eaten_1,Make sure to loot Bronte after knocking him out
+246,Lagras,revenge-is-a-dish-best-eaten_2,Escape the lawmen
+247,Shady Belle,revenge-is-a-dish-best-eaten_end,
+248,Saint Denis Shady Belle,banking-the-old-american-art,Meet Dutch and Hosea in Dutch's room
+249,Saint Denis Shady Belle,banking-the-old-american-art_0,"Rob the bank, shoot a bunch of lawmen, escape on the boat"
+250,Saint Denis Shady Belle,banking-the-old-american-art_end,
+251,Guarma,chapter-5,Chapter 5
+252,Guarma,chapter-5_end,
+253,Guarma,welcome-to-the-new-world,Wake up on the shore of a tropical island
+254,Guarma,welcome-to-the-new-world_0,"Get captured, then escape the chain gang"
+255,La Capilla,welcome-to-the-new-world_end,
+256,Guarma,savagery-unleashed,Get shot by a tranq going to rescue local workers
+257,Guarma,savagery-unleashed_0,"Break free, and rescue the workers being hanged"
+258,La Capilla,savagery-unleashed_end,
+259,Arroyo de la Vibora,a-kind-and-benevolent-despot,Meet Dutch by the entrance to a cave
+260,Arroyo de la Vibora,a-kind-and-benevolent-despot_0,Go through the cave and rescue Javier
+261,La Capilla,a-kind-and-benevolent-despot_end,
+262,Cinco Torres,hell-hath-no-fury,Meet the gang at the fortress
+263,Cinco Torres,hell-hath-no-fury_0,"Shoot the incoming soldiers, destroy the warship"
+264,paradise-mercifully-departed,hell-hath-no-fury_end,
+265,paradise-mercifully-departed,paradise-mercifully-departed,Go with Fontaine to destroy the gun batteries
+266,paradise-mercifully-departed,paradise-mercifully-departed_0,"Rescue the ship's captain, resolve the standoff, kill Fussar"
+267,Van Horn,paradise-mercifully-departed_end,
+268,Van Horn,dear-uncle-tacitus,"Grab a horse, and head to Shady Belle (triggering the cinematic camera)"
+269,Van Horn,dear-uncle-tacitus_0,"Search upstairs first, do not read the letter, let the Pinkerton read it"
+270,Van Horn,dear-uncle-tacitus_1,"Take your time escaping, to let the cutscene happen"
+271,Lakay,dear-uncle-tacitus_end,
+272,Lakay,fleeting-joy,Reunite with the gang
+273,Lakay,fleeting-joy_0,Fend off the Pinkerton attack
+274,Lakay,fleeting-joy_end,
+275,Saint Denis,a-fork-in-the-road,Go to Doyle's Tavern to join Sadie
+276,Saint Denis,a-fork-in-the-road_0,"Speak to the doctor, find out"
+277,Saint Denis,a-fork-in-the-road_end,
+278,Saint Denis,icarus-and-friends,Meet Sadie at Doyle's Tavern
 ,Annesburg,do-not-seek-absolution-part-one,"Speak to Mrs Downes, under the bridge"
 ,Willard's Rest,charlotte-balfour-part-one,Charlotte Balfour
-277,Saint Denis,icarus-and-friends_0,Ride the balloon to the penitentiary and back
+279,Saint Denis,icarus-and-friends_0,Ride the balloon to the penitentiary and back
 ,Annesburg,do-not-seek-absolution-part-one_0,Rescue Archie from the mine
 ,Willard's Rest,charlotte-balfour-part-one_0,Help Charlotte hunt rabbits
-278,Annesburg,do-not-seek-absolution-part-one_end,
+280,Annesburg,do-not-seek-absolution-part-one_end,
 ,Kamassa River,icarus-and-friends_end,
 ,Willard's Rest,charlotte-balfour-part-one_end,
-279,Willard's Rest,charlotte-balfour-part-one_post_0,"See if you can find a chap in a tent nearby, scare him off"
-,Willard's Rest,charlotte-balfour-part-one_post_1,[>2 days later] Help Charlotte learn to shoot
-,Willard's Rest,charlotte-balfour-part-one_post_2,[>4 days later] Visit Charlotte one last time
-280,Annesburg,do-not-seek-absolution-part-two,"Meet Archie by the store, then go find his mother"
+281,Willard's Rest,charlotte-balfour-part-one_post_0,"See if you can find a chap in a tent nearby, scare him off"
+282,Annesburg,do-not-seek-absolution-part-two,"Meet Archie by the store, then go find his mother"
 ,Lakay,thats-murfree-country,"Listen to Dutch making chess moves, then speak to him"
-281,Annesburg,do-not-seek-absolution-part-two_0,"Listen to enough of the conversation, then interrupt"
+283,Willard's Rest,charlotte-balfour-part-one_post_1,[>2 days later] Help Charlotte learn to shoot
+284,Annesburg,do-not-seek-absolution-part-two_0,"Listen to enough of the conversation, then interrupt"
 ,Lakay,thats-murfree-country_0,"Ride to Beaver Hollow by canoe, dispatch the Murfrees"
-282,Annesburg,do-not-seek-absolution-part-two_1,"Ask her to leave, ride back, give them money"
+285,Willard's Rest,charlotte-balfour-part-one_post_2,[>4 days later] Visit Charlotte one last time
+286,Annesburg,do-not-seek-absolution-part-two_1,"Ask her to leave, ride back, give them money"
 ,Lakay,thats-murfree-country_1,Take Meredith home to Annesburg
-283,Annesburg,do-not-seek-absolution-part-two_end,
+287,Annesburg,do-not-seek-absolution-part-two_end,
 ,Beaver Hollow,thats-murfree-country_end,
-284,Beaver Hollow,chapter-6,Chapter 6
+288,Beaver Hollow,chapter-6,Chapter 6
 ,Van Horn,the-wisdom-of-the-elders-part-one,"Find Lemuel, take him home"
-285,Beaver Hollow,chapter-6_end,
+289,Beaver Hollow,chapter-6_end,
 ,Butcher's Creek,the-wisdom-of-the-elders-part-one_end,
-286,Butcher's Creek,the-wisdom-of-the-elders-part-two,"One night, visit Obediah, defend pigs from the mangy dogs"
+290,Butcher's Creek,the-wisdom-of-the-elders-part-two,"One night, visit Obediah, defend pigs from the mangy dogs"
 ,Copperhead Landing,visiting-hours,Meet Sadie at the dock and row to the penitentiary
 ,O'Creagh's Run,the-veteran,"Find Hamish sat by a rock, help him back to his horse"
-287,Butcher's Creek,the-wisdom-of-the-elders-part-two_0,Destroy the 13 charms (a little to the south)
+291,Butcher's Creek,the-wisdom-of-the-elders-part-two_0,Destroy the 13 charms (a little to the south)
 ,Copperhead Landing,visiting-hours_0,"Rescue John, do not kill the guard"
 ,O'Creagh's Run,the-veteran_end,
-288,O'Creagh's Run,the-veteran_post_0,[>1 day later] Go fishing with Hamish
-,O'Creagh's Run,the-veteran_post_1,[>1 day later] Go hunting wolves with Hamish
-,O'Creagh's Run,the-veteran_post_2,[>1 day later] Go hunting boar with Hamish; take Buell
-289,Copperhead Landing,visiting-hours_1,"While escaping by boat, watch for prisoners running for the shore"
+292,O'Creagh's Run,the-veteran_post_0,[>1 day later] Go fishing with Hamish
+293,Copperhead Landing,visiting-hours_1,"While escaping by boat, watch for prisoners running for the shore"
 ,Elysian Pool,the-wisdom-of-the-elders-part-two_1,Invesigate the mine
-290,Beaver Hollow,visiting-hours_end,
+294,O'Creagh's Run,the-veteran_post_1,[>1 day later] Go hunting wolves with Hamish
+295,Beaver Hollow,visiting-hours_end,
 ,Butcher's Creek,the-wisdom-of-the-elders-part-two_2,"Return to the creek, poison the shaman, take the money and read the letter"
-291,Beaver Hollow,money-lending-and-other-sins-part-six,"One morning, talk to Strauss"
+296,O'Creagh's Run,the-veteran_post_2,[>1 day later] Go hunting boar with Hamish; take Buell
+297,Beaver Hollow,money-lending-and-other-sins-part-six,"One morning, talk to Strauss"
 ,Butcher's Creek,the-wisdom-of-the-elders-part-two_end,
-292,Beaver Hollow,money-lending-and-other-sins-part-six_end,
-293,Annesburg,money-lending-and-other-sins-part-six_post_1,"Check the mine, go to the widow, absolve the debt and give her money"
+298,Beaver Hollow,money-lending-and-other-sins-part-six_end,
+299,Annesburg,money-lending-and-other-sins-part-six_post_1,"Check the mine, go to the widow, absolve the debt and give her money"
 ,Three Sisters,money-lending-and-other-sins-part-six_post_0,"Find Weathers, fight off the army, absolve the debt"
-294,Beaver Hollow,money-lending-and-other-sins-part-seven,"Return to camp, chuck Strauss out of the gang"
-295,Beaver Hollow,money-lending-and-other-sins-part-seven_end,
-296,Beaver Hollow,the-course-of-true-love-part-four,Read a letter from Penelope Braithwaite
-297,Braithwaite Manor,the-course-of-true-love-part-four_0,Ride with Penelope to Rhodes
-298,Braithwaite Manor,the-course-of-true-love-part-four_1,"Beat up the Grays, shoot those following the train; then decline the bracelet"
-299,Riggs Station,the-course-of-true-love-part-four_end,
-300,Annesburg,just-a-social-call,"Meet Micah, then watch Dutch kill Cornwall"
-301,Annesburg,just-a-social-call_0,"Fight your way out of town, shooting the oil wagon for the explosion"
-302,Kamassa River,just-a-social-call_end,
-303,Roanoke Ridge,the-delights-of-van-horn,"Speak to Micah, who is sitting on the porch"
-304,Roanoke Ridge,the-delights-of-van-horn_0,Rob the dynamite stagecoach
-305,Kamassa River,the-delights-of-van-horn_end,
-306,Beaver Hollow,a-rage-unleashed,"One morning, speak to Swanson"
-307,Beaver Hollow,a-rage-unleashed_0,"Subdue the soldiers, rescue the horses, accept talking to Rains Fall"
-308,Lannahechee River,a-rage-unleashed_end,
-309,Saint Denis,goodbye-dear-friend,Meet Sadie and Dutch in Doyle's Tavern
-310,Saint Denis,goodbye-dear-friend_0,"Snipe some O'Driscolls, escape"
-311,Beaver Hollow,goodbye-dear-friend_end,
-312,Cumberland Forest,favored-sons,"Speak to Dutch atop the cliff, plant the dynamite"
-313,Cumberland Forest,favored-sons_0,Kill the soldiers and escape
-314,Dakota River,favored-sons_end,
-315,Beaver Hollow,mrs-sadie-adler-widow-part-one,"One morning, talk to Sadie when she is throwing knives"
-316,Beaver Hollow,mrs-sadie-adler-widow-part-one_0,"Agree to helping, but say you'll meet her there"
-317,Beaver Hollow,mrs-sadie-adler-widow-part-one_end,
-318,Hanging Dog Ranch,mrs-sadie-adler-widow-part-two,Find Sadie outside the ranch
-319,Hanging Dog Ranch,mrs-sadie-adler-widow-part-two_0,Kill the remaining O'Driscolls
-320,Hanging Dog Ranch,mrs-sadie-adler-widow-part-two_end,
-321,Bacchus Station,the-bridge-to-nowhere,Meet John by the bridge
-322,Bacchus Station,the-bridge-to-nowhere_0,"Plant the dynamite, escape the oncoming train, blow up the bridge"
-323,Bacchus Station,the-bridge-to-nowhere_end,
-324,Wapiti Indian Reservation,archeology-for-beginners,Visit Rains Fall's tent
-325,Wapiti Indian Reservation,archeology-for-beginners_0,Agree to help Captain Monroe
-326,Wapiti Indian Reservation,archeology-for-beginners_1,"Investigate the site, find the army camp, listen to their conversations"
-327,Wapiti Indian Reservation,archeology-for-beginners_2,Return the pipe to Rains Fall without killing anyone
-328,O'Creagh's Run,archeology-for-beginners_end,
-329,Wapiti Indian Reservation,honor-amongst-thieves,Speak to Captain Monroe
-330,Wapiti Indian Reservation,honor-amongst-thieves_0,Steal the vaccine from the wagon without being detected
-331,Wapiti Indian Reservation,honor-amongst-thieves_end,
-332,Beaver Hollow,the-fine-art-of-conversation,"One morning, speak to Trelawny, then go to the Army parley"
-333,Beaver Hollow,the-fine-art-of-conversation_0,Protect Monroe from the soldiers
-334,Beaver Hollow,the-fine-art-of-conversation_1,Talk to Sister Calderon
-335,Emerald Station,the-fine-art-of-conversation_end,
-336,Wapiti Indian Reservation,the-kings-son,Speak to Charles
-337,Wapiti Indian Reservation,the-kings-son_0,"Assault Fort Wallace, escape by canoe"
-338,Dakota River,the-kings-son_end,
-339,Beaver Hollow,my-last-boy,"One morning, speak to Dutch and Micah"
-340,Beaver Hollow,my-last-boy_0,"Assault Cornwall Kerosene & Tar, take Eagle Flies home, then collapse"
-341,Annesburg,my-last-boy_end,
-342,Beaver Hollow,our-best-selves,"One morning, talk to Dutch"
-343,Beaver Hollow,our-best-selves_0,Rob the train
-344,Bacchus Station,our-best-selves_end,
-345,Bacchus Station,red-dead-redemption,Red Dead Redemption
-346,Bacchus Station,red-dead-redemption_0,"Rescue Abigail, escape Van Horn"
-347,Bacchus Station,red-dead-redemption_1,"Help John to escape, then fight Micah"
-348,Grizzlies East,red-dead-redemption_end,
-349,Strawberry,epilogue-i,Epilogue I
-350,Strawberry,epilogue-i_end,
-351,Strawberry,the-wheel,Deliver supplies to Pronghorn Ranch
+300,Beaver Hollow,money-lending-and-other-sins-part-seven,"Return to camp, chuck Strauss out of the gang"
+301,Beaver Hollow,money-lending-and-other-sins-part-seven_end,
+302,Beaver Hollow,the-course-of-true-love-part-four,Read a letter from Penelope Braithwaite
+303,Braithwaite Manor,the-course-of-true-love-part-four_0,Ride with Penelope to Rhodes
+304,Braithwaite Manor,the-course-of-true-love-part-four_1,"Beat up the Grays, shoot those following the train; then decline the bracelet"
+305,Riggs Station,the-course-of-true-love-part-four_end,
+306,Annesburg,just-a-social-call,"Meet Micah, then watch Dutch kill Cornwall"
+307,Annesburg,just-a-social-call_0,"Fight your way out of town, shooting the oil wagon for the explosion"
+308,Kamassa River,just-a-social-call_end,
+309,Roanoke Ridge,the-delights-of-van-horn,"Speak to Micah, who is sitting on the porch"
+310,Roanoke Ridge,the-delights-of-van-horn_0,Rob the dynamite stagecoach
+311,Kamassa River,the-delights-of-van-horn_end,
+312,Beaver Hollow,a-rage-unleashed,"One morning, speak to Swanson"
+313,Beaver Hollow,a-rage-unleashed_0,"Subdue the soldiers, rescue the horses, accept talking to Rains Fall"
+314,Lannahechee River,a-rage-unleashed_end,
+315,Saint Denis,goodbye-dear-friend,Meet Sadie and Dutch in Doyle's Tavern
+316,Saint Denis,goodbye-dear-friend_0,"Snipe some O'Driscolls, escape"
+317,Beaver Hollow,goodbye-dear-friend_end,
+318,Cumberland Forest,favored-sons,"Speak to Dutch atop the cliff, plant the dynamite"
+319,Cumberland Forest,favored-sons_0,Kill the soldiers and escape
+320,Dakota River,favored-sons_end,
+321,Beaver Hollow,mrs-sadie-adler-widow-part-one,"One morning, talk to Sadie when she is throwing knives"
+322,Beaver Hollow,mrs-sadie-adler-widow-part-one_0,"Agree to helping, but say you'll meet her there"
+323,Beaver Hollow,mrs-sadie-adler-widow-part-one_end,
+324,Hanging Dog Ranch,mrs-sadie-adler-widow-part-two,Find Sadie outside the ranch
+325,Hanging Dog Ranch,mrs-sadie-adler-widow-part-two_0,Kill the remaining O'Driscolls
+326,Hanging Dog Ranch,mrs-sadie-adler-widow-part-two_end,
+327,Bacchus Station,the-bridge-to-nowhere,Meet John by the bridge
+328,Bacchus Station,the-bridge-to-nowhere_0,"Plant the dynamite, escape the oncoming train, blow up the bridge"
+329,Bacchus Station,the-bridge-to-nowhere_end,
+330,Wapiti Indian Reservation,archeology-for-beginners,Visit Rains Fall's tent
+331,Wapiti Indian Reservation,archeology-for-beginners_0,Agree to help Captain Monroe
+332,Wapiti Indian Reservation,archeology-for-beginners_1,"Investigate the site, find the army camp, listen to their conversations"
+333,Wapiti Indian Reservation,archeology-for-beginners_2,Return the pipe to Rains Fall without killing anyone
+334,O'Creagh's Run,archeology-for-beginners_end,
+335,Wapiti Indian Reservation,honor-amongst-thieves,Speak to Captain Monroe
+336,Wapiti Indian Reservation,honor-amongst-thieves_0,Steal the vaccine from the wagon without being detected
+337,Wapiti Indian Reservation,honor-amongst-thieves_end,
+338,Beaver Hollow,the-fine-art-of-conversation,"One morning, speak to Trelawny, then go to the Army parley"
+339,Beaver Hollow,the-fine-art-of-conversation_0,Protect Monroe from the soldiers
+340,Beaver Hollow,the-fine-art-of-conversation_1,Talk to Sister Calderon
+341,Emerald Station,the-fine-art-of-conversation_end,
+342,Wapiti Indian Reservation,the-kings-son,Speak to Charles
+343,Wapiti Indian Reservation,the-kings-son_0,"Assault Fort Wallace, escape by canoe"
+344,Dakota River,the-kings-son_end,
+345,Beaver Hollow,my-last-boy,"One morning, speak to Dutch and Micah"
+346,Beaver Hollow,my-last-boy_0,"Assault Cornwall Kerosene & Tar, take Eagle Flies home, then collapse"
+347,Annesburg,my-last-boy_end,
+348,Beaver Hollow,our-best-selves,"One morning, talk to Dutch"
+349,Beaver Hollow,our-best-selves_0,Rob the train
+350,Bacchus Station,our-best-selves_end,
+351,Bacchus Station,red-dead-redemption,Red Dead Redemption
+352,Bacchus Station,red-dead-redemption_0,"Rescue Abigail, escape Van Horn"
+353,Bacchus Station,red-dead-redemption_1,"Help John to escape, then fight Micah"
+354,Grizzlies East,red-dead-redemption_end,
+355,Strawberry,epilogue-i,Epilogue I
+356,Strawberry,epilogue-i_end,
+357,Strawberry,the-wheel,Deliver supplies to Pronghorn Ranch
 ,Saint Denis,fundraiser-part-one,Donate money to the Quincy Harris Memorial Hall
 ,Willard's Rest,charlotte-balfour-part-two,Charlotte Balfour
-352,Pronghorn Ranch,the-wheel_end,
+358,Pronghorn Ranch,the-wheel_end,
 ,Saint Denis,fundraiser-part-one_end,
 ,Willard's Rest,charlotte-balfour-part-two_0,Visit Charlotte and tell her of Arthur
-353,Pronghorn Ranch,simple-pleasures,"Talk to the foreman, do some chores"
+359,Pronghorn Ranch,simple-pleasures,"Talk to the foreman, do some chores"
 ,Willard's Rest,charlotte-balfour-part-two_end,
-354,Pronghorn Ranch,simple-pleasures_end,
-355,Pronghorn Ranch,farming-for-beginners,"Help the foreman, and do some farming chores"
-356,Pronghorn Ranch,farming-for-beginners_end,
-357,Pronghorn Ranch,fatherhood-for-beginners,"Talk to the ranch owner, help with the horses"
-358,Pronghorn Ranch,fatherhood-for-beginners_end,
-359,Pronghorn Ranch,old-habits,Fight a gang member
-360,Pronghorn Ranch,old-habits_end,
-361,Pronghorn Ranch,fatherhood-for-idiots,"Run some errands in Strawberry, then kill some fellers"
-362,Pronghorn Ranch,fatherhood-for-idiots_end,
-363,Pronghorn Ranch,jim-milton-rides-again,Kill some gang members at Hanging Dog Ranch
-364,Pronghorn Ranch,jim-milton-rides-again_end,
-365,Pronghorn Ranch,motherhood,"Get a telegram, pass some time, leave the ranch"
-366,Big Valley,motherhood_end,
-367,Big Valley,graves,Paying Your Respects
+360,Pronghorn Ranch,simple-pleasures_end,
+361,Pronghorn Ranch,farming-for-beginners,"Help the foreman, and do some farming chores"
+362,Pronghorn Ranch,farming-for-beginners_end,
+363,Pronghorn Ranch,fatherhood-for-beginners,"Talk to the ranch owner, help with the horses"
+364,Pronghorn Ranch,fatherhood-for-beginners_end,
+365,Pronghorn Ranch,old-habits,Fight a gang member
+366,Pronghorn Ranch,old-habits_end,
+367,Pronghorn Ranch,fatherhood-for-idiots,"Run some errands in Strawberry, then kill some fellers"
+368,Pronghorn Ranch,fatherhood-for-idiots_end,
+369,Pronghorn Ranch,jim-milton-rides-again,Kill some gang members at Hanging Dog Ranch
+370,Pronghorn Ranch,jim-milton-rides-again_end,
+371,Pronghorn Ranch,motherhood,"Get a telegram, pass some time, leave the ranch"
+372,Big Valley,motherhood_end,
+373,Big Valley,graves,Paying Your Respects
 ,Saint Denis,fundraiser-part-two,Go see Arthur's name on the plaque at Quincy Harris Memorial Hall
 ,Upper Montana River,the-american-inferno-burnt-out,"Meet Evelyn Miller, get invited to his cabin"
 ,Valentine,gainful-employment,"Meet Sadie in the saloon, go get a bounty"
-368,Big Valley,graves_end,
+374,Big Valley,graves_end,
 ,Diablo Ridge,gainful-employment_end,
 ,Saint Denis,fundraiser-part-two_end,
 ,Tanner's Reach,the-american-inferno-burnt-out_0,"Meet Evelyn Miller, go deal with some hunters"
-369,Bluewater Marsh,graves_post_3,Visit Hosea and Lenny's graves
+375,Bluewater Marsh,graves_post_3,Visit Hosea and Lenny's graves
 ,Clemens Point,graves_post_0,Visit Sean's grave
 ,Colter,graves_post_1,Visit Jenny and Davey's graves
 ,Donner Falls,graves_post_4,Visit Eagle Flies's grave
 ,Elysian Pool,graves_post_5,Visit Susan's grave
 ,Mysterious Hill Home,graves_post_6,Visit Arthur's grave
 ,Shady Belle,graves_post_2,Visit Kieran's grave
-370,Blackwater,the-landowning-classes,John gets a loan from the bank
+376,Blackwater,the-landowning-classes,John gets a loan from the bank
 ,Tanner's Reach,the-american-inferno-burnt-out_1,"Meet Evelyn Miller, give him some food"
-371,Blackwater,the-landowning-classes_0,"Give the squatters money to leave, then return to the bank"
+377,Blackwater,the-landowning-classes_0,"Give the squatters money to leave, then return to the bank"
 ,Tanner's Reach,the-american-inferno-burnt-out_2,"Meet Evelyn Miller, give him some more food"
-372,Blackwater,the-landowning-classes_1,Return to Beecher's Hope with Uncle
+378,Blackwater,the-landowning-classes_1,Return to Beecher's Hope with Uncle
 ,Tanner's Reach,the-american-inferno-burnt-out_3,"Meet Evelyn Miller's corpse, burn the shack"
-373,Beecher's Hope,the-landowning-classes_end,
+379,Beecher's Hope,the-landowning-classes_end,
 ,Upper Montana River,the-american-inferno-burnt-out_end,
-374,Beecher's Hope,epilogue-ii,Epilogue II
-375,Beecher's Hope,epilogue-ii_end,
-376,Beecher's Hope,bare-knuckle-friendships,"One morning, speak to Uncle"
-377,Beecher's Hope,bare-knuckle-friendships_0,"Find Charles, then bet on him to win"
-378,Beecher's Hope,bare-knuckle-friendships_1,"Shoot some guys, then leave town"
-379,Beecher's Hope,bare-knuckle-friendships_end,
-380,Beecher's Hope,home-improvement-for-beginners,"One morning, join Uncle and Charles at the campfire and pull a building down"
-381,Beecher's Hope,home-improvement-for-beginners_end,
-382,Blackwater,an-honest-days-labors,Meet Sadie in the saloon
-383,Blackwater,an-honest-days-labors_0,"Kill Langton and his men, return the bounty target"
-384,Blackwater,an-honest-days-labors_end,
-385,Blackwater,the-tool-box,Buy a home from Cakes Hardwood and Timber
-386,Blackwater,the-tool-box_0,"Buy some tools, get ambushed and kill the Skinners"
-387,Beecher's Hope,the-tool-box_end,
-388,Beecher's Hope,a-new-jerusalem,"Speak to Uncle, build a home"
-389,Beecher's Hope,a-new-jerusalem_end,
-390,Beecher's Hope,a-quick-favor-for-an-old-friend,"Speak to Uncle, under the tree"
-391,Beecher's Hope,a-quick-favor-for-an-old-friend_0,Get a bounty with Sadie and take him to Rhodes
-392,Beecher's Hope,a-quick-favor-for-an-old-friend_1,"Defend Rhodes, then retrieve the bounty again"
-393,Beecher's Hope,a-quick-favor-for-an-old-friend_end,
-394,Beecher's Hope,uncles-bad-day,"Go the barn, drink the night away"
-395,Beecher's Hope,uncles-bad-day_0,Rescue Uncle from the Skinners
-396,Beecher's Hope,uncles-bad-day_end,
-397,Beecher's Hope,the-past-is-gone,Overhear Jack asking his mom why John doesn't talk about Arthur
+380,Beecher's Hope,epilogue-ii,Epilogue II
+381,Beecher's Hope,epilogue-ii_end,
+382,Beecher's Hope,bare-knuckle-friendships,"One morning, speak to Uncle"
+383,Beecher's Hope,bare-knuckle-friendships_0,"Find Charles, then bet on him to win"
+384,Beecher's Hope,bare-knuckle-friendships_1,"Shoot some guys, then leave town"
+385,Beecher's Hope,bare-knuckle-friendships_end,
+386,Beecher's Hope,home-improvement-for-beginners,"One morning, join Uncle and Charles at the campfire and pull a building down"
+387,Beecher's Hope,home-improvement-for-beginners_end,
+388,Blackwater,an-honest-days-labors,Meet Sadie in the saloon
+389,Blackwater,an-honest-days-labors_0,"Kill Langton and his men, return the bounty target"
+390,Blackwater,an-honest-days-labors_end,
+391,Blackwater,the-tool-box,Buy a home from Cakes Hardwood and Timber
+392,Blackwater,the-tool-box_0,"Buy some tools, get ambushed and kill the Skinners"
+393,Beecher's Hope,the-tool-box_end,
+394,Beecher's Hope,a-new-jerusalem,"Speak to Uncle, build a home"
+395,Beecher's Hope,a-new-jerusalem_end,
+396,Beecher's Hope,a-quick-favor-for-an-old-friend,"Speak to Uncle, under the tree"
+397,Beecher's Hope,a-quick-favor-for-an-old-friend_0,Get a bounty with Sadie and take him to Rhodes
+398,Beecher's Hope,a-quick-favor-for-an-old-friend_1,"Defend Rhodes, then retrieve the bounty again"
+399,Beecher's Hope,a-quick-favor-for-an-old-friend_end,
+400,Beecher's Hope,uncles-bad-day,"Go the barn, drink the night away"
+401,Beecher's Hope,uncles-bad-day_0,Rescue Uncle from the Skinners
+402,Beecher's Hope,uncles-bad-day_end,
+403,Beecher's Hope,the-past-is-gone,Overhear Jack asking his mom why John doesn't talk about Arthur
 ,Beecher's Hope,trying-again,"Speak to Jack (try doing it at night), then take him fishing"
-398,Beecher's Hope,the-past-is-gone_end,
+404,Beecher's Hope,the-past-is-gone_end,
 ,Beecher's Hope,trying-again_end,
-399,Beecher's Hope,a-really-big-bastard,"Speak with Abigail, then go with Sadie to fetch a bounty"
-400,Blackwater,a-really-big-bastard_end,
-401,Beecher's Hope,a-new-future-imagined,Take Abigail to Blackwater for the day
-402,Beecher's Hope,a-new-future-imagined_end,
-403,Beecher's Hope,american-venom,"Listen to Jack reading a story, then agree to go with Sadie"
-404,Strawberry,american-venom_0,"Get information out of Cleet, then hang him"
-405,Mount Hagen,american-venom_1,"Climb the mountain, then kill Micah"
-406,Beecher's Hope,american-venom_end,
+405,Beecher's Hope,a-really-big-bastard,"Speak with Abigail, then go with Sadie to fetch a bounty"
+406,Blackwater,a-really-big-bastard_end,
+407,Beecher's Hope,a-new-future-imagined,Take Abigail to Blackwater for the day
+408,Beecher's Hope,a-new-future-imagined_end,
+409,Beecher's Hope,american-venom,"Listen to Jack reading a story, then agree to go with Sadie"
+410,Strawberry,american-venom_0,"Get information out of Cleet, then hang him"
+411,Mount Hagen,american-venom_1,"Climb the mountain, then kill Micah"
+412,Beecher's Hope,american-venom_end,

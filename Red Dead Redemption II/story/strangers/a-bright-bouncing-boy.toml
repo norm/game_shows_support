@@ -9,4 +9,5 @@ begin = "One day, encounter Marko Dragic by the pond"
 text = "[days later] Visit Dragic and conduct some lightning"
 
 [[post_action]]
+chained = true
 text = "[at least 1 day later] You can loot the workshop for notes and a lantern (if you want to find the robot)"

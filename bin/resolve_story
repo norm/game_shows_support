@@ -169,6 +169,7 @@ for root, dirs, files in os.walk('story'):
         # they have the same unlocks/finish_before/before/after links
         # available as the main mission
         if 'post_action' in thread:
+            last_post = last_node
             for index, action in enumerate(thread['post_action']):
                 node_id = '%s_post_%s' % (node, index)
                 if 'location' in action:
@@ -182,6 +183,8 @@ for root, dirs, files in os.walk('story'):
                     type=thread['type'],
                 )
                 graph.add_edge(last_node, node_id)
+                if 'chained' in action:
+                    graph.add_edge(last_post, node_id)
                 if 'unlocks' in action:
                     for unlock in action['unlocks']:
                         graph.add_edge(node_id, unlock)
@@ -194,6 +197,7 @@ for root, dirs, files in os.walk('story'):
                 if 'after' in action:
                     for after in action['after']:
                         graph.add_edge('%s_end' % after, node_id)
+                last_post = node_id
 
 
 # remove storyline edges for abandoned threads/nodes,

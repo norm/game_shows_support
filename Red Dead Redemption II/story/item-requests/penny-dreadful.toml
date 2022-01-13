@@ -1,13 +1,15 @@
 title = "Jack's Penny Dreadful"
-start = "Osman Grove"
-end = "Osman Grove"
+start = "Horseshoe Overlook"
+end = "Horseshoe Overlook"
 type = 'item-request'
 autobegin = true
 
 
-[[action]]
+[[post_action]]
 text = "Get penny dreadful for Jack from cabin"
-after = ['the-spines-of-america']  # to be in the area
+location = "Osman Grove"
 
 [[post_action]]
+chained = true
 text = "Give Jack penny dreadful"
+location = 'Horseshoe Overlook'

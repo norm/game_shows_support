@@ -13,5 +13,6 @@ text = "[days later] Find the convicts again, give them medicine"
 location = 'Southfield Flats'
 
 [[post_action]]
+chained = true
 text = "[days later] Find the convicts for the last time"
 location = 'Stilt Shack'
