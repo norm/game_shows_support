@@ -12,6 +12,6 @@ returns = [
     'micah',
 ]
 
-before = [
-    'a-strange-kindness',
+after = [
+    'chapter-3',
 ]

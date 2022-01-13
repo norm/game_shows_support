@@ -19,9 +19,13 @@ before = [
     'no-no-and-thrice-no',
 ]
 
+returns = [
+    'jack',
+]
+
 
 [[action]]
 text = "Go kill the grave-robbers, sneak away from the law"
 
 [[action]]
-text = "Return to Shady Belle and celebrate the return of John"
+text = "Return to Shady Belle and celebrate the return of Jack"

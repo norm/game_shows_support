@@ -1,6 +1,6 @@
 title = 'Country Pursuits'
 type = 'story'
-start = 'Saint Denis Shady Belle'
+start = 'Shady Belle'
 end = 'Lagras'
 begin = "Dutch beckons Arthur up to his room"
 
@@ -11,3 +11,4 @@ unlocks = [
 
 [[action]]
 text = "Help Thomas with his crawfish traps"
+location = 'Lagras'

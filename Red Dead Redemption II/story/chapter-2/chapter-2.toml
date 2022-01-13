@@ -1,4 +1,4 @@
-title = 'Chapter 2'
+title = 'Chapter 2 -- Horseshoe Overlook'
 type = 'marker'
 start = 'Horseshoe Overlook'
 end = 'Horseshoe Overlook'
@@ -35,12 +35,9 @@ unlocks = [
     # treasure maps
     'all-that-glitters',
     'landmarks-of-riches',
-    'poisonous-trail',
 
     # other
-    'aberdeen-pig-farm',
     'appleseed-timber',
-    'arabian',
     'beaver-tooth-trinket',
     'buck-antler-trinket',
     'camp-chores',
@@ -54,4 +51,5 @@ unlocks = [
     'replenish-supplies',
     'return-to-camp',
     'speech-notes',
+    'weapon-care',
 ]

@@ -1,0 +1,7 @@
+title = 'Pearson'
+start = 'Rhodes'
+end = 'Rhodes'
+type = 'location'
+begin = "Talk to Pearson at the general store"
+
+finish_before = ['a-new-future-imagined']

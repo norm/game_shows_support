@@ -19,4 +19,4 @@ text = "Ride to Braithwaite Manor, kill people, burn it to the ground"
 [[post_action]]
 text = "Loot Catherine Braithwaite's corpse, and the manor (gold bar)"
 location = 'Braithwaite Manor'
-after = ['chapter-4']
+after = ['the-joys-of-civilization']

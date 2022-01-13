@@ -2,6 +2,7 @@ title = "Appleseed Timber"
 start = "Appleseed Timber"
 end = "Appleseed Timber"
 type = 'location'
+autobegin = true
 
 
 [[action]]

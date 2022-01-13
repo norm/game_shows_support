@@ -17,10 +17,10 @@ leaves = [
 
 [[action]]
 text = "Ride to the new camp with Hosea"
-location = 'Horseshoe Overlook'
 
 [[action]]
 text = "Talk to Lenny before he disappears"
+location = 'Horseshoe Overlook'
 
 [[action]]
 text = "Insult Micah before he disappears"

@@ -2,6 +2,7 @@ title = "Castor's Ridge"
 start = "Castor's Ridge"
 end = "Castor's Ridge"
 type = 'location'
+autobegin = true
 
 
 [[action]]
@@ -12,7 +13,8 @@ text = "Rescue the farmer from extortionists"
 
 [[action]]
 text = "Help the farmer get some lumber"
-after = ['appleseed-timber_3']  # to get the lumber for free
+after = ['appleseed-timber_1']  # to get the lumber for free…
+before = ['appleseed-timber_3'] # …but they still need to be there
 
 [[action]]
 text = "Say goodbye to the farmer, who has sold up"

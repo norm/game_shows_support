@@ -21,7 +21,7 @@ before = [
 text = "Get a new suit and a trim"
 
 [[action]]
-text = "Rob the riverboat, do not kill the guard walks into the poker room shootout"
+text = "Rob the riverboat, do not kill the guard who walks into the poker room shootout"
 
 [[post_action]]
 text = "Save the Wittemore outfit (from your horse) if you want to keep it"

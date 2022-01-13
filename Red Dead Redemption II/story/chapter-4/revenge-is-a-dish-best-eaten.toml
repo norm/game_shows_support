@@ -11,6 +11,7 @@ unlocks = [
 
 [[action]]
 text = "Break into Bronte's place, and kill people"
+location = 'Saint Denis'
 
 [[action]]
 text = "Make sure to loot Bronte after knocking him out"

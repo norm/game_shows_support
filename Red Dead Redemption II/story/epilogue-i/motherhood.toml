@@ -9,9 +9,15 @@ unlocks = [
     'the-landowning-classes',
 
     # stranger
-    'the-american-inferno-burnt-out',
+    'charlotte-balfour-part-two',
     'fundraiser-part-two',
+    'the-american-inferno-burnt-out',
+
+    # gang
     'graves',
+    'mary-beth',
+    'pearson',
+    'tilly',
 ]
 
 leaves = [

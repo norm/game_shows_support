@@ -10,7 +10,7 @@ before = [
 
 
 [[action]]
-text = "Ride with Penelope to Rhodes"
+text = "Meet Penelope, and ride with her to Rhodes"
 location = 'Braithwaite Manor'
 
 [[action]]

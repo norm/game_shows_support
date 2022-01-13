@@ -1,4 +1,4 @@
-title = 'Chapter 3'
+title = 'Chapter 3 -- Clemens Point'
 type = 'marker'
 start = 'Clemens Point'
 end = 'Clemens Point'
@@ -27,6 +27,7 @@ unlocks = [
     'rob-coach-with-bill',
 
     # other
+    'aberdeen-pig-farm',
     'braithwaites-secret',
     'white-rabbit',
     'lorena',

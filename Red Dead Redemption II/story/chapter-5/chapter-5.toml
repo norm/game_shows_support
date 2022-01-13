@@ -1,8 +1,5 @@
-title = 'Chapter 5'
+title = 'Chapter 5 -- Guarma'
 type = 'marker'
 start = 'Guarma'
 end = 'Guarma'
-
-unlocks = [
-    'welcome-to-the-new-world',
-]
+triggers = 'welcome-to-the-new-world'

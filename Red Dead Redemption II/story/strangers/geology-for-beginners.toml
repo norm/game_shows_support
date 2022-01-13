@@ -56,10 +56,16 @@ location = 'Elysian Pool'
 finish_before = ['chapter-5']
 
 [[post_action]]
-text = "After mailing the carving locations, visit Francis at his hut again, then return to inspect the map and loot"
+text = "[>2 days] After mailing all carving locations, get a letter"
+location = 'Post Office'
+
+[[post_action]]
+chained = true
+text = "Visit Francis at his hut again, leave hut, then return to inspect the map and loot"
 location = 'Strawberry'
 finish_before = ['chapter-5']
 
 [[post_action]]
+chained = true
 text = "After receiving the Old Brass Compass, get the raven claw talisman (slows weapon degradation)"
 location = 'Fence'

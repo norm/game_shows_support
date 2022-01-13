@@ -1,0 +1,11 @@
+title = 'Tilly'
+start = 'Saint Denis'
+end = 'Saint Denis'
+type = 'location'
+begin = "Talk to Tilly on bench near tailors"
+
+
+[[post_action]]
+text = "[days later] Collect and read letter from Tilly"
+location = 'Post Office'
+finish_before = ['a-new-future-imagined']

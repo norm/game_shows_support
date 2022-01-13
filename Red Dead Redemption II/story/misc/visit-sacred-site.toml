@@ -4,5 +4,4 @@ end = 'Northeast Ambarino'
 type = 'location'
 begin = "Visit/pass by the Sacred Site while it is still intact (NW of Moonstone Pond)"
 
-after = ['chapter-4']
 before = ['archeology-for-beginners']

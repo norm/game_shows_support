@@ -9,9 +9,17 @@ finish_before = [
 ]
 
 after = [
+    # arthur is heard coughing, so he needs to have TB first
     'money-lending-and-other-sins-part-three',
+    # but let's let the TB catch hold and develop a little
+    'pouring-forth-oil-part-three',
+]
+
+before = [
+    'blessed-are-the-meek',
 ]
 
 
 [[action]]
 text = "Kill everyone, loot everything"
+location = 'Chez Porter'

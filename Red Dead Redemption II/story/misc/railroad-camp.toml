@@ -2,6 +2,7 @@ title = "Railroad Camp"
 start = "Railroad Camp"
 end = "Railroad Camp"
 type = 'location'
+autobegin = true
 
 
 [[action]]

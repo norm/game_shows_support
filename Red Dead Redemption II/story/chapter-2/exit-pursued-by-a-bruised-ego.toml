@@ -23,6 +23,8 @@ after = [
 
 [[action]]
 text = "Ride with Hosea to Valentine, sell horse, then go hunting"
+location = 'Valentine'
 
 [[action]]
 text = "Attack but don't kill the legendary bear"
+location = "O'Creagh's Run"

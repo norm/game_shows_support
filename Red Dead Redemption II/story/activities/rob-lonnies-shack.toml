@@ -2,7 +2,7 @@ title = "Rob Lonnie's Shack"
 start = 'Clemens Point'
 end = "Lonnie's Shack"
 type = 'activity'
-begin = "Talk to Sean"
+begin = "One morning, talk to Sean"
 
 finish_before = [
     'blessed-are-the-peacemakers',

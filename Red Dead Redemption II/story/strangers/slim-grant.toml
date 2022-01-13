@@ -9,4 +9,5 @@ begin = "Talk to the sheriff"
 text = "Find Slim Grant, take him to Calloway, shoot him"
 
 [[post_action]]
-text = "[>3 days] Collect reward at Post Office"
+text = "[>3 days] Collect reward from Theodore Levin"
+location = 'Post Office'

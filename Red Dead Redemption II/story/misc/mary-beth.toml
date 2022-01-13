@@ -1,0 +1,7 @@
+title = 'Mary-Beth'
+start = 'Valentine'
+end = 'Valentine'
+type = 'location'
+begin = "Talk to Mary-Beth at the train station"
+
+finish_before = ['a-new-future-imagined']
