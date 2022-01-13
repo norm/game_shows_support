@@ -2,6 +2,7 @@
 
 import argparse
 import csv
+from functools import cmp_to_key
 import networkx as nx
 import os
 from pprint import pformat
@@ -252,20 +253,43 @@ if args.debug:
 # where threads of equal standing include certain types of threads,
 # those threads get elevated out
 sorted_graph = []
+current_location = ''
 for threads in list(nx.topological_generations(graph)):
+    def location_before_key(a, b):
+        loc_a = graph.nodes[a]['location']
+        loc_b = graph.nodes[b]['location']
+        if loc_a == current_location and loc_b != current_location:
+            return -1
+        if loc_b == current_location and loc_a != current_location:
+            return 1
+        if loc_a != loc_b:
+            if sorted([loc_a, loc_b]) != [loc_a, loc_b]:
+                return 1
+        elif sorted((a, b)) != [a, b]:
+            return 1
+        return -1
+
     if len(threads) > 1:
-        still_equal = []
+        lift_threads = []
+        equal_threads = []
         for thread in threads:
             node = graph.nodes[thread]
             if node['type'] == 'border':
                 sorted_graph.append([thread])
             elif '_post_' in thread:
-                sorted_graph.append([thread])
+                lift_threads.append(thread)
             else:
-                still_equal.append(thread)
-        if len(still_equal):
-            sorted_graph.append(sorted(still_equal))
+                equal_threads.append(thread)
+        if len(lift_threads):
+            sorted_graph.append(
+                sorted(lift_threads, key=cmp_to_key(location_before_key))
+            )
+        if len(equal_threads):
+            sorted_graph.append(
+                sorted(equal_threads, key=cmp_to_key(location_before_key))
+            )
     else:
+        current_location = graph.nodes[threads[0]]['location']
         sorted_graph.append(threads)
 
 
