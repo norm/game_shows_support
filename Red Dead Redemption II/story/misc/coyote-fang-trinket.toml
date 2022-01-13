@@ -1,0 +1,10 @@
+title = 'Coyote Fang Trinket'
+start = 'Scarlett Meadows'
+end = 'Scarlett Meadows'
+type = 'location'
+begin = 'Kill the legendary coyote'
+
+[[post_action]]
+text = 'Get the coyote fang trinket at a fence (dead eye XP gain)'
+location = 'Fence'
+after = ['the-spines-of-america']

@@ -1,0 +1,12 @@
+title = 'Camp Chores'
+start = 'Horseshoe Overlook'
+end = 'Horseshoe Overlook'
+type = 'location'
+begin = 'Do your chores each morning, and talk to people'
+
+after = [
+    # clear the markers first
+    'a-fisher-of-fish',
+    'a-test-of-faith',
+    'smoking-and-other-hobbies',
+]

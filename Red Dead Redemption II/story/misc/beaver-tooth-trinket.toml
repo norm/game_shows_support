@@ -1,0 +1,10 @@
+title = 'Beaver Tooth Trinket'
+start = 'Elysian Pool'
+end = 'Elysian Pool'
+type = 'location'
+begin = 'Kill the legendary beaver'
+
+[[post_action]]
+text = 'Get the beaver tooth trinket at a fence (slows weapon degradation)'
+location = 'Fence'
+after = ['the-spines-of-america']

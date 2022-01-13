@@ -33,12 +33,14 @@
 
 ==== Chapter 2 ====
 - {Horseshoe Overlook} Listen to Karen/Tilly/Mary-Beth talk about being bored [Eastward Bound]
---- 22 equal options:
+--- 28 equal options:
         ['a-fisher-of-fish', 'a-test-of-faith', 'aberdeen-pig-farm', 'all-that-glitters',
-         'american-dreams', 'appleseed-timber', 'arcadia-for-amateurs-part-one', 'book',
-         'castors-ridge', 'five-dollars', 'fountain-pen', 'geology-for-beginners',
-         'landmarks-of-riches', 'loot-crashed-train', 'pipe', 'poison-knives', 'poisonous-trail',
-         'rabbit', 'railroad-camp', 'smoking-and-other-hobbies', 'speech-notes', 'thimble']
+         'american-dreams', 'appleseed-timber', 'arabian', 'arcadia-for-amateurs-part-one',
+         'beaver-tooth-trinket', 'book', 'buck-antler-trinket', 'castors-ridge', 'cat-eye-trinket',
+         'elk-antler-trinket', 'five-dollars', 'fountain-pen', 'geology-for-beginners',
+         'hawk-talon-trinket', 'landmarks-of-riches', 'loot-crashed-train', 'pipe', 'poison-knives',
+         'poisonous-trail', 'rabbit', 'railroad-camp', 'smoking-and-other-hobbies', 'speech-notes',
+         'thimble']
       {Horseshoe Overlook} Go to San Luis River for A Fisher of Fish
     . {San Luis River} [off camera] Meet Jeremy Gill to clear the marker [A Fisher of Fish]
       {Horseshoe Overlook} Go to Near Horseshoe Overlook for A Test of Faith
@@ -51,15 +53,27 @@
     . {Valentine} Find the corpse under the railway bridge, on the way back to camp [American Dreams]
       {Horseshoe Overlook} Go to Appleseed Timber for Appleseed Timber
     . {Appleseed Timber} Appleseed Timber [Appleseed Timber]
+      {Horseshoe Overlook} Go to Lake Isabella for Arabian
+    . {Lake Isabella} Tame and ride the white arabian horse [Arabian]
       {Horseshoe Overlook} Go to Riggs Station for Arcadia for Amateurs I
     . {Riggs Station} Meet Mason, help him photograph the coyote [Arcadia for Amateurs I]
+      {Horseshoe Overlook} Go to Elysian Pool for Beaver Tooth Trinket
+    . {Elysian Pool} Kill the legendary beaver [Beaver Tooth Trinket]
     . {Horseshoe Overlook} Pick up Hosea's book while he is in/near his tent [Book]
+      {Horseshoe Overlook} Go to Big Valley for Buck Antler Trinket
+    . {Big Valley} Kill the legendary buck [Buck Antler Trinket]
       {Horseshoe Overlook} Go to Castor's Ridge for Castor's Ridge
     . {Castor's Ridge} Castor's Ridge [Castor's Ridge]
+      {Horseshoe Overlook} Go to Flat Iron Lake for Cat Eye Trinket
+    . {Flat Iron Lake} Get the trinket from the lockbox on southernmost island (increase length of fortifying tonic) [Cat Eye Trinket]
+      {Horseshoe Overlook} Go to Cumberland Forest for Elk Antler Trinket
+    . {Cumberland Forest} Kill the legendary elk [Elk Antler Trinket]
     . {Horseshoe Overlook} Talk to Abigail when she is complaining about Jack's clothes [Five Dollars]
     . {Horseshoe Overlook} Speak to Mary-Beth when she is writing [Mary-Beth's Fountain Pen]
       {Horseshoe Overlook} Go to Strawberry for Geology for Beginners
     . {Strawberry} Meet Francis at his hut [Geology for Beginners]
+      {Horseshoe Overlook} Go to Deadboot Creek for Hawk Talon Trinket
+    . {Deadboot Creek} Get the trinket from the lockbox by waterfall (decrease stamina draink when drawing bow) [Hawk Talon Trinket]
       {Horseshoe Overlook} Go to Obelisk for Landmarks of Riches
     . {Obelisk} Find treasure map inside [Landmarks of Riches]
       {Horseshoe Overlook} Go to Cotorra Springs for Loot Crashed Train
@@ -130,13 +144,16 @@
 . {Elysian Pool} Find the rock carving [Geology for Beginners]
   {Elysian Pool} Go to Strawberry
 . {Strawberry} After mailing the carving locations, visit Francis at his hut again, then return to inspect the map and loot [Geology for Beginners]
-  {Strawberry} Go to Horseshoe Overlook
+  {Strawberry} Go to Fence
+. {Fence} After receiving the Old Brass Compass, get the raven claw talisman (slows weapon degradation) [Geology for Beginners]
+  {Fence} Go to Horseshoe Overlook
 . {Horseshoe Overlook} Give Mary-Beth fountain pen [Mary-Beth's Fountain Pen]
 . {Horseshoe Overlook} Once looted, give Jack the thimble [Thimble]
---- 10 equal options:
+--- 14 equal options:
         ['aberdeen-pig-farm_1', 'all-that-glitters_1', 'appleseed-timber_1',
-         'arcadia-for-amateurs-part-two', 'camp-supplies', 'castors-ridge_1',
-         'landmarks-of-riches_1', 'poisonous-trail_1', 'railroad-camp_1', 'who-is-not-without-sin']
+         'arcadia-for-amateurs-part-two', 'camp-chores', 'camp-supplies', 'castors-ridge_1',
+         'landmarks-of-riches_1', 'poisonous-trail_1', 'railroad-camp_1', 'replenish-supplies',
+         'return-to-camp', 'weapon-care', 'who-is-not-without-sin']
       {Horseshoe Overlook} Go to Aberdeen Pig Farm for Aberdeen Pig Farm
     . {Aberdeen Pig Farm} Loot the house, get money back from behind painting [Aberdeen Pig Farm]
       {Horseshoe Overlook} Go to Cotorra Springs for All That Glitters
@@ -145,6 +162,7 @@
     . {Appleseed Timber} Help free the chap trapped under the fallen tree, give him $5 [Appleseed Timber]
       {Horseshoe Overlook} Go to Wallace Station for Arcadia for Amateurs
     . {Wallace Station} Help Mason photograph some wolves [Arcadia for Amateurs]
+    . {Horseshoe Overlook} Do your chores each morning, and talk to people [Camp Chores]
     . {Horseshoe Overlook} Camp Supplies [Camp Supplies]
       {Horseshoe Overlook} Go to Castor's Ridge for Castor's Ridge
     . {Castor's Ridge} Rescue the farmer from extortionists [Castor's Ridge]
@@ -154,6 +172,9 @@
     . {Serpent Mound} Get the third treasure map [Poisonous Trail]
       {Horseshoe Overlook} Go to Railroad Camp for Railroad Camp
     . {Railroad Camp} Speak to the foreman, go retrieve land deed [Railroad Camp]
+    . {Horseshoe Overlook} Make sure you have supplies on you before starting anything [Replenish Supplies]
+    . {Horseshoe Overlook} Always return to camp before 3 days have passed [Return to camp]
+    . {Horseshoe Overlook} Clean your weapons and improve your ammo before starting anything [Weapon Care]
     * {Horseshoe Overlook} Get someone to mention Swanson has gone [Who is not Without Sin]
   {Horseshoe Overlook} Go to Clemens Point
 . {Clemens Point} Give Hosea the book [Book]
@@ -176,7 +197,8 @@
     . {Elysian Pool} Get the treasure [Poisonous Trail]
       {Horseshoe Overlook} Go to Railroad Camp for Railroad Camp
     . {Railroad Camp} Speak to the foreman, get some supplies [Railroad Camp]
-    * {Horseshoe Overlook} Go to Flatneck Station, find Swanson, play poker, find Swanson again [Who is not Without Sin]
+      {Horseshoe Overlook} Go to Flatneck Station for Who is not Without Sin
+    * {Flatneck Station} Find Swanson, play poker, find Swanson again [Who is not Without Sin]
 . {Horseshoe Overlook} Hunt food whenever camp supplies run low [Camp Supplies]
 --- 5 equal options:
         ['appleseed-timber_3', 'castors-ridge_3', 'landmarks-of-riches_3', 'railroad-camp_3',
@@ -189,8 +211,10 @@
     . {Mount Shann} Get the treasure [Landmarks of Riches]
       {Horseshoe Overlook} Go to Railroad Camp for Railroad Camp
     . {Railroad Camp} Ride along the completed railroad [Railroad Camp]
-    * {Horseshoe Overlook} Beat stranger, rope witness (try to finish with camera facing bridge) [Who is not Without Sin]
-* {Horseshoe Overlook} Save Swanson from the train [Who is not Without Sin]
+      {Horseshoe Overlook} Go to Flatneck Station for Who is not Without Sin
+    * {Flatneck Station} Beat stranger, rope witness (try to finish with camera facing bridge) [Who is not Without Sin]
+  {Horseshoe Overlook} Go to Flatneck Station for Who is not Without Sin
+* {Flatneck Station} Save Swanson from the train [Who is not Without Sin]
 * {Horseshoe Overlook} Greet gang members while still carrying Swanson [Who is not Without Sin]
 * {Horseshoe Overlook} One morning, wake up Uncle and take the girls to Valentine [Polite Society, Valentine Style]
   {Horseshoe Overlook} Go to Valentine for Polite Society, Valentine Style
@@ -234,8 +258,13 @@
 * {Horseshoe Overlook} Attack but don't kill the legendary bear [Exit, Pursued by a Bruised Ego]
 . {Horseshoe Overlook} Give Sean the bottle of bourbon [Fire bottles]
 . {Horseshoe Overlook} Give Charles the moonshine [Fire arrows]
---- 2 equal options:
-        ['money-lending-and-other-sins-part-one', 'poison-arrows']
+--- 4 equal options:
+        ['coyote-fang-trinket', 'fox-claw-trinket', 'money-lending-and-other-sins-part-one',
+         'poison-arrows']
+      {O'Creagh's Run} Go to Scarlett Meadows for Coyote Fang Trinket
+    . {Scarlett Meadows} Kill the legendary coyote [Coyote Fang Trinket]
+      {O'Creagh's Run} Go to Rhodes for Fox Claw Trinket
+    . {Rhodes} Go north of the fence, kill the legendary fox [Fox Claw Trinket]
       {O'Creagh's Run} Go to Horseshoe Overlook for Money Lending and Other Sins I
     * {Horseshoe Overlook} One morning speak to Strauss to identify first three debtors [Money Lending and Other Sins I]
       {O'Creagh's Run} Go to Horseshoe Overlook for Poison arrows
@@ -246,11 +275,21 @@
 - {Guthrie Farm} Get money from Chick Matthews [Money Lending and Other Sins I]
   {Guthrie Farm} Go to Emerald Ranch
 - {Emerald Ranch} Get money from Lilly Millet [Money Lending and Other Sins I]
+  {Emerald Ranch} Go to Limpany for Limpany
+. {Limpany} Loot Limpany (gold bar in sherrif's lockbox) [Limpany]
+  {Emerald Ranch} Go to Horseshoe Overlook
 . {Horseshoe Overlook} Give Charles the oleander [Poison arrows]
   {Horseshoe Overlook} Go to Emerald Ranch for The Spines of America
 * {Emerald Ranch} One fine morning, speak to Hosea, and go steal back a stagecoach [The Spines of America]
+  {Horseshoe Overlook} Go to Emerald Ranch for The Spines of America
 * {Emerald Ranch} Break into Carmody Dell in the day [The Spines of America]
-  {Emerald Ranch} Go to Painted Sky
+  {Emerald Ranch} Go to Fence
+. {Fence} Get the fox claw trinket at a fence (raises eagle eye duration) [Fox Claw Trinket]
+. {Fence} Get the beaver tooth trinket at a fence (slows weapon degradation) [Beaver Tooth Trinket]
+. {Fence} Get the elk antler trinket at a fence (raises money from looting) [Elk Antler Trinket]
+. {Fence} Get the coyote fang trinket at a fence (dead eye XP gain) [Coyote Fang Trinket]
+. {Fence} Get the buck antler trinket at a fence (higher quality parts from animals) [Buck Antler Trinket]
+  {Fence} Go to Painted Sky
 - {Painted Sky} Get money from Wrobel [Money Lending and Other Sins I]
   {Painted Sky} Go to Horseshoe Overlook for A Quiet Time
 * {Horseshoe Overlook} One evening before sunset, talk to Dutch at his tent [A Quiet Time]
@@ -367,7 +406,7 @@
   {Rhodes} Go to Strawberry
 . {Strawberry} Meet Winton, kill the cougar in the cave [Money Lending and Other Sins IV]
   {Strawberry} Go to Lemoyne
-. {Lemoyne} Get the lion's paw trinket from a fence [He's British, of Course]
+. {Lemoyne} Get the lion's paw trinket from a fence (raises stamina XP gain) [He's British, of Course]
 --- 2 equal options:
         ['arcadia-for-amateurs-part-four', 'the-new-south_1']
       {Lemoyne} Go to Lagras for Arcadia for Amateurs
@@ -513,8 +552,8 @@
     . {Saint Denis} Meet Chatenay at Doyle's Tavern, by him a brandy [The Artist's Way]
       {Braithwaite Manor} Go to Saint Denis for The Joys of Civilization
     * {Saint Denis} Try to enter the saloon [The Joys of Civilization]
-      {Braithwaite Manor} Go to Norteast Ambarino for Visit Sacred Site
-    . {Norteast Ambarino} Visit/pass by the Sacred Site while it is still intact [Visit Sacred Site]
+      {Braithwaite Manor} Go to Northeast Ambarino for Visit Sacred Site
+    . {Northeast Ambarino} Visit/pass by the Sacred Site while it is still intact (NW of Moonstone Pond) [Visit Sacred Site]
 --- 2 equal options:
         ['the-artists-way_0', 'the-joys-of-civilization_0']
       {Braithwaite Manor} Go to Saint Denis for The Artist's Way
@@ -762,6 +801,7 @@
 * {Bacchus Station} Plant the dynamite, escape the oncoming train, blow up the bridge [The Bridge to Nowhere]
   {Bacchus Station} Go to Wapiti Indian Reservation for Archeology for Beginners
 * {Wapiti Indian Reservation} Visit Rains Fall's tent [Archeology for Beginners]
+* {Wapiti Indian Reservation} Agree to help Captain Monroe [Archeology for Beginners]
 * {Wapiti Indian Reservation} Investigate the site, find the army camp, listen to their conversations [Archeology for Beginners]
 * {Wapiti Indian Reservation} Return the pipe to Rains Fall without killing anyone [Archeology for Beginners]
   {O'Creagh's Run} Go to Wapiti Indian Reservation for Honor, Amongst Thieves
@@ -797,10 +837,8 @@
 . {Willard's Rest} Visit Charlotte and tell her of Arthur [Charlotte Balfour]
   {Strawberry} Go to Pronghorn Ranch for Simple Pleasures
 * {Pronghorn Ranch} Talk to the foreman, do some chores [Simple Pleasures]
---- 2 equal options:
-        ['farming-for-beginners', 'fatherhood-for-beginners']
-    * {Pronghorn Ranch} Help the foreman, and do some farming chores [Farming, for Beginners]
-    * {Pronghorn Ranch} Talk to the ranch owner, help with the horses [Fatherhood, for Beginners]
+* {Pronghorn Ranch} Help the foreman, and do some farming chores [Farming, for Beginners]
+* {Pronghorn Ranch} Talk to the ranch owner, help with the horses [Fatherhood, for Beginners]
 * {Pronghorn Ranch} Fight a gang member [Old Habits]
 * {Pronghorn Ranch} Run some errands in Strawberry, then kill some fellers [Fatherhood, for Idiots]
 * {Pronghorn Ranch} Kill some gang members at Hanging Dog Ranch [Jim Milton Rides, Again?]
@@ -854,12 +892,9 @@
 * {Beecher's Hope} One morning, speak to Uncle [Bare Knuckle Friendships]
 * {Beecher's Hope} Find Charles, then bet on him to win [Bare Knuckle Friendships]
 * {Beecher's Hope} Shoot some guys, then leave town [Bare Knuckle Friendships]
---- 2 equal options:
-        ['an-honest-days-labors', 'home-improvement-for-beginners']
-      {Beecher's Hope} Go to Blackwater for An Honest Day's Labors
-    * {Blackwater} Meet Sadie in the saloon [An Honest Day's Labors]
-    * {Beecher's Hope} One morning, join Uncle and Charles at the campfire and pull a buiding down [Home Improvement for Beginners]
+* {Beecher's Hope} One morning, join Uncle and Charles at the campfire and pull a building down [Home Improvement for Beginners]
   {Beecher's Hope} Go to Blackwater for An Honest Day's Labors
+* {Blackwater} Meet Sadie in the saloon [An Honest Day's Labors]
 * {Blackwater} Kill Langton and his men, return the bounty target [An Honest Day's Labors]
 * {Blackwater} Buy a home from Cakes Hardwood and Timber [The Tool Box]
 * {Blackwater} Buy some tools, get ambushed and kill the Skinners [The Tool Box]
@@ -869,7 +904,10 @@
 * {Beecher's Hope} Defend Rhodes, then retrieve the bounty again [A Quick Favor for an Old Friend]
 * {Beecher's Hope} Go the barn, drink the night away [Uncle's Bad Day]
 * {Beecher's Hope} Rescue Uncle from the Skinners [Uncle's Bad Day]
-* {Beecher's Hope} Speak to Jack (try doing it at night), then take him fishing [Trying Again]
+--- 2 equal options:
+        ['the-past-is-gone', 'trying-again']
+    . {Beecher's Hope} Overhear Jack asking his mom why John doesn't talk about Arthur [The past is gone]
+    * {Beecher's Hope} Speak to Jack (try doing it at night), then take him fishing [Trying Again]
 * {Beecher's Hope} Speak with Abigail, then go with Sadie to fetch a bounty [A Really Big Bastard]
   {Blackwater} Go to Beecher's Hope for A New Future Imagined
 * {Beecher's Hope} Take Abigail to Blackwater for the day [A New Future Imagined]

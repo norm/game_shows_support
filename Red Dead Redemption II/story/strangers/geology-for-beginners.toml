@@ -59,3 +59,7 @@ finish_before = ['chapter-5']
 text = "After mailing the carving locations, visit Francis at his hut again, then return to inspect the map and loot"
 location = 'Strawberry'
 finish_before = ['chapter-5']
+
+[[post_action]]
+text = "After receiving the Old Brass Compass, get the raven claw talisman (slows weapon degradation)"
+location = 'Fence'

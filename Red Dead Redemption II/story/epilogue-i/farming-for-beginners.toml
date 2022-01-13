@@ -7,3 +7,7 @@ begin = "Help the foreman, and do some farming chores"
 unlocks = [
     'old-habits',
 ]
+
+before = [
+    'fatherhood-for-beginners',
+]

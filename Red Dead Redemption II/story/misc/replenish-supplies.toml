@@ -1,0 +1,12 @@
+title = 'Replenish Supplies'
+start = 'Horseshoe Overlook'
+end = 'Horseshoe Overlook'
+type = 'location'
+begin = 'Make sure you have supplies on you before starting anything'
+
+after = [
+    # clear the markers first
+    'a-fisher-of-fish',
+    'a-test-of-faith',
+    'smoking-and-other-hobbies',
+]

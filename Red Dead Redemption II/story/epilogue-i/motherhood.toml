@@ -13,3 +13,8 @@ unlocks = [
     'fundraiser-part-two',
     'graves',
 ]
+
+leaves = [
+    'abigail',
+    'jack',
+]

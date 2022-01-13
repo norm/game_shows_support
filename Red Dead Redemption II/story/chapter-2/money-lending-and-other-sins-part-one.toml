@@ -5,7 +5,11 @@ end = 'Horseshoe Overlook'
 begin = "One morning speak to Strauss to identify first three debtors"
 
 unlocks = [
+    # story
     'a-quiet-time',
+
+    # misc
+    'limpany',
 ]
 
 before = [
@@ -16,11 +20,6 @@ before = [
 after = [
     'exit-pursued-by-a-bruised-ego',
 ]
-
-# after = [
-#     'polite-society-valentine-style',
-#     'the-first-shall-be-last',
-# ]
 
 
 # Part II is these, but they can be performed whenever

@@ -10,6 +10,10 @@ leaves = [
 
 unlocks = [
     'the-spines-of-america',
+
+    # misc
+    'coyote-fang-trinket',
+    'fox-claw-trinket',
 ]
 
 after = [

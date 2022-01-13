@@ -1,0 +1,10 @@
+title = 'Elk Antler Trinket'
+start = 'Cumberland Forest'
+end = 'Cumberland Forest'
+type = 'location'
+begin = 'Kill the legendary elk'
+
+[[post_action]]
+text = 'Get the elk antler trinket at a fence (raises money from looting)'
+location = 'Fence'
+after = ['the-spines-of-america']

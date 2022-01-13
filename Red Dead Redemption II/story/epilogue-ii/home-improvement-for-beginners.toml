@@ -2,8 +2,12 @@ title = 'Home Improvement for Beginners'
 type = 'story'
 start = "Beecher's Hope"
 end = "Beecher's Hope"
-begin = "One morning, join Uncle and Charles at the campfire and pull a buiding down"
+begin = "One morning, join Uncle and Charles at the campfire and pull a building down"
 
 unlocks = [
     'the-tool-box',
+]
+
+before = [
+    'an-honest-days-labors',
 ]

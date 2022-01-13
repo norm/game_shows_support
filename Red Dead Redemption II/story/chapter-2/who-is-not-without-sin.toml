@@ -18,7 +18,8 @@ before = [
 
 
 [[action]]
-text = "Go to Flatneck Station, find Swanson, play poker, find Swanson again"
+text = "Find Swanson, play poker, find Swanson again"
+location = 'Flatneck Station'
 
 [[action]]
 text = "Beat stranger, rope witness (try to finish with camera facing bridge)"
@@ -28,3 +29,4 @@ text = "Save Swanson from the train"
 
 [[action]]
 text = "Greet gang members while still carrying Swanson"
+location = 'Horseshoe Overlook'

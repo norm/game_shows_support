@@ -7,6 +7,13 @@ begin = "Go the barn, drink the night away"
 unlocks = [
     'trying-again',
     'a-really-big-bastard',
+
+    'the-past-is-gone',
+]
+
+returns = [
+    'abigail',
+    'jack',
 ]
 
 

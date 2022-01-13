@@ -1,0 +1,10 @@
+title = 'Fox Claw Trinket'
+start = 'Rhodes'
+end = 'Rhodes'
+type = 'location'
+begin = 'Go north of the fence, kill the legendary fox'
+
+[[post_action]]
+text = 'Get the fox claw trinket at a fence (raises eagle eye duration)'
+location = 'Fence'
+after = ['the-spines-of-america']

@@ -1,0 +1,10 @@
+title = 'Buck Antler Trinket'
+start = 'Big Valley'
+end = 'Big Valley'
+type = 'location'
+begin = 'Kill the legendary buck'
+
+[[post_action]]
+text = 'Get the buck antler trinket at a fence (higher quality parts from animals)'
+location = 'Fence'
+after = ['the-spines-of-america']
