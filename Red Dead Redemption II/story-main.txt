@@ -1,0 +1,388 @@
+
+============================== COMPLETED TO HERE ===============================
+
+
+=============================== END OF ABANDONED ===============================
+
+
+==== START THE GAME ====
+
+==== Chapter 1 -- Colter ====
+* {Colter} Rescue Sadie from the O'Driscolls [Outlaws from the West]
+* {Colter} Spare the O'Driscoll [Outlaws from the West]
+- {Colter} Offer Sadie the horse [Outlaws from the West]
+* {Colter} Go with Javier to rescue John [Enter, Persued by a Memory]
+* {Colter} Check on Bill at camp, go to the gang hideout [Old Friends]
+* {Colter} See Colm scolding Kieran [Old Friends]
+* {Colter} Listen to the previously spared O'Driscoll's comments [Old Friends]
+* {Colter} Kill the O'Driscolls [Old Friends]
+- {Colter} Find Kieran tied in the barn and talk to him [Old Friends]
+* {Colter} Speak to Pearson, go hunting with Charles [The Aftermath of Genesis]
+* {Colter} Check on John in camp, go to rob a train with Dutch [Who the Hell is Leviticus Cornwall?]
+* {Colter} Be sure to loot the two letters [Who the Hell is Leviticus Cornwall?]
+  {Granite Pass} Go to Colter
+- {Colter} Read the two letters looted from the train [Who the Hell is Leviticus Cornwall?]
+* {Colter} Returning to camp, speak to Dutch [Eastward Bound]
+* {Colter} Ride to the new camp with Hosea [Eastward Bound]
+* {Horseshoe Overlook} Talk to Lenny before he disappears [Eastward Bound]
+* {Horseshoe Overlook} Insult Micah before he disappears [Eastward Bound]
+* {Horseshoe Overlook} Read about moving camps in Journal [Eastward Bound]
+
+==== Chapter 2 -- Horseshoe Overlook ====
+- {Horseshoe Overlook} Listen to Karen/Tilly/Mary-Beth talk about being bored [Eastward Bound]
+* {Horseshoe Overlook} Get someone to mention Swanson has gone [Who is not Without Sin]
+  {Horseshoe Overlook} Go to Flatneck Station for Who is not Without Sin
+* {Flatneck Station} Find Swanson, play poker, find Swanson again [Who is not Without Sin]
+  {Fence} Go to Flatneck Station for Who is not Without Sin
+* {Flatneck Station} Beat stranger, rope witness (try to finish with camera facing bridge) [Who is not Without Sin]
+  {Fence} Go to Flatneck Station for Who is not Without Sin
+* {Flatneck Station} Save Swanson from the train [Who is not Without Sin]
+  {Fence} Go to Horseshoe Overlook for Who is not Without Sin
+* {Horseshoe Overlook} Greet gang members while still carrying Swanson [Who is not Without Sin]
+* {Horseshoe Overlook} One morning, wake up Uncle and take the girls to Valentine [Polite Society, Valentine Style]
+* {Valentine} Chase man who recognises you, save from falling [Polite Society, Valentine Style]
+* {Valentine} Return horse to owner [Polite Society, Valentine Style]
+--- 3 equal options:
+        ['polite-society-valentine-style_post_0', 'polite-society-valentine-style_post_1',
+         'polite-society-valentine-style_post_2']
+      {Valentine} Go to Horseshoe Overlook
+    - {Horseshoe Overlook} Read journal about trip to Valentine [Polite Society, Valentine Style]
+      {Valentine} Go to Horseshoe Overlook
+    - {Horseshoe Overlook} Tell Dutch about man in Valentine recognising you [Polite Society, Valentine Style]
+      {Valentine} Go to Horseshoe Overlook
+    - {Horseshoe Overlook} Talk to Karen, Tilly, and Mary-Beth about trip to Valentine [Polite Society, Valentine Style]
+  {Horseshoe Overlook} Go to Valentine for Good, Honest, Snake Oil
+* {Valentine} Talk to the Sheriff, learn about wanted posters [Good, Honest, Snake Oil]
+* {Valentine} Capture Allbright alive, return to the sheriff [Good, Honest, Snake Oil]
+* {Valentine} Find Javier at the main saloon bar, get into a fight [Americans at Rest]
+  {Valentine} Go to Blackwater for The First Shall Be Last
+* {Blackwater} Meet Javier, rescue Sean [The First Shall Be Last]
+  {Valentine} Go to Horseshoe Overlook
+- {Horseshoe Overlook} Celebrate Sean's return, catch Karen and Sean going to a tent together [The First Shall Be Last]
+* {Horseshoe Overlook} One morning, talk to Hosea [Exit, Pursued by a Bruised Ego]
+  {Horseshoe Overlook} Go to Valentine for Exit, Pursued by a Bruised Ego
+* {Valentine} Ride with Hosea to Valentine, sell horse, then go hunting [Exit, Pursued by a Bruised Ego]
+  {Horseshoe Overlook} Go to O'Creagh's Run for Exit, Pursued by a Bruised Ego
+* {O'Creagh's Run} Attack but don't kill the legendary bear [Exit, Pursued by a Bruised Ego]
+* {Horseshoe Overlook} One morning speak to Strauss to identify first three debtors [Money Lending and Other Sins I]
+--- 2 equal options:
+        ['money-lending-and-other-sins-part-one_post_2', 'money-lending-and-other-sins-part-one_post_0']
+      {Horseshoe Overlook} Go to Emerald Ranch
+    - {Emerald Ranch} Get money from Lilly Millet [Money Lending and Other Sins I]
+      {Horseshoe Overlook} Go to Guthrie Farm
+    - {Guthrie Farm} Get money from Chick Matthews [Money Lending and Other Sins I]
+  {Horseshoe Overlook} Go to Emerald Ranch for The Spines of America
+* {Emerald Ranch} One fine morning, speak to Hosea, and go steal back a stagecoach [The Spines of America]
+  {Horseshoe Overlook} Go to Emerald Ranch for The Spines of America
+* {Emerald Ranch} Break into Carmody Dell in the day [The Spines of America]
+  {Emerald Ranch} Go to Painted Sky
+- {Painted Sky} Get money from Wrobel [Money Lending and Other Sins I]
+  {Emerald Ranch} Go to Horseshoe Overlook for A Quiet Time
+* {Horseshoe Overlook} One evening before sunset, talk to Dutch at his tent [A Quiet Time]
+* {Valentine} Take Lenny to Valentine for a drink [A Quiet Time]
+* {Valentine} Catch Lenny in the act when searching for the third time [A Quiet Time]
+  {Valentine} Go to Horseshoe Overlook for Paying a Social Call
+* {Horseshoe Overlook} One morning, talk to Kieran [Paying a Social Call]
+* {Horseshoe Overlook} Follow Kieran to Six Point Cabin, kill some O'Driscolls, escape the law [Paying a Social Call]
+- {Horseshoe Overlook} Read about shotgun in journal [Paying a Social Call]
+* {Horseshoe Overlook} Read letter from Mary [We Loved Once and True I]
+  {Horseshoe Overlook} Go to Valentine
+- {Valentine} Meet Mary in Valentine (be sure to have a hat on), choose to help Jamie [We Loved Once and True I]
+  {Valentine} Go to Cumberland Forest for We Loved Once and True III
+* {Cumberland Forest} Find the Chelonians atop the hill [We Loved Once and True III]
+* {Cumberland Forest} Respond positively to the leader to talk to Jamie [We Loved Once and True III]
+* {Cumberland Forest} Stop Jamie committing suicide, return him to Valentine [We Loved Once and True III]
+  {Valentine} Go to Horseshoe Overlook for Money Lending and Other Sins III
+* {Horseshoe Overlook} Put a recovered debt in the camp box [Money Lending and Other Sins III]
+* {Horseshoe Overlook} Try to get money from Thomas Downes [Money Lending and Other Sins III]
+* {Horseshoe Overlook} Return to Strauss [Money Lending and Other Sins III]
+* {Horseshoe Overlook} Talk to Abigail one morning [A Fisher of Men]
+* {Horseshoe Overlook} Take Jack (slowly) to the river, show him how to fish [A Fisher of Men]
+* {Horseshoe Overlook} Speak to Susan, go find John [Pouring Forth Oil I]
+* {Horseshoe Overlook} Steal oil wagon from Cornwall, take to hiding spot [Pouring Forth Oil I]
+* {Horseshoe Overlook} Speak to John, refresh your weapons and go meet the gang [Pouring Forth Oil III]
+* {Horseshoe Overlook} Block the train tracks, rob the train, kill the law, escape [Pouring Forth Oil III]
+  {Chez Porter} Go to Strawberry for Blessed are the Meek?
+* {Strawberry} Break Micah out of jail, shoot up the place [Blessed are the Meek?]
+  {Lone Mule Stead} Go to Valentine for The Sheep and The Goats
+* {Valentine} Meet John by the station [The Sheep and The Goats]
+* {Valentine} Go get a sniper rifle, rustle some sheep, try to sell them [The Sheep and The Goats]
+* {Valentine} Meet Dutch at the saloon, get into a fight, escape the law [The Sheep and The Goats]
+  {The Heartlands} Go to Horseshoe Overlook for A Strange Kindness
+* {Horseshoe Overlook} One morning, walk into Dutch's tent while he's arguing with Hosea [A Strange Kindness]
+* {Horseshoe Overlook} Investigate Dewberry Creek [A Strange Kindness]
+
+==== Chapter 3 -- Clemens Point ====
+- {Clemens Point} Overhear Hosea at campfire saying '…if you stare into the fire…' [A Strange Kindness]
+--- 2 equal options:
+        ['the-new-south', 'an-american-pastoral-scene']
+    * {Clemens Point} One morning, speak to Dutch by the lake [The New South]
+      {Clemens Point} Go to Monto's Rest for An American Pastoral Scene
+    * {Monto's Rest} Talk to Micah, help rob a stagecoach [An American Pastoral Scene]
+* {Clemens Point} Ride out, come across wagon [The New South]
+* {Clemens Point} Board train, knock out Andersons, return Anders to sheriff [The New South]
+* {Clemens Point} Go fishing with Dutch and Hosea [The New South]
+  {Clemens Point} Go to Scarlett Meadows for American Distillation
+* {Scarlett Meadows} Speak to Dutch in the Sheriff's office [American Distillation]
+  {Clemens Point} Go to Scarlett Meadows for American Distillation
+* {Scarlett Meadows} Accompany the wagon [American Distillation]
+  {Clemens Point} Go to Scarlett Meadows for American Distillation
+* {Scarlett Meadows} Kill the moonshiners [American Distillation]
+  {Clemens Point} Go to Scarlett Meadows for American Distillation
+* {Scarlett Meadows} Win the race back to camp [American Distillation]
+* {Clemens Point} One morning, see Pearson and Sadie arguing [Further Questions of Female Suffrage]
+* {Clemens Point} Take Sadie to Rhodes, follow her into the store [Further Questions of Female Suffrage]
+* {Clemens Point} Shoot up the Lemoyne Raiders on the way back [Further Questions of Female Suffrage]
+  {Clemens Point} Go to Caliga Hall for The Course of True Love I+II
+* {Caliga Hall} Speak to Beau [The Course of True Love I+II]
+  {Clemens Point} Go to Caliga Hall for The Course of True Love I+II
+* {Caliga Hall} Sneak into Braithwaite Manor, give Penelope letter and gift [The Course of True Love I+II]
+* {Clemens Point} Abigail tells Arthur to meet Hosea and John at the moonshine stash [Advertising, the New American Art]
+* {Clemens Point} Accompany Hosea to Braithwaite Manor to sell the moonshine [Advertising, the New American Art]
+* {Clemens Point} Sell moonshine in the Rhodes saloon, fight your way out of Rhodes [Advertising, the New American Art]
+  {Clemens Point} Go to Caliga Hall for Horse Flesh for Dinner
+* {Caliga Hall} Ask the guards where Javier and John are [Horse Flesh for Dinner]
+* {Caliga Hall} Talk your way into the stable, wait for the stablehand to describe all three horses so Javier knocks him out [Horse Flesh for Dinner]
+* {Caliga Hall} Steal the horses from the stables, and go sell them [Horse Flesh for Dinner]
+* {Clemens Point} One morning, Arthur speaks to dutch about bounty hunters [Magicians for Sport]
+* {Clemens Point} Investigate Trelawny's caravan, interrogate the men [Magicians for Sport]
+* {Clemens Point} Kill the bounty hunters, taking care to loot them and get the rare sniper rifle [Magicians for Sport]
+  {Rhodes} Go to Clemens Point for An Honest Mistake
+* {Clemens Point} Molly calls Arthur over to talk to him, but Uncle interrupts [An Honest Mistake]
+* {Clemens Point} Go to rob the stagecoach, lose fight, hide in outhouse [An Honest Mistake]
+* {Clemens Point} Fight Cornwall's men, saving Uncle who gets overpowered [An Honest Mistake]
+  {Scarlett Meadows} Go to Clemens Point for Preaching Forgiveness as He Went
+* {Clemens Point} One morning, speak to Lenny by the lake [Preaching Forgiveness as He Went]
+  {Scarlett Meadows} Go to Clemens Point for Preaching Forgiveness as He Went
+* {Clemens Point} Investigate Shady Belle, fight the Lemoyne Raiders [Preaching Forgiveness as He Went]
+  {Scarlett Meadows} Go to Clemens Point for Friends in Very Low Places
+* {Clemens Point} Talk to Trelawny at camp [Friends in Very Low Places]
+  {Scarlett Meadows} Go to Clemens Point for Friends in Very Low Places
+* {Clemens Point} Go to the Rhodes station, talk to Alden [Friends in Very Low Places]
+* {Clemens Point} Ride to the stagecoach, rob it [Friends in Very Low Places]
+  {Siltwater Strand} Go to Caliga Hall for The Course of True Love III
+* {Caliga Hall} Speak to Beau [The Course of True Love III]
+* {Caliga Hall} Sneak into Braithwaite Manor, give Penelope letter and gift [The Course of True Love III]
+  {Bolger Glade} Go to Braithwaite Manor for The Fine Joys of Tobacco
+* {Braithwaite Manor} Arthur meets Hosea at Braithwaite Manor [The Fine Joys of Tobacco]
+* {Braithwaite Manor} Accompany Sean with the moonshine to Caliga Hall [The Fine Joys of Tobacco]
+* {Braithwaite Manor} Kill the guard silently, burn the tobacco, kill the guards, escape [The Fine Joys of Tobacco]
+* {Clemens Point} One morning, speak to Bill and Karen [Sodom? Back to Gomorrah]
+* {Clemens Point} Rob the bank in Valentine, cracking the safes [Sodom? Back to Gomorrah]
+* {Clemens Point} Go to the Downes Ranch to collect the debt [Sodom? Back to Gomorrah]
+* {Clemens Point} One morning, talk to Micah at Dutch's tent [Blessed are the Peacemakers]
+* {Clemens Point} Accompany Dutch and Micah to a meet, get captured [Blessed are the Peacemakers]
+* {Clemens Point} Break free, retrieve guns, kill O'Driscolls [Blessed are the Peacemakers]
+* {Clemens Point} Escape on foot, collapse cutscene, horse returns you to camp [Blessed are the Peacemakers]
+  {Clemens Point} Go to Rhodes for A Short Walk in a Pretty Town
+* {Rhodes} Meet Micah, Bill, and Sean [A Short Walk in a Pretty Town]
+* {Rhodes} Note the station and town are devoid of people (because of ambush) [A Short Walk in a Pretty Town]
+* {Rhodes} Get ambushed, kill the Grays [A Short Walk in a Pretty Town]
+  {Scarlett Meadows} Go to Clemens Point for Blood Feuds, Ancient and Modern
+* {Clemens Point} Talk to Abigail [Blood Feuds, Ancient and Modern]
+* {Clemens Point} Ride to Braithwaite Manor, kill people, burn it to the ground [Blood Feuds, Ancient and Modern]
+  {Braithwaite Manor} Go to Clemens Point for The Battle of Shady Belle
+* {Clemens Point} One morning, talk to Dutch, Hosea, and John [The Battle of Shady Belle]
+* {Clemens Point} Refuse the Pinkertons offer, ride to Shady Belle, kill the raiders [The Battle of Shady Belle]
+
+==== Chapter 4 -- Saint Denis ====
+* {Saint Denis} Try to enter the saloon [The Joys of Civilization]
+* {Saint Denis} Ask the bartender, then the urchins about Bronte [The Joys of Civilization]
+* {Saint Denis} Catch Cleet before he reaches the market [The Joys of Civilization]
+  {Saint Denis} Go to Braithwaite Manor
+- {Braithwaite Manor} Loot Catherine Braithwaite's corpse, and the manor (gold bar) [Blood Feuds, Ancient and Modern]
+  {Braithwaite Manor} Go to Saint Denis for Help a Brother Out
+* {Saint Denis} One morning, talk to Swanson, he'll tell you about Dorkins [Help a Brother Out]
+  {Braithwaite Manor} Go to Saint Denis for Help a Brother Out
+* {Saint Denis} Meet Brother Dorkins, donate money [Help a Brother Out]
+* {Saint Denis} Rescue the children from the fence's shop, give them the money from the till [Help a Brother Out]
+  {Stilt Shack} Go to Saint Denis for Angelo Bronte, A Man of Honor
+* {Saint Denis} Meet Dutch and John in a park across from Bronte's house [Angelo Bronte, A Man of Honor]
+* {Saint Denis} Go kill the grave-robbers, sneak away from the law [Angelo Bronte, A Man of Honor]
+* {Saint Denis} Return to Shady Belle and celebrate the return of Jack [Angelo Bronte, A Man of Honor]
+  {Saint Denis} Go to Shady Belle for No, No, and Thrice, No
+* {Shady Belle} One morning, speak to Mary-Beth [No, No, and Thrice, No]
+  {Saint Denis} Go to Shady Belle for No, No, and Thrice, No
+* {Shady Belle} Free Tilly from the kidnappers, spare Anthony [No, No, and Thrice, No]
+* {Shady Belle} Arthur reads a letter from Mary [Fatherhood and Other Dreams]
+  {Shady Belle} Go to Saint Denis for Fatherhood and Other Dreams
+* {Saint Denis} Meet Mary at her hotel, follow her father [Fatherhood and Other Dreams]
+* {Saint Denis} Get the brooch back; and loot the lockbox of the wagon [Fatherhood and Other Dreams]
+* {Saint Denis} Return to Mary, go to the theatre [Fatherhood and Other Dreams]
+  {Saint Denis} Go to Shady Belle for The Gilded Cage
+* {Shady Belle} Speak to Hosea one evening, then attend a party [The Gilded Cage]
+* {Shady Belle} Steal the documents and leave [The Gilded Cage]
+* {Saint Denis} Meet Evelyn Miller by the courthouse, introducing Eagle Flies and Rain Falls [American Fathers I]
+  {Saint Denis} Go to The Heartlands for American Fathers II
+* {The Heartlands} Meet Eagle Flies near the oil fields [American Fathers II]
+  {Saint Denis} Go to The Heartlands for American Fathers II
+* {The Heartlands} Infiltrate the office of Danbury, and question him [American Fathers II]
+  {Saint Denis} Go to The Heartlands for American Fathers II
+* {The Heartlands} Shoot your way out [American Fathers II]
+  {Twin Stack Pass} Go to Saint Denis for A Fine Night of Debauchery
+* {Saint Denis} Speak to Trelawny, near the park [A Fine Night of Debauchery]
+* {Saint Denis} Get a new suit and a trim [A Fine Night of Debauchery]
+* {Saint Denis} Rob the riverboat, do not kill the guard who walks into the poker room shootout [A Fine Night of Debauchery]
+- {Saint Denis} Save the Wittemore outfit (from your horse) if you want to keep it [A Fine Night of Debauchery]
+  {Saint Denis} Go to Shady Belle for Horsemen, Apocalypses
+* {Shady Belle} One morning, talk to Sadie [Horsemen, Apocalypses]
+  {Saint Denis} Go to Shady Belle for Horsemen, Apocalypses
+* {Shady Belle} Defend the camp from the O'Driscolls [Horsemen, Apocalypses]
+  {Saint Denis} Go to Shady Belle for Horsemen, Apocalypses
+* {Shady Belle} Talk to Mary-Beth after writing in your journal [Horsemen, Apocalypses]
+  {Shady Belle} Go to Saint Denis for Urban Pleasures
+* {Saint Denis} Meet Dutch by the trolley station [Urban Pleasures]
+  {Shady Belle} Go to Saint Denis for Urban Pleasures
+* {Saint Denis} Rob the trolley station, fight off the police, escape to the bayou [Urban Pleasures]
+  {Bayou Nwa} Go to Shady Belle for Country Pursuits
+* {Shady Belle} Dutch beckons Arthur up to his room [Country Pursuits]
+* {Lagras} Help Thomas with his crawfish traps [Country Pursuits]
+* {Lagras} Meet Dutch at the bait place [Revenge is a Dish Best Eaten]
+* {Saint Denis} Break into Bronte's place, and kill people [Revenge is a Dish Best Eaten]
+* {Saint Denis} Make sure to loot Bronte after knocking him out [Revenge is a Dish Best Eaten]
+* {Saint Denis} Escape the lawmen [Revenge is a Dish Best Eaten]
+* {Shady Belle} Meet Dutch and Hosea in Dutch's room [Banking, the Old American Art]
+* {Shady Belle} Rob the bank, shoot a bunch of lawmen, escape on the boat [Banking, the Old American Art]
+
+==== Chapter 5 -- Guarma ====
+* {Guarma} Wake up on the shore of a tropical island [Welcome to the New World]
+* {Guarma} Get captured, then escape the chain gang [Welcome to the New World]
+  {La Capilla} Go to Guarma for Savagery Unleashed
+* {Guarma} Get shot by a tranq going to rescue local workers [Savagery Unleashed]
+* {Guarma} Break free, and rescue the workers being hanged [Savagery Unleashed]
+  {La Capilla} Go to Arroyo de la Vibora for A Kind and Benevolent Despot
+* {Arroyo de la Vibora} Meet Dutch by the entrance to a cave [A Kind and Benevolent Despot]
+* {Arroyo de la Vibora} Go through the cave and rescue Javier [A Kind and Benevolent Despot]
+  {La Capilla} Go to Cinco Torres for Hell Hath No Fury
+* {Cinco Torres} Meet the gang at the fortress [Hell Hath No Fury]
+* {Cinco Torres} Shoot the incoming soldiers, destroy the warship [Hell Hath No Fury]
+* {paradise-mercifully-departed} Go with Fontaine to destroy the gun batteries [Paradise Mercifully Departed]
+* {paradise-mercifully-departed} Rescue the ship's captain, resolve the standoff, kill Fussar [Paradise Mercifully Departed]
+* {Van Horn} Grab a horse, and head to Shady Belle (triggering the cinematic camera) [Dear Uncle Tacitus]
+* {Van Horn} Search upstairs first, do not read the letter, let the Pinkerton read it [Dear Uncle Tacitus]
+* {Van Horn} Take your time escaping, to let the cutscene happen [Dear Uncle Tacitus]
+* {Lakay} Reunite with the gang [Fleeting Joy]
+* {Lakay} Fend off the Pinkerton attack [Fleeting Joy]
+  {Lakay} Go to Saint Denis for A Fork in the Road
+* {Saint Denis} Go to Doyle's Tavern to join Sadie [A Fork in the Road]
+* {Saint Denis} Speak to the doctor, find out [A Fork in the Road]
+* {Saint Denis} Meet Sadie at Doyle's Tavern [Icarus and Friends]
+* {Saint Denis} Ride the balloon to the penitentiary and back [Icarus and Friends]
+  {Willard's Rest} Go to Lakay for That's Murfree Country
+* {Lakay} Listen to Dutch making chess moves, then speak to him [That's Murfree Country]
+  {Willard's Rest} Go to Lakay for That's Murfree Country
+* {Lakay} Ride to Beaver Hollow by canoe, dispatch the Murfrees [That's Murfree Country]
+  {Willard's Rest} Go to Lakay for That's Murfree Country
+* {Lakay} Take Meredith home to Annesburg [That's Murfree Country]
+  {Willard's Rest} Go to Beaver Hollow for Chapter 6 -- Beaver Hollow
+
+==== Chapter 6 -- Beaver Hollow ====
+  {Willard's Rest} Go to Copperhead Landing for Visiting Hours
+* {Copperhead Landing} Meet Sadie at the dock and row to the penitentiary [Visiting Hours]
+  {Willard's Rest} Go to Copperhead Landing for Visiting Hours
+* {Copperhead Landing} Rescue John, do not kill the guard [Visiting Hours]
+  {O'Creagh's Run} Go to Copperhead Landing for Visiting Hours
+* {Copperhead Landing} While escaping by boat, watch for prisoners running for the shore [Visiting Hours]
+  {O'Creagh's Run} Go to Beaver Hollow for Money Lending and Other Sins VI
+* {Beaver Hollow} One morning, talk to Strauss [Money Lending and Other Sins VI]
+--- 2 equal options:
+        ['money-lending-and-other-sins-part-six_post_1', 'money-lending-and-other-sins-part-six_post_0']
+      {Beaver Hollow} Go to Annesburg
+    - {Annesburg} Check the mine, go to the widow, absolve the debt and give her money [Money Lending and Other Sins VI]
+      {Beaver Hollow} Go to Three Sisters
+    - {Three Sisters} Find Weathers, fight off the army, absolve the debt [Money Lending and Other Sins VI]
+* {Beaver Hollow} Return to camp, chuck Strauss out of the gang [Money Lending and Other Sins VII]
+* {Beaver Hollow} Read a letter from Penelope Braithwaite [The Course of True Love IV]
+* {Braithwaite Manor} Meet Penelope, and ride with her to Rhodes [The Course of True Love IV]
+* {Braithwaite Manor} Beat up the Grays, shoot those following the train; then decline the bracelet [The Course of True Love IV]
+  {Riggs Station} Go to Annesburg for Just a Social Call
+* {Annesburg} Meet Micah, then watch Dutch kill Cornwall [Just a Social Call]
+* {Annesburg} Fight your way out of town, shooting the oil wagon for the explosion [Just a Social Call]
+  {Kamassa River} Go to Roanoke Ridge for The Delights of Van Horn
+* {Roanoke Ridge} Speak to Micah, who is sitting on the porch [The Delights of Van Horn]
+* {Roanoke Ridge} Rob the dynamite stagecoach [The Delights of Van Horn]
+  {Kamassa River} Go to Beaver Hollow for A Rage Unleashed
+* {Beaver Hollow} One morning, speak to Swanson [A Rage Unleashed]
+* {Beaver Hollow} Subdue the soldiers, rescue the horses, accept talking to Rains Fall [A Rage Unleashed]
+  {Lannahechee River} Go to Saint Denis for Goodbye, Dear Friend
+* {Saint Denis} Meet Sadie and Dutch in Doyle's Tavern [Goodbye, Dear Friend]
+* {Saint Denis} Snipe some O'Driscolls, escape [Goodbye, Dear Friend]
+  {Beaver Hollow} Go to Cumberland Forest for Favored Sons
+* {Cumberland Forest} Speak to Dutch atop the cliff, plant the dynamite [Favored Sons]
+* {Cumberland Forest} Kill the soldiers and escape [Favored Sons]
+  {Dakota River} Go to Beaver Hollow for Mrs Sadie Adler, Widow
+* {Beaver Hollow} One morning, talk to Sadie when she is throwing knives [Mrs Sadie Adler, Widow]
+* {Beaver Hollow} Agree to helping, but say you'll meet her there [Mrs Sadie Adler, Widow]
+  {Beaver Hollow} Go to Hanging Dog Ranch for Mrs Sadie Adler II
+* {Hanging Dog Ranch} Find Sadie outside the ranch [Mrs Sadie Adler II]
+* {Hanging Dog Ranch} Kill the remaining O'Driscolls [Mrs Sadie Adler II]
+  {Hanging Dog Ranch} Go to Bacchus Station for The Bridge to Nowhere
+* {Bacchus Station} Meet John by the bridge [The Bridge to Nowhere]
+* {Bacchus Station} Plant the dynamite, escape the oncoming train, blow up the bridge [The Bridge to Nowhere]
+  {Bacchus Station} Go to Wapiti Indian Reservation for Archeology for Beginners
+* {Wapiti Indian Reservation} Visit Rains Fall's tent [Archeology for Beginners]
+* {Wapiti Indian Reservation} Agree to help Captain Monroe [Archeology for Beginners]
+* {Wapiti Indian Reservation} Investigate the site, find the army camp, listen to their conversations [Archeology for Beginners]
+* {Wapiti Indian Reservation} Return the pipe to Rains Fall without killing anyone [Archeology for Beginners]
+  {O'Creagh's Run} Go to Wapiti Indian Reservation for Honor, Amongst Thieves
+* {Wapiti Indian Reservation} Speak to Captain Monroe [Honor, Amongst Thieves]
+* {Wapiti Indian Reservation} Steal the vaccine from the wagon without being detected [Honor, Amongst Thieves]
+  {Wapiti Indian Reservation} Go to Beaver Hollow for The Fine Art of Conversation
+* {Beaver Hollow} One morning, speak to Trelawny, then go to the Army parley [The Fine Art of Conversation]
+* {Beaver Hollow} Protect Monroe from the soldiers [The Fine Art of Conversation]
+* {Beaver Hollow} Talk to Sister Calderon [The Fine Art of Conversation]
+  {Emerald Station} Go to Wapiti Indian Reservation for The King's Son
+* {Wapiti Indian Reservation} Speak to Charles [The King's Son]
+* {Wapiti Indian Reservation} Assault Fort Wallace, escape by canoe [The King's Son]
+  {Dakota River} Go to Beaver Hollow for My Last Boy
+* {Beaver Hollow} One morning, speak to Dutch and Micah [My Last Boy]
+* {Beaver Hollow} Assault Cornwall Kerosene & Tar, take Eagle Flies home, then collapse [My Last Boy]
+  {Annesburg} Go to Beaver Hollow for Our Best Selves
+* {Beaver Hollow} One morning, talk to Dutch [Our Best Selves]
+* {Beaver Hollow} Rob the train [Our Best Selves]
+* {Bacchus Station} Rescue Abigail, escape Van Horn [Red Dead Redemption]
+* {Bacchus Station} Help John to escape, then fight Micah [Red Dead Redemption]
+  {Grizzlies East} Go to Strawberry for Epilogue Part I -- Pronghorn Ranch
+
+==== Epilogue Part I -- Pronghorn Ranch ====
+* {Strawberry} Deliver supplies to Pronghorn Ranch [The Wheel]
+* {Pronghorn Ranch} Talk to the foreman, do some chores [Simple Pleasures]
+* {Pronghorn Ranch} Help the foreman, and do some farming chores [Farming, for Beginners]
+* {Pronghorn Ranch} Talk to the ranch owner, help with the horses [Fatherhood, for Beginners]
+* {Pronghorn Ranch} Fight a gang member [Old Habits]
+* {Pronghorn Ranch} Run some errands in Strawberry, then kill some fellers [Fatherhood, for Idiots]
+* {Pronghorn Ranch} Kill some gang members at Hanging Dog Ranch [Jim Milton Rides, Again?]
+* {Pronghorn Ranch} Get a telegram, pass some time, leave the ranch [Motherhood]
+  {Big Valley} Go to Valentine for Gainful Employment
+* {Valentine} Meet Sadie in the saloon, go get a bounty [Gainful Employment]
+  {Big Valley} Go to Blackwater for The Landowning Classes
+* {Blackwater} John gets a loan from the bank [The Landowning Classes]
+  {Big Valley} Go to Blackwater for The Landowning Classes
+* {Blackwater} Give the squatters money to leave, then return to the bank [The Landowning Classes]
+  {Big Valley} Go to Blackwater for The Landowning Classes
+* {Blackwater} Return to Beecher's Hope with Uncle [The Landowning Classes]
+  {Big Valley} Go to Beecher's Hope for Epilogue Part II -- Beecher's Hope
+
+==== Epilogue Part II -- Beecher's Hope ====
+* {Beecher's Hope} One morning, speak to Uncle [Bare Knuckle Friendships]
+* {Beecher's Hope} Find Charles, then bet on him to win [Bare Knuckle Friendships]
+* {Beecher's Hope} Shoot some guys, then leave town [Bare Knuckle Friendships]
+* {Beecher's Hope} One morning, join Uncle and Charles at the campfire and pull a building down [Home Improvement for Beginners]
+  {Beecher's Hope} Go to Blackwater for An Honest Day's Labors
+* {Blackwater} Meet Sadie in the saloon [An Honest Day's Labors]
+* {Blackwater} Kill Langton and his men, return the bounty target [An Honest Day's Labors]
+* {Blackwater} Buy a home from Cakes Hardwood and Timber [The Tool Box]
+* {Blackwater} Buy some tools, get ambushed and kill the Skinners [The Tool Box]
+* {Beecher's Hope} Speak to Uncle, build a home [A New Jerusalem]
+* {Beecher's Hope} Speak to Uncle, under the tree [A Quick Favor for an Old Friend]
+* {Beecher's Hope} Get a bounty with Sadie and take him to Rhodes [A Quick Favor for an Old Friend]
+* {Beecher's Hope} Defend Rhodes, then retrieve the bounty again [A Quick Favor for an Old Friend]
+* {Beecher's Hope} Go the barn, drink the night away [Uncle's Bad Day]
+* {Beecher's Hope} Rescue Uncle from the Skinners [Uncle's Bad Day]
+* {Beecher's Hope} Speak to Jack (try doing it at night), then take him fishing [Trying Again]
+* {Beecher's Hope} Speak with Abigail, then go with Sadie to fetch a bounty [A Really Big Bastard]
+  {Blackwater} Go to Beecher's Hope for A New Future Imagined
+* {Beecher's Hope} Take Abigail to Blackwater for the day [A New Future Imagined]
+* {Beecher's Hope} Listen to Jack reading a story, then agree to go with Sadie [American Venom]
+* {Strawberry} Get information out of Cleet, then hang him [American Venom]
+* {Mount Hagen} Climb the mountain, then kill Micah [American Venom]

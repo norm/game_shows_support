@@ -184,6 +184,7 @@ case "${1:-all}" in
             resolve_story "$@"
         else
             resolve_story --test \
+                && resolve_story --main > story-main.txt \
                 && resolve_story --csv | tee story.txt
         fi
         _popd
