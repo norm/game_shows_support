@@ -2,7 +2,7 @@ title = 'START THE GAME'
 type = 'marker'
 start = 'start'
 end = 'Far Zenith'
-triggers = 'reach-for-the-stars'
+triggers = 'story/reach-for-the-stars'
 # autobegin = true
 # begin = 'LOAD THE GAME'
 

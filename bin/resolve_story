@@ -68,12 +68,13 @@ if not story['completed_threads'] and not story['completed_nodes']:
 
 
 for root, dirs, files in os.walk('story'):
+    category = root[6:]
     for file in files:
         if not file.endswith('.toml'):
             continue
 
         thread = toml.load(os.path.join(root, file))
-        node = file[:-5]
+        node = os.path.join(category, file[:-5])
 
         for key in ('title', 'start', 'end', 'type'):
             if key not in thread:
