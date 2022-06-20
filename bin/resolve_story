@@ -23,6 +23,8 @@ parser.add_argument('--outline', action='store_true')
 parser.add_argument('--edges', action='store_true')
 parser.add_argument('--graph', action='store_true')
 parser.add_argument('--test', action='store_true')
+parser.add_argument('--skip', action='store_true')
+parser.add_argument('--no-errors', action='store_true')
 args = parser.parse_args()
 
 
@@ -363,6 +365,7 @@ if args.csv:
 current_location = ''
 current_context = ''
 used = {}
+skipping = args.skip
 for threads in sorted_graph:
     def print_node(node_id, indent=''):
         node = graph.nodes[node_id]
@@ -431,32 +434,40 @@ for threads in sorted_graph:
                 else:
                     output_nodes.append(index)
 
+    if 'reminders' in threads:
+        skipping = False
+    if 'completed_end' in threads:
+        skipping = False
+    if 'reminders_end' in threads:
+        skipping = args.skip
+
     if args.debug:
         print('>', output_nodes)
-    if len(output_nodes) == 1:
-        if args.outline:
-            print(output_nodes[0])
-        else:
-            print_node(output_nodes[0])
-    elif len(output_nodes) > 1:
-        if args.outline:
-            print('--- %d equal options' % len(output_nodes))
-            for index in output_nodes:
-                print('   ', index)
-        else:
-            print(
-                '--- %d equal options:\n        [%s]' % (
-                    len(output_nodes),
-                    pformat(
-                        [ index for index in output_nodes ],
-                        indent = 9,
-                        width = 100,
-                        compact = True,
-                    )[1:-1].lstrip(),
+    if not skipping:
+        if len(output_nodes) == 1:
+            if args.outline:
+                print(output_nodes[0])
+            else:
+                print_node(output_nodes[0])
+        elif len(output_nodes) > 1:
+            if args.outline:
+                print('--- %d equal options' % len(output_nodes))
+                for index in output_nodes:
+                    print('   ', index)
+            else:
+                print(
+                    '--- %d equal options:\n      [%s]' % (
+                        len(output_nodes),
+                        pformat(
+                            [ index for index in output_nodes ],
+                            indent = 9,
+                            width = 100,
+                            compact = True,
+                        )[1:-1].lstrip(),
+                    )
                 )
-            )
-            for index in output_nodes:
-                print_node(index, indent='    ')
+                for index in output_nodes:
+                    print_node(index, indent='      ')
 
     # update the current location and context, but only if there is 
     # one definitive change
@@ -479,25 +490,29 @@ for threads in sorted_graph:
             print('  context: %s => %s' % (current_context, context))
         current_context = context
 
-# look for missing or unused nodes
-for threads in sorted_graph:
-    for index in threads:
-        node = graph.nodes[index]
-        if 'text' not in node:
-            print('** node "%s" not populated' % index)
-            errors = True
-        if index not in used:
-            print('** node "%s" not used' % index)
-            errors = True
+    if 'reminders_end' in threads:
+        skipping = args.skip
 
-# look for nodes without placement
-for threads in sorted_graph:
-    if 'abandoned' in threads and len(threads) > 1:
-        for node in threads:
-            if node == 'abandoned':
-                continue
-            print('** node "%s" not correctly placed' % node)
-            errors = True
+if not args.no_errors:
+    # look for missing or unused nodes
+    for threads in sorted_graph:
+        for index in threads:
+            node = graph.nodes[index]
+            if 'text' not in node:
+                print('** node "%s" not populated' % index)
+                errors = True
+            if index not in used:
+                print('** node "%s" not used' % index)
+                errors = True
+
+    # look for nodes without placement
+    for threads in sorted_graph:
+        if 'abandoned' in threads and len(threads) > 1:
+            for node in threads:
+                if node == 'abandoned':
+                    continue
+                print('** node "%s" not correctly placed' % node)
+                errors = True
 
 if args.test and errors:
     sys.exit(1)

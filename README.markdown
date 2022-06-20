@@ -32,11 +32,11 @@ The format is described more in [story resolution][story-resolution.markdown].
 
     # show the actions to take when capturing footage
     # (also generates story.txt and story.csv)
-    ./generate story
+    ./generate story [--no-errors]
 
     # only show the main storyline, or the thread structure without the text
-    ./generate story --main
-    ./generate story --outline
+    ./generate story --main [--no-errors]
+    ./generate story --outline [--no-errors]
 
     # when something isn't connecting right, get a bunch of extra info
     ./generate story --debug
@@ -47,6 +47,8 @@ The format is described more in [story resolution][story-resolution.markdown].
     # show just the graph/edges (or both)
     ./generate story [--graph] [--edges]
 
+    # skip completed nodes
+    ./generate story --skip [--no-errors]
 
 ## Preparing footage
 
