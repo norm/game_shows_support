@@ -201,6 +201,16 @@ for root, dirs, files in os.walk('story'):
             for after in thread['after']:
                 graph.add_edge('%s_end' % after, node)
 
+        if 'action' in thread:
+            for index, action in enumerate(thread['action']):
+                node_id = '%s_%s' % (node, index)
+                if 'before' in action:
+                    for before in action['before']:
+                        graph.add_edge(node_id, before)
+                if 'after' in action:
+                    for after in action['after']:
+                        graph.add_edge(after, node_id)
+
         # post actions come after the "end" of the mission,
         # because they can be resolved at your leisure;
         # they have the same unlocks/finish_before/before/after links
