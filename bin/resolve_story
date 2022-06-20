@@ -104,7 +104,16 @@ for root, dirs, files in os.walk('story'):
         thread = toml.load(os.path.join(root, file))
         node = os.path.join(category, file[:-5])
 
-        for key in ('title', 'start', 'end', 'type'):
+        for key in ('title', 'type'):
+            if key not in thread:
+                print('** %s missing from "%s"' % (key, node))
+                errors = True
+
+        if thread['type'] in ('location', 'reminder'):
+            thread['start'] = thread['location']
+            thread['end'] = thread['location']
+
+        for key in ('start', 'end'):
             if key not in thread:
                 print('** %s missing from "%s"' % (key, node))
                 errors = True
@@ -123,7 +132,7 @@ for root, dirs, files in os.walk('story'):
             )
         else:
             if (
-                    thread['type'] not in ('marker', 'location')
+                thread['type'] not in ('marker', 'location')
                 and 'autobegin' not in thread
             ):
                 print('** no begin in "%s"' % node)
@@ -202,6 +211,8 @@ for root, dirs, files in os.walk('story'):
                 node_id = '%s_post_%s' % (node, index)
                 if 'location' in action:
                     location = action['location']
+                else:
+                    location = thread['end']
                 graph.add_node(
                     node_id,
                     action=True,
@@ -289,14 +300,30 @@ if args.debug or args.graph:
 if args.edges or args.graph:
     sys.exit()
 
+# check for nodes that have been referenced but not actually populated
+# (generally created with unlocks/before/after/... which has a typo)
+for node in graph.nodes:
+    if graph.nodes[node] == {}:
+        sys.exit("node '%s' is unpopulated" % node)
+
 # where threads of equal standing include certain types of threads,
 # those threads get elevated out
 sorted_graph = []
 current_location = ''
 for threads in list(nx.topological_generations(graph)):
     def location_before_key(a, b):
-        loc_a = graph.nodes[a]['location']
-        loc_b = graph.nodes[b]['location']
+        try:
+            loc_a = graph.nodes[a]['location']
+        except:
+            print("** node '%s' has no location" % a)
+            print(graph.nodes[a])
+            sys.exit(1)
+        try:
+            loc_b = graph.nodes[b]['location']
+        except:
+            print("** node '%s' has no location" % b)
+            print(graph.nodes[b])
+            sys.exit(1)
         if loc_a == current_location and loc_b != current_location:
             return -1
         if loc_b == current_location and loc_a != current_location:
@@ -370,6 +397,8 @@ skipping = args.skip
 for threads in sorted_graph:
     def print_node(node_id, indent='  '):
         node = graph.nodes[node_id]
+        if node['location'] == 'current':
+            node['location'] = current_location
         location = ' {%s}' % node['location']
         bullet = ' '
 
@@ -482,6 +511,8 @@ for threads in sorted_graph:
     new_contexts = set()
     for thread in threads:
         node = graph.nodes[thread]
+        if node['location'] == 'current':
+            node['location'] = current_location
         if 'location' in node:
             new_locations.add(node['location'])
         if 'context' in node:
