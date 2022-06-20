@@ -27,6 +27,9 @@ gives you a list of actions to take.
 
 The format is described more in [story resolution][story-resolution.markdown].
 
+    # create story threads
+    ./generate add_story_thread side-quest Thirst for the Hunt
+
     # show the actions to take when capturing footage
     # (also generates story.txt and story.csv)
     ./generate story

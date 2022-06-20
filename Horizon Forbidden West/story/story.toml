@@ -1,0 +1,19 @@
+title = 'START THE GAME'
+type = 'marker'
+start = 'start'
+end = 'Far Zenith'
+triggers = 'reach-for-the-stars'
+# autobegin = true
+# begin = 'LOAD THE GAME'
+
+completed_threads = [
+]
+
+completed_nodes = [
+]
+
+abandoned_threads = [
+]
+
+abandoned_nodes = [
+]

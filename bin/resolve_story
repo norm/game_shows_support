@@ -62,10 +62,9 @@ for thread in story['completed_threads']:
 for node in story['completed_nodes']:
     graph.add_edge(node, 'completed')
 
-# where no threads connect to completed, it comes before start
-# where threads have been connected to completed, it will come after start
+# where no threads connect to completed, it is removed
 if not story['completed_threads'] and not story['completed_nodes']:
-    graph.add_edge('completed', 'story')
+    graph.remove_nodes_from(['completed'])
 
 
 for root, dirs, files in os.walk('story'):
@@ -278,7 +277,7 @@ for threads in list(nx.topological_generations(graph)):
         equal_threads = []
         for thread in threads:
             node = graph.nodes[thread]
-            if node['type'] == 'border':
+            if 'type' in node and node['type'] == 'border':
                 sorted_graph.append([thread])
             elif '_post_' in thread:
                 lift_threads.append(thread)
@@ -293,7 +292,8 @@ for threads in list(nx.topological_generations(graph)):
                 sorted(equal_threads, key=cmp_to_key(location_before_key))
             )
     else:
-        current_location = graph.nodes[threads[0]]['location']
+        if 'location' in graph.nodes[threads[0]]:
+            current_location = graph.nodes[threads[0]]['location']
         sorted_graph.append(threads)
 
 
@@ -427,14 +427,19 @@ for threads in sorted_graph:
 
     # update the current location and context, but only if there is 
     # one definitive change
-    new_locations = set([ graph.nodes[n]['location'] for n in threads ])
+    new_locations = set()
+    new_contexts = set()
+    for thread in threads:
+        node = graph.nodes[thread]
+        if 'location' in node:
+            new_locations.add(node['location'])
+        if 'context' in node:
+            new_contexts.add(node['context'])
     if len(new_locations) == 1:
         location = list(new_locations)[0]
         if args.debug and current_location != location:
             print('  location: %s => %s' % (current_location, location))
         current_location = location
-
-    new_contexts = set([ graph.nodes[n]['context'] for n in threads ])
     if len(new_contexts) == 1:
         context = list(new_contexts)[0]
         if args.debug and current_context != context:

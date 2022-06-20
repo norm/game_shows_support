@@ -1,0 +1,40 @@
+#!/usr/bin/env -S bash -euo pipefail
+#
+# add_story_thread
+#     create a new thread in the story timeline
+#
+# Usage:
+#     add_story_thread [-n] type title
+#
+#     -n      don't edit the file once created
+#
+#     type    the thread type, eg story, side-quest, chapter-2, ...
+#             (thread is created in a subdir that matches type)
+#     title   the title of the thread, does not have to be quoted; is used
+#             to generate the slug (the filename)
+#
+#     Note: the slug will be added to the story.toml below the comment
+#     "# add newly created threads here" if it exists.
+
+edit=1
+[ "${1:-}" = '-n' ] && { edit=0; shift; }
+
+export TYPE="$1"
+shift
+
+export TITLE="$*"
+slug="$(slugify "$TITLE")"
+destination="story/$TYPE/$slug.toml"
+mkdir -p "$(dirname "$destination")"
+
+if [ -f story-template.toml ]; then
+    envsubst < story-template.toml > "$destination"
+else
+    envsubst < ../story-template.toml > "$destination"
+fi
+
+sed -i '' \
+    -e "/# add newly created threads here/a\\"$'\n'"    '$slug'," \
+    story/story.toml
+
+[ $edit = 1 ] && subl "$destination"

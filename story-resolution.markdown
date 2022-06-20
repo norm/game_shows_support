@@ -27,6 +27,9 @@ The config files looks like:
     location = 'Colter'
     after = ['enter-pursued-by-a-memory']
 
+A new one can be minted from a useful template with the `add_story_thread`
+command.
+
 ### Required elements
 
 Each file must have:
