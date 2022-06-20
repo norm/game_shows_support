@@ -125,14 +125,15 @@ would be:
     triggers = 'thread'
     autobegin = true
 
+    reminders = []
     completed_threads = []
     completed_nodes = []
     abandoned_threads = []
     abandoned_nodes = []
 
-You can edit the title, locations, triggers, actions, etc as you see fit,
-but it should contain all of the required elements of a thread, **and**
-the four keys `completed_threads`, `completed_nodes`, `abandoned_threads`,
-and `abandoned_nodes`. As the game footage is recorded, it is useful to
-record the threads that are completed/abandoned in here so the player can
-see where they are up to.
+You can edit the title, locations, triggers, actions, etc as you see fit, but
+it should contain all of the required elements of a thread, **and** the five
+keys `reminders`, `completed_threads`, `completed_nodes`, `abandoned_threads`,
+and `abandoned_nodes`. As the game footage is recorded, it is useful to record
+the threads that are completed/abandoned in here so the player can see where
+they are up to.

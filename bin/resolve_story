@@ -26,7 +26,7 @@ args = parser.parse_args()
 
 errors = False
 
-# abandoned -> story -> completed -> remaining threads
+# abandoned -> reminders -> completed -> remaining threads
 story = toml.load(os.path.join('story', 'story.toml'))
 graph = nx.DiGraph()
 graph.add_node(
@@ -44,28 +44,51 @@ graph.add_node(
     context = 'ABANDONED',
 )
 graph.add_edge('abandoned', 'abandoned_end')
-graph.add_edge('abandoned_end', 'story')
+graph.add_edge('abandoned_end', 'reminders')
 
+graph.add_node(
+    'reminders',
 
+    text = 'REMINDERS',
+    location = 'current',
+    type = 'border',
+    context = 'REMINDERS',
+)
+graph.add_node(
+    'reminders_end',
+    text = 'COMPLETED',
+    location = 'current',
+    type = 'border',
+    context = 'REMINDERS',
+)
+graph.add_edge('reminders', 'reminders_end')
+graph.add_edge('reminders_end', 'story')
 
 graph.add_node(
     'completed',
-    text = 'COMPLETED TO HERE',
-    location = 'continue',
+    text = '',
+    location = 'current',
     type = 'border',
     context = 'COMPLETED',
 )
+graph.add_node(
+    'completed_end',
+    text = 'RECORDING STARTS HERE',
+    location = 'current',
+    type = 'border',
+    context = 'COMPLETED',
+)
+graph.add_edge('completed', 'completed_end')
 
-
+last_reminder = 'reminders'
+for thread in story['reminders']:
+    graph.add_edge(last_reminder, thread)
+    graph.add_edge(thread, 'reminders_end')
+    last_reminder = thread
 for thread in story['completed_threads']:
     graph.add_edge('%s_end' % thread, 'completed')
 for node in story['completed_nodes']:
     graph.add_edge(node, 'completed')
-
-# where no threads connect to completed, it is removed
-if not story['completed_threads'] and not story['completed_nodes']:
-    graph.remove_nodes_from(['completed'])
-
 
 for root, dirs, files in os.walk('story'):
     category = root[6:]
