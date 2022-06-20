@@ -20,6 +20,8 @@ parser.add_argument('--csv', action='store_true')
 parser.add_argument('--debug', action='store_true')
 parser.add_argument('--main', action='store_true')
 parser.add_argument('--outline', action='store_true')
+parser.add_argument('--edges', action='store_true')
+parser.add_argument('--graph', action='store_true')
 parser.add_argument('--test', action='store_true')
 args = parser.parse_args()
 
@@ -268,14 +270,21 @@ if args.debug:
     nodes = list(graph.nodes)
     for node in nodes:
         print('   ', node, graph.nodes[node])
+
+if args.debug or args.edges:
     print(' == EDGES')
     for edge in graph.edges:
         print('   ', edge)
+
+if args.debug or args.graph:
     print(' == GRAPH')
     for index in nx.topological_generations(graph):
         print('   ', index)
     print()
 
+
+if args.edges or args.graph:
+    sys.exit()
 
 # where threads of equal standing include certain types of threads,
 # those threads get elevated out

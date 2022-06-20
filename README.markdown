@@ -44,6 +44,9 @@ The format is described more in [story resolution][story-resolution.markdown].
     # test the story graph (exits 1 for a thread error, 2 for a story loop)
     ./generate story --test
 
+    # show just the graph/edges (or both)
+    ./generate story [--graph] [--edges]
+
 
 ## Preparing footage
 
