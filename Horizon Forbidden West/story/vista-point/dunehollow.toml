@@ -1,0 +1,52 @@
+title = "Dunehollow"
+
+# RESERVED TYPES:
+# * border (present a large visual banner in summary)
+# * marker (present a small visual separator in summary, good for chapters)
+# * story (the main storyline, mandatory threads)
+# * location (something that only happens *at* a location but at any time)
+type = 'vista-point'
+
+# LOCATIONS: helpful in open world games when placing threads in a narrative
+# to know where you are on the map
+start = 'Somewhere'
+end = 'Somewhere'
+
+# TRIGGERS: for when a thread automatically leads into another
+# triggers = 'something'
+
+# UNLOCKS: describes what threads become available after completing this
+# unlocks = [
+#     'something',
+# ]
+
+# FINISH_BEFORE: for when a thread may no longer available after a 
+# part of the story (eg leaving a location you cannot return to)
+# finish_before = [
+#     'something',
+# ]
+
+# BEFORE/AFTER: for scheduling based on narrative decisions, preferring to
+# tell things in a certain order
+# before = [
+#     'something',
+# ]
+# after = [
+#     'something',
+# ]
+
+# REQUIRED: text to describe how to trigger the thread, or autobegin
+# (unless 'marker' or 'location' thread type)
+begin = 'Do something'
+# autobegin = true
+
+# [[action]]
+# text = 'Do more stuff'
+# location = 'Somewhere else'
+
+# [[post_action]]
+# text = 'Do some stuff later'
+# location = 'Somewhere else'
+# finish_before = []
+# before = []
+# after = []
