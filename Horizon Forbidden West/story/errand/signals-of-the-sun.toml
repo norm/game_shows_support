@@ -1,52 +1,18 @@
 title = "Signals of the Sun"
-
-# RESERVED TYPES:
-# * border (present a large visual banner in summary)
-# * marker (present a small visual separator in summary, good for chapters)
-# * story (the main storyline, mandatory threads)
-# * location (something that only happens *at* a location but at any time)
 type = 'errand'
+start = 'Barren Light'
+end = 'Barren Light'
 
-# LOCATIONS: helpful in open world games when placing threads in a narrative
-# to know where you are on the map
-start = 'Somewhere'
-end = 'Somewhere'
+begin = 'Come across Maleev north of Barren Light'
 
-# TRIGGERS: for when a thread automatically leads into another
-# triggers = 'something'
+[[action]]
+text = 'Rescue Raynah from the machines'
 
-# UNLOCKS: describes what threads become available after completing this
-# unlocks = [
-#     'something',
-# ]
+[[action]]
+text = 'Gather the Lens of Evening from the signal tower above'
 
-# FINISH_BEFORE: for when a thread may no longer available after a 
-# part of the story (eg leaving a location you cannot return to)
-# finish_before = [
-#     'something',
-# ]
+[[action]]
+text = 'Return the lens to Raynah in Barren Light'
 
-# BEFORE/AFTER: for scheduling based on narrative decisions, preferring to
-# tell things in a certain order
-# before = [
-#     'something',
-# ]
-# after = [
-#     'something',
-# ]
-
-# REQUIRED: text to describe how to trigger the thread, or autobegin
-# (unless 'marker' or 'location' thread type)
-begin = 'Do something'
-# autobegin = true
-
-# [[action]]
-# text = 'Do more stuff'
-# location = 'Somewhere else'
-
-# [[post_action]]
-# text = 'Do some stuff later'
-# location = 'Somewhere else'
-# finish_before = []
-# before = []
-# after = []
+[[post_action]]
+text = 'Gather the other lenses'

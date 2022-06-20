@@ -1,0 +1,5 @@
+title = 'Time'
+type = 'reminder'
+location = 'current'
+
+begin = 'If doing "off story" activities, check time of save matches point at which action restarts.'

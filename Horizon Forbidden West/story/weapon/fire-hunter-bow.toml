@@ -1,0 +1,18 @@
+title = 'Fire Hunter Bow'
+type = 'weapon'
+start = 'The Daunt Hunting Grounds'
+end = 'The Daunt'
+
+# upgrade early
+before = ['story/the-embassy']
+
+begin = 'Purchase Fire Hunter Bow (149 shards, bristleback circulator)'
+
+[[action]]
+text = 'Increase stats: 50 shards, 1 braided wire'
+
+[[action]]
+text = 'Increase stats: 75 shards, 1 braided wire, 1 charger circulator'
+
+[[action]]
+text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 2 charger horn, 1 small machine core'

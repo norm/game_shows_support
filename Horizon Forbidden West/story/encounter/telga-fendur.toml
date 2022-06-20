@@ -1,0 +1,10 @@
+title = "Telga and Fendur"
+type = 'encounter'
+start = 'The Daunt Relic Ruin'
+end = 'The Daunt Relic Ruin'
+begin = 'Free Fendur from Bristleback, get smoke bombs'
+
+before = [
+    'relic-ruin/the-daunt',
+    'story/to-the-brink-erend',
+]

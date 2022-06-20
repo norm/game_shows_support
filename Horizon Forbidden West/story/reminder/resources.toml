@@ -1,0 +1,5 @@
+title = 'Resources'
+type = 'reminder'
+location = 'current'
+
+begin = 'Before recording, gather any resources needed, restock potions etc.'

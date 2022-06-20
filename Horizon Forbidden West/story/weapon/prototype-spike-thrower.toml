@@ -1,0 +1,17 @@
+title = "Prototype Spike Thrower"
+type = 'weapon'
+start = 'Chainscrape'
+end = 'The Daunt'
+autobegin = true
+
+# upgrade early
+before = ['story/the-embassy']
+
+[[action]]
+text = 'Increase stats: 50 shards, 1 braided wire'
+
+[[action]]
+text = 'Increase stats: 75 shards, 1 braided wire, 1 scrounger circulator'
+
+[[action]]
+text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 1 scrounger spark coil, 1 small machine core'

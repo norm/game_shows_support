@@ -1,0 +1,5 @@
+title = 'Recording'
+type = 'reminder'
+location = 'current'
+
+begin = 'Check audio and HUD settings are correct'

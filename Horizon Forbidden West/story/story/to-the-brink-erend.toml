@@ -1,0 +1,26 @@
+title = 'To The Brink (rescue Erend)'
+type = 'story'
+start = 'The Lift'
+end = 'The Daunt'
+
+unlocks = [
+    'story/to-the-brink-end',
+    'weapon/shock-tripcaster',
+]
+
+autobegin = true
+
+[[action]]
+location = 'Ruin'
+text = 'Talk to Thurlis, learn location of Erend'
+
+[[action]]
+location = 'Abandoned Camp'
+text = 'Rescue Erend'
+
+[[action]]
+location = 'Redhew Quarry'
+text = 'Dispatch Bristlebacks'
+
+[[action]]
+text = 'Talk to Belna'

@@ -1,0 +1,5 @@
+title = 'Skill Points'
+type = 'reminder'
+location = 'current'
+
+begin = 'Apply skill points'

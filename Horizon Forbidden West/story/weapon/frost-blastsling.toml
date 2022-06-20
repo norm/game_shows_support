@@ -1,0 +1,17 @@
+title = "Frost Blastsling"
+type = 'weapon'
+start = 'The Daunt'
+end = 'The Daunt'
+autobegin = true
+
+[[action]]
+text = 'Increase stats: 50 shards, 1 braided wire'
+before = ['encounter/telga-fendur'] # upgrade early
+
+[[action]]
+text = 'Increase stats: 75 shards, 1 braided wire, 1 bristleback circulator'
+after = ['story/to-the-brink-end'] # no bristleback loot before this
+
+[[action]]
+text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 1 bristleback tusk, 1 small machine core'
+after = ['story/to-the-brink-end'] # no bristleback loot before this

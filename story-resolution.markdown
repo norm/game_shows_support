@@ -119,10 +119,10 @@ The file `story.toml` is required in your `story` directory. A default file
 would be:
 
     title = 'START THE GAME'
-    type = 'marker'
+    type = 'border'
     start = 'start'
-    end = 'home'
-    triggers = 'thread'
+    end = '...'
+    triggers = 'story/...'
     autobegin = true
 
     reminders = []

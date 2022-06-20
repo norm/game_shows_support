@@ -1,0 +1,25 @@
+title = 'To The Brink (complete)'
+type = 'story'
+start = 'Chainscrape'
+end = 'Chainscrape'
+
+unlocks = [
+    'story/the-embassy',
+
+    'side-quest/the-twilight-path',
+    'side-quest/shadow-from-the-past',
+    'errand/a-bigger-boom',
+    'errand/a-dash-of-courage',
+    'errand/signals-of-the-sun',
+
+    'weapon/explosive-blastsling',
+    'weapon/fire-hunter-bow',
+]
+
+begin = 'Talk to Studious Vuadis'
+
+[[action]]
+text = 'Talk to Ulvund, unlock the settlement'
+
+[[action]]
+text = 'Talk to Studious Vuadis again'

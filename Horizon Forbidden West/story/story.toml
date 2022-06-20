@@ -1,10 +1,18 @@
 title = 'START THE GAME'
-type = 'marker'
+type = 'border'
 start = 'start'
 end = 'Far Zenith'
+autobegin = true
 triggers = 'story/reach-for-the-stars'
 # autobegin = true
 # begin = 'LOAD THE GAME'
+
+reminders = [
+    'reminder/time',
+    'reminder/skill-points',
+    'reminder/resources',
+    'reminder/recording',
+]
 
 completed_threads = [
 ]
@@ -13,6 +21,7 @@ completed_nodes = [
 ]
 
 abandoned_threads = [
+    'errand/signals-of-the-sun',
 ]
 
 abandoned_nodes = [

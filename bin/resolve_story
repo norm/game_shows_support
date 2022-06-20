@@ -441,17 +441,22 @@ for threads in sorted_graph:
             print('\n==== %s ====' % node['text'])
         else:
             bullet = '.'
+            context = '[%s]' % node['context']
             if node['type'] == 'story':
                 bullet = '*'
                 if '_post_' in node_id:
                     bullet = '-'
+            if node['type'] == 'reminder':
+                location = ''
+                bullet = '>'
+                context = ''
             print('\n'.join(
                 textwrap.wrap(
-                    '%s%s %s [%s]' % (
+                    '%s%s %s %s' % (
                         bullet,
                         location,
                         node['text'], 
-                        node['context'],
+                        context,
                     ),
                     initial_indent=indent[2:],
                     subsequent_indent=indent,

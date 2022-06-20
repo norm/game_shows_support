@@ -1,0 +1,17 @@
+title = "Explosive Blastsling"
+type = 'weapon'
+start = 'Barren Light'
+end = 'Barren Light'
+
+after = ['side-quest/shadow-from-the-past']
+
+begin = 'Purchase from Hunter for 149 shards and fanghorn circulator'
+
+[[post_action]]
+text = 'Increase stats: 50 shards, 1 braided wire'
+
+[[post_action]]
+text = 'Increase stats: 75 shards, 1 braided wire, 1 skydrifter circulator'
+
+[[post_action]]
+text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 1 skydrifter razor tail, 1 small machine core'

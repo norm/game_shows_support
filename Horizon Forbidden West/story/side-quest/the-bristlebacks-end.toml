@@ -1,0 +1,39 @@
+title = "The Bristlebacks (End)"
+type = 'side-quest'
+start = 'Deadfalls'
+end = 'Chainscrape'
+
+# TRIGGERS: for when a thread automatically leads into another
+# triggers = 'something'
+
+# unlocks = [
+#     'weapons/strongarm-hunter-bow',
+# ]
+
+# FINISH_BEFORE: for when a thread may no longer available after a 
+# part of the story (eg leaving a location you cannot return to)
+# finish_before = [
+#     'something',
+# ]
+
+# BEFORE/AFTER: for scheduling based on narrative decisions, preferring to
+# tell things in a certain order
+# before = [
+#     'something',
+# ]
+# after = [
+#     'something',
+# ]
+
+begin = 'Sneak into the Deadfalls rebel outpost, kill everyone'
+
+[[action]]
+text = 'Make sure to loot the cache for the strongarm hunter bow'
+
+[[action]]
+text = 'Return and speak to Javad'
+location = 'Chainscrape'
+
+[[post_action]]
+text = "Speak to Javad (in Ulvund's old building) and scan datapoint"
+location = 'Chainscrape'
