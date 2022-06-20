@@ -7,6 +7,7 @@ import networkx as nx
 import os
 from pprint import pformat
 import string
+import textwrap
 import sys
 import toml
 
@@ -367,7 +368,7 @@ current_context = ''
 used = {}
 skipping = args.skip
 for threads in sorted_graph:
-    def print_node(node_id, indent=''):
+    def print_node(node_id, indent='  '):
         node = graph.nodes[node_id]
         location = ' {%s}' % node['location']
         bullet = ' '
@@ -384,15 +385,17 @@ for threads in sorted_graph:
             if not '_post_' in node_id:
                 context = ' for %s' % node['context']
             if node['type'] != 'border':
-                print(
-                    '%s%s {%s} %s%s' % (
-                        indent,
-                        bullet,
-                        current_location,
-                        'Go to %s' % node['location'],
-                        context,
+                print('\n'.join(
+                    textwrap.wrap(
+                        '  %s%s' % (
+                            'Go to %s' % node['location'],
+                            context,
+                        ),
+                        initial_indent=indent[2:],
+                        subsequent_indent=indent,
+                        width = 80,
                     )
-                )
+                ))
         if 'type' in node and node['type'] == 'border':
             print('\n%s\n' % (' %s ' % node['text']).center(80, '='))
         elif 'type' in node and node['type'] == 'marker':
@@ -403,15 +406,19 @@ for threads in sorted_graph:
                 bullet = '*'
                 if '_post_' in node_id:
                     bullet = '-'
-            print(
-                '%s%s%s %s [%s]' % (
-                    indent,
-                    bullet,
-                    location,
-                    node['text'], 
-                    node['context'],
+            print('\n'.join(
+                textwrap.wrap(
+                    '%s%s %s [%s]' % (
+                        bullet,
+                        location,
+                        node['text'], 
+                        node['context'],
+                    ),
+                    initial_indent=indent[2:],
+                    subsequent_indent=indent,
+                    width = 80,
                 )
-            )
+            ))
 
     output_nodes = []
 
@@ -460,8 +467,8 @@ for threads in sorted_graph:
                         len(output_nodes),
                         pformat(
                             [ index for index in output_nodes ],
-                            indent = 9,
-                            width = 100,
+                            indent = 7,
+                            width = 80,
                             compact = True,
                         )[1:-1].lstrip(),
                     )
