@@ -90,10 +90,6 @@ for thread in story['reminders']:
     graph.add_edge(last_reminder, thread)
     graph.add_edge(thread, 'reminders_end')
     last_reminder = thread
-for thread in story['completed_threads']:
-    graph.add_edge('%s_end' % thread, 'completed')
-for node in story['completed_nodes']:
-    graph.add_edge(node, 'completed')
 
 for root, dirs, files in os.walk('story'):
     category = root[6:]
@@ -147,6 +143,15 @@ for root, dirs, files in os.walk('story'):
                 autobegin='autobegin' in thread,
             )
 
+        completed = False
+        if node in story['completed_threads']:
+            graph.add_edge('%s_end' % node, 'completed_end')
+            completed = True
+        elif node != 'story':
+            if thread['type'] != 'reminder':
+                graph.add_edge('completed_end', node)
+
+        some_complete = False
         if 'action' in thread:
             for index, action in enumerate(thread['action']):
                 node_id = '%s_%s' % (node, index)
@@ -162,9 +167,18 @@ for root, dirs, files in os.walk('story'):
                     type=thread['type'],
                 )
                 graph.add_edge(last_node, node_id)
+                if not completed:
+                    if node_id in story['completed_nodes']:
+                        graph.add_edge(node_id, 'completed_end')
+                        some_complete = True
+                    else:
+                        graph.add_edge('completed_end', node_id)
                 last_node = node_id
 
         node_id = '%s_end' % node
+        if not completed and some_complete:
+            graph.remove_edge('completed_end', node)
+
         graph.add_node(
             node_id,
             location=thread['end'],
