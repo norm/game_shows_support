@@ -109,7 +109,7 @@ for root, dirs, files in os.walk('story'):
                 print('** %s missing from "%s"' % (key, node))
                 errors = True
 
-        if thread['type'] in ('location', 'reminder'):
+        if 'start' not in thread and 'location' in thread:
             thread['start'] = thread['location']
             thread['end'] = thread['location']
 
