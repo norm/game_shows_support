@@ -4,8 +4,10 @@ start = 'The Daunt'
 end = 'The Daunt'
 autobegin = true
 
-# upgrade early
-before = ['story/to-the-brink-end']
+unlocks = [
+    'pouch/tripwire-pouch',
+]
+
 
 [[action]]
 text = 'Increase stats: 50 shards, 1 braided wire'

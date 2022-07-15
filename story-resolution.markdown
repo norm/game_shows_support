@@ -94,6 +94,15 @@ If completing this thread opens up other threads, indicate this with:
         'end-the-game',
     ]
 
+If this thread cannot be started until others have been completed,
+indicate this with:
+
+    requires = [
+        'any-order-west',
+        'any-order-north',
+        'any-order-east',
+    ]
+
 If this thread must be completed before a certain point in the story (eg it
 can be done at any time, but after a given thread it will disappear as an
 option), indicate this with:

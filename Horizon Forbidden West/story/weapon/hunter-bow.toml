@@ -4,6 +4,10 @@ start = 'The Daunt'
 end = 'The Daunt'
 autobegin = true
 
+unlocks = [
+    'pouch/hunter-arrow-quiver',
+]
+
 [[action]]
 text = 'Unlock acid arrows, increase stats: 50 shards, 1 braided wire'
 

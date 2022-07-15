@@ -26,6 +26,13 @@ end = 'Somewhere'
 #     'something',
 # ]
 
+requires = [
+    'melee-pit/chainscrape',
+    'melee-pit/scalding-spear',
+    'melee-pit/the-bulwark',
+    'melee-pit/thornmarsh',
+]
+
 # BEFORE/AFTER: for scheduling based on narrative decisions, preferring to
 # tell things in a certain order
 # before = [

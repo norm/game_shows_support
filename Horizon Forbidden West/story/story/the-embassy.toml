@@ -1,10 +1,9 @@
 title = "The Embassy"
 type = 'story'
-start = 'Barren Light'
-end = "No Man's Land"
+location = 'Barren Light'
 
 unlocks = [
-    'story/deaths-door',
+    'story/opened-the-gate',
 ]
 
 begin = 'Speak to Erend'

@@ -35,6 +35,10 @@ end = 'Somewhere'
 #     'something',
 # ]
 
+requires = [
+    'story/opened-the-gate',
+]
+
 # REQUIRED: text to describe how to trigger the thread, or autobegin
 # (unless 'marker' or 'location' thread type)
 begin = 'Do something'

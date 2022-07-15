@@ -4,6 +4,10 @@ start = 'Chainscrape'
 end = 'The Daunt'
 autobegin = true
 
+unlocks = [
+    'pouch/spike-holster',
+]
+
 # upgrade early
 before = ['story/the-embassy']
 

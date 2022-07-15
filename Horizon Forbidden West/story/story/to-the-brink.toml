@@ -14,7 +14,12 @@ unlocks = [
     'relic-ruin/the-daunt',
     'hunting-ground/the-daunt',
     'vista-point/the-daunt',
+    'melee-pit/chainscrape',
+    'errand/learning-machine-strike',
 
+    'pouch/potion-pouch',
+    'pouch/resource-pouch',
+    'pouch/trap-pouch',
     'weapon/frost-blastsling',
     'weapon/hunter-bow',
 ]

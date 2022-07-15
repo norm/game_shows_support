@@ -4,6 +4,10 @@ start = 'The Daunt'
 end = 'The Daunt'
 autobegin = true
 
+unlocks = [
+    'pouch/bomb-satchel',
+]
+
 [[action]]
 text = 'Increase stats: 50 shards, 1 braided wire'
 before = ['encounter/telga-fendur'] # upgrade early

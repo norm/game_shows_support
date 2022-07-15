@@ -3,6 +3,10 @@ type = 'weapon'
 start = 'The Daunt Hunting Ground'
 end = 'The Daunt Hunting Ground'
 
+unlocks = [
+    'pouch/light-arrow-quiver',
+]
+
 # upgrade early
 before = ['story/the-embassy']
 

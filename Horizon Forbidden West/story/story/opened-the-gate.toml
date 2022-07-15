@@ -1,0 +1,30 @@
+title = 'Opened the gate'
+type = 'marker'
+location = 'Barren Light'
+
+unlocks = [
+    'story/deaths-door',
+
+    'side-quest/drowned-hopes',
+    'side-quest/the-roots-that-bind',
+    'errand/the-music-in-metal',
+    'errand/the-oldgrowth',
+
+    'cauldron/mu',
+    'hunting-ground/plainsong',
+    'rebel-camp/eastern-lie',
+    'rebel-outpost/jagged-deep',
+    'rebel-outpost/plainsong',
+
+    'relic-ruin/no-mans-land',
+    'relic-ruin/restless-weald',
+    'black-box/no-mans-land',
+    'black-box/jagged-deep',
+    'black-box/the-whitewatch-peaks',
+    'black-box/the-promontory',
+    'salvage/barren-light',
+    'tallneck/cinnabar-sands',
+    'vista-point/plainsong',
+]
+
+begin = 'OPENED THE GATE TO THE FORBIDDEN WEST'

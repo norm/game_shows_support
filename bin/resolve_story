@@ -190,6 +190,11 @@ for root, dirs, files in os.walk('story'):
         graph.add_edge(last_node, node_id)
         last_node = node_id
 
+        # this mission cannot be started until others have completed
+        if 'requires' in thread:
+            for requires in thread['requires']:
+                graph.add_edge('%s_end' % requires, node)
+
         # this mission immediately starts another
         if 'triggers' in thread:
             graph.add_edge(last_node, thread['triggers'])
@@ -452,7 +457,7 @@ for threads in sorted_graph:
         if 'type' in node and node['type'] == 'border':
             print('\n%s\n' % (' %s ' % node['text']).center(80, '='))
         elif 'type' in node and node['type'] == 'marker':
-            print('\n==== %s ====' % node['text'])
+            print('\n==== %s ====\n' % node['text'])
         else:
             bullet = '.'
             context = '[%s]' % node['context']
