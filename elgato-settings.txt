@@ -1,0 +1,72 @@
+# ========================================
+# 4K60 S+ - Settings for SD Card Recording
+# ========================================
+
+# More info on https://links.elgato.com/l/4k60shelp_hdr_sd_card_recording
+
+
+# FILE FORMAT
+# ----------------------------------------
+# ExFAT is the recommended file system for SD cards.
+# Recordings will be in an .mp4 format with AAC audio.
+#
+# FAT32 formatted SD cards must split recordings into 4 gigabyte segments due to file system limitations.
+# To allow smooth combination of segments in editing those will be in .mov format with PCM audio.
+#
+# When EGC_RECORDING_FORMAT_MKV is set =1 recordings saved in the .mkv format.
+# Recordings saved in the mp4/mov format will be unrecoverable if the file cannot be finalized in cases where the SD card is removed before the recording is done or power is lost.
+# recordings in the mkv format can be used even when the SD card is removed or power is lost before the recording is finalized. Note that not all video editors support .mkv files.
+
+EGC_RECORDING_FORMAT_MKV=1
+
+
+# ENCODER SELECTION
+# ---------------------------------------
+# Select between AVC/H264 and HEVC/H265 video encoding.
+# H265 achieves the same quality as H264 but with 30% less bitrate on average.
+# To record HDR video, leave selection on 0 or enter 2 to force H265 recordings, even with an SDR signal.
+#
+# 0: automatic - H264 for SDR content, HEVC/H265 for HDR content
+# 1: H264 - note that this will disable HDR
+# 2: HEVC/H265
+
+EGC_VIDEO_ENCODER=2
+
+
+# RECORDING BITRATE
+# ----------------------------------------
+# Set this no higher than your SD card's write speed.
+#
+# NOTE: KBIT are KILO bit, so EGC_MAX_KBITRATE=140000 is 140Mbit/sec.
+# 80Mbit/s is the max for many SD cards (labeled V10 which means 10MByte/s).
+# If the label on the SD card says U1 then it likely can do 10MByte/s too.
+# More info: https://www.sdcard.org/consumers/choices/speed_class
+#
+# 4K60 S+ records using variable bit rate. The recording may use a lower bit rate than set in the settings if there is low motion.
+
+# Sets the max bitrate for the given vertical resolutions.
+EGC_MAX_KBITRATE_2160=80000
+EGC_MAX_KBITRATE_1080=40000
+EGC_MAX_KBITRATE_720=20000
+
+
+# AUDIO INPUT SELECTION
+# ----------------------------------------
+# Select the audio that will be recorded. Recordings can be made with HDMI audio, analog line-in audio or combining both.
+# Recording combined audio records HDMI and line-in to one file. The audio cannot be split at a later time.
+#
+# 0 = HDMI
+# 1 = line in
+# 3 = HDMI+line in
+
+EGC_AUDIO_INPUT=0
+
+
+# LINE-IN VOLUME LEVEL
+# ----------------------------------------
+# Set the volume level of the line-in. If unsure about incoming audio level, leave at default of 176. Minimum value 0, max value 176.
+
+EGC_AUDIO_VOLUME=176
+
+
+

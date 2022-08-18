@@ -52,13 +52,15 @@ The format is described more in [story resolution][story-resolution.markdown].
 
 ## Preparing footage
 
+The raw footage is captured using an Elgato 4K60 S+ in `mkv` format.
+
+    # copy footage from SD card
+    ./generate raw
+
 The raw capture footage is in `mkv` format and the audio level is quite quiet,
 so for easier editing in Davinci Resolve it is converted to `mp4` and the
 volume boosted. A text file is also created for each new file to keep notes of
 what footage is where, and a Things task to track if I've filled it out.
-
-    # copy the files from the machine that does the video capturing
-    ./generate raw
 
     # prep the footage used in editing from the raw video
     ./generate footage

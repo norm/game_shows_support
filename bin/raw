@@ -1,0 +1,58 @@
+#!/usr/bin/env -S bash -euo pipefail
+#
+# Add newly captured footage from the SD card to the project directory.
+
+if [ ! -d "$CAPTURE_DIR" ]; then
+    status "** {magenta}$CAPTURE_DIR not mounted"
+    exit 1
+fi
+
+# The Elgato 4K60 S+ doesn't have a correct clock (at least when used in
+# standalone capture, it starts at Feb 2020 when it wakes from sleep). To
+# approximate correct capture footage dates we work backwards from the
+# most-recent capture, using "now" as the timestamp for that, and
+# subtracting time differences for any subsequent captures. This way the
+# timestamps are related to when the footage was made available and
+# increases in line with the passage of time.
+
+# list any captured video as most-recent first, to calculate offsets
+mapfile -t captures < <(ls -t $CAPTURE_DIR/Videos/*mkv 2>/dev/null)
+now=$(date -u +%s)
+offset=0
+
+for capture in "${captures[@]}"; do
+    file="$(basename "$capture")"
+    [ "$file" = '*mkv' ] && break
+
+    stamp=$(stat -f%m "$capture")
+
+    # calculate the time offset from the first processed capture
+    [ $offset = 0 ] && offset=$(( $now - $stamp ))
+
+    # actual timestamp == timestamp of file plus offset
+    actual=$(( $stamp + $offset ))
+
+    filename=$(date -r $actual +'%Y-%m-%dT%H-%M-%S')
+    destination="raw/$filename.mkv"
+
+    if [ ! -f "$destination" ]; then
+        status "++ {green}$file -> $filename [$(duration "$capture")]"
+        [ -n "${DRY_RUN:-}" ] && continue
+
+        rsync \
+            --perms \
+            --times \
+            --partial \
+            --info=progress \
+                "$capture" \
+                "$destination"
+        rm "$capture"
+    fi
+done
+
+[ -n "${DRY_RUN:-}" ] && exit 0
+
+# ensure the settings are up-to-date
+cp elgato-settings.txt /Volumes/elgato/Elgato/Settings.txt
+
+hdiutil eject /Volumes/elgato

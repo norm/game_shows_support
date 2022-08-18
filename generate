@@ -139,7 +139,7 @@ fi
 
 export BACKUP_BASE='/Volumes/verne/video'
 export BACKUP_DIR="$BACKUP_BASE/Game Shows"
-export CAPTURE_DIR="$HOME/Movies"
+export CAPTURE_DIR="/Volumes/elgato/Elgato"
 export GAME_SHOW_NAME="$show"
 export S3_BUCKET=gameshows.m17s.net
 export S3_BUCKET_DIR="Game Shows/$show"
@@ -192,6 +192,8 @@ case "${1:-all}" in
 
     all)
         pushd "$show" >/dev/null
+        status -l "== {bold}{yellow}raw"
+        raw
         status -l "== {bold}{yellow}footage"
         footage
         status -l "== {bold}{yellow}annotations"
