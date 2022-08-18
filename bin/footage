@@ -1,54 +1,121 @@
-#!/usr/bin/env bash -euo pipefail
+#!/usr/bin/env -S bash -euo pipefail
 #
-# Copy newly captured footage from the capture directory to the
-# project directory.
-#
-# For each new piece of footage, create a text file for capturing the
-# contents of the footage for later reference, and a Things task to
-# track whether or not this has been done.
+# Preview new raw footage, then convert all/some as needed. For each
+# new piece of footage, create a text file for capturing the contents
+# of the footage for later reference, and a Things task to track
+# whether or not this has been done.
 
-mapfile -t captures < <(ls "$CAPTURE_DIR/"*mkv 2>/dev/null)
+function convert_raw_footage {
+    local source="$1"
+    local target="$2"
+    local start="${3:-}"
+    local end="${4:-}"
+
+    local base_target="${2%.*}"
+    local destination="$base_target.mkv"
+    local extra_args=()
+    local increment=1
+    local notes
+
+    if [ -n "$start" ]; then
+        extra_args+=(-ss "$start")
+    fi
+    if [ -n "$end" ]; then
+        extra_args+=(-to "$end")
+    fi
+
+    # generate a unique extension when taking a slice of footage
+    # (yes, there's a theoretical race condition; no, it won't happen)
+    if [ -n "$start" -o -n "$end" ]; then
+        destination="${base_target}-${increment}.mkv"
+        while [ -f "$destination" ]; do
+            ((increment++))
+            destination="${base_target}-${increment}.mkv"
+        done
+
+        local slices="$(echo "$source" | sed -e 's/.mkv$/.txt/')"
+        printf '   %7s -> %7s\n' "$start" "$end" >> "$slices"
+    fi
+
+    # filter out the second audio channel (mic input, not used)
+    ffmpeg \
+        -y \
+        -i "$source" \
+        -loglevel error \
+        -stats \
+        ${extra_args[@]} \
+        -map 0 \
+        -map -0:a:1 \
+        -codec copy \
+        "$destination"
+
+    notes="$(echo "$destination" | sed -e 's/.mkv$/.txt/')"
+    if [ ! -f "$notes" ]; then
+        cat footage/template.txt > "$notes"
+        add_to_things "Properly annotate $destination"
+    fi
+    subl "$notes"
+}
+
+
+mapfile -t captures < <(ls raw/*mkv 2>/dev/null)
 for capture in "${captures[@]}"; do
     file="$(basename "$capture")"
     [ "$file" = '*mkv' ] && break
 
     destination="footage/$file"
-    notes="$( echo "$destination" | sed -e 's/.mkv/.txt/')"
+    slices="$(echo "$capture" | sed -e 's/.mkv$/.txt/')"
 
     if [ ! -f "$destination" ]; then
+        # can mark a raw file as being "done"
+        grep done "$slices" >/dev/null 2>&1 && continue
+
         status "++ {green}$file [$(duration "$capture")]"
         [ -n "${DRY_RUN:-}" ] && continue
 
-        escaped="$(echo "$capture" | sed -e 's/ /\\ /g')"
-        rsync \
-            --perms \
-            --times \
-            --partial \
-            --info=progress \
-                "${escaped}" \
-                footage/
+        play "$capture"
 
-        play "$destination"
+        [ -f "$slices" ] && {
+            echo "   Existing slices taken:"
+            cat "$slices"
+        }
 
         chose=0
+        index=1
         while [ $chose = 0 ]; do
-            status -cnr "Keep: y/n? "
+            status -cnr "[A]:Use All [S]:Use Slice [D]:Done [R]:Remove [ ]:Skip - Keep? "
             read -N1 -s keeper
-            echo -n $keeper
+            echo $keeper
             case $keeper in
-                n|N)    chose=1
-                        rm "$destination"
-                        ;;
-                y|Y)    chose=1
-                        if [ ! -f "$notes" ]; then
-                            cat footage/template.txt > "$notes"
-                            add_to_things "Properly annotate $file"
-                        fi
-                        subl "$notes"
-                        git add "$notes"
-                        ;;
-                *)      sleep 1
-                        ;;
+                a|A)
+                    convert_raw_footage "$capture" "$destination"
+                    chose=1
+                    ;;
+
+                s|S)
+                    read -p "From: " start_time
+                    read -p "To:   " end_time
+                    convert_raw_footage "$capture" "$destination" "$start_time" "$end_time"
+                    ;;
+
+                d|D)
+                    echo "done" >> "$slices"
+                    chose=1
+                    ;;
+
+                r|R)
+                    rm "$capture"
+                    chose=1
+                    ;;
+
+                ' ')
+                    chose=1
+                    ;;
+
+                *)
+                    echo "Unknown option: '$keeper'"
+                    sleep 1
+                    ;;
             esac
         done
         echo ''

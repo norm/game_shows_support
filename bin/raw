@@ -53,6 +53,6 @@ done
 [ -n "${DRY_RUN:-}" ] && exit 0
 
 # ensure the settings are up-to-date
-cp elgato-settings.txt /Volumes/elgato/Elgato/Settings.txt
+cp ../elgato-settings.txt /Volumes/elgato/Elgato/Settings.txt
 
 hdiutil eject /Volumes/elgato

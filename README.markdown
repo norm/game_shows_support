@@ -57,10 +57,14 @@ The raw footage is captured using an Elgato 4K60 S+ in `mkv` format.
     # copy footage from SD card
     ./generate raw
 
-The raw capture footage is in `mkv` format and the audio level is quite quiet,
-so for easier editing in Davinci Resolve it is converted to `mp4` and the
-volume boosted. A text file is also created for each new file to keep notes of
-what footage is where, and a Things task to track if I've filled it out.
+Playback the raw footage, and convert it for use. The Elgato captures two
+audio tracks, one for the mic input (for "chat", which I don't do) which
+is stripped.
+
+A raw file can either be converted as whole or in part ("slices"), skipped for
+now, or removed if not needed. A text file is created for each new file to
+keep notes of what footage is where, and a Things task to track if I've filled
+it out.
 
     # prep the footage used in editing from the raw video
     ./generate footage
