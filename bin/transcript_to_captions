@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import json
+import string
 import sys
 
 # what triggers a new caption
@@ -12,6 +13,19 @@ THRESHOLD=1
 # allow captions to linger for a little longer if there's time
 PAD_AFTER=0.5
 
+# AWS Transcribe is a little too eager to turn sound effects into words.
+# Although sometimes these will appear in the dialogue, more time is saved
+# by having to occasionally add a word than delete more than a hundred.
+UTTERANCES=(
+    'mhm',
+    'mm',
+    'mm mm',
+    'no',
+    'okay',
+    'that',
+    'uh huh',
+    'yeah',
+)
 
 def float_as_time_index(number):
     hours = int(number / 3600)
@@ -24,6 +38,12 @@ def float_as_time_index(number):
         seconds,
         ((sub_hour % 60) - seconds) * 1000,
     )
+
+def is_utterance(text):
+    text = text.translate(str.maketrans('', '', string.punctuation)).lower()
+    if text in UTTERANCES:
+        return True
+    return False
 
 def print_caption(count, start, end, text):
     print(
@@ -60,12 +80,13 @@ for word in data['results']['items']:
                 if last_end > start:
                     last_end = start - 0.001
                 count += 1
-                print_caption(
-                    count,
-                    last_start,
-                    last_end,
-                    sentence,
-                )
+                if not is_utterance(sentence):
+                    print_caption(
+                        count,
+                        last_start,
+                        last_end,
+                        sentence,
+                    )
 
             new_caption = False
             sentence = text
