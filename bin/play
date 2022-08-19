@@ -1,5 +1,5 @@
 #!/usr/bin/env bash -euo pipefail
 #
-# Play video file(s) in IINA.
+# Play video file(s) in VLC.
 
-open -a IINA "$@"
+open -a VLC "$@"
