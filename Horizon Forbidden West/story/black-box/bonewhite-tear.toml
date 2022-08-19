@@ -1,0 +1,6 @@
+title = "Bonewhite Tear black box"
+type = 'black-box'
+location = 'Bonewhite Tear'
+
+
+begin = 'Recover the black box'

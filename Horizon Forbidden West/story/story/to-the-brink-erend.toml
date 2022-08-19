@@ -6,6 +6,7 @@ end = 'The Daunt'
 unlocks = [
     'story/to-the-brink-end',
     'weapon/shock-tripcaster',
+    'pouch/tripwire-pouch',
 ]
 
 autobegin = true

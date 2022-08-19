@@ -1,0 +1,10 @@
+title = "The Stillsands black box"
+type = 'black-box'
+location = 'The Stillsands'
+
+requires = [
+    'story/seeds-of-the-past',      # need the vinecutter
+]
+
+
+begin = 'Recover the black box'

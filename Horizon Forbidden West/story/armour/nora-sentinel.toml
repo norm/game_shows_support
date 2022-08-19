@@ -1,0 +1,27 @@
+title = 'Nora Sentinel'
+type = 'armour'
+start = 'Barren Light'
+end = 'Workbench'
+
+# melee 10 / ranged 23 / fire 14 / shock 8 / acid -20
+begin = 'Buy Nora Sentinel for 399 shards and 1 skydrifter circulator; +1 concentration+, +1 stamina regen, 1 coil'
+
+# melee 16 / ranged 28 / fire 14 / shock 12 / acid -15
+[[action]]
+text = 'Increase stats; 75 shards, 2 small machine core, 1 sturdy hardplate'
+location = 'Workbench'
+
+# melee 19 / ranged 33 / fire 19 / shock 16 / acid -15
+[[action]]
+text = '+1 stealth ranged, +2 concentration+, increase stats; 112 shards, 1 clawstrider razor tail, 1 skydrifter razor tail, 2 sturdy hardplate'
+
+# melee 22 / ranged 35 / fire 24 / shock 20 / acid -15
+[[action]]
+text = '+2 concentration regen coil, 2 coils, increase stats; 150 shards, 2 medium machine core, 4 sturdy hardplate, 1 clawstrider circulator'
+
+[[action]]
+text = 'Equip Nora Sentinel, add whatever weaves are best from collection'
+
+# melee 25 / ranged 38 / fire 32 / shock 25 / acid -10
+[[action]]
+text = '+2 stamina regen, increase stats; 250 shards, 3 medium machine core, 2 spikesnout sac webbing, 8 sturdy hardplate, 1 clawstrider primary nerve'

@@ -1,0 +1,6 @@
+title = "Isle of Spires survey drone"
+type = 'survey-drone'
+location = 'Isle of Spires'
+
+
+begin = 'Capture the survey drone'

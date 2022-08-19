@@ -1,0 +1,27 @@
+title = "The Second Verse (Heal the Land-gods)"
+type = 'side-quest'
+start = 'Plainsong'
+end = 'Plainsong'
+
+requires = [
+    'story/completed-subfunctions',
+]
+
+
+begin = 'Talk to Zo'
+
+[[action]]
+text = 'Free the land-god from the vines in the canyon'
+location = 'The Canyon'
+
+[[action]]
+text = 'Rescue the land-god that is underwater, killing the Snapmaw'
+location = 'The Lake'
+
+[[action]]
+text = 'Rescue the land-god at Cinnabar Sands, killing the Scroungers, Ravager, and Stormbird'
+location = 'Cinnabar Sands'
+
+[[action]]
+text = 'Return to Zo in Plainsong'
+location = 'Plainsong'

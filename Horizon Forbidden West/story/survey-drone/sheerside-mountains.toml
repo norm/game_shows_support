@@ -1,0 +1,6 @@
+title = "Sheerside Mountains survey drone"
+type = 'survey-drone'
+location = 'Sheerside Mountains'
+
+
+begin = 'Capture the survey drone'

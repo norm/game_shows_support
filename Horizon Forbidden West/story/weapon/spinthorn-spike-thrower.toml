@@ -1,0 +1,23 @@
+title = "Spinthorn Spike Thrower"
+type = 'weapon'
+location = 'Workbench'
+
+
+# coil, 10% knockdown, 69 dmg, 102 tear / 28 dmg, 97 explosive
+autobegin = true
+
+[[post_action]]
+# 76 dmg, 108 tear / 30 dmg, 106 explosive
+text = 'Increase stats, 15% damage over time: 75 shards, 2 braided wire, 1 greenshine sliver'
+
+[[post_action]]
+# 86 dmg, 117 tear / 34 dmg, 120 explosive
+text = 'Increase stats, 15% overdraw: 112 shards, 2 braided wire, 1 greenshine sliver, 1 greenshine fragment'
+
+[[post_action]]
+# 96 dmg, 129 tear / 38 dmg, 134 explosive
+text = 'Increase stats: 150 shards, 3 braided wire, 2 medium machine core, 1 greenshive sliver, 2 greenshine fragment'
+
+[[post_action]]
+# 109 dmg, 154 tear / 43 dmg, 151 explosive
+text = 'Unlock coil, increase stats, +40% damage over time, +25% knockdown: 250 shards, 2 medium machine core, 3 greenshine fragment, 1 greenshine cluster'

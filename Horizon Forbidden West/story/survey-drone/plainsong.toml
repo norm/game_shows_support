@@ -1,0 +1,6 @@
+title = "Plainsong survey drone"
+type = 'survey-drone'
+location = 'Plainsong'
+
+
+begin = 'Capture the survey drone'

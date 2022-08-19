@@ -1,0 +1,11 @@
+title = "What Was Lost (Testing the arm)"
+type = 'side-quest'
+start = 'The Base'
+end = 'Stone Crest'
+
+begin = 'Speak to Kotallo, agree to test the arm'
+
+[[action]]
+text = 'Meet Kotallo, kill the Scorcher'
+location = 'Stone Crest'
+

@@ -1,0 +1,6 @@
+title = "The Memorial Grove black box"
+type = 'black-box'
+location = 'The Memorial Grove'
+
+
+begin = 'Recover the black box'

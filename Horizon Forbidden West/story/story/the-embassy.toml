@@ -4,6 +4,8 @@ location = 'Barren Light'
 
 unlocks = [
     'story/opened-the-gate',
+
+    'armour/nora-sentinel',
 ]
 
 begin = 'Speak to Erend'

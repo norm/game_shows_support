@@ -1,0 +1,10 @@
+title = "The Promontory black box"
+type = 'black-box'
+location = 'The Promontory'
+
+requires = [
+    'story/seeds-of-the-past',      # need the vinecutter
+]
+
+
+begin = 'Collect the black box'

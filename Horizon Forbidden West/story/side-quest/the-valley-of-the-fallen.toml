@@ -1,52 +1,34 @@
 title = "The Valley of the Fallen"
-
-# RESERVED TYPES:
-# * border (present a large visual banner in summary)
-# * marker (present a small visual separator in summary, good for chapters)
-# * story (the main storyline, mandatory threads)
-# * location (something that only happens *at* a location but at any time)
 type = 'side-quest'
+start = 'The Memorial Grove'
+end = 'Valley of the Fallen'
 
-# LOCATIONS: helpful in open world games when placing threads in a narrative
-# to know where you are on the map
-start = 'Somewhere'
-end = 'Somewhere'
+requires = [
+    'story/the-kulrut',
+    'story/cradle-of-echoes',
+]
+unlocks = [
+    'weapon/skystrike-boltblaster',
+]
 
-# TRIGGERS: for when a thread automatically leads into another
-# triggers = 'something'
 
-# UNLOCKS: describes what threads become available after completing this
-# unlocks = [
-#     'something',
-# ]
+begin = 'Speak to Nakko'
 
-# FINISH_BEFORE: for when a thread may no longer available after a 
-# part of the story (eg leaving a location you cannot return to)
-# finish_before = [
-#     'something',
-# ]
+[[action]]
+text = 'Travel to the entry to the valley, speak to Ivvira and Kenalla'
 
-# BEFORE/AFTER: for scheduling based on narrative decisions, preferring to
-# tell things in a certain order
-# before = [
-#     'something',
-# ]
-# after = [
-#     'something',
-# ]
+[[action]]
+text = 'Explore the valley, kill the patrolling machines'
 
-# REQUIRED: text to describe how to trigger the thread, or autobegin
-# (unless 'marker' or 'location' thread type)
-begin = 'Do something'
-# autobegin = true
+[[action]]
+text = 'Kill the Thunderjaw, Tremortusk, and Skydrifter'
 
-# [[action]]
-# text = 'Do more stuff'
-# location = 'Somewhere else'
+[[action]]
+text = 'Stop the Lure, find Yivekka'
 
-# [[post_action]]
-# text = 'Do some stuff later'
-# location = 'Somewhere else'
-# finish_before = []
-# before = []
-# after = []
+[[action]]
+text = 'Kill the Specters'
+
+[[post_action]]
+text = 'Speak to Nakko'
+location = "Fall's Edge"

@@ -1,0 +1,26 @@
+title = "The Stillsands"
+type = 'salvage'
+location = 'The Stillsands'
+
+unlocks = [
+    'salvage/lost-supplies',
+    'salvage/missing-gear',
+    'salvage/pristine-bellowback',
+    'salvage/rollerback-salvage',
+]
+
+
+begin = 'Talk to Runda, get the contracts'
+
+[[post_action]]
+text = 'Return to Runda'
+requires = [
+    'salvage/lost-supplies',
+    'salvage/missing-gear',
+    'salvage/pristine-bellowback',
+    'salvage/rollerback-salvage',
+]
+
+[[post_action]]
+text = 'Can sell Sunshot Hunter Bow'
+location = 'Merchant'

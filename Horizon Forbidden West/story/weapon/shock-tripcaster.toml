@@ -1,19 +1,19 @@
 title = "Shock Tripcaster"
 type = 'weapon'
-start = 'The Daunt'
-end = 'The Daunt'
+location = 'Workbench'
+
+
+# 15 shock, 75 buildup
 autobegin = true
 
-unlocks = [
-    'pouch/tripwire-pouch',
-]
-
-
 [[action]]
+# 17 shock, 90 buildup
 text = 'Increase stats: 50 shards, 1 braided wire'
 
 [[action]]
+# 20 shock, 109 buildup
 text = 'Increase stats: 75 shards, 1 braided wire, 1 scrounger circulator'
 
 [[action]]
+# 23 shock, 135 buildup
 text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 1 scrounger spark coil, 1 small machine core'

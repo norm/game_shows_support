@@ -1,0 +1,28 @@
+title = 'Vindicator Spike Thrower'
+type = 'weapon'
+location = 'Workbench'
+
+
+# 90 dmg, 149 tear / 58 dmg, 202 explosive / 126 dmg, 74 fire / 1 coil
+autobegin = true
+
+[[action]]
+# 100 dmg, 158 tear / 64 dmg, 223 explosive / 139 dmg, 79 fire
+text = '+15% overdraw, increase stats: 127 shards, 4 braided wire, 4 small machine core, 1 medium machine core'
+location = 'Workbench'
+
+[[action]]
+# 109 dmg, 164 tear / 70 dmg, 244 explosive / 153 dmg, 83 fire
+text = 'Unlock 2nd coil, increase stats: 212 shards, 6 braided wire, 2 elemental clawstrider sac webbing, 1 behemoth force loader'
+
+[[action]]
+# 119 dmg, 178 tear / 76 dmg, 268 explosive / 167 dmg, 89 fire
+text = 'Increase stats, +15% critical hit: 300 shards, 10 braided wire, 2 stalker stealth generator, 1 large machine core, 1 elemental clawstrider circulator'
+
+[[action]]
+# 133 dmg, 191 tear / 85 dmg, 298 explosive / 186 dmg, 95 fire
+text = 'Increase stats, +40% long range: 450 shards, 4 slitherfang earthgrinder, 1 stalker circulator, 2 large machine core, 1 behemoth primary nerve'
+
+[[action]]
+# 152 dmg, 205 tear / 97 dmg, 339 explosive / 212 dmg, 102 fire
+text = 'Unlock 3rd coil, increase stats, +40% critical hit: 600 shards, 3 apex clamberjaw heart, 1 luminous brainstem, 1 apex frostclaw heart, 1 slitherfang primary nerve'

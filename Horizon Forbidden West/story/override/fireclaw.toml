@@ -1,0 +1,6 @@
+title = "Fireclaw"
+type = 'override'
+location = 'The Base'
+
+
+begin = 'Craft Fireclaw override with two Fireclaw sac webbing and one Fireclaw primary nerve'

@@ -1,0 +1,6 @@
+title = "The Stand of the Sentinels black box"
+type = 'black-box'
+location = 'The Stand of the Sentinels'
+
+
+begin = 'Recover the black box'

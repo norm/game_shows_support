@@ -1,0 +1,10 @@
+title = "Jagged Deep"
+type = 'black-box'
+location = ''
+
+requires = [
+    'story/the-sea-of-sands',   # need rebreather
+]
+
+
+begin = 'Recover the black box'

@@ -1,0 +1,23 @@
+title = "Kue's Sharpshot Bow"
+type = 'weapon'
+location = 'Workbench'
+
+unlocks = [
+    'pouch/precision-arrow-quiver',
+]
+
+
+# 45 dmg, 56 tear
+autobegin = true
+
+[[action]]
+# 56 dmg, 64 tear
+text = 'Increase stats: 50 shards, 1 braided wire'
+
+[[action]]
+# 65 dmg, 71 tear
+text = 'Increase stats: 75 shards, 1 braided wire, 1 clawstrider circulator'
+
+[[action]]
+# 76 dmg, 80 tear
+text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 1 clawstrider razor tail, 1 small machine core'

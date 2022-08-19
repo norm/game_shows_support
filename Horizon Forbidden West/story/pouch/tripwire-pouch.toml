@@ -1,0 +1,19 @@
+title = "Tripwire Pouch"
+type = 'pouch'
+location = 'Workbench'
+
+
+autobegin = true
+
+[[action]]
+text = 'Increase carry capacity: 25 shards, 1 jay wishbone'
+
+[[action]]
+text = 'Increase carry capacity: 50 shards, 3 rabbit hide'
+after = ['story/the-eye-of-the-earth']  # not found in the daunt or plainsong
+
+[[action]]
+text = 'Increase carry capacity: 100 shards, 1 bighorn sheep bone, 3 owl feather'
+
+[[action]]
+text = 'Increase carry capacity: 200 shards, 1 crab shell, 1 iridescent lobster shell, 1 gull wishbone'

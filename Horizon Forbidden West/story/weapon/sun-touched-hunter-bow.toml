@@ -1,0 +1,24 @@
+title = 'Sun-Touched Hunter Bow'
+type = 'weapon'
+location = 'Plainsong Hunting Grounds'
+
+
+# 28 dmg, 55 tear / 9 dmg, 55 fire / --
+begin = 'Purchase Sun-Touched Hunter Bow (945 shards, tracker burrower circulator)'
+
+[[action]]
+# 33 dmg, 63 tear / 10 dmg, 60 fire / --
+text = 'Crit +15%, increase stats: 75 shards, 2 braided wire, 2 small machine core'
+location = 'Workbench'
+
+[[action]]
+# 36 dmg, 71 tear / 12 dmg, 65 fire / --
+text = 'Overdraw +15%, increase stats: 112 shards, 1 bellowback sac webbing, 2 braided wire, 2 lancehorn drill horn'
+
+[[action]]
+# 41 dmg, 80 tear / 13 dmg, 71 fire / 51 dmg, 116 tear
+text = 'Advanced arrows, increase stats: 150 shards, 1 bellowback circulator, 3 braided wire, 2 medium machine core'
+
+[[action]]
+# 41 dmg, 80 tear / 15 dmg, 85 fire / 61 dmg, 148 tear
+text = 'Crit +40%, crit chance +15% chance, coil unlocked, increase stats: 250 shards, 1 bellowback primary nerve, 6 braided wire, 3 medium machine core, 2 rollerback hammer tail'

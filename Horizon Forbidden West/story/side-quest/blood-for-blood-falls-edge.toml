@@ -1,0 +1,21 @@
+title = "Blood for Blood (Fall's Edge)"
+type = 'side-quest'
+start = "Fall's Edge"
+end = 'Somewhere'
+
+
+begin = 'Speak to Dekka'
+
+[[action]]
+text = 'Explore the area, speak to Kavvoh'
+
+[[action]]
+text = 'Kill the rebels and their Behemoth'
+
+[[action]]
+text = "Speak to Arokkeh, return to Fall's Edge and speak with Dekka again"
+
+[[post_action]]
+text = 'Can sell the Perimeter Tripcaster'
+location = 'Hunter'
+

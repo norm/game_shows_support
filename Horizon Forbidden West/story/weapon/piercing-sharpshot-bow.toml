@@ -1,0 +1,22 @@
+title = "Piercing Sharpshot Bow"
+type = 'weapon'
+location = 'Workbench'
+
+# one coil, +15% multiple enemy, 75 dmg, 55 tear / 89 piercing dmg
+autobegin = true
+
+[[action]]
+# 86 dmg, 60 tear / 103 piercing dmg
+text = 'Increase stats, +15% knockdown: 75 shards, 2 braided wire, 2 small machine core'
+
+[[action]]
+# 96 dmg, 65 tear / 115 piercing dmg
+text = 'Increase stats, +25% overdraw: 112 shards, 2 braided wire, 1 spikesnout sac webbing, 2 lancehorn drill horn'
+
+[[action]]
+# 107 dmg, 71 tear / 128 piercing dmg
+text = 'Increase stats, +40% multiple enemy: 150 shards, 3 braided wire, 2 medium machine core, 1 spikesnout circulator'
+
+[[action]]
+# 121 dmg, 85 tear / 145 piercing dmg
+text = 'Unlock 2nd coil, increase stats, +40% knockdown: 250 shards, 6 braided wire, 3 medium machine core, 1 spikesnout primary nerve, 2 rollerback hammer tail'

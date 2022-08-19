@@ -1,0 +1,6 @@
+title = "Stalker"
+type = 'override'
+location = 'The Base'
+
+
+begin = 'Craft Stalker override with three Stalker stealth generators and one Stalker primary nerve'

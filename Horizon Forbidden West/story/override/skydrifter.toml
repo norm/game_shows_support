@@ -1,0 +1,6 @@
+title = "Skydrifter"
+type = 'override'
+location = 'The Base'
+
+
+begin = 'Craft Skydrifter override with two Skydrifter razor tail and one Skydrifter primary nerve'

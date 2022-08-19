@@ -1,0 +1,23 @@
+title = "The Raintrace"
+type = 'salvage'
+location = 'The Raintrace'
+
+unlocks = [
+    'salvage/mine-launchers',
+    'salvage/colleague-and-key',
+]
+
+
+begin = 'Defend the salvagers from the Stalkers (getting 3 mine launchers will complete one of the contracts immediately)'
+
+[[post_action]]
+text = 'Return to Danur to complete the salvage'
+requires = [
+    'salvage/mine-launchers',
+    'salvage/colleague-and-key',
+    'salvage/underwater-salvage',
+    'salvage/reinforced-components',
+]
+unlocks = [
+    'weapon/vindicator-spike-thrower',
+]

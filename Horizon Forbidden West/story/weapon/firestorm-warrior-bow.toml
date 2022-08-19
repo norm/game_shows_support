@@ -1,0 +1,26 @@
+title = 'Firestorm Warrior Bow'
+type = 'weapon'
+location = 'Workbench'
+
+# crit +15% / 11 dmg, 29 fire / 11 dmg, 29 acid / 11 dmg, 30 shock
+autobegin = true
+
+[[action]]
+# 12 dmg, 30 fire / 12 dmg, 31 acid / 12 dmg, 31 shock
+text = 'Increase stats: 127 shards, 4 braided wire, 1 medium machine core, 4 small machine core'
+
+[[action]]
+# 13 dmg, 32 fire / 14 dmg, 32 acid / 14 dmg, 33 shock
+text = 'Melee followup +15%, increase stats: 212 shards, 1 bellowback sac webbing, 6 braided wire, 2 shellwalker lightning gun'
+
+[[action]]
+# 15 dmg, 34 fire / 15 dmg, 35 acid / 16 dmg, 36 shock
+text = 'Second coil, increase stats: 300 shards, 1 bellowback circulator, 10 braided wire, 1 large machine core, 3 stalker stealth generator'
+
+[[action]]
+# 17 dmg, 36 fire / 17 dmg, 37 acid / 18 dmg, 38 shock
+text = 'Crit +40%, increase stats: 450 shards, 2 large machine core, 2 rollerback hammer tail, 1 shellwalker primary nerve, 1 stalker circulator'
+
+[[action]]
+# 20 dmg, 39 fire / 20 dmg, 40 acid / 21 dmg, 41 shock
+text = 'Melee followup +40%, third coil, increase stats: 600 shards, 1 apex behemoth heart, 2 elemental clawstrider sac webbing, 1 luminous brainstem, 1 rollerback primary nerve'

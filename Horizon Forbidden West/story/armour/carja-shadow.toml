@@ -1,0 +1,26 @@
+title = 'Carja Shadow'
+type = 'armour'
+location = 'Plainsong'
+
+# melee 22 / ranged 11 / fire 10 / frost -15 / purgewater 8
+begin = 'Buy Carja Shadow for 399 shards and 1 longleg circulator; +1 potent medicine, +1 low health defense, 1 coil'
+
+# melee 27 / ranged 17 / fire 10 / frost -10 / purgewater 12
+[[action]]
+text = 'Increase stats; 75 shards, 2 small machine core, 1 sturdy hardplate'
+
+# melee 30 / ranged 23 / fire 15 / frost -10 / purgewater 16
+[[action]]
+text = '+1 medicine capacity, +2 potent medicine, increase stats; 112 shards, 1 clawstrider razor tail, 1 longleg wing burner, 2 sturdy hardplate'
+
+# melee 35 / ranged 23 / fire 20 / frost -10 / purgewater 16
+[[action]]
+text = '+2 concentration coil, 2 coils, increase stats; 150 shards, 2 medium machine core, 4 sturdy hardplate, 1 clawstrider circulator'
+
+[[action]]
+text = 'Equip Carja Shadow with +2 concentration regen from Nora Sentinel (+1 concentration regen from Nora Anointed if not yet upgraded)'
+
+# melee 40 / ranged 26 / fire 25 / frost -5 / purgewater 25
+# +2 low health defense
+[[action]]
+text = 'Increase stats; 250 shards, 3 medium machine core, 1 snapmaw sac webbing, 8 sturdy hardplate, 1 clawstrider primary nerve'

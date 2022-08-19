@@ -1,0 +1,10 @@
+title = "The Raintrace black box"
+type = 'black-box'
+location = 'The Raintrace'
+
+requires = [
+    'story/seeds-of-the-past',      # need the vinecutter
+]
+
+
+begin = 'Recover the black box'

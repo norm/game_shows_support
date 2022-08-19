@@ -1,0 +1,22 @@
+title = 'Lightning Hunter Bow'
+type = 'weapon'
+location = 'The Rot'
+
+# 8 dmg, 51 frost / 8 dmg, 52 acid
+autobegin = true
+
+[[action]]
+# 9 dmg, 54 frost / 9 dmg, 55 acid
+text = 'Draw speed +15%, increase stats: 75 shards, 2 braided wire, 2 small machine core'
+
+[[action]]
+# 10 dmg, 58 frost / 11 dmg, 60 acid
+text = 'Increase stats: 112 shards, 2 braided wire, 1 scrapper radar, 1 skydrifter razor tail'
+
+[[action]]
+# 11 dmg, 64 frost / 12 dmg, 66 acid
+text = 'Overdraw +15%, increase stats: 150 shards, 3 braided wire, 2 medium machine core, 1 skydrifter circulator'
+
+[[action]]
+# 13 dmg, 77 frost / 13 dmg, 79 acid
+text = 'Unlock coil, draw speed +65%, increase stats: 250 shards, 1 bellowback sac webbing, 6 braided wire, 3 medium machine core, 1 skydrifter primary nerve'

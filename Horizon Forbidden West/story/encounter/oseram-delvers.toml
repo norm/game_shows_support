@@ -1,0 +1,11 @@
+title = "Oseram Delvers"
+type = 'encounter'
+location = "No Man's Land Relic Ruin"
+
+
+begin = 'Fight the Tenakth rebels attacking the Oseram'
+
+before = [
+    'cauldron/mu',
+    'salvage/convoy-ambush',
+]

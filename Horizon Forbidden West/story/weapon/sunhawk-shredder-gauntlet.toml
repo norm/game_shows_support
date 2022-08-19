@@ -1,0 +1,28 @@
+title = 'Sunhawk Shredder Gauntlet'
+type = 'weapon'
+location = 'Workbench'
+
+
+# 47 dmg, 46 acid / 22 dmg, 108 tear / --; 1 coil
+autobegin = true
+
+[[action]]
+# 51 dmg, 48 acid / 24 dmg, 113 tear / --
+text = 'Increase stats: 127 shards, 4 braided wire, 4 small machine core, 1 medium machine core'
+location = 'Workbench'
+
+[[action]]
+# 56 dmg, 51 acid / 26 dmg, 119 tear / --
+text = 'Unlock 2nd coil, increase stats: 219 shards, 6 braided wire, 2 rockbreaker mining claw, 1 stalker stealth generator'
+
+[[action]]
+# 62 dmg, 55 acid / 28 dmg, 128 tear / 76 dmg, 146 tear
+text = 'Increase stats, +10% component tear: 300 shards, 10 braided wire, 3 behemoth force loader, 1 large machine core, 1 stalker circulator'
+
+[[action]]
+# 69 dmg, 59 acid / 32 dmg, 137 tear / 85 dmg, 157 tear
+text = 'Increase stats, +25% agility: 450 shards, 2 stormbird cannon, 1 behemoth circulator, 2 large machine core, 1 rockbreaker primary nerve'
+
+[[action]]
+# 78 dmg, 63 acid / 36 dmg, 147 tear / 96 dmg, 168 tear
+text = 'Unlock 3rd coil, increase stats, +25% component tear: 600 shards, 3 apex snapmaw heart, 1 luminous brainstem, 1 apex slitherfang heart, 1 stormbird primary nerve'

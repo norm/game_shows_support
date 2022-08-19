@@ -1,0 +1,6 @@
+title = "Isle of Spires black box"
+type = 'black-box'
+location = 'Isle of Spires'
+
+
+begin = 'Recover the black box'

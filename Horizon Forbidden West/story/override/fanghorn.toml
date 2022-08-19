@@ -1,0 +1,8 @@
+title = "Fanghorn"
+type = 'override'
+location = 'The Base'
+
+# need access to The Base
+after = ['story/the-eye-of-the-earth']
+
+begin = 'Craft Fanghorn override with three Fanghorn antlers and one Fanghorn primary nerve'

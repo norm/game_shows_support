@@ -1,0 +1,6 @@
+title = "Thunderjaw"
+type = 'override'
+location = 'The Base'
+
+
+begin = 'Craft Thunderjaw override with two Thunderjaw tail and one Thunderjaw primary nerve'

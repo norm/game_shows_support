@@ -1,0 +1,6 @@
+title = "Salt Bite black box"
+type = 'black-box'
+location = 'Salt Bite'
+
+
+begin = 'Recover the black box'

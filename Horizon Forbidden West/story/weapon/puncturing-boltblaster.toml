@@ -1,0 +1,23 @@
+title = 'Puncturing Boltblaster'
+type = 'weapon'
+location = 'Workbench'
+
+
+# 16 dmg / 19 piercing dmg / 1 coil
+autobegin = true
+
+[[action]]
+# 18 dmg / 22 piercing dmg 
+text = 'Increase stats: 75 shards, 2 braided wire, 2 small machine core'
+
+[[action]]
+# 20 dmg / 24 piercing dmg 
+text = 'Overdraw +30%, increase stats: 112 shards, 2 braided wire, 1 spikesnout sac webbing, 1 stalker stealth generator'
+
+[[action]]
+# 22 dmg / 27 piercing dmg 
+text = 'Increase stats: 150 shards, 3 braided wire, 2 medium machine core, 1 stalker circulator'
+
+[[action]]
+# 25 dmg / 31 piercing dmg 
+text = 'Unlock 2nd coil, knockdown +40%, overdraw +55%, increase stats: 250 shards, 6 braided wire, 1 elemental clawstrider sac webbing, 3 medium machine core, 1 stalker primary nerve'

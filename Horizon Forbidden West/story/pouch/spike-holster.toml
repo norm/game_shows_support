@@ -1,0 +1,19 @@
+title = "Spike Holster"
+type = 'pouch'
+location = 'Workbench'
+
+
+autobegin = true
+
+[[action]]
+text = 'Increase carry capacity: 25 shards, 2 fox hide'
+
+[[action]]
+text = 'Increase carry capacity: 50 shards, 1 rabbit bone, 1 peccary hide'
+after = ['story/the-eye-of-the-earth']  # not found in the daunt or plainsong
+
+[[action]]
+text = 'Increase carry capacity: 100 shards, 3 owl feather, 1 duck wishbone'
+
+[[action]]
+text = 'Increase carry capacity: 200 shards, 1 bass bone, 2 crab shell, 1 peccary bone'

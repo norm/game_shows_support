@@ -1,8 +1,7 @@
 title = "Prototype Spike Thrower"
 type = 'weapon'
 start = 'Chainscrape'
-end = 'The Daunt'
-autobegin = true
+end = 'Workbench'
 
 unlocks = [
     'pouch/spike-holster',
@@ -11,11 +10,18 @@ unlocks = [
 # upgrade early
 before = ['story/the-embassy']
 
-[[action]]
-text = 'Increase stats: 50 shards, 1 braided wire'
+# 20 dmg, 70 explosive
+autobegin = true
 
 [[action]]
+# 22 dmg, 78 explosive
+text = 'Increase stats: 50 shards, 1 braided wire'
+location = 'Workbench'
+
+[[action]]
+# 26 dmg, 91 explosive
 text = 'Increase stats: 75 shards, 1 braided wire, 1 scrounger circulator'
 
 [[action]]
+# 30 dmg, 105 explosive
 text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 1 scrounger spark coil, 1 small machine core'

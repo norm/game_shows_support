@@ -1,0 +1,6 @@
+title = "Slitherfang"
+type = 'override'
+location = 'The Base'
+
+
+begin = 'Craft Slitherfang override with three Slitherfang earth grinders and one Slitherfang primary nerve'

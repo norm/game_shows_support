@@ -1,0 +1,6 @@
+title = "Ravager"
+type = 'override'
+location = 'The Base'
+
+
+begin = 'Craft Ravager override with one Ravager circulator and one Ravager primary nerve'

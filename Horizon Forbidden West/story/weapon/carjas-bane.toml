@@ -1,0 +1,28 @@
+title = "Carja's Bane"
+type = 'weapon'
+location = 'Workbench'
+
+
+# 34 dmg, 83 tear / 14 dmg, 42 fire / 3 coils
+autobegin = true
+
+[[action]]
+# 35 dmg, 85 tear / 14 dmg, 44 fire
+text = 'Increase stats: 600 shards, 5 dreadwing metal fang, 2 dreadwing primary nerve, 1 luminous brainstem, 2 tideripper circulator'
+location = 'Workbench'
+
+[[action]]
+# 36 dmg, 90 tear / 15 dmg, 46 fire
+text = 'Unlock 4th coil, 25% agility, +25% corroding, increase stats: 800 shards, 2 luminous brainstem, 2 stormbird primary nerve, 3 tideripper primary nerve, 2 tideripper tail fin'
+
+[[action]]
+# 38 dmg, 97 tear / 16 dmg, 50 fire
+text = '+10% knockdown, increase stats: 1000 shards, 1 apex frostclaw heart, 3 apex ravager heart, 3 luminous brainstem, 3 thunderjaw tail'
+
+[[action]]
+# 42 dmg, 103 tear / 17 dmg, 53 fire
+text = '+25% knockdown, +15% melee followup, increase stats: 1200 shards, 1 apex thunderjaw heart, 2 fireclaw sac webbing, 4 luminous brainstem, 2 thunderjaw circulator'
+
+[[action]]
+# 48 dmg, 112 tear / 20 dmg, 57 fire
+text = 'Unlock 5th coil, +40% melee followup, increase stats: 1500 shards, 2 apex fireclaw heart, 1 apex slaughterspine heart, 5 luminous brainstem, 2 slaughterspine circulator'

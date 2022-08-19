@@ -1,0 +1,16 @@
+title = "Food Pouch"
+type = 'pouch'
+location = 'Workbench'
+
+
+autobegin = true
+
+[[action]]
+text = 'Increase carry capacity: 25 shards, 1 fox hide'
+
+[[action]]
+text = 'Increase carry capacity: 50 shards, 1 peccary bone, 1 prairie dog hide'
+after = ['story/the-eye-of-the-earth']  # not found in the daunt or plainsong
+
+[[action]]
+text = 'Increase carry capacity: 100 shards, 2 duck feather, 1 salmon bone'

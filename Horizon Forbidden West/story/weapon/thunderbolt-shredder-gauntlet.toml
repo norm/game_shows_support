@@ -1,0 +1,28 @@
+title = 'Thunderbolt Shredder Gauntlet'
+type = 'weapon'
+location = 'Workbench'
+
+
+# 46 dmg, 44 shock / 46 dmg, 98 tear / -- / 1 coil
+autobegin = true
+
+[[action]]
+# 50 dmg, 46 shock / 50 dmg, 102 tear / --
+text = 'Increase stats: 127 shards, 4 braided wire, 4 small machine core, 1 medium machine core'
+location = 'Workbench'
+
+[[action]]
+# 55 dmg, 48 shock / 55 dmg, 107 tear / --
+text = 'Unlock 2nd coil, increase stats: 219 shards, 6 braided wire, 2 slitherfang earthgrinder, 1 behemoth force loader'
+
+[[action]]
+# 60 dmg, 52 shock / 60 dmg, 116 tear / 74 dmg, 143 tear
+text = 'Increase stats, +15% knockdown: 300 shards, 10 braided wire, 2 frostclaw sac webbing, 1 large machine core, 1 slitherfang circulator'
+
+[[action]]
+# 67 dmg, 56 shock / 67 dmg, 124 tear / 82 dmg, 153 tear
+text = 'Increase stats, +40% long range: 450 shards, 3 scorcher scanning ear, 1 frostclaw circulator, 2 large machine core, 1 behemoth primary nerve'
+
+[[action]]
+# 76 dmg, 60 shock / 76 dmg, 133 tear / 94 dmg, 164 tear
+text = 'Unlock 3rd coil, increase stats, +40% knockdown: 600 shards, 8 tremortusk tusk, 1 luminous brainstem, 1 apex thunderjaw heart, 1 scorcher primary nerve'

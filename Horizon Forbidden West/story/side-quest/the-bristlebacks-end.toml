@@ -3,27 +3,6 @@ type = 'side-quest'
 start = 'Deadfalls'
 end = 'Chainscrape'
 
-# TRIGGERS: for when a thread automatically leads into another
-# triggers = 'something'
-
-# unlocks = [
-#     'weapons/strongarm-hunter-bow',
-# ]
-
-# FINISH_BEFORE: for when a thread may no longer available after a 
-# part of the story (eg leaving a location you cannot return to)
-# finish_before = [
-#     'something',
-# ]
-
-# BEFORE/AFTER: for scheduling based on narrative decisions, preferring to
-# tell things in a certain order
-# before = [
-#     'something',
-# ]
-# after = [
-#     'something',
-# ]
 
 begin = 'Sneak into the Deadfalls rebel outpost, kill everyone'
 
@@ -37,3 +16,7 @@ location = 'Chainscrape'
 [[post_action]]
 text = "Speak to Javad (in Ulvund's old building) and scan datapoint"
 location = 'Chainscrape'
+
+[[post_action]]
+location = 'Merchant'
+text = 'Can sell the Strongarm Hunter Bow'

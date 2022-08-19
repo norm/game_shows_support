@@ -1,0 +1,28 @@
+title = 'Skystrike Boltblaster'
+type = 'weapon'
+location = 'Workbench'
+
+
+# 16 dmg, 17 frost / 23 dmg / 19 dmg, 17 explosive / 1 coil
+autobegin = true
+
+[[action]]
+# 18 dmg, 18 frost / 25 dmg / 21 dmg, 19 explosive
+text = '+15% overdraw, increase stats: 127 shards, 4 braided wire, 4 small machine core, 1 greenshine sliver'
+location = 'Workbench'
+
+[[action]]
+# 19 dmg, 19 frost / 28 dmg / 23 dmg, 21 explosive
+text = 'Unlock 2nd coil, increase stats: 212 shards, 6 braided wire, 1 greenshine cluster, 1 greenshine fragment'
+
+[[action]]
+# 21 dmg, 20 frost / 31 dmg / 25 dmg, 23 explosive
+text = 'Increase stats, +10% shocked damage: 300 shards, 8 braided wire, 1 greenshine chunk, 2 greenshine cluster, 1 large machine core'
+
+[[action]]
+# 24 dmg, 22 frost / 34 dmg / 28 dmg, 25 explosive
+text = 'Increase stats, +40% aerial enemy: 450 shards, 8 braided wire, 2 greenshine chunk, 2 greenshine slab, 2 large machine core'
+
+[[action]]
+# 27 dmg, 23 frost / 39 dmg / 32 dmg, 29 explosive
+text = 'Unlock 3rd coil, increase stats, +25% shocked damage: 600 shards, 8 braided wire, 3 greenshine chunk, 3 greenshine slab, 1 luminous brainstem'

@@ -1,0 +1,16 @@
+title = "Potion Pouch"
+type = 'pouch'
+location = 'Workbench'
+
+
+autobegin = true
+
+[[action]]
+text = 'Increase carry capacity: 25 shards, 2 squirrel hide'
+
+[[action]]
+text = 'Increase carry capacity: 50 shards, 1 prairie dog bone, 1 rabbit hide'
+after = ['story/the-eye-of-the-earth']  # not found in the daunt or plainsong
+
+[[action]]
+text = 'Increase carry capacity: 100 shards, 2 carp skin, 1 bighorn sheep bone'

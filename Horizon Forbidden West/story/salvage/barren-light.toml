@@ -1,0 +1,10 @@
+title = "Barren Light Salvager"
+type = 'salvage'
+location = 'Barren Light'
+
+unlocks = [
+    'salvage/convoy-ambush',
+]
+
+
+begin = 'Speak to Larend to get the first salvage contract'

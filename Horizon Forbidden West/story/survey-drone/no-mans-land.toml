@@ -1,0 +1,6 @@
+title = "No Mans Land survey drone"
+type = 'survey-drone'
+location = "No Man's Land"
+
+
+begin = 'Capture the survey drone'

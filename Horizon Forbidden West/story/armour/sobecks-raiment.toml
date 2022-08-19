@@ -1,0 +1,30 @@
+title = "Sobeck's Raiment"
+type = 'armour'
+location = "Thebes"
+
+# 17 melee / 19 ranged / 27 fire / -27 frost / 17 shock / -24 purgewater
+# +1 deep concentration, +1 stamina regen, +2 valor surge master, 1 coil
+autobegin = true
+
+# 17 melee / 19 ranged / 27 fire / -27 frost / 17 shock / -24 purgewater
+[[action]]
+text = 'Increase stats; 127 shards, 1 medium machine core, 4 sturdy hardplate, 4 small machine core'
+
+# 17 melee / 19 ranged / 27 fire / -27 frost / 17 shock / -24 purgewater
+[[action]]
+text = '+1 lasting override, +2 deep concentration, increase stats; 212 shards, 1 clamberjaw tail duster, 1 thunderjaw tail, 6 sturdy hardplate'
+
+# 17 melee / 19 ranged / 27 fire / -27 frost / 17 shock / -24 purgewater
+[[action]]
+text = '+2 low health regen (coil), 2 coils, increase stats; 300 shards, 1 large machine core, 1 stormbird cannon, 10 sturdy hardplate, 1 thunderjaw circulator'
+
+[[action]]
+text = "Equip Sobeck's Raiment, add +2 concentration from Carja Shadow, and +2 concentration regen from Nora Sentinel (or +2 silent strike from Utaru Whisperer if no extra buff)"
+
+# 17 melee / 19 ranged / 27 fire / -27 frost / 17 shock / -24 purgewater
+[[action]]
+text = '+1 weapon stamina+, +2 stamina regen, increase stats; 450 shards, 1 clamberjaw primary nerve, 2 frostclaw sac webbing, 2 large machine core, 1 stormbird circulator'
+
+# 17 melee / 19 ranged / 27 fire / -27 frost / 17 shock / -24 purgewater
+[[action]]
+text = '+2 lasting override, +2 weapon stamina+, increase stats; 600 shards, 1 apex slitherfang heart, 1 frostclaw primary nerve, 1 luminous brainstem, 2 tideripper tail fin'

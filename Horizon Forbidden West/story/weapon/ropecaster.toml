@@ -1,22 +1,27 @@
 title = "Ropecaster"
 type = 'weapon'
 start = 'The Daunt Hunting Ground'
-end = 'The Daunt Hunting Ground'
+end = 'Workbench'
 
 unlocks = [
     'pouch/rope-pouch',
 ]
 
-# upgrade early
-before = ['story/the-embassy']
+# # upgrade early
+# before = ['story/the-embassy']
 
+# 50 anchor
 begin = 'Buy from Thurlis for 149 shards'
 
 [[action]]
+# 56 anchor
 text = 'Increase stats: 50 shards, 1 braided wire'
+location = 'Workbench'
 
 [[action]]
+# 63 anchor
 text = 'Increase stats: 75 shards, 1 braided wire, 1 scrapper circulator'
 
 [[action]]
+# 75 anchor
 text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 1 scrapper radar, 1 small machine core'

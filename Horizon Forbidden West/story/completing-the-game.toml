@@ -1,0 +1,61 @@
+title = 'Completing the Game'
+type = 'border'
+start = 'Anywhere'
+end = 'Everywhere'
+
+begin = 'COMPLETING THE GAME'
+
+finish_before = [
+    # tedious missions
+    'errand/learning-machine-strike',
+    'errand/signals-of-the-sun',
+    'errand/broken-locks',
+    'side-quest/drowned-hopes',
+
+    # awkward to fit in the narrative flow (bounce around the map too much)
+    'errand/in-bloom',
+
+    # distractions from the final push (ie. once you have the Sunwing,
+    # don't do other things, just run to the end)
+    'side-quest/the-way-home',
+    'errand/first-to-fly',
+    'errand/shining-example',
+    'errand/tides-of-justice',
+
+    # relic ruins are not required
+    'relic-ruin/dry-yearn',
+    'relic-ruin/isle-of-spires',
+    'relic-ruin/no-mans-land',
+    'relic-ruin/restless-weald',
+    'relic-ruin/runners-wild',
+    'relic-ruin/the-daunt',
+    'relic-ruin/the-long-coast',
+    'relic-ruin/the-stillsands',
+
+    # vista points are lore not story
+    'vista-point/dunehollow',
+    'vista-point/isle-of-spires',
+    'vista-point/plainsong',
+    'vista-point/scalding-spear',
+    'vista-point/shrouded-heights',
+    'vista-point/the-daunt',
+    'vista-point/the-long-coast',
+    'vista-point/the-memorial-grove',
+    'vista-point/the-stillsands',
+
+    # black boxes are boring
+    'black-box/jagged-deep',
+    'black-box/the-whitewatch-peaks',
+
+    # survey drones are boring
+    'survey-drone/dry-yearn',
+    'survey-drone/isle-of-spires',
+    'survey-drone/no-mans-land',
+    'survey-drone/plainsong',
+    'survey-drone/sheerside-mountains',
+    'survey-drone/the-graypeak',
+    'survey-drone/the-greenswell',
+    'survey-drone/the-stand-of-the-sentinels',
+    'survey-drone/the-stillsands',
+    'survey-drone/thornmarsh',
+]

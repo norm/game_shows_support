@@ -1,52 +1,34 @@
 title = "The Kulrut"
-
-# RESERVED TYPES:
-# * border (present a large visual banner in summary)
-# * marker (present a small visual separator in summary, good for chapters)
-# * story (the main storyline, mandatory threads)
-# * location (something that only happens *at* a location but at any time)
 type = 'story'
+location = 'Memorial Grove'
 
-# LOCATIONS: helpful in open world games when placing threads in a narrative
-# to know where you are on the map
-start = 'Somewhere'
-end = 'Somewhere'
+unlocks = [
+    'story/cradle-of-echoes',
 
-# TRIGGERS: for when a thread automatically leads into another
-# triggers = 'something'
+    'side-quest/the-valley-of-the-fallen',
+    'side-quest/blood-for-blood',
+    'errand/in-bloom',
+    'errand/opening-the-arena',
+]
 
-# UNLOCKS: describes what threads become available after completing this
-# unlocks = [
-#     'something',
-# ]
+after = [
+    'weapon/icefire-blastsling',    # upgrade this for the Slitherfang
+]
 
-# FINISH_BEFORE: for when a thread may no longer available after a 
-# part of the story (eg leaving a location you cannot return to)
-# finish_before = [
-#     'something',
-# ]
 
-# BEFORE/AFTER: for scheduling based on narrative decisions, preferring to
-# tell things in a certain order
-# before = [
-#     'something',
-# ]
-# after = [
-#     'something',
-# ]
+begin = 'Talk to Hekarro and Tekotteh'
 
-# REQUIRED: text to describe how to trigger the thread, or autobegin
-# (unless 'marker' or 'location' thread type)
-begin = 'Do something'
-# autobegin = true
+[[action]]
+text = 'Follow Dekka, battle machines'
 
-# [[action]]
-# text = 'Do more stuff'
-# location = 'Somewhere else'
+[[action]]
+text = 'Kill the Slitherfang, luring it away from the ballista so it can fire'
 
-# [[post_action]]
-# text = 'Do some stuff later'
-# location = 'Somewhere else'
-# finish_before = []
-# before = []
-# after = []
+[[action]]
+text = 'Kill the rebel forces, drive Regalla away'
+
+[[action]]
+text = 'Get Aether, rewatch the holograms, talk to Dukkah and Kalla and unlock the arena'
+
+[[action]]
+text = 'Return Aether to The Base'

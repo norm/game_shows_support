@@ -3,6 +3,7 @@ type = 'errand'
 start = 'Barren Light'
 end = 'Barren Light'
 
+
 begin = 'Come across Maleev north of Barren Light'
 
 [[action]]
@@ -15,4 +16,4 @@ text = 'Gather the Lens of Evening from the signal tower above'
 text = 'Return the lens to Raynah in Barren Light'
 
 [[post_action]]
-text = 'Gather the other lenses'
+text = 'Gather the other lenses and return them to Raynah'

@@ -5,7 +5,9 @@ end = 'Chainscrape'
 
 unlocks = [
     'weapon/prototype-spike-thrower',
+    'side-quest/boom-or-bust',
 ]
+
 
 begin = 'Talk to Delah'
 

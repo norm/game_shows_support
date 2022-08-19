@@ -1,0 +1,6 @@
+title = "Bleeding Mark black box"
+type = 'black-box'
+location = 'Bleeding Mark'
+
+
+begin = 'Recover the black box'

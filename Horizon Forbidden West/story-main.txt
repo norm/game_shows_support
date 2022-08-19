@@ -1,0 +1,232 @@
+
+=============================== END OF ABANDONED ===============================
+
+
+============================ RECORDING STARTS HERE =============================
+
+
+================================== REMINDERS ===================================
+
+
+================================== COMPLETED ===================================
+
+* {Far Zenith} Explore Far Zenith launch facility [Reach For The Stars]
+* {Far Zenith} Find Zero Dawn Trade Agreement datapoint on table [Reach For The
+  Stars]
+* {Far Zenith} Use Slitherfang coil blasters (on the ground, to the left, once
+  fire goes out) [Reach For The Stars]
+* {Meridian} Examine Hades sphere [The Point of the Lance]
+* {Meridian} Talk to Avad, learn about Fashav [The Point of the Lance]
+* {Meridian} Talk to everyone else [The Point of the Lance]
+* {The Lift} Take the lift down to The Daunt [To The Brink]
+* {The Lift} Talk to Studious Vuadis [To The Brink]
+* {The Lift} On way to Chainscrape, make sure to find datapoint by burrower site
+  [To The Brink]
+* {Chainscrape} Upgrade bow with acid arrows [To The Brink]
+* {Ruin} Talk to Thurlis, learn location of Erend [To The Brink (rescue Erend)]
+* {Abandoned Camp} Rescue Erend [To The Brink (rescue Erend)]
+* {Redhew Quarry} Dispatch Bristlebacks [To The Brink (rescue Erend)]
+* {Redhew Quarry} Talk to Belna [To The Brink (rescue Erend)]
+  Go to Chainscrape for To The Brink (complete)
+* {Chainscrape} Talk to Studious Vuadis [To The Brink (complete)]
+  Go to Chainscrape for To The Brink (complete)
+* {Chainscrape} Talk to Ulvund, unlock the settlement [To The Brink (complete)]
+  Go to Chainscrape for To The Brink (complete)
+* {Chainscrape} Talk to Studious Vuadis again [To The Brink (complete)]
+  Go to Barren Light for The Embassy
+* {Barren Light} Speak to Erend [The Embassy]
+  Go to Barren Light for The Embassy
+* {Barren Light} Speak to Lawan, get introduced to Nozar [The Embassy]
+  Go to Barren Light for The Embassy
+* {Barren Light} Follow Varl to the Embassy, exhaust Fashav diaglogue [The
+  Embassy]
+  Go to Barren Light for The Embassy
+* {Barren Light} Regalla attacks, take out four riders to trigger cutscene [The
+  Embassy]
+  Go to Barren Light for The Embassy
+* {Barren Light} Take out four more riders to trigger cutscene [The Embassy]
+  Go to Barren Light for The Embassy
+* {Barren Light} Break Grudda's shield, then kill him [The Embassy]
+* {Barren Light} Speak to Lawan [The Embassy]
+
+==== OPENED THE GATE TO THE FORBIDDEN WEST ====
+
+  Go to Sylens' Workshop for Death's Door
+* {Sylens' Workshop} Approach the Metal Devil, look around, activate the
+  console, scan datapoints [Death's Door]
+  Go to Sylens' Workshop for Death's Door
+* {Sylens' Workshop} Follow the trail, ensure you get/already have a Scrapper
+  circulator, keep an eye out for foxes for pouch upgrade materials [Death's
+  Door]
+  Go to Sylens' Workshop for Death's Door
+* {Sylens' Workshop} Buy the Frost Hunter Bow from the Hunter on the way
+  [Death's Door]
+  Go to Sylens' Workshop for Death's Door
+* {Sylens' Workshop} Talk to Hades, then Sylens to get the igniter recipe
+  [Death's Door]
+  Go to Sylens' Workshop for Death's Door
+* {Sylens' Workshop} Kill leaplashers, craft igniter and upgrade anything that
+  can be [Death's Door]
+  Go to Sylens' Workshop for Death's Door
+* {Sylens' Workshop} Use igniter, work your way inside, get Gaia [Death's Door]
+* {Sylens' Workshop} Avoid Erik as much as possible once proving his shield is
+  impervious [Death's Door]
+* {Sylens' Workshop} Escape Latopolis [Death's Door]
+* {Stone's Echo} Remove the Plowhorn's damaged part, convince Varl to follow Zo
+  [The Dying Lands]
+  Go to Plainsong for The Dying Lands
+* {Plainsong} Talk to Varl and Zo at the entrance to Plainsong [The Dying Lands]
+  Go to Plainsong for The Dying Lands
+* {Plainsong} Talk to Zo, and then the Chorus [The Dying Lands]
+  Go to Plainsong for The Dying Lands
+* {Plainsong} Help the Utaru as you follow the Sacred Trail [The Dying Lands]
+  Go to Plainsong for The Dying Lands
+* {Plainsong} Look for the Ravager Cannon when get to the part where you have to
+  kill machines [The Dying Lands]
+  Go to Plainsong for The Dying Lands
+* {Plainsong} Inside the cave, make sure to look the chest with the Utaru
+  Whisperer armour [The Dying Lands]
+  Go to Plainsong for The Dying Lands
+* {Plainsong} Work through the Repair Bay, fight the Grimhorn, override the core
+  [The Dying Lands]
+* {Repair Bay Tau} Figure out the way in, insert Gaia kernel into the console
+  [The Eye of the Earth]
+* {Repair Bay Tau} Explore the base, use the Fabrication Terminal to finish any
+  corrupted overrides [The Eye of the Earth]
+* {Repair Bay Tau} Exit the base and speak to Rukka to get the rumour about of
+  The Hive [The Eye of the Earth]
+  Go to The Base for Restored Gaia
+
+==== RESTORED GAIA ====
+
+--- 3 equal options:
+      ['story/the-broken-sky', 'story/seeds-of-the-past', 'story/the-sea-of-sands']
+      Go to Memorial Grove for The Broken Sky
+    * {Memorial Grove} Tour the Memorial Grove with Dekka, then speak to Hekarro
+      [The Broken Sky]
+      Go to The Greenhouse for Seeds of the Past
+    * {The Greenhouse} Approach the Greenhouse, kill the Quen marines [Seeds of
+      the Past]
+      Go to The Stillsands for The Sea of Sands
+    * {The Stillsands} Talk to the Oseram, dive to get the mask [The Sea of
+      Sands]
+--- 2 equal options:
+      ['story/seeds-of-the-past_0', 'story/the-sea-of-sands_0']
+      Go to The Greenhouse for Seeds of the Past
+    * {The Greenhouse} Explore the Greenhouse, meet Alva [Seeds of the Past]
+      Go to The Stillsands for The Sea of Sands
+    * {The Stillsands} Fetch the parts from the machine herd [The Sea of Sands]
+--- 2 equal options:
+      ['story/seeds-of-the-past_1', 'story/the-sea-of-sands_1']
+      Go to The Greenhouse for Seeds of the Past
+    * {The Greenhouse} Continue exploring the Greenhouse, kill the Dreadwing,
+      equip the Vine Cutter, get Demeter [Seeds of the Past]
+      Go to The Stillsands for The Sea of Sands
+    * {The Stillsands} Explore the underwater area, and drain it [The Sea of
+      Sands]
+--- 2 equal options:
+      ['story/seeds-of-the-past_2', 'story/the-sea-of-sands_2']
+      Go to The Greenhouse for Seeds of the Past
+    * {The Greenhouse} Return Demeter to the Base [Seeds of the Past]
+      Go to The Stillsands for The Sea of Sands
+    * {The Stillsands} Kill the Tideripper [The Sea of Sands]
+--- 2 equal options:
+      ['story/the-broken-sky-bulwark', 'story/the-sea-of-sands_3']
+      Go to Stone Crest for The Broken Sky (at the Bulwark)
+    * {Stone Crest} Meet Kotallo, proceed to the Bulkwark killing the rebels
+      [The Broken Sky (at the Bulwark)]
+      Go to The Stillsands for The Sea of Sands
+    * {The Stillsands} Retrieve Poseidon [The Sea of Sands]
+--- 2 equal options:
+      ['story/the-broken-sky-bulwark_0', 'story/the-sea-of-sands_4']
+      Go to Stone Crest for The Broken Sky (at the Bulwark)
+    * {Stone Crest} Speak to Tekkoteh, buy stuff, head back out, look at the
+      rockface [The Broken Sky (at the Bulwark)]
+      Go to The Stillsands for The Sea of Sands
+    * {The Stillsands} Return Poseidon to the Base [The Sea of Sands]
+  Go to Stone Crest for The Broken Sky (at the Bulwark)
+* {Stone Crest} Go with Kotallo, take out the Tremortusk, blow up the Bulwark
+  [The Broken Sky (at the Bulwark)]
+  Go to Memorial Grove for The Kulrut
+* {Memorial Grove} Talk to Hekarro and Tekotteh [The Kulrut]
+  Go to Memorial Grove for The Kulrut
+* {Memorial Grove} Follow Dekka, battle machines [The Kulrut]
+  Go to Memorial Grove for The Kulrut
+* {Memorial Grove} Kill the Slitherfang, luring it away from the ballista so it
+  can fire [The Kulrut]
+  Go to Memorial Grove for The Kulrut
+* {Memorial Grove} Kill the rebel forces, drive Regalla away [The Kulrut]
+  Go to Memorial Grove for The Kulrut
+* {Memorial Grove} Get Aether, rewatch the holograms, talk to Dukkah and Kalla
+  and unlock the arena [The Kulrut]
+  Go to Memorial Grove for The Kulrut
+* {Memorial Grove} Return Aether to The Base [The Kulrut]
+  Go to The Base for Cradle of Echoes
+* {The Base} Watch the fight, then explore the area [Cradle of Echoes]
+  Go to The Base for Cradle of Echoes
+* {The Base} Go into the research lab, get Beta out of the capsule [Cradle of
+  Echoes]
+  Go to The Base for Cradle of Echoes
+* {The Base} Defeat the Specter in the lab [Cradle of Echoes]
+  Go to The Base for Cradle of Echoes
+* {The Base} Defeat the Specter outside (get the cannon from the dead Ravager)
+  [Cradle of Echoes]
+  Go to The Base for Cradle of Echoes
+* {The Base} Talk to Beta [Cradle of Echoes]
+  Go to The Base for Completed subfunctions
+
+==== COMPLETED ALL THREE SUB-FUNCTIONS ====
+
+  Go to The Base for Faro's Tomb
+* {The Base} After leaving the Base, Kotallo tells you to go to Fall's Edge
+  [Faro's Tomb]
+  Go to The Base for Faro's Tomb
+* {The Base} Leave Fall's Edge, travel by boat to the Isle of Spires [Faro's
+  Tomb]
+  Go to Legacy's Landfall for Faro's Tomb
+* {Legacy's Landfall} Collect the Thunderbolt Shredder Gauntlet from the
+  superior cache [Faro's Tomb]
+  Go to Legacy's Landfall for Faro's Tomb (Thebes)
+* {Legacy's Landfall} Get to Legacy's Landfall [Faro's Tomb (Thebes)]
+  Go to Legacy's Landfall for Faro's Tomb (Thebes)
+* {Legacy's Landfall} Talk to Ceo, then go to Thebes [Faro's Tomb (Thebes)]
+  Go to Legacy's Landfall for Faro's Tomb (Thebes)
+* {Legacy's Landfall} Kill the Apex Thunderjaw [Faro's Tomb (Thebes)]
+  Go to Legacy's Landfall for Faro's Tomb (Thebes)
+* {Legacy's Landfall} Enter Thebes, kill the Corruptors [Faro's Tomb (Thebes)]
+  Go to Legacy's Landfall for Faro's Tomb (Thebes)
+* {Legacy's Landfall} Learn of Ted Faro's fate [Faro's Tomb (Thebes)]
+  Go to Legacy's Landfall for Faro's Tomb (Thebes)
+* {Legacy's Landfall} Kill the Quen, escape [Faro's Tomb (Thebes)]
+  Go to The Base for Gemini
+* {The Base} Talk to Beta, then Gaia [Gemini]
+  Go to Gemini for Gemini
+* {Gemini} Kill the Behemoth and Ravager [Gemini]
+  Go to Gemini for Gemini
+* {Gemini} Proceed through the cauldron, killing the other machines [Gemini]
+  Go to Gemini for Gemini
+* {Gemini} Kill the slaughterspine at the core, return to Varl and Beta [Gemini]
+  Go to Tilda's Mansion for All That Remains
+* {Tilda's Mansion} Explore the mansion and listen to Tilda [All That Remains]
+  Go to The Base for The Wings of The Ten
+* {The Base} Enter the Base, talk to companions about Tilda [The Wings of The
+  Ten]
+  Go to The Base for The Wings of The Ten
+* {The Base} Talk to Zo outside the east exit [The Wings of The Ten]
+  Go to The Base for The Wings of The Ten
+* {The Base} Craft Sunwing override, climb the mountain, get a Sunwing [The
+  Wings of The Ten]
+  Go to The Base for The Wings of The Ten
+* {The Base} Override the Tallneck, get a bomb, drop the bomb [The Wings of The
+  Ten]
+* {The Base} Duff up Regalla, then spare her life [The Wings of The Ten]
+  Go to The Base for Singularity
+* {The Base} Talk to Sylens and Tilda, then exit the base and go to the beach
+  [Singularity]
+* {The Base} Infiltrate the base, killing Specters along the way [Singularity]
+* {The Base} Kill Erik [Singularity]
+* {The Base} Kill Tilda [Singularity]
+* {The Base} Talk to everyone one last time, then go sit with Varl [Singularity]
+
+============================= COMPLETING THE GAME ==============================
+

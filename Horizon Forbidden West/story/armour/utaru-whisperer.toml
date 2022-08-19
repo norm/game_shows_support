@@ -1,0 +1,24 @@
+title = 'Utaru Whisperer'
+type = 'armour'
+location = 'Repair Bay Tau'
+
+# melee 10 / ranged 12 / fire 27 / frost 11 / acid -17
+begin = 'Get Utaru Whisperer: +1 silent strike gain (+valor, +weapon stamina), +1 silent strike heal, 1 coil'
+
+# melee 10 / ranged 17 / fire 32 / frost 17 / acid -12
+[[action]]
+text = 'Increase stats; 75 shards, 2 small machine core, 1 sturdy hardplate'
+
+# melee 14 / ranged 22 / fire 32 / frost 23 / acid -12
+[[action]]
+text = '+1 quiet spear, +2 silent strike gain, increase stats; 112 shards, 1 clawstrider razor tail, 1 sunwing shield caster, 2 sturdy hardplate'
+
+# melee 18 / ranged 22 / fire 37 / frost 23 / acid -12
+[[action]]
+text = '+2 silent strike (coil), 2 coils, increase stats; 150 shards, 2 medium machine core, 4 sturdy hardplate, 1 sunwing circulator'
+
+# not upgrading to final level, only want the coil
+#
+# # melee 25 / ranged 27 / fire 42 / frost 26 / acid -7
+# [[action]]
+# text = '+2 silent strike heal, increase stats; 250 shards, 3 medium machine core, 2 rollerback hammer tail, 8 sturdy hardplate, 1 sunwing primary nerve'

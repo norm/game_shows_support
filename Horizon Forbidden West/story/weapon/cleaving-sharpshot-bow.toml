@@ -1,0 +1,22 @@
+title = "Cleaving Sharpshot Bow"
+type = 'weapon'
+location = 'Workbench'
+
+# one coil, +25% draw, 69 dmg, 51 tear / 7 dmg, 265 tear
+autobegin = true
+
+[[action]]
+# 76 dmg, 54 tear / 8 dmg, 281 tear
+text = 'Increase stats, +10% component tear: 75 shards, 2 braided wire, 2 small machine core'
+
+[[action]]
+# 86 dmg, 58 tear / 9 dmg, 303 tear
+text = 'Increase stats, +25% overdraw: 112 shards, 2 braided wire, 1 snapmaw sac webbing, 1 bellowback sac webbing'
+
+[[action]]
+# 96 dmg, 64 tear / 10 dmg, 334 tear
+text = 'Increase stats, +65% draw speed: 150 shards, 3 braided wire, 2 medium machine core, 1 snapmaw circulator'
+
+[[action]]
+# 109 dmg, 77 tear / 11 dmg, 400 tear
+text = 'Unlock 2nd coil, increase stats, +25% component tear: 250 shards, 3 medium machine core, 1 snapmaw primary nerve, 6 shellsnapper shell bolts'

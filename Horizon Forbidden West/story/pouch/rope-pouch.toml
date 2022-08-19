@@ -1,0 +1,19 @@
+title = "Rope Pouch"
+type = 'pouch'
+location = 'Workbench'
+
+
+autobegin = true
+
+[[action]]
+text = 'Increase carry capacity: 50 shards, 1 fox bone'
+
+[[action]]
+text = 'Increase carry capacity: 100 shards, 1 iridescent crab shell, 1 duck feather'
+after = ['story/the-eye-of-the-earth']  # not found in the daunt or plainsong
+
+[[action]]
+text = 'Increase carry capacity: 200 shards, 3 moonfish skin, 1 bighorn sheep bone'
+
+[[action]]
+text = 'Increase carry capacity: 300 shards, 1 bass bone, 2 peccary hide, 1 iridescent lobster shell'

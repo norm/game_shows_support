@@ -1,52 +1,25 @@
 title = "The Way Home"
-
-# RESERVED TYPES:
-# * border (present a large visual banner in summary)
-# * marker (present a small visual separator in summary, good for chapters)
-# * story (the main storyline, mandatory threads)
-# * location (something that only happens *at* a location but at any time)
 type = 'side-quest'
-
-# LOCATIONS: helpful in open world games when placing threads in a narrative
-# to know where you are on the map
-start = 'Somewhere'
+start = "Legacy's Landfall"
 end = 'Somewhere'
 
-# TRIGGERS: for when a thread automatically leads into another
-# triggers = 'something'
+requires = [
+    'story/the-wings-of-the-ten',   # need the sunwing to complete
+]
 
-# UNLOCKS: describes what threads become available after completing this
-# unlocks = [
-#     'something',
-# ]
 
-# FINISH_BEFORE: for when a thread may no longer available after a 
-# part of the story (eg leaving a location you cannot return to)
-# finish_before = [
-#     'something',
-# ]
+begin = 'Speak to Harriem and Kristia'
 
-# BEFORE/AFTER: for scheduling based on narrative decisions, preferring to
-# tell things in a certain order
-# before = [
-#     'something',
-# ]
-# after = [
-#     'something',
-# ]
+[[action]]
+text = 'Go to the shipwreck, find the gyrocompass, return to Harriem and Kristia'
 
-# REQUIRED: text to describe how to trigger the thread, or autobegin
-# (unless 'marker' or 'location' thread type)
-begin = 'Do something'
-# autobegin = true
+[[action]]
+text = 'Go to the ancient fleet, retrieve the broken sensor unit and batteries'
 
-# [[action]]
-# text = 'Do more stuff'
-# location = 'Somewhere else'
+[[action]]
+text = 'Go to the next location, kill the Dreadwing, collect the sensor unit'
 
-# [[post_action]]
-# text = 'Do some stuff later'
-# location = 'Somewhere else'
-# finish_before = []
-# before = []
-# after = []
+[[action]]
+text = 'Return to Harriem and Kristia'
+
+# FIXME gets the Skykiller Spike Thrower

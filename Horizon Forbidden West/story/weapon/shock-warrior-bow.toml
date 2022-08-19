@@ -1,22 +1,24 @@
 title = "Shock Warrior Bow"
 type = 'weapon'
 start = 'The Daunt Hunting Ground'
-end = 'The Daunt Hunting Ground'
+end = 'Workbench'
 
 unlocks = [
     'pouch/light-arrow-quiver',
 ]
 
-# upgrade early
-before = ['story/the-embassy']
-
+# 5 shock, 10 build
 begin = 'Talk to Izvad to get the bow for free'
 
 [[action]]
+# 6 shock, 13 build
 text = 'Increase stats: 50 shards, 1 braided wire'
+location = 'Workbench'
 
 [[action]]
+# 7 shock, 15 build
 text = 'Increase stats: 75 shards, 1 braided wire, 1 greenshine sliver'
 
 [[action]]
+# 9 shock, 19 build
 text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 1 greenshine fragment, 2 greenshine sliver'

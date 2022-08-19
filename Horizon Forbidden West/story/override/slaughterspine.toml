@@ -1,0 +1,6 @@
+title = "Slaughterspine"
+type = 'override'
+location = 'The Base'
+
+
+begin = 'Craft Slaughterspine override with two Slaughterspine circulators and one Slaughterspine primary nerve'

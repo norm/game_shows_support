@@ -1,0 +1,6 @@
+title = "The Whitewatch Peaks black box"
+type = 'black-box'
+location = 'The Whitewatch Peaks'
+
+
+begin = 'Recover the black box'

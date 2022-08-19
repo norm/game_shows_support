@@ -1,10 +1,6 @@
-title = "The Daunt"
+title = "The Daunt relic ruin"
 type = 'relic-ruin'
-start = 'The Daunt Relic Ruin'
-end = 'The Daunt Relic Ruin'
+location = 'The Daunt'
 
-after = [
-    'story/the-embassy',
-]
 
-begin = 'Get the ornament'
+begin = 'Recover the ornament'

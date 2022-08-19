@@ -1,0 +1,8 @@
+title = "Scrapper"
+type = 'override'
+location = 'The Base'
+
+# need access to The Base
+after = ['story/the-eye-of-the-earth']
+
+begin = 'Craft Scrapper override with two Scrapper radars and one Scrapper primary nerve'

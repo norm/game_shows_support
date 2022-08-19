@@ -1,0 +1,20 @@
+title = "Completed subfunctions"
+type = 'marker'
+location = 'The Base'
+
+unlocks = [
+    'story/faros-tomb',
+
+    'side-quest/the-blood-choke',
+    'side-quest/what-was-lost',
+
+    'weapon/glowblast-sharpshot-bow',
+]
+
+requires = [
+    'story/the-sea-of-sands',
+    'story/the-kulrut',
+    'story/seeds-of-the-past',
+]
+
+begin = 'COMPLETED ALL THREE SUB-FUNCTIONS'

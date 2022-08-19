@@ -1,0 +1,30 @@
+title = 'Nora Valiant'
+type = 'armour'
+location = "Lowland's Path"
+
+
+# 20 melee / 37 ranged / 21 fire / -16 frost / 21 purgewater / 23 acid / -25 plasma
+begin = 'Buy Nora Valiant for 399 shards and 1 longleg circulator; +1 concentration+, +1 weapon stamina+, +2 concentration regen, 1 coil'
+
+# 25 melee / 42 ranged / 25 fire / -11 frost / 27 purgewater / 23 acid / -21 plasma
+[[action]]
+text = 'Increase stats; 127 shards, 1 medium machine core, 4 sturdy hardplate, 4 small machine core'
+
+# 30 melee / 42 ranged / 29 fire / -11 frost / 27 purgewater / 23 acid / -21 plasma
+[[action]]
+text = '+1 stamina regen, +2 concentration+, increase stats; 212 shards, 2 clamberjaw tail duster, 3 shellsnapper shell bolt, 6 sturdy hardplate'
+
+# 30 melee / 47 ranged / 31 fire / -6 frost / 31 purgewater / 23 acid / -15 plasma
+[[action]]
+text = '+2 low health ranged (coil), 2 coils, increase stats; 300 shards, 1 large machine core, 2 scorcher scanning ear, 1 shellsnapper circulator, 10 sturdy hardplate'
+
+[[action]]
+text = 'Equip Nora Valiant, add +2 concentration from Carja Shadow, and +2 concentration regen from Nora Sentinel (or +2 silent strike from Utaru Whisperer if no extra buff)'
+
+# 35 melee / 52 ranged / 33 fire / 0 frost / 33 purgewater / 23 acid / -11 plasma
+[[action]]
+text = '+2 weapon stamina+, increase stats; 450 shards, 2 apex stalker heart, 1 clamberjaw primary nerve, 2 large machine core, 1 scorcher circulator'
+
+# 40 melee / 55 ranged / 40 fire / 5 frost / 36 purgewater / 23 acid / -5 plasma
+[[action]]
+text = '+2 stamina regen, increase stats; 600 shards, 1 apex tremortusk heart, 4 dreadwing metal fang, 1 luminous brainstem, 1 thunderjaw primary nerve'

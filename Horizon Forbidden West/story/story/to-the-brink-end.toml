@@ -12,7 +12,7 @@ unlocks = [
     'errand/a-dash-of-courage',
     'errand/signals-of-the-sun',
 
-    'weapon/explosive-blastsling',
+    # 'weapon/explosive-blastsling',
     'weapon/fire-hunter-bow',
 ]
 

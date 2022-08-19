@@ -1,0 +1,28 @@
+title = "Faro's Tomb (Thebes)"
+type = 'story'
+start = "Legacy's Landfall"
+end = "Thebes"
+
+unlocks = [
+    'story/gemini',
+
+    'armour/sobecks-raiment',
+]
+
+begin = "Get to Legacy's Landfall"
+
+[[action]]
+text = "Talk to Ceo, then go to Thebes"
+location = "Legacy's Landfall"
+
+[[action]]
+text = 'Kill the Apex Thunderjaw'
+
+[[action]]
+text = 'Enter Thebes, kill the Corruptors'
+
+[[action]]
+text = "Learn of Ted Faro's fate"
+
+[[action]]
+text = 'Kill the Quen, escape'

@@ -1,0 +1,15 @@
+title = "Boomer's Shredder Gauntlet"
+type = 'weapon'
+location = 'Workbench'
+
+unlocks = [
+    'pouch/shredder-satchel',
+]
+
+# already level 3, one slot, +25% burning, +15% range damage
+# 40 dmg, 58 tear / 52 dmg, 42 acid
+autobegin = true
+
+[[action]]
+# 46 dmg, 72 fire / 59 dmg, 50 acid
+text = 'Increase stats, second coil, +40% range damage: 250 shards, 6 braided wire, 3 medium machine core, 6 shellsnapper shell bolt, 1 snapmaw primary nerve'

@@ -1,0 +1,6 @@
+title = "Scorcher"
+type = 'override'
+location = 'The Base'
+
+
+begin = 'Craft Scorcher override with three Scorcher scanning ears and one Scorcher primary nerve'

@@ -1,0 +1,26 @@
+title = 'The Sun Scourge'
+type = 'weapon'
+location = 'Workbench'
+
+# 38 dmg, 238 acid / 37 dmg, 229 fire / 37 dmg, 229 frost
+autobegin = true
+
+[[action]]
+# 41 dmg, 253 acid / 39 dmg, 242 fire / 40 dmg, 246 frost
+text = 'Overdraw +15%, reload +10%, increase stats: 600 shards, 3 apex elemental clawstrider heart, 2 dreadwing primary nerve, 1 luminous brainstem, 2 tideripper circulator'
+
+[[action]]
+# 43 dmg, 266 acid / 41 dmg, 255 fire / 42 dmg, 260 frost
+text = 'Unlock fourth coil, agility +25%, increase stats: 800 shards, 2 luminous brainstem, 2 stormbird primary nerve, 2 tideripper primary nerve, 3 tideripper tail fin'
+
+[[action]]
+# 44 dmg, 285 acid / 42 dmg, 273 fire / 43 dmg, 279 frost
+text = 'Brittle +4%, increase stats: 1000 shards, 3 apex behemoth heart, 1 apex stormbird heart, 3 luminous brainstem, 10 tremortusk tusk'
+
+[[action]]
+# 48 dmg, 304 acid / 46 dmg, 291 fire / 47 dmg, 297 frost
+text = 'Reload +25%, aerial +15%, increase stats: 1200 shards, 1 apex tremortusk heart, 2 fireclaw sac webbing, 4 luminous brainstem, 2 tremortusk circulator'
+
+[[action]]
+# 53 dmg, 320 acid / 51 dmg, 314 fire / 52 dmg, 321 frost
+text = 'Unlock fifth coil, aerial +40%, increase stats: 600 shards, 1 apex slaughterspine heart, 2 apex tideripper heart, 5 luminous brainstem, 2 slaughterspine circulator'

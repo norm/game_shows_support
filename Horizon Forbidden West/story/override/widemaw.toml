@@ -1,0 +1,8 @@
+title = "Widemaw"
+type = 'override'
+location = 'The Base'
+
+# need access to The Base
+after = ['story/the-eye-of-the-earth']
+
+begin = 'Craft Widemaw override with two Widemaw tusks and one Widemaw primary nerve'

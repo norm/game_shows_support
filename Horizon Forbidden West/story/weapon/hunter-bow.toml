@@ -1,21 +1,26 @@
 title = 'Hunter Bow'
 type = 'weapon'
-start = 'The Daunt'
-end = 'The Daunt'
-autobegin = true
+location = 'Workbench'
 
 unlocks = [
     'pouch/hunter-arrow-quiver',
 ]
 
+
+# 15 dmg, 25 tear
+autobegin = true
+
 [[action]]
+# 18 dmg, 33 tear / 7 dmg, 30 acid
 text = 'Unlock acid arrows, increase stats: 50 shards, 1 braided wire'
 
 [[action]]
+# 21 dmg, 43 tear / 8 dmg, 36 acid
 text = 'Increase stats: 75 shards, 1 braided wire, 1 burrower circulator'
 before = ['encounter/telga-fendur'] # upgrade early
 
 [[action]]
+# 28 dmg, 60 tear / 9 dmg, 45 acid
 text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 1 burrower soundshell, 1 small machine core'
 # unlikely to get a soundshell before the previous upgrades, so do the
 # rest of To The Brink first

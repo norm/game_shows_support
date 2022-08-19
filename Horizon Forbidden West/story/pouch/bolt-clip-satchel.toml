@@ -1,0 +1,19 @@
+title = "Bolt Clip Satchel"
+type = 'pouch'
+location = 'Workbench'
+
+
+autobegin = true
+
+[[action]]
+text = 'Increase carry capacity: 50 shards, 2 peccary hide'
+after = ['story/the-eye-of-the-earth']  # not found in the daunt or plainsong
+
+[[action]]
+text = 'Increase carry capacity: 100 shards, 1 pelican wishbone, 1 peccary hide'
+
+[[action]]
+text = 'Increase carry capacity: 200 shards, 3 gull feather, 1 bighorn sheep bone'
+
+[[action]]
+text = 'Increase carry capacity: 300 shards, 1 iridescent lobster shell, 1 iridescent crab shell'

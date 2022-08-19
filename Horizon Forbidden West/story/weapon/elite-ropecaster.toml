@@ -1,0 +1,28 @@
+title = "Elite Ropecaster"
+type = 'weapon'
+start = 'Thornmarsh'
+end = 'Workbench'
+
+# 1 coil, ....
+begin = 'Purchase Glowblast Sharpshot Bow (1035 shards, thunderjaw circulator, large machine core)'
+
+[[action]]
+# 103 dmg, 80 tear / 10 dmg, 417 tear / 25 plasma, 177 buildup / 
+text = 'Increase stats, +25% overdraw: 127 shards, 4 braided wire, 4 small machine core, 1 greenshine sliver'
+location = 'Workbench'
+
+[[action]]
+# 112 dmg, 85 tear / 11 dmg, 439 tear / 27 plasma, 186 buildup / 
+text = 'Unlock 2nd coil, increase stats: 212 shards, 8 braided wire, 1 greenshine fragment, 1 greenshine cluster'
+
+[[action]]
+# 123 dmg, 91 tear / 12 dmg, 473 tear / 30 plasma, 200 buildup / 
+text = 'Increase stats, +10% component tear: 300 shards, 8 braided wire, 1 large machine core, 1 greenshine chunk, 2 greenshine cluster'
+
+[[action]]
+# 137 dmg, 98 tear / 14 dmg, 507 tear / 33 plasma, 215 buildup / 
+text = 'Increase stats, +40% high ground: 450 shards, 8 braided wire, 2 large machine core, 2 greenshine chunk, 2 greenshine slab'
+
+[[action]]
+# 156 dmg, 105 tear / 16 dmg, 543 tear / 37 plasma, 230 buildup / 
+text = 'Unlock 3rd coil, increase stats, +25% component tear: 600 shards, 8 braided wire, 1 luminous brainstem, 3 greenshine chunk, 3 greenshine slab'

@@ -3,6 +3,11 @@ type = 'errand'
 start = 'Chainscrape'
 end = 'Chainscrape'
 
+unlocks = [
+    'pouch/food-pouch',
+]
+
+
 begin = 'Talk to Milduf'
 
 [[action]]

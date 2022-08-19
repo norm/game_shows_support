@@ -1,0 +1,33 @@
+title = "The Broken Sky (at the Bulwark)"
+type = 'story'
+start = 'Stone Crest'
+end = 'The Bulwark'
+
+unlocks = [
+    'story/the-kulrut',
+
+    'side-quest/a-soldiers-march',
+    'errand/call-and-response',
+    'errand/first-to-fly',
+
+    'cauldron/iota',
+    'melee-pit/the-bulwark',
+    'hunting-ground/the-raintrace',
+    'hunting-ground/sheerside-mountains',
+
+    'weapon/icefire-blastsling',
+]
+
+after = [
+    'errand/supply-drop',
+]
+
+
+begin = 'Meet Kotallo, proceed to the Bulkwark killing the rebels'
+
+[[action]]
+text = 'Speak to Tekkoteh, buy stuff, head back out, look at the rockface'
+
+[[action]]
+text = 'Go with Kotallo, take out the Tremortusk, blow up the Bulwark'
+

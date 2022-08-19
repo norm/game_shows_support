@@ -1,0 +1,18 @@
+title = 'Whisper Hunter Bow'
+type = 'weapon'
+location = 'Workbench'
+
+# 15 dmg, 25 tear, +25% stealth damage
+autobegin = true
+
+[[action]]
+# 19 dmg, 35 tear
+text = 'Increase stats: 50 shards, 1 braided wire'
+
+[[action]]
+# 22 dmg, 45 tear
+text = 'Stealth damage to +90%, increase stats: 75 shards, 1 braided wire, 1 greenshine sliver'
+
+[[action]]
+# 29 dmg, 64 tear
+text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 1 greenshine fragment, 2 greenshine sliver'

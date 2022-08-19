@@ -1,21 +1,26 @@
 title = "Frost Blastsling"
 type = 'weapon'
-start = 'The Daunt'
-end = 'The Daunt'
-autobegin = true
+location = 'Workbench'
 
 unlocks = [
     'pouch/bomb-satchel',
 ]
 
+
+# 14 freeze, 30 build
+autobegin = true
+
 [[action]]
+# 17 freeze, 40 build
 text = 'Increase stats: 50 shards, 1 braided wire'
 before = ['encounter/telga-fendur'] # upgrade early
 
 [[action]]
+# 22 freeze, 53 build
 text = 'Increase stats: 75 shards, 1 braided wire, 1 bristleback circulator'
 after = ['story/to-the-brink-end'] # no bristleback loot before this
 
 [[action]]
+# 26 freeze, 70 build
 text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 1 bristleback tusk, 1 small machine core'
 after = ['story/to-the-brink-end'] # no bristleback loot before this

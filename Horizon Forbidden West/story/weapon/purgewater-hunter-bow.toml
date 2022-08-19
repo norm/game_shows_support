@@ -1,0 +1,23 @@
+title = 'Purgewater Hunter Bow'
+type = 'weapon'
+location = 'Scalding Spear'
+
+# 8 dmg, 52 purgewater / 9 dmg, 53 acid
+begin = 'Purchase Purgewater Hunter Bow (632 shards, lancehorn circulator)'
+
+[[action]]
+# 9 dmg, 55 purgewater / 10 dmg, 57 acid
+text = 'Melee followup +15%, increase stats: 75 shards, 2 braided wire, 2 small machine core'
+location = 'Workbench'
+
+[[action]]
+# 11 dmg, 60 purgewater / 11 dmg, 62 acid
+text = 'Increase stats: 112 shards, 2 braided wire, 1 lancehorn drill horn, 1 snapmaw sac webbing'
+
+[[action]]
+# 12 dmg, 66 purgewater / 12 dmg, 68 acid
+text = 'Overdraw +15%, increase stats: 150 shards, 3 braided wire, 2 medium machine core, 1 snapmaw circulator'
+
+[[action]]
+# 13 dmg, 79 purgewater / 14 dmg, 81 acid
+text = 'Unlock coil, melee followup +40%, increase stats: 250 shards, 6 braided wire, 3 medium machine core, 1 snapmaw primary nerve, 4 stalker stealth generator'

@@ -1,52 +1,29 @@
 title = "The Roots That Bind"
-
-# RESERVED TYPES:
-# * border (present a large visual banner in summary)
-# * marker (present a small visual separator in summary, good for chapters)
-# * story (the main storyline, mandatory threads)
-# * location (something that only happens *at* a location but at any time)
 type = 'side-quest'
+start = 'Plainsong'
+end = 'Riverhymn'
 
-# LOCATIONS: helpful in open world games when placing threads in a narrative
-# to know where you are on the map
-start = 'Somewhere'
-end = 'Somewhere'
+unlocks = [
+    'weapon/kues-sharpshot-bow',
+]
 
-# TRIGGERS: for when a thread automatically leads into another
-# triggers = 'something'
+after = [
+    'story/deaths-door',
+]
 
-# UNLOCKS: describes what threads become available after completing this
-# unlocks = [
-#     'something',
-# ]
+before = [
+    'story/the-dying-lands',
+]
 
-# FINISH_BEFORE: for when a thread may no longer available after a 
-# part of the story (eg leaving a location you cannot return to)
-# finish_before = [
-#     'something',
-# ]
 
-# BEFORE/AFTER: for scheduling based on narrative decisions, preferring to
-# tell things in a certain order
-# before = [
-#     'something',
-# ]
-# after = [
-#     'something',
-# ]
+begin = 'Talk to Nel to find out about Riverhymn'
 
-# REQUIRED: text to describe how to trigger the thread, or autobegin
-# (unless 'marker' or 'location' thread type)
-begin = 'Do something'
-# autobegin = true
+[[action]]
+text = 'Take out the rebels, then speak to Kue'
+location = 'Riverhymn'
 
-# [[action]]
-# text = 'Do more stuff'
-# location = 'Somewhere else'
+[[action]]
+text = 'Collect Metal Pods from the Drumroot'
 
-# [[post_action]]
-# text = 'Do some stuff later'
-# location = 'Somewhere else'
-# finish_before = []
-# before = []
-# after = []
+[[action]]
+text = 'Return to Kue, and talk to Nel at the flowerbed'

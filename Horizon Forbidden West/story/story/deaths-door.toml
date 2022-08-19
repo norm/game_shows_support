@@ -1,52 +1,38 @@
 title = "Death's Door"
-
-# RESERVED TYPES:
-# * border (present a large visual banner in summary)
-# * marker (present a small visual separator in summary, good for chapters)
-# * story (the main storyline, mandatory threads)
-# * location (something that only happens *at* a location but at any time)
 type = 'story'
+start = "Sylens' Workshop"
+end = "Stone's Echo"
 
-# LOCATIONS: helpful in open world games when placing threads in a narrative
-# to know where you are on the map
-start = 'Somewhere'
-end = 'Somewhere'
+unlocks = [
+    'story/the-dying-lands',
 
-# TRIGGERS: for when a thread automatically leads into another
-# triggers = 'something'
+    'side-quest/the-burning-blooms',
 
-# UNLOCKS: describes what threads become available after completing this
-# unlocks = [
-#     'something',
-# ]
+    'weapon/frost-hunter-bow',
+    'armour/carja-shadow',
+]
 
-# FINISH_BEFORE: for when a thread may no longer available after a 
-# part of the story (eg leaving a location you cannot return to)
-# finish_before = [
-#     'something',
-# ]
 
-# BEFORE/AFTER: for scheduling based on narrative decisions, preferring to
-# tell things in a certain order
-# before = [
-#     'something',
-# ]
-# after = [
-#     'something',
-# ]
+begin = 'Approach the Metal Devil, look around, activate the console, scan datapoints'
 
-# REQUIRED: text to describe how to trigger the thread, or autobegin
-# (unless 'marker' or 'location' thread type)
-begin = 'Do something'
-# autobegin = true
+[[action]]
+text = 'Follow the trail, ensure you get/already have a Scrapper circulator, keep an eye out for foxes for pouch upgrade materials'
 
-# [[action]]
-# text = 'Do more stuff'
-# location = 'Somewhere else'
+[[action]]
+text = 'Buy the Frost Hunter Bow from the Hunter on the way'
 
-# [[post_action]]
-# text = 'Do some stuff later'
-# location = 'Somewhere else'
-# finish_before = []
-# before = []
-# after = []
+[[action]]
+text = 'Talk to Hades, then Sylens to get the igniter recipe'
+
+[[action]]
+text = 'Kill leaplashers, craft igniter and upgrade anything that can be'
+
+[[action]]
+text = 'Use igniter, work your way inside, get Gaia'
+
+[[action]]
+text = 'Avoid Erik as much as possible once proving his shield is impervious'
+
+[[action]]
+text = 'Escape Latopolis'
+

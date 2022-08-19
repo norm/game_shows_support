@@ -1,0 +1,27 @@
+title = "The Greenswell salvage"
+type = 'salvage'
+location = 'The Greenswell'
+
+unlocks = [
+    'salvage/ancient-relics',
+    'salvage/property-retrieval',
+    'salvage/plowhorns-and-plants',
+    'salvage/ravager-cannon',
+    'salvage/speedy-lancehorns',
+]
+
+
+begin = 'Meet Handa, get salvage contracts'
+
+[[post_action]]
+text = 'Return to Handa, defend camp against the scroungers and spikesnouts'
+requires = [
+    'salvage/ancient-relics',
+    'salvage/property-retrieval',
+    'salvage/plowhorns-and-plants',
+    'salvage/ravager-cannon',
+    'salvage/speedy-lancehorns',
+]
+unlocks = [
+    'weapon/puncturing-boltblaster',
+]

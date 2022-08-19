@@ -1,0 +1,24 @@
+title = 'Icefire Blastsling'
+type = 'weapon'
+start = 'The Bulwark'
+end = 'Workbench'
+
+# 31 dmg, 96 fire / 32 dmg, 98 frost
+begin = 'Purchase Icefire Blastsling (467 shards, elemental clawstrider circulator)'
+
+[[action]]
+# 33 dmg, 99 fire / 34 dmg, 102 frost
+text = 'Draw speed +25%, increase stats: 75 shards, 2 braided wire, 2 small machine core'
+location = 'Workbench'
+
+[[action]]
+# 37 dmg, 107 fire / 38 dmg, 110 frost
+text = 'Overdraw +15%, increase stats: 112 shards, 1 leaplasher spark coil, 2 braided wire, 1 skydrifter razor tail'
+
+[[action]]
+# 42 dmg, 118 fire / 42 dmg, 122 frost
+text = 'Increase stats: 150 shards, 1 leaplasher circulator, 3 braided wire, 2 medium machine core'
+
+[[action]]
+# 48 dmg, 142 fire / 49 dmg, 146 frost
+text = 'Draw speed +65%, second coil unlocked, increase stats: 250 shards, 1 bellowback sac webbing, 6 braided wire, 3 medium machine core, 1 leaplasher primary nerve'
