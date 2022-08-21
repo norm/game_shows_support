@@ -49,6 +49,13 @@ function convert_raw_footage {
         -codec copy \
         "$destination"
 
+    # copy to the SSD
+    rsync \
+        --itemize-changes \
+        --progress \
+            "$destination" \
+            "$FAST_VIDEO_DIR/Game Shows/$GAME_SHOW_NAME/$destination"
+
     notes="$(echo "$destination" | sed -e 's/.mkv$/.txt/')"
     if [ ! -f "$notes" ]; then
         cat footage/template.txt > "$notes"

@@ -1,0 +1,40 @@
+#!/usr/bin/env -S bash -euo pipefail
+
+export AWS_PROFILE=gameshows
+dryrun=''
+extra_args=()
+
+if [ "${1:-}" = '-n' ]; then
+    dryrun=--dryrun
+    shift
+fi
+
+if [ "${1:-}" = 'quick' ]; then
+    extra_args+=(--exclude '*/footage/*.mp4')
+    extra_args+=(--exclude '*/footage/*.mkv')
+    extra_args+=(--exclude '*/*.mp4')
+fi
+
+pushd /vault/video/Game\ Shows >/dev/null
+
+# tidy up
+find . -name .DS_Store -exec rm {} \;
+
+aws s3 sync \
+    $dryrun \
+    "${extra_args[@]}" \
+    --exclude \*/cache\* \
+    --exclude \*/support\* \
+    --exclude \*/raw/\* \
+    --exclude \*/playthrough/\* \
+    --exclude \*/\*.m4v \
+    --exclude __pycache__ \
+    --exclude XCOM\ 2/ \
+    --exclude ps5/ \
+    --exclude .git\* \
+    --size-only \
+    "${excludes[@]}" \
+        . \
+        "s3://gameshows.m17s.net"
+
+popd >/dev/null

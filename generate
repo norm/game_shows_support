@@ -25,41 +25,25 @@ EOF
 function _pushd { pushd "$1" >/dev/null; }
 function _popd  { popd       >/dev/null; }
 
-function backup_to_local_disk {
-    local dryrun=''
-
-    find . -name .DS_Store -exec rm {} \;
-
+function backup_ssd {
+    local dryrun=-n
     [ -n "${DRY_RUN:-}" ] && dryrun='-n'
 
-    status "== {cyan}backup Game Shows"
-    chmod -R u+rw "$BACKUP_DIR/.git"   # no idea why this keeps happening
     rsync \
         $dryrun \
         --archive \
+        --hard-links \
+        --exclude .git \
+        --exclude .DS_Store \
+        --exclude __pycache__ \
+        --exclude raw \
         --info=name,progress \
-        --exclude "*/cache" \
-        --exclude "*/support" \
-        --exclude "*/*.m4v" \
-        . \
-        "$BACKUP_DIR/."
-
-    backup_davinci
-
-    # highlight any differences between the backup dir and the main dir
-    # (shows files that can be deleted from the backup, for example)
-    status "== {cyan}git diff"
-    backup_status=$(mktemp)
-    _pushd "$BACKUP_DIR"
-    git status -bs > $backup_status
-    _popd
-    colordiff -u <(git status -bs) $backup_status \
-        || true
+            "$FAST_VIDEO_DIR/Game Shows/." \
+            "$WORKING_DIR/Game Shows/."
 }
 
-function backup_davinci {
-    local dryrun=''
-
+function backup_working_files {
+    local dryrun=''    
     [ -n "${DRY_RUN:-}" ] && dryrun='-n'
 
     status "== {cyan}backup DaVinci Resolve files"
@@ -70,12 +54,28 @@ function backup_davinci {
         rsnapshot -c rsnapshot.conf -v regular
         echo ''
     fi
+
+    status "== {cyan}backup to vault"
     rsync \
         $dryrun \
         --archive \
+        --hard-links \
         --info=name,progress \
-        "$HOME/Library/Preferences/Blackmagic Design/DaVinci Resolve/." \
-        "$BACKUP_BASE"/resolve-backups/preferences/.
+        --exclude __pycache__ \
+        --exclude raw \
+        --exclude cache \
+        --exclude resolve \
+        --exclude ps5 \
+        "$WORKING_DIR/." \
+        "$BACKUP_BASE/."
+}
+
+function backup_to_s3 {
+    local quick="${1:-}"
+    local dryrun=''
+
+    [ -n "${DRY_RUN:-}" ] && dryrun='--dryrun'
+    ssh vault backup_videos $dryrun $quick
 }
 
 function backup_to_s3 {
@@ -137,7 +137,7 @@ if [ -d "${1:-}" ]; then
     shift
 fi
 
-export BACKUP_BASE='/Volumes/verne/video'
+export BACKUP_BASE='vault:/vault/video'
 export BACKUP_DIR="$BACKUP_BASE/Game Shows"
 export CAPTURE_DIR="/Volumes/elgato/Elgato"
 export GAME_SHOW_NAME="$show"
@@ -147,29 +147,34 @@ export THINGS_PROJECT=$(cat "$show/things.id")
 export GAME_ID=$(cat "$show/game.id")
 export TV_HOST='southpaw'
 export TV_LOCATION="/files/tv/$(echo "$show" | sed -e 's/ /\\ /g')/Season\ 1"
+export WORKING_DIR='/Volumes/vinge/video'
+export FAST_VIDEO_DIR='/Volumes/vincent'
 
 export PATH="$PWD/bin:$PATH"
 
 case "${1:-all}" in
+    backup)
+        case "${2:-}" in
+            vault)      backup_to_s3 ;;
+            vincent)    backup_ssd ;;
+            vinge)      backup_working_files ;;
+            *)
+                status -l "== {bold}{yellow}backup vincent"
+                backup_ssd
+                status -l "== {bold}{yellow}backup vinge"
+                backup_working_files
+                status -l "== {bold}{yellow}backup vault"
+                backup_to_s3 quick
+                ;;
+        esac
+        ;;
+
     full_backup)
-        status -l "== {bold}{yellow}local_backup"
-        backup_to_local_disk
-        status -l "== {bold}{yellow}s3_backup"
-        backup_to_s3
-        ;;
-
-    quick_backup|backup)
-        status -l "== {bold}{yellow}local_backup"
-        backup_to_local_disk
-        status -l "== {bold}{yellow}s3_backup"
-        backup_to_s3 quick
-        ;;
-
-    local_backup)
-        backup_to_local_disk
-        ;;
-
-    s3_backup)
+        status -l "== {bold}{yellow}backup vincent"
+        backup_ssd
+        status -l "== {bold}{yellow}backup vinge"
+        backup_working_files
+        status -l "== {bold}{yellow}backup vault"
         backup_to_s3
         ;;
 
@@ -204,9 +209,11 @@ case "${1:-all}" in
         itunes
         popd >/dev/null
 
-        status -l "== {bold}{yellow}local_backup"
-        backup_to_local_disk
-        status -l "== {bold}{yellow}s3_backup"
+        status -l "== {bold}{yellow}backup vincent"
+        backup_ssd
+        status -l "== {bold}{yellow}backup vinge"
+        backup_working_files
+        status -l "== {bold}{yellow}backup vault"
         backup_to_s3 quick
 
         pushd "$show" >/dev/null
