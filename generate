@@ -62,14 +62,14 @@ function backup_davinci {
 
     [ -n "${DRY_RUN:-}" ] && dryrun='-n'
 
-    # backup Davinci Resolve
-    status "== {cyan}backup Davinci Resolve"
-    rsync \
-        $dryrun \
-        --archive \
-        --info=name,progress \
-        "$HOME/Library/Application Support/Blackmagic Design/DaVinci Resolve/." \
-        "$BACKUP_BASE"/resolve-backups/application-support/.
+    status "== {cyan}backup DaVinci Resolve files"
+    if [ -n "${DRY_RUN:-}" ]; then
+        rsnapshot -c rsnapshot.conf -t regular
+        echo ''
+    else
+        rsnapshot -c rsnapshot.conf -v regular
+        echo ''
+    fi
     rsync \
         $dryrun \
         --archive \
@@ -163,10 +163,6 @@ case "${1:-all}" in
         backup_to_local_disk
         status -l "== {bold}{yellow}s3_backup"
         backup_to_s3 quick
-        ;;
-
-    davinci_backup)
-        backup_davinci
         ;;
 
     local_backup)
