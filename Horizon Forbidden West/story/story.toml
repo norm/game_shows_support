@@ -14,6 +14,9 @@ reminders = [
 ]
 
 completed_threads = [
+    # ch1+2
+    'story/reach-for-the-stars',
+
 ]
 
 # notes:

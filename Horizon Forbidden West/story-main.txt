@@ -2,9 +2,6 @@
 =============================== END OF ABANDONED ===============================
 
 
-============================ RECORDING STARTS HERE =============================
-
-
 ================================== REMINDERS ===================================
 
 
@@ -15,6 +12,9 @@
   Stars]
 * {Far Zenith} Use Slitherfang coil blasters (on the ground, to the left, once
   fire goes out) [Reach For The Stars]
+
+============================ RECORDING STARTS HERE =============================
+
 * {Meridian} Examine Hades sphere [The Point of the Lance]
 * {Meridian} Talk to Avad, learn about Fashav [The Point of the Lance]
 * {Meridian} Talk to everyone else [The Point of the Lance]
