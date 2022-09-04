@@ -1,0 +1,1883 @@
+1
+00:01:02,946 --> 00:01:05,965
+I'm running out of time, Elisabet.
+
+2
+00:01:15,442 --> 00:01:16,810
+The land is dying.
+
+3
+00:01:16,810 --> 00:01:18,762
+People are suffering.
+
+4
+00:01:19,446 --> 00:01:22,265
+Soon they'll starve.
+
+5
+00:01:25,635 --> 00:01:29,355
+All because of a terraforming system that's spiralling out of control.
+
+6
+00:01:30,039 --> 00:01:32,242
+And only I can fix it.
+
+7
+00:01:32,242 --> 00:01:34,594
+Only I have your genetic code.
+
+8
+00:01:35,745 --> 00:01:40,867
+It won't be long before we hit the point of no return and then extinction.
+
+9
+00:01:57,534 --> 00:02:00,553
+I've been searching for months for what I need.
+
+10
+00:02:00,553 --> 00:02:05,558
+A backup of Gaia, the AI you designed to control the system.
+
+11
+00:02:05,942 --> 00:02:10,129
+But every time I think I have a lead, it comes to nothing.
+
+12
+00:02:12,015 --> 00:02:14,834
+And every night I have the same dream.
+
+13
+00:02:24,010 --> 00:02:29,249
+I'm walking under a brilliant night sky through a field of flowers.
+
+14
+00:02:29,249 --> 00:02:31,918
+And when I arrive at the centre…
+
+15
+00:02:33,269 --> 00:02:35,288
+I see you, Elisabet.
+
+16
+00:02:36,039 --> 00:02:41,628
+Waiting for me, even though you've been dead for a thousand years.
+
+17
+00:02:56,559 --> 00:02:59,412
+You're the closest person I've ever had to a mother
+
+18
+00:03:01,798 --> 00:03:05,752
+And for a moment I feel whole.
+
+19
+00:03:05,752 --> 00:03:07,570
+But it never lasts.
+
+20
+00:03:08,204 --> 00:03:10,023
+I'm always left alone.
+
+21
+00:03:38,451 --> 00:03:41,955
+This world is your legacy, Elisabet.
+
+22
+00:03:42,205 --> 00:03:44,224
+I won't let it slip away.
+
+23
+00:03:55,118 --> 00:03:57,604
+The valley below is my only remaining lead.
+
+24
+00:03:57,804 --> 00:04:00,323
+My last hope to find the backup.
+
+25
+00:04:00,406 --> 00:04:03,543
+I'll do whatever it takes to get it, I promise.
+
+26
+00:04:19,976 --> 00:04:20,910
+Varl?
+
+27
+00:04:20,910 --> 00:04:22,378
+[Varl laughs]
+
+28
+00:04:22,779 --> 00:04:27,667
+If it isn't Aloy, the saviour of Meridian, Anointed of the Nora.
+
+29
+00:04:27,667 --> 00:04:30,236
+You know I hate being called that stuff.
+
+30
+00:04:30,236 --> 00:04:36,075
+Well, consider it a punishment for running out on us
+the very same night we beat Hades.
+
+31
+00:04:36,376 --> 00:04:40,680
+I grew up an outcast, remember, I'm not much for parties.
+
+32
+00:04:41,581 --> 00:04:42,565
+VARL: Yeah…
+
+33
+00:04:43,416 --> 00:04:46,986
+But that one was in your honour, just saying.
+
+34
+00:04:49,172 --> 00:04:50,189
+VARL: So!
+
+35
+00:04:50,974 --> 00:04:52,275
+VARL: What are we doing?
+
+36
+00:04:53,076 --> 00:04:55,495
+VARL: Must be urgent since you left so fast.
+
+37
+00:04:57,580 --> 00:05:00,083
+Delving into ancient ruins.
+
+38
+00:05:02,268 --> 00:05:05,288
+Or maybe it has something to do with the blight.
+
+39
+00:05:06,372 --> 00:05:09,692
+ALOY: Both actually, but, um…
+
+40
+00:05:10,877 --> 00:05:12,695
+ALOY: I should…
+VARL: Oh no.
+
+41
+00:05:12,979 --> 00:05:14,764
+I've been tracking you a long way.
+
+42
+00:05:14,781 --> 00:05:15,898
+It's okay.
+
+43
+00:05:16,065 --> 00:05:19,018
+After everything you've done to help the Nora and my family.
+
+44
+00:05:19,018 --> 00:05:21,938
+I swore an oath to help you no matter what.
+
+45
+00:05:21,938 --> 00:05:23,589
+You're stuck with me now.
+
+46
+00:05:24,857 --> 00:05:26,592
+Like bark on wood.
+
+47
+00:05:36,169 --> 00:05:42,875
+Okay, but if you're going to come with me, you'll need to be able to see what I see.
+
+48
+00:05:42,875 --> 00:05:43,693
+Huh!
+
+49
+00:05:45,578 --> 00:05:47,046
+A Focus!
+
+50
+00:05:48,664 --> 00:05:51,100
+Never thought I'd get your second sight.
+
+51
+00:05:52,068 --> 00:05:55,588
+I'll give you another one later and show you how to backup your data.
+
+52
+00:05:55,772 --> 00:05:57,140
+"Data"?
+
+53
+00:05:57,140 --> 00:06:01,094
+Information on the device, we've got a lot to cover.
+
+54
+00:06:01,094 --> 00:06:03,679
+Um, I'll have to explain everything as we go.
+
+55
+00:06:15,675 --> 00:06:17,794
+You see like this all the time?
+
+56
+00:06:17,794 --> 00:06:19,595
+Since I was a little girl.
+
+57
+00:06:20,179 --> 00:06:21,180
+Come on.
+
+58
+00:06:39,165 --> 00:06:40,299
+Shall we?
+
+59
+00:06:53,463 --> 00:06:56,966
+ALOY: Alright, I got a couple of scrapes on the way here.
+
+60
+00:06:56,966 --> 00:06:59,786
+ALOY: We should find some medicinal plants, stock up.
+
+61
+00:07:00,269 --> 00:07:03,372
+ALOY: So it's time for your first lesson with the Focus.
+
+62
+00:07:03,372 --> 00:07:06,092
+VARL: Sounds good, let's get started.
+
+63
+00:07:10,980 --> 00:07:14,000
+VARL: These plants don't look like the ones in the Sacred Lands.
+
+64
+00:07:14,467 --> 00:07:17,136
+ALOY: The Focus helps you see the ones we need.
+
+65
+00:07:21,574 --> 00:07:24,577
+ALOY: There! Those plants by the stream should do the trick.
+
+66
+00:07:32,768 --> 00:07:34,270
+ALOY: Ugh.
+VARL: Bitter?
+
+67
+00:07:34,270 --> 00:07:37,073
+ALOY: Yeah, well, at least they make you feel better.
+
+68
+00:07:37,073 --> 00:07:39,192
+ALOY: Alright, we should keep going.
+
+69
+00:07:41,177 --> 00:07:43,796
+VARL: You might want to grab more of these plants along the way.
+
+70
+00:07:44,580 --> 00:07:46,299
+ALOY: Yeah, good idea.
+
+71
+00:08:38,668 --> 00:08:40,286
+ALOY: Ground is stained red.
+
+72
+00:08:51,063 --> 00:08:53,816
+[Aloy coughing]
+
+73
+00:08:54,567 --> 00:08:57,887
+ALOY: Ugh, the blight's infecting all the plants.
+
+74
+00:08:58,271 --> 00:08:59,488
+ALOY: It's changing them.
+
+75
+00:09:00,773 --> 00:09:03,576
+VARL: If it keeps spreading, nothing will grow.
+
+76
+00:09:04,277 --> 00:09:06,095
+ALOY: That's why we have to fix it.
+
+77
+00:09:08,147 --> 00:09:10,700
+ALOY: Those ruins, that's where we need to go.
+
+78
+00:09:11,867 --> 00:09:13,686
+VARL: I see a few ways down.
+
+79
+00:09:15,771 --> 00:09:17,890
+VARL: What are we after, exactly?
+
+80
+00:09:18,374 --> 00:09:20,276
+ALOY: The backup? Well, um…
+
+81
+00:09:21,077 --> 00:09:25,598
+ALOY: It's an AI. It's, um, it's hard to explain.
+
+82
+00:09:26,566 --> 00:09:31,387
+ALOY: Think of it like a set of instructions that can fix the world.
+
+83
+00:09:31,470 --> 00:09:33,089
+VARL: Sounds complicated.
+
+84
+00:09:33,472 --> 00:09:36,576
+VARL: Noticed you're travelling light these days.
+
+85
+00:09:36,976 --> 00:09:41,147
+ALOY: Yeah, I ran into some trouble on the way here.
+
+86
+00:09:41,147 --> 00:09:42,898
+ALOY: Lost a lot of my gear.
+
+87
+00:09:45,968 --> 00:09:50,289
+ALOY: I don't know who put these ropes here, but we can use the line to slide down.
+
+88
+00:10:07,473 --> 00:10:08,891
+VARL: Find anything good?
+
+89
+00:10:09,375 --> 00:10:10,793
+ALOY: A few supplies.
+
+90
+00:10:45,277 --> 00:10:47,596
+VARL: More of the red growth here too.
+
+91
+00:11:07,967 --> 00:11:10,386
+VARL: You really travelled a long way to get here.
+
+92
+00:11:10,669 --> 00:11:13,189
+VARL: I almost caught up to you a couple of times, too.
+
+93
+00:11:13,773 --> 00:11:16,492
+VARL: But it's not easy keeping up with a machine rider.
+
+94
+00:11:17,076 --> 00:11:19,011
+ALOY: You always were a good tracker.
+
+95
+00:11:23,065 --> 00:11:26,385
+[Aloy coughing]
+
+96
+00:11:53,362 --> 00:11:54,663
+ALOY: Glinthawks.
+
+97
+00:11:54,663 --> 00:11:57,600
+VARL: Salvaging machine carcasses as usual.
+
+98
+00:11:57,967 --> 00:11:59,485
+VARL: And there they go.
+
+99
+00:12:00,169 --> 00:12:02,188
+ALOY: Looks like they left a carcass behind.
+
+100
+00:12:44,980 --> 00:12:46,999
+A lot of arrows in that machine.
+
+101
+00:12:47,566 --> 00:12:49,285
+Better take a closer look.
+
+102
+00:13:10,973 --> 00:13:13,476
+ALOY: Someone took down this machine recently.
+
+103
+00:13:13,676 --> 00:13:15,094
+VARL: Who else would come here?
+
+104
+00:13:15,678 --> 00:13:16,796
+ALOY: I don't know.
+
+105
+00:13:17,379 --> 00:13:19,498
+ALOY: We'd better craft some arrows of our own.
+
+106
+00:13:20,065 --> 00:13:21,767
+ALOY: There might be trouble up ahead.
+
+107
+00:13:21,767 --> 00:13:23,686
+VARL: There's some Ridge-Wood by the stream.
+
+108
+00:13:33,279 --> 00:13:36,298
+ALOY: Alright, now to craft some arrows.
+
+109
+00:13:44,723 --> 00:13:45,791
+ALOY: Done.
+
+110
+00:13:46,175 --> 00:13:48,794
+VARL: Me too, arrows ready.
+
+111
+00:14:05,377 --> 00:14:06,545
+VARL: There's a ladder.
+
+112
+00:14:07,379 --> 00:14:09,398
+VARL: But can't reach it from here.
+
+113
+00:14:09,665 --> 00:14:12,184
+ALOY: Nothing a well placed arrow can't knock free.
+
+114
+00:14:12,368 --> 00:14:14,486
+ALOY: Just have to target the lock.
+
+115
+00:14:15,771 --> 00:14:16,689
+VARL: That did it.
+
+116
+00:14:17,573 --> 00:14:18,791
+VARL: After you.
+
+117
+00:14:37,276 --> 00:14:38,794
+VARL: By the Goddess.
+
+118
+00:14:40,679 --> 00:14:42,581
+ALOY: What was this place?
+
+119
+00:14:43,365 --> 00:14:46,936
+ALOY: I don't know. The transmission…
+
+120
+00:14:47,570 --> 00:14:52,057
+ALOY: …the message I found didn't say.
+
+121
+00:14:52,057 --> 00:14:54,276
+ALOY: Only that a backup might be here.
+
+122
+00:14:54,677 --> 00:14:56,395
+ALOY: We need to find a way in.
+
+123
+00:14:57,580 --> 00:15:03,185
+ALOY: So, um, what happened after I left Meridian?
+
+124
+00:15:03,569 --> 00:15:07,089
+VARL: Well, there was a fuss when people realised you were gone.
+
+125
+00:15:07,172 --> 00:15:11,477
+VARL: But then some of us figured you only would have left
+if it were for something important.
+
+126
+00:15:11,877 --> 00:15:13,479
+ALOY: You were right about that.
+
+127
+00:16:27,569 --> 00:16:29,288
+VARL: We should find another way.
+
+128
+00:18:06,769 --> 00:18:07,986
+ALOY: Down this way.
+
+129
+00:18:22,267 --> 00:18:23,485
+ALOY: Get to the grass.
+
+130
+00:18:25,571 --> 00:18:27,856
+VARL: Never seen one of those before.
+
+131
+00:18:27,856 --> 00:18:29,208
+ALOY: Me neither.
+
+132
+00:18:34,079 --> 00:18:36,598
+ALOY: Those dead machines have it on alert.
+
+133
+00:18:36,765 --> 00:18:38,300
+VARL: How do you want to handle it?
+
+134
+00:18:38,567 --> 00:18:40,118
+The Focus can help us.
+
+135
+00:18:41,069 --> 00:18:44,239
+ALOY: We can scan the machine before we make our move.
+
+136
+00:18:44,323 --> 00:18:45,374
+VARL: Okay.
+
+137
+00:18:46,275 --> 00:18:47,743
+ALOY: Give it a second…
+
+138
+00:18:47,743 --> 00:18:50,429
+ALOY: Okay, see how parts of it are glowing?
+
+139
+00:18:50,629 --> 00:18:51,864
+ALOY: Those are its weak spots.
+
+140
+00:18:51,864 --> 00:18:52,981
+VARL: Got it.
+
+141
+00:18:59,171 --> 00:19:01,490
+VARL: It's eye, it's a weak spot.
+
+142
+00:19:02,074 --> 00:19:03,075
+ALOY: Right!
+
+143
+00:19:04,676 --> 00:19:05,711
+VARL: I'm ready.
+
+144
+00:19:12,568 --> 00:19:14,486
+ALOY: Okay, concentrate.
+
+145
+00:19:41,780 --> 00:19:43,298
+VARL: Another one's coming!
+
+146
+00:20:03,869 --> 00:20:06,121
+VARL: How does the Focus know all that?
+
+147
+00:20:06,121 --> 00:20:08,740
+ALOY: It reads data on the machine.
+
+148
+00:20:08,740 --> 00:20:10,876
+VARL: Like a hunter studying its prey?
+
+149
+00:20:10,876 --> 00:20:12,878
+ALOY: Yeah, kind of.
+
+150
+00:20:18,166 --> 00:20:23,589
+ALOY: So, after the fuss over me leaving, what did everyone else do?
+
+151
+00:20:24,072 --> 00:20:28,894
+VARL: Well, as soon as the celebration was over,
+my mother led the rest of the Nora home.
+
+152
+00:20:29,378 --> 00:20:32,798
+VARL: Sun-King put his people to work rebuilding the city.
+
+153
+00:20:33,365 --> 00:20:35,500
+VARL: And I set out to find you.
+
+154
+00:20:45,093 --> 00:20:47,195
+VARL: Someone shot this machine too.
+
+155
+00:20:51,934 --> 00:20:55,187
+ALOY: Another ladder, need to shoot off the lock.
+
+156
+00:20:59,741 --> 00:21:01,076
+ALOY: Got it.
+
+157
+00:21:17,376 --> 00:21:20,095
+VARL: You said you've had a Focus since you were a child, right?
+
+158
+00:21:20,579 --> 00:21:24,599
+ALOY: Yeah, I found my first one when I fell into a ruin.
+
+159
+00:21:24,666 --> 00:21:27,486
+ALOY: Got the others from an old cache not long ago.
+
+160
+00:21:28,070 --> 00:21:29,805
+ALOY: It's good to have extras.
+
+161
+00:22:00,869 --> 00:22:02,988
+VARL: Going into a ruin of the Old Ones.
+
+162
+00:22:03,772 --> 00:22:05,374
+VARL: Goddess protect us.
+
+163
+00:22:06,174 --> 00:22:07,809
+ALOY: We'll be okay, Varl.
+
+164
+00:22:15,567 --> 00:22:16,702
+ALOY: Through here.
+
+165
+00:22:19,171 --> 00:22:21,890
+COMPUTER: Welcome to the Far Zenith Launch Facility.
+
+166
+00:22:22,374 --> 00:22:23,709
+ALOY: Far Zenith?
+
+167
+00:22:24,676 --> 00:22:27,696
+ALOY: I know they made some tech trades with Zero Dawn, but…
+
+168
+00:22:28,480 --> 00:22:30,699
+ALOY: …why would they have a backup of Gaia?
+
+169
+00:22:31,066 --> 00:22:33,919
+COMPUTER: Please register with reception for the tour.
+
+170
+00:22:34,069 --> 00:22:36,488
+VARL: I guess they want us to check in with them?
+
+171
+00:22:42,277 --> 00:22:45,047
+COMPUTER: Please hold for Identiscan.
+
+172
+00:22:45,047 --> 00:22:46,615
+COMPUTER: Access denied.
+
+173
+00:22:46,615 --> 00:22:50,886
+COMPUTER: Please wait here for personnel to assist you, Dr Sobeck.
+
+174
+00:22:51,069 --> 00:22:55,707
+ALOY: Okay, I guess they weren't on great terms with Elisabet.
+
+175
+00:22:56,274 --> 00:22:58,794
+ALOY: Well, let's find a way in.
+
+176
+00:23:05,067 --> 00:23:07,602
+COMPUTER: Please hold for Identiscan.
+
+177
+00:23:07,602 --> 00:23:11,690
+COMPUTER: Access denied, credentials not recognised.
+
+178
+00:23:11,873 --> 00:23:13,809
+VARL: I guess it doesn't like me either.
+
+179
+00:23:49,594 --> 00:23:51,797
+ALOY: I should be able to pry this open.
+
+180
+00:24:01,873 --> 00:24:03,475
+ALOY: There's climbing gear.
+
+181
+00:24:03,975 --> 00:24:06,294
+ALOY: Guess someone dropped in from above.
+
+182
+00:24:12,167 --> 00:24:16,087
+ALOY: Whoever left this here might have also shot those machines we found earlier.
+
+183
+00:24:16,371 --> 00:24:17,956
+VARL: So where are they now?
+
+184
+00:24:29,568 --> 00:24:32,804
+VARL: Ugh, what's that stench?
+
+185
+00:24:37,175 --> 00:24:40,595
+ALOY: An entire camp wiped out.
+
+186
+00:24:41,179 --> 00:24:43,949
+ALOY: They must have come here to delve for scrap.
+
+187
+00:24:43,949 --> 00:24:46,801
+VARL: Acid, that explains the smell.
+
+188
+00:24:48,270 --> 00:24:51,339
+VARL: And it looks like something big came in from above.
+
+189
+00:24:51,773 --> 00:24:53,375
+ALOY: Crashed right through the camp.
+
+190
+00:24:54,342 --> 00:24:55,994
+ALOY: Then through the wall.
+
+191
+00:25:09,274 --> 00:25:12,711
+ALOY: Whatever came through here brought this down as it went out.
+
+192
+00:25:13,078 --> 00:25:17,699
+ALOY: If I can dislodge some of the debris, we might be able to squeeze through.
+
+193
+00:25:18,266 --> 00:25:20,585
+ALOY: Maybe I can find something to help in the camp.
+
+194
+00:25:21,169 --> 00:25:22,988
+VARL: Aloy, over here.
+
+195
+00:25:23,672 --> 00:25:25,307
+VARL: I think I got something.
+
+196
+00:25:30,078 --> 00:25:33,732
+VARL: It's some kind of Oseram prototype, I think.
+
+197
+00:25:33,732 --> 00:25:36,618
+VARL: This hook looks like it can latch onto things.
+
+198
+00:25:37,569 --> 00:25:40,288
+ALOY: And this gear pulls it back, hmm.
+
+199
+00:25:40,872 --> 00:25:45,343
+VARL: It looks broken but maybe we can repair it, hook it to the debris…
+
+200
+00:25:45,343 --> 00:25:47,979
+ALOY: …and pull it out. That could work.
+
+201
+00:25:49,965 --> 00:25:54,586
+The Focus can help us search the camp and identify anything we can use to fix the tool.
+
+202
+00:26:07,666 --> 00:26:08,900
+VARL: Poor guy.
+
+203
+00:26:09,567 --> 00:26:11,586
+VARL: Acid burned right through his armour.
+
+204
+00:26:23,281 --> 00:26:25,000
+VARL: A lot of supplies here.
+
+205
+00:26:25,967 --> 00:26:27,986
+VARL: I guess they planned to stay awhile.
+
+206
+00:26:35,877 --> 00:26:38,697
+ALOY: Machine cable, stronger than rope.
+
+207
+00:27:02,570 --> 00:27:05,607
+ALOY: Part of a machine, could help fix the gears.
+
+208
+00:27:05,607 --> 00:27:08,910
+ALOY: Alright, I think I have what I need to repair the tool.
+
+209
+00:27:09,277 --> 00:27:11,730
+ALOY: Or maybe even make something better.
+
+210
+00:27:11,980 --> 00:27:13,882
+VARL: You could use this workbench.
+
+211
+00:27:41,476 --> 00:27:45,196
+ALOY: There, a … "Pullcaster".
+
+212
+00:27:46,064 --> 00:27:47,982
+ALOY: Now to test it on the debris.
+
+213
+00:28:13,792 --> 00:28:15,427
+VARL: Whoa!
+
+214
+00:28:15,427 --> 00:28:16,995
+ALOY: That worked better than I thought.
+
+215
+00:28:24,369 --> 00:28:28,206
+ALOY: Well, it doesn't look like there's an easy way out of here.
+
+216
+00:28:28,373 --> 00:28:31,826
+ALOY: I should scan the area, we have to find a way to keep going.
+
+217
+00:28:31,826 --> 00:28:33,378
+VARL: Huh, what's this thing for?
+
+218
+00:28:45,173 --> 00:28:46,408
+ALOY: What's this?
+
+219
+00:28:55,066 --> 00:28:55,517
+VARL: Whoa.
+
+220
+00:28:55,517 --> 00:28:59,037
+DALGAARD: Good morning, I'm Osvald Dalgaard.
+
+221
+00:28:59,037 --> 00:29:04,392
+DALGAARD: And it is my pleasure to introduce you to Far Zenith.
+
+222
+00:29:05,977 --> 00:29:08,530
+DALGAARD: Forget what you think you know about us.
+
+223
+00:29:08,530 --> 00:29:10,999
+DALGAARD: Our truth is simple.
+
+224
+00:29:11,065 --> 00:29:13,067
+DALGAARD: We say reach for the stars.
+
+225
+00:29:13,067 --> 00:29:17,722
+DALGAARD: Even if you have to cross 8.6 light years of space to get there.
+
+226
+00:29:17,872 --> 00:29:23,478
+DALGAARD: Please proceed into the auditorium where we'll unveil our plans.
+
+227
+00:29:27,365 --> 00:29:30,301
+VARL: Wonder what's in this "auditorium"?
+
+228
+00:29:30,869 --> 00:29:32,687
+ALOY: Guess we'll find out.
+
+229
+00:29:39,077 --> 00:29:41,996
+ALOY: Oh, I might be able to get up there.
+
+230
+00:29:52,674 --> 00:29:54,809
+ALOY: Wow, that worked.
+
+231
+00:29:55,276 --> 00:29:57,545
+VARL: That Pullcaster is useful.
+
+232
+00:29:58,279 --> 00:29:59,714
+VARL: Too bad there's only one.
+
+233
+00:30:00,515 --> 00:30:02,717
+ALOY: Don't worry, I'll find you another way up.
+
+234
+00:30:55,770 --> 00:30:58,957
+ALOY: Okay, I gotta drop the ladder for Varl.
+
+235
+00:31:04,095 --> 00:31:08,399
+ALOY: Supplies. I think I can use the Pullcaster on it.
+
+236
+00:31:29,571 --> 00:31:31,289
+ALOY: There you go, Varl.
+
+237
+00:31:31,472 --> 00:31:32,490
+VARL: Thanks.
+
+238
+00:31:55,680 --> 00:32:00,084
+DALGAARD: Humans, Homo Sapiens, us.
+
+239
+00:32:00,568 --> 00:32:06,207
+DALGAARD: We have always pushed the boundary as explorers, pioneers, trailblazers.
+
+240
+00:32:06,874 --> 00:32:10,795
+DALGAARD: And now Far Zenith is taking the next leap into the future.
+
+241
+00:32:10,979 --> 00:32:14,766
+DALGAARD: That's why we're proud to have resurrected the Odyssey.
+
+242
+00:32:14,766 --> 00:32:20,989
+DALGAARD: What our governments abandoned in orbit, Far Zenith will actualise in less than a decade.
+
+243
+00:32:21,205 --> 00:32:23,391
+DALGAARD: But that's only the beginning.
+
+244
+00:32:23,474 --> 00:32:31,799
+DALGAARD: When the ship is complete, we will send
+the Odyssey and her crew where no-one's gone before.
+
+245
+00:32:38,473 --> 00:32:40,291
+DALGAARD: The Sirius system.
+
+246
+00:32:43,578 --> 00:32:47,799
+DALGAARD: There we'll create humanity's first off-world colony.
+
+247
+00:32:49,767 --> 00:32:53,204
+DALGAARD: The Odyssey may take 300 years to reach it.
+
+248
+00:32:53,271 --> 00:32:57,875
+DALGAARD: But when we look up at the night sky, we'll know they're on their way.
+
+249
+00:32:59,978 --> 00:33:04,749
+DALGAARD: And, in the words of our founder, the late Peter Tshivhumbe…
+
+250
+00:33:04,749 --> 00:33:07,852
+DALGAARD: "The truest form of immortality is—"
+
+251
+00:33:07,852 --> 00:33:11,155
+COMPUTER: Data corrupt, playback stopped.
+
+252
+00:33:11,339 --> 00:33:13,658
+VARL: The Old Ones could fly through the sky?
+
+253
+00:33:14,175 --> 00:33:15,893
+VARL: Between the stars?!
+
+254
+00:33:17,078 --> 00:33:22,467
+ALOY: Uhh, well, yes, sort of.
+
+255
+00:33:22,467 --> 00:33:27,188
+ALOY: That ship, the Odyssey? It never made it to the other star.
+
+256
+00:33:27,955 --> 00:33:30,291
+ALOY: Something went wrong and it blew up.
+
+257
+00:33:42,870 --> 00:33:47,892
+ALOY: Is that why Elisabet gave them a backup of Gaia? For their colony?
+
+258
+00:33:50,445 --> 00:33:53,831
+COMPUTER: Error, public presentation file corrupted.
+
+259
+00:33:53,831 --> 00:33:56,334
+COMPUTER: Member recruitment file available.
+
+260
+00:33:56,334 --> 00:33:57,802
+COMPUTER: Do you wish to reactivate?
+
+261
+00:33:57,802 --> 00:34:00,038
+ALOY: Yeah, reactivate.
+
+262
+00:34:00,671 --> 00:34:02,490
+ALOY: Let's see what else they had to say.
+
+263
+00:34:10,381 --> 00:34:12,283
+DALGAARD: We all know the projections.
+
+264
+00:34:12,283 --> 00:34:18,272
+DALGAARD: Economic instability, new biocontagions, rampant AIs.
+
+265
+00:34:18,272 --> 00:34:24,195
+DALGAARD: How long before another catastrophe creates unacceptable risk for the world's elite?
+
+266
+00:34:24,679 --> 00:34:29,383
+DALGAARD: We here at Far Zenith believe: escape the inevitable.
+
+267
+00:34:29,767 --> 00:34:32,370
+DALGAARD: And so we reach for the stars.
+
+268
+00:34:36,474 --> 00:34:38,793
+DALGAARD: Now you've seen what we're building here.
+
+269
+00:34:38,793 --> 00:34:42,296
+DALGAARD: Infrastructure to support the Odyssey's construction.
+
+270
+00:34:42,296 --> 00:34:47,535
+DALGAARD: A state-of-the-art data centre to facilitate rapid technological advancements.
+
+271
+00:34:47,969 --> 00:34:51,806
+DALGAARD: And you've seen how we're managing public perception.
+
+272
+00:34:52,473 --> 00:34:55,276
+DALGAARD: So invest and join us.
+
+273
+00:34:55,576 --> 00:34:58,296
+DALGAARD: Claim your berth on the Odyssey.
+
+274
+00:34:58,479 --> 00:35:03,067
+DALGAARD: Preserve your way of life beyond the concerns of Earth.
+
+275
+00:35:04,152 --> 00:35:06,637
+ALOY: Well, they were right about the world ending.
+
+276
+00:35:06,637 --> 00:35:09,707
+ALOY: They just didn't know how … yet.
+
+277
+00:35:10,174 --> 00:35:16,697
+VARL: So everything they said back there about the next step for humanity,
+it was all a lie.
+
+278
+00:35:18,466 --> 00:35:22,136
+VARL: These people only cared about saving their own skin.
+
+279
+00:35:22,136 --> 00:35:25,706
+ALOY: Yeah, well, didn't work out for them in the end.
+
+280
+00:35:28,776 --> 00:35:32,029
+ALOY: That Osvald guy mentioned a data centre.
+
+281
+00:35:43,774 --> 00:35:47,195
+ALOY: There, the backup, it should be stored in there.
+
+282
+00:35:52,867 --> 00:35:54,986
+VARL: Won't be able to swim across.
+
+283
+00:35:55,570 --> 00:35:58,689
+ALOY: I guess we'll have to find a way around. Come on.
+
+284
+00:36:11,002 --> 00:36:13,504
+VARL: I still can't believe the Old Ones could fly.
+
+285
+00:36:14,088 --> 00:36:16,224
+ALOY: They were capable of a lot of things.
+
+286
+00:36:16,791 --> 00:36:18,709
+ALOY: For good and bad.
+
+287
+00:36:19,093 --> 00:36:20,611
+VARL: Sure seems like it.
+
+288
+00:36:21,495 --> 00:36:25,166
+VARL: I wonder what it's like up there among the stars.
+
+289
+00:36:30,354 --> 00:36:33,207
+VARL: The wilds have really grown over this place.
+
+290
+00:36:52,894 --> 00:36:55,379
+ALOY: Deeper into the creepy ruin we go.
+
+291
+00:37:08,376 --> 00:37:11,245
+VARL: Above us. What is that thing?
+
+292
+00:37:11,629 --> 00:37:15,316
+ALOY: I don't know. Might've been what killed those Oseram.
+
+293
+00:37:15,900 --> 00:37:17,118
+ALOY: Keep your guard up.
+
+294
+00:37:17,501 --> 00:37:19,520
+VARL: Oh, my guard is up.
+
+295
+00:37:22,890 --> 00:37:25,927
+[Aloy coughing]
+
+296
+00:37:25,927 --> 00:37:28,312
+ALOY: Ugh, it's hard to breathe around this stuff.
+
+297
+00:37:48,099 --> 00:37:49,166
+ALOY: Up here.
+
+298
+00:37:56,240 --> 00:38:00,628
+Careful, don't want those things to call in some friends from underground.
+
+299
+00:38:01,879 --> 00:38:03,914
+ALOY: Let's take them out quietly.
+
+300
+00:38:03,914 --> 00:38:06,784
+You take the left one, I'll deal with the one on the right.
+
+301
+00:38:06,784 --> 00:38:07,918
+Okay.
+
+302
+00:38:16,577 --> 00:38:17,812
+VARL: Moving up.
+
+303
+00:38:18,579 --> 00:38:21,599
+ALOY: I need to sneak up on it to take it out with my spear.
+
+304
+00:38:21,882 --> 00:38:23,401
+ALOY: Can't let it see me.
+
+305
+00:38:24,085 --> 00:38:27,488
+ALOY: I should scan it first, check its patrol path.
+
+306
+00:38:28,589 --> 00:38:31,292
+ALOY: Okay, there is its patrol path.
+
+307
+00:38:31,676 --> 00:38:35,613
+ALOY: Gotta get closer and stay out of sight.
+
+308
+00:38:39,183 --> 00:38:41,836
+ALOY: I can throw a rock to distract it.
+
+309
+00:38:41,836 --> 00:38:45,206
+ALOY: Get it into a position where I can sneak up and strike.
+
+310
+00:38:45,690 --> 00:38:48,309
+ALOY: Just have to wait for the right moment
+
+311
+00:38:53,881 --> 00:38:55,249
+ALOY: Time to throw.
+
+312
+00:38:57,034 --> 00:38:59,120
+ALOY: Ah, there.
+
+313
+00:38:59,120 --> 00:39:01,706
+ALOY: Now to take it down with a spear strike.
+
+314
+00:39:08,529 --> 00:39:09,797
+ALOY: Gotcha!
+
+315
+00:39:15,886 --> 00:39:17,488
+VARL: Mine's down too.
+
+316
+00:39:44,081 --> 00:39:45,900
+VARL: More of those machines ahead.
+
+317
+00:39:46,183 --> 00:39:48,219
+ALOY: Nothing you and I can't handle.
+
+318
+00:42:25,659 --> 00:42:26,794
+ALOY: Got 'em all.
+
+319
+00:42:29,563 --> 00:42:31,398
+ALOY: I've been meaning to mention…
+
+320
+00:42:31,565 --> 00:42:35,019
+ALOY: I noticed you have a new look these days.
+
+321
+00:42:35,369 --> 00:42:37,571
+VARL: [laughs] Yeah, I know.
+
+322
+00:42:37,871 --> 00:42:41,191
+VARL: Didn't have a lot of time to shave when I was trying to catch up to you.
+
+323
+00:42:41,559 --> 00:42:43,677
+VARL: Don't worry, it's not permanent.
+
+324
+00:42:44,161 --> 00:42:45,079
+ALOY: Good.
+
+325
+00:42:45,362 --> 00:42:49,049
+VARL: Sorry my whiskers offend you "Anointed".
+
+326
+00:42:54,922 --> 00:42:57,925
+ALOY: Looks like this little guy got caught up in the blight.
+
+327
+00:42:58,559 --> 00:42:59,793
+ALOY: Couldn't escape.
+
+328
+00:43:00,461 --> 00:43:02,479
+VARL: I hope it didn't suffer long.
+
+329
+00:43:30,557 --> 00:43:33,978
+ALOY: The Oseram must've used explosives against the machines.
+
+330
+00:43:34,361 --> 00:43:36,280
+VARL: They managed to get a couple.
+
+331
+00:43:50,260 --> 00:43:52,379
+ALOY: Looks like there was a barricade here.
+
+332
+00:43:52,763 --> 00:43:54,782
+ALOY: Machines must have broken through.
+
+333
+00:44:09,847 --> 00:44:11,782
+ALOY: I'll keep this for later.
+
+334
+00:44:12,249 --> 00:44:15,152
+VARL: I guess that Oseram didn't have a chance to use it.
+
+335
+00:44:25,763 --> 00:44:27,848
+VARL: Careful! Traps ahead.
+
+336
+00:44:27,848 --> 00:44:30,584
+ALOY: Huh. Might be able to disarm them.
+
+337
+00:44:37,458 --> 00:44:40,878
+ALOY: There, managed to salvage some supplies.
+
+338
+00:44:41,428 --> 00:44:42,880
+VARL: And not blow yourself up.
+
+339
+00:44:55,859 --> 00:44:57,578
+ALOY: Looks like another camp.
+
+340
+00:44:57,578 --> 00:45:00,881
+VARL: While we're here, maybe we can make some traps of our own.
+
+341
+00:45:01,148 --> 00:45:03,283
+VARL: Might come in handy against the machines.
+
+342
+00:45:03,350 --> 00:45:04,468
+ALOY: Good idea.
+
+343
+00:45:24,354 --> 00:45:25,956
+ALOY: I can use this.
+
+344
+00:45:48,462 --> 00:45:51,782
+ALOY: Okay, should have what I need to craft a trap.
+
+345
+00:46:20,043 --> 00:46:22,763
+ALOY: There, explosive trap made.
+
+346
+00:46:23,347 --> 00:46:27,117
+VARL: If anything walks into one of those, it won't know what hit it.
+
+347
+00:46:28,602 --> 00:46:30,170
+VARL: I think I see a way up.
+
+348
+00:46:42,449 --> 00:46:43,884
+ALOY: Machines ahead.
+
+349
+00:46:43,884 --> 00:46:45,969
+VARL: Don't think they spotted us.
+
+350
+00:46:46,587 --> 00:46:48,338
+ALOY: I'd better scan them.
+
+351
+00:46:49,990 --> 00:46:53,660
+VARL: I've seen this machine before, a Scrounger.
+
+352
+00:46:54,161 --> 00:46:55,562
+ALOY: Well, it's new to me.
+
+353
+00:46:56,046 --> 00:46:58,065
+ALOY: Let's see where its weak points are.
+
+354
+00:46:58,532 --> 00:47:01,869
+Maybe we could place one of those traps you made in its path.
+
+355
+00:47:20,087 --> 00:47:21,972
+ALOY: Set this here.
+
+356
+00:48:18,929 --> 00:48:20,464
+VARL: Right into the trap!
+
+357
+00:48:21,231 --> 00:48:22,449
+VARL: We're clear.
+
+358
+00:48:23,734 --> 00:48:25,168
+ALOY: Let's keep going, then.
+
+359
+00:48:35,729 --> 00:48:38,448
+VARL: You've been in a lot of Old World ruins.
+
+360
+00:48:38,932 --> 00:48:40,450
+VARL: Are they all like this?
+
+361
+00:48:41,034 --> 00:48:45,172
+ALOY: They all have their secrets, but every place is different.
+
+362
+00:49:15,936 --> 00:49:20,207
+VARL: Whoa, that machine we saw earlier must be on the move.
+
+363
+00:49:20,741 --> 00:49:22,859
+ALOY: Well, let's hope it doesn't come this way.
+
+364
+00:49:55,942 --> 00:49:58,161
+VARL: That's a big storm picking up out there.
+
+365
+00:49:58,729 --> 00:50:03,650
+ALOY: Yeah, and they're getting stronger and more frequent.
+
+366
+00:50:04,117 --> 00:50:08,638
+VARL: So the storms, the blighted lands, the rivers and lakes choked with algae.
+
+367
+00:50:08,922 --> 00:50:11,041
+ALOY: You were born to fix all that?
+
+368
+00:50:11,625 --> 00:50:14,961
+ALOY: Yeah, but I can only do it if I find that backup.
+
+369
+00:50:15,328 --> 00:50:18,248
+ALOY: I think we're winding our way around to the data centre.
+
+370
+00:50:18,982 --> 00:50:21,752
+ALOY: We'll need to cut through that big building on the right out there.
+
+371
+00:50:31,628 --> 00:50:32,846
+VARL: What's in here?
+
+372
+00:50:34,731 --> 00:50:36,950
+VARL: Aloy, come check this out.
+
+373
+00:50:46,426 --> 00:50:47,728
+VARL: What is this thing?
+
+374
+00:50:48,528 --> 00:50:50,347
+ALOY: It's … data.
+
+375
+00:50:51,031 --> 00:50:53,083
+ALOY: You can scan it, with your Focus.
+
+376
+00:50:55,619 --> 00:50:56,953
+VARL: Let's see.
+
+377
+00:50:57,320 --> 00:51:00,123
+VARL: Huh, a lot of glyphs.
+
+378
+00:51:01,124 --> 00:51:03,360
+VARL: I'll tuck this away to study later.
+
+379
+00:51:07,931 --> 00:51:12,152
+ALOY: This data mentions the tech that Far Zenith traded with Zero Dawn…
+
+380
+00:51:12,452 --> 00:51:14,654
+ALOY: …but it doesn't explain how they got a backup.
+
+381
+00:51:15,622 --> 00:51:17,541
+VARL: I'll keep an eye out for more data.
+
+382
+00:51:32,022 --> 00:51:34,207
+ALOY: Looks like we've got to climb up.
+
+383
+00:51:47,721 --> 00:51:48,839
+VARL: You okay?
+
+384
+00:51:49,322 --> 00:51:50,357
+ALOY: Yeah.
+
+385
+00:51:50,624 --> 00:51:52,542
+ALOY: Guess we won't be going that way.
+
+386
+00:52:12,963 --> 00:52:15,148
+VARL: This place is really falling apart.
+
+387
+00:52:15,765 --> 00:52:18,084
+ALOY: Well, it is a thousand years old.
+
+388
+00:52:33,950 --> 00:52:34,734
+VARL: Made it.
+
+389
+00:52:36,286 --> 00:52:38,538
+ALOY: Looks like some kind of meeting room.
+
+390
+00:52:38,989 --> 00:52:41,241
+ALOY: The door on the other side's locked.
+
+391
+00:52:41,508 --> 00:52:44,227
+VARL: There's another one of those glowing things by the table.
+
+392
+00:52:54,621 --> 00:52:55,739
+ALOY: "Anzu"?
+
+393
+00:52:59,292 --> 00:53:02,062
+VOICE: The Zero Dawn terraforming system.
+
+394
+00:53:02,062 --> 00:53:04,915
+VOICE: The brainchild of Dr Elisabet Sobeck.
+
+395
+00:53:04,915 --> 00:53:07,267
+VOICE: Empowered by nine subordinate functions…
+
+396
+00:53:07,267 --> 00:53:13,907
+VOICE: Gaia, the core of the system, is capable of advanced planetary engineering.
+
+397
+00:53:13,907 --> 00:53:17,177
+VOICE: An obvious advantage to our space colonisation efforts.
+
+398
+00:53:17,861 --> 00:53:19,129
+VOICE: Operation Phase One.
+
+399
+00:53:19,129 --> 00:53:24,084
+VOICE: Establish an asset within Project Zero Dawn. Status: complete.
+
+400
+00:53:24,084 --> 00:53:28,955
+VOICE: Phase Two. The asset will secretly beamcast a complete copy of Gaia…
+
+401
+00:53:28,955 --> 00:53:32,609
+VOICE: …and her subordinate functions to this facility's data centre.
+
+402
+00:53:32,609 --> 00:53:37,380
+VOICE: If all goes well, Zero Dawn staff will remain completely unaware of the transmission.
+
+403
+00:53:37,380 --> 00:53:45,372
+VOICE: Risks. Discovery of this operation could result in Zero Dawn withholding the already negotiated Apollo database.
+
+404
+00:53:45,372 --> 00:53:51,711
+VOICE: Special care must be taken not to alert Travis Tate, the expert hacker in charge of Hades protocol.
+
+405
+00:53:52,629 --> 00:53:58,919
+VOICE: In addition, extreme caution must be exercised in regards to Dr Sobeck herself.
+
+406
+00:53:58,919 --> 00:54:06,109
+VOICE: As one of the world's preeminent technologists, she may have instituted unforeseen security measures.
+
+407
+00:54:06,109 --> 00:54:08,044
+VOICE: A complete assessment is attached.
+
+408
+00:54:08,044 --> 00:54:11,298
+VOICE: This concludes the executive summary.
+
+409
+00:54:13,900 --> 00:54:18,021
+I thought Elisabet sent the backup here, but she didn't.
+
+410
+00:54:19,406 --> 00:54:22,025
+Far Zenith stole Gaia.
+
+411
+00:54:22,025 --> 00:54:25,512
+Aloy, why does that woman look like you?
+
+412
+00:54:25,512 --> 00:54:29,099
+ALOY: Ah, um, it's okay Varl.
+
+413
+00:54:29,099 --> 00:54:36,006
+We look alike because we're the exact same, genetically identical.
+
+414
+00:54:36,006 --> 00:54:38,141
+But she was one of the Old Ones.
+
+415
+00:54:38,508 --> 00:54:40,226
+How can you be her?
+
+416
+00:54:41,611 --> 00:54:44,631
+Because I wasn't born.
+
+417
+00:54:45,198 --> 00:54:49,319
+I was made, by a machine.
+
+418
+00:54:49,903 --> 00:54:51,988
+It's why I'm motherless.
+
+419
+00:54:51,988 --> 00:54:55,642
+Why I was cast out as an infant.
+
+420
+00:54:55,809 --> 00:54:57,427
+I don't understand.
+
+421
+00:54:58,311 --> 00:55:00,597
+What kind of machine can make a person?
+
+422
+00:55:00,597 --> 00:55:04,367
+Remember when I said the backup is like a set of instructions? 
+
+423
+00:55:04,367 --> 00:55:07,020
+It's more than that.
+
+424
+00:55:07,203 --> 00:55:08,872
+It's called Gaia.
+
+425
+00:55:09,022 --> 00:55:15,545
+ALOY: And for a long time she cared for the world until she had to destroy herself.
+
+426
+00:55:16,012 --> 00:55:20,533
+ALOY: So she made me to bring her back.
+
+427
+00:55:21,301 --> 00:55:22,819
+I'm the only one who can.
+
+428
+00:55:24,404 --> 00:55:27,640
+And this place is my last hope.
+
+429
+00:55:29,209 --> 00:55:33,329
+You once said the Goddess spoke to you when you went into All-Mother Mountain.
+
+430
+00:55:34,097 --> 00:55:36,349
+Was that this Gaia?
+
+431
+00:55:36,499 --> 00:55:42,122
+Yes, but, she's not the Goddess, Varl.
+
+432
+00:55:42,539 --> 00:55:43,390
+There isn't one.
+
+433
+00:55:43,390 --> 00:55:44,824
+How can you be sure?
+
+434
+00:55:45,508 --> 00:55:48,528
+It sounds like she anointed you with a sacred task.
+
+435
+00:55:50,613 --> 00:55:52,532
+I've had a lot of time to figure this out.
+
+436
+00:55:52,532 --> 00:55:54,651
+And you will too, with the Focus.
+
+437
+00:55:54,651 --> 00:56:01,124
+But, for now, the report said they were going to store the stolen copy of Gaia in the data centre.
+
+438
+00:56:01,191 --> 00:56:03,760
+So that's where we have to go, okay?
+
+439
+00:56:18,391 --> 00:56:20,710
+VARL: Huh, look at that.
+
+440
+00:56:21,194 --> 00:56:24,898
+VARL: Aloy, over here, I found something you could use. 
+
+441
+00:56:28,802 --> 00:56:30,870
+VARL: Those Oseram must've left this behind.
+
+442
+00:56:31,621 --> 00:56:34,724
+VARL: Can't help them, but it can help us.
+
+443
+00:56:37,994 --> 00:56:41,214
+ALOY: A weapon. Thanks, Varl.
+
+444
+00:56:42,699 --> 00:56:44,234
+ALOY: We should keep moving.
+
+445
+00:56:44,234 --> 00:56:45,418
+VARL: After you.
+
+446
+00:57:05,088 --> 00:57:06,222
+ALOY: Down here!
+
+447
+00:57:26,292 --> 00:57:28,428
+ALOY: I think we're almost back outside.
+
+448
+00:57:28,995 --> 00:57:29,813
+VARL: Good.
+
+449
+00:57:44,794 --> 00:57:47,013
+VARL: Look, that must be the machine.
+
+450
+00:57:47,997 --> 00:57:50,767
+ALOY: It's heading in the same direction we're going.
+
+451
+00:57:51,151 --> 00:57:52,185
+ALOY: Great.
+
+452
+00:58:13,239 --> 00:58:15,141
+ALOY: Another one of those machines.
+
+453
+00:58:15,792 --> 00:58:17,627
+ALOY: I could try out the new weapon I have.
+
+454
+00:58:29,105 --> 00:58:30,089
+VARL: Good hit!
+
+455
+00:58:31,241 --> 00:58:33,610
+ALOY: I can do more damage to it while it's brittle.
+
+456
+00:58:38,982 --> 00:58:42,752
+VARL: It's already brittle, Aloy.
+
+457
+00:58:44,954 --> 00:58:46,155
+ALOY: Gotcha!
+
+458
+00:58:46,155 --> 00:58:47,907
+VARL: Machine couldn't take the cold.
+
+459
+00:58:52,345 --> 00:58:54,347
+ALOY: More of the Oseram delvers.
+
+460
+00:58:55,198 --> 00:58:56,916
+ALOY: And a lot of acid.
+
+461
+00:58:57,600 --> 00:59:00,837
+ALOY: That big machine must have attacked as they tried to escape.
+
+462
+00:59:01,688 --> 00:59:03,423
+ALOY: They didn't stand a chance.
+
+463
+00:59:14,083 --> 00:59:18,004
+VARL: So … you said this backup is the last hope?
+
+464
+00:59:18,888 --> 00:59:19,856
+ALOY: Yeah.
+
+465
+00:59:20,156 --> 00:59:25,612
+ALOY: All those places I've been these last few months, they were supposed to be more backups.
+
+466
+00:59:26,980 --> 00:59:31,417
+ALOY: But a thousand years ago, a guy named Ted Faro purged them all.
+
+467
+00:59:31,784 --> 00:59:33,886
+VARL: Was he part of Far Zenith, too?
+
+468
+00:59:33,886 --> 00:59:34,804
+ALOY: No.
+
+469
+00:59:35,488 --> 00:59:36,873
+ALOY: He was worse.
+
