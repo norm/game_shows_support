@@ -305,12 +305,30 @@ if not nx.is_directed_acyclic_graph(graph):
     print('** LOOP FOUND')
     cycle = list(nx.find_cycle(graph, orientation='original'))
     print("   '%s' [%s]" % (graph.nodes[cycle[0][0]]['text'], cycle[0][0]))
-    for index in cycle[1:]:
+    cyclic_nodes = set()
+    for index in cycle:
         print("      => '%s' [%s]" % (
             graph.nodes[index[1]]['text'],
             index[1],
         ))
-    sys.exit(2)
+        cyclic_nodes.add(index[1])
+
+    print('\nAFFECTED EDGES:')
+    for edge in graph.edges:
+        if edge[0] in cyclic_nodes:
+            if edge[0] == 'completed_end':
+                if edge[1] in cyclic_nodes:
+                    print(edge)
+            else:
+                print(edge)
+        elif edge[1] in cyclic_nodes:
+            if edge[1] == 'completed_end':
+                if edge[0] in cyclic_nodes:
+                    print(edge)
+            else:
+                print(edge)
+    if not args.edges and not args.graph:
+        sys.exit(2)
 
 
 if args.debug:
