@@ -22,6 +22,3 @@ before = ['encounter/telga-fendur'] # upgrade early
 [[action]]
 # 28 dmg, 60 tear / 9 dmg, 45 acid
 text = 'Unlock coil, increase stats: 95 shards, 2 braided wire, 1 burrower soundshell, 1 small machine core'
-# unlikely to get a soundshell before the previous upgrades, so do the
-# rest of To The Brink first
-after = ['story/to-the-brink-end']

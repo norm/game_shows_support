@@ -19,38 +19,42 @@ step,location,node,text
 15,Far Zenith,story/reach-for-the-stars_1,Find Zero Dawn Trade Agreement datapoint on table
 16,Far Zenith,story/reach-for-the-stars_2,"Use Slitherfang coil blasters (on the ground, to the left, once fire goes out)"
 17,Meridian,story/reach-for-the-stars_end,
-18,current,completed_end,RECORDING STARTS HERE
-19,Meridian,story/the-point-of-the-lance,The Point of the Lance
+18,Meridian,story/the-point-of-the-lance,The Point of the Lance
+19,Meridian,story/the-point-of-the-lance_0,Examine Hades sphere
+20,Meridian,story/the-point-of-the-lance_1,"Talk to Avad, learn about Fashav"
+21,Meridian,story/the-point-of-the-lance_2,Talk to everyone else
+22,The Lift,story/the-point-of-the-lance_end,
+23,The Lift,story/to-the-brink,To The Brink
+24,The Lift,story/to-the-brink_0,Take the lift down to The Daunt
+25,The Lift,story/to-the-brink_1,Talk to Studious Vuadis
+26,The Lift,story/to-the-brink_2,"On way to Chainscrape, make sure to find datapoint by burrower site"
+27,Chainscrape,story/to-the-brink_3,Upgrade bow with acid arrows
+28,The Daunt,story/to-the-brink_end,
+29,Workbench,weapon/frost-blastsling,Frost Blastsling
+,Workbench,weapon/hunter-bow,Hunter Bow
+30,Workbench,weapon/frost-blastsling_0,"Increase stats: 50 shards, 1 braided wire"
+,Workbench,weapon/hunter-bow_0,"Unlock acid arrows, increase stats: 50 shards, 1 braided wire"
+31,Workbench,weapon/hunter-bow_1,"Increase stats: 75 shards, 1 braided wire, 1 burrower circulator"
+32,Workbench,weapon/hunter-bow_2,"Unlock coil, increase stats: 95 shards, 2 braided wire, 1 burrower soundshell, 1 small machine core"
+,The Daunt Relic Ruin,encounter/telga-fendur,"Free Fendur from Bristleback, get smoke bombs"
+33,Workbench,weapon/hunter-bow_end,
+,The Daunt Relic Ruin,encounter/telga-fendur_end,
+34,The Lift,story/to-the-brink-erend,To The Brink (rescue Erend)
+35,Ruin,story/to-the-brink-erend_0,"Talk to Thurlis, learn location of Erend"
+36,current,completed_end,RECORDING STARTS HERE
+37,Abandoned Camp,story/to-the-brink-erend_1,Rescue Erend
+,Chainscrape,melee-pit/chainscrape,"Learn about the Melee pits, learn combos, defeat Odurg"
 ,Workbench,pouch/bolt-clip-satchel,Bolt Clip Satchel
-20,Meridian,story/the-point-of-the-lance_0,Examine Hades sphere
-21,Meridian,story/the-point-of-the-lance_1,"Talk to Avad, learn about Fashav"
-22,Meridian,story/the-point-of-the-lance_2,Talk to everyone else
-23,The Lift,story/the-point-of-the-lance_end,
-24,The Lift,story/to-the-brink,To The Brink
-25,The Lift,story/to-the-brink_0,Take the lift down to The Daunt
-26,The Lift,story/to-the-brink_1,Talk to Studious Vuadis
-27,The Lift,story/to-the-brink_2,"On way to Chainscrape, make sure to find datapoint by burrower site"
-28,Chainscrape,story/to-the-brink_3,Upgrade bow with acid arrows
-29,The Daunt,story/to-the-brink_end,
-30,Chainscrape,melee-pit/chainscrape,"Learn about the Melee pits, learn combos, defeat Odurg"
+,Workbench,pouch/hunter-arrow-quiver,Hunter Arrow Quiver
 ,Workbench,pouch/potion-pouch,Potion Pouch
 ,Workbench,pouch/resource-pouch,Resource Pouch
 ,Workbench,pouch/trap-pouch,Trap Pouch
-,Workbench,weapon/frost-blastsling,Frost Blastsling
-,Workbench,weapon/hunter-bow,Hunter Bow
-31,Chainscrape,melee-pit/chainscrape_end,
+38,Chainscrape,melee-pit/chainscrape_end,
+,Redhew Quarry,story/to-the-brink-erend_2,Dispatch Bristlebacks
+,Workbench,pouch/hunter-arrow-quiver_0,"Increase carry capacity: 25 shards, 2 raccoon hide"
 ,Workbench,pouch/potion-pouch_0,"Increase carry capacity: 25 shards, 2 squirrel hide"
 ,Workbench,pouch/resource-pouch_0,"Increase carry capacity: 25 shards, 2 boar hide"
 ,Workbench,pouch/trap-pouch_0,"Increase carry capacity: 25 shards, 1 squirrel bone"
-,Workbench,weapon/frost-blastsling_0,"Increase stats: 50 shards, 1 braided wire"
-,Workbench,weapon/hunter-bow_0,"Unlock acid arrows, increase stats: 50 shards, 1 braided wire"
-32,Workbench,weapon/hunter-bow_1,"Increase stats: 75 shards, 1 braided wire, 1 burrower circulator"
-33,The Daunt Relic Ruin,encounter/telga-fendur,"Free Fendur from Bristleback, get smoke bombs"
-34,The Daunt Relic Ruin,encounter/telga-fendur_end,
-35,The Lift,story/to-the-brink-erend,To The Brink (rescue Erend)
-36,Ruin,story/to-the-brink-erend_0,"Talk to Thurlis, learn location of Erend"
-37,Abandoned Camp,story/to-the-brink-erend_1,Rescue Erend
-38,Redhew Quarry,story/to-the-brink-erend_2,Dispatch Bristlebacks
 39,Redhew Quarry,story/to-the-brink-erend_3,Talk to Belna
 40,The Daunt,story/to-the-brink-erend_end,
 41,Chainscrape,story/to-the-brink-end,Talk to Studious Vuadis
@@ -59,14 +63,11 @@ step,location,node,text
 42,Chainscrape,story/to-the-brink-end_0,"Talk to Ulvund, unlock the settlement"
 ,Workbench,pouch/tripwire-pouch_0,"Increase carry capacity: 25 shards, 1 jay wishbone"
 ,Workbench,weapon/frost-blastsling_1,"Increase stats: 75 shards, 1 braided wire, 1 bristleback circulator"
-,Workbench,weapon/hunter-bow_2,"Unlock coil, increase stats: 95 shards, 2 braided wire, 1 burrower soundshell, 1 small machine core"
 ,Workbench,weapon/shock-tripcaster_0,"Increase stats: 50 shards, 1 braided wire"
 43,Chainscrape,story/to-the-brink-end_1,Talk to Studious Vuadis again
 ,Workbench,weapon/frost-blastsling_2,"Unlock coil, increase stats: 95 shards, 2 braided wire, 1 bristleback tusk, 1 small machine core"
-,Workbench,weapon/hunter-bow_end,
 ,Workbench,weapon/shock-tripcaster_1,"Increase stats: 75 shards, 1 braided wire, 1 scrounger circulator"
 44,Chainscrape,story/to-the-brink-end_end,
-,Workbench,pouch/hunter-arrow-quiver,Hunter Arrow Quiver
 ,Workbench,weapon/frost-blastsling_end,
 ,Workbench,weapon/shock-tripcaster_2,"Unlock coil, increase stats: 95 shards, 2 braided wire, 1 scrounger spark coil, 1 small machine core"
 45,Chainscrape,errand/a-bigger-boom,Talk to Delah
@@ -76,7 +77,6 @@ step,location,node,text
 ,Chainscrape,side-quest/the-twilight-path,"Talk to Petra, learn of the Shadow Carja refugees"
 ,The Daunt Hunting Ground,hunting-ground/the-daunt,"Talk to the groundskeeper, buy the Strike pieces and weapons"
 ,Workbench,pouch/bomb-satchel,Bomb Satchel
-,Workbench,pouch/hunter-arrow-quiver_0,"Increase carry capacity: 25 shards, 2 raccoon hide"
 ,Workbench,weapon/shock-tripcaster_end,
 46,Chainscrape,errand/a-bigger-boom_0,Gather 3 charger horns and a fanghorn rib
 ,Chainscrape,errand/a-dash-of-courage_0,Gather 5 wild meat and 3 bitter leaf

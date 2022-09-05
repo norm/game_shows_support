@@ -17,9 +17,6 @@
   Stars]
 * {Far Zenith} Use Slitherfang coil blasters (on the ground, to the left, once
   fire goes out) [Reach For The Stars]
-
-============================ RECORDING STARTS HERE =============================
-
 * {Meridian} Examine Hades sphere [The Point of the Lance]
 * {Meridian} Talk to Avad, learn about Fashav [The Point of the Lance]
 * {Meridian} Talk to everyone else [The Point of the Lance]
@@ -28,12 +25,39 @@
 * {The Lift} On way to Chainscrape, make sure to find datapoint by burrower site
   [To The Brink]
 * {Chainscrape} Upgrade bow with acid arrows [To The Brink]
-  Go to Chainscrape for Chainscrape Melee Pit
-. {Chainscrape} Learn about the Melee pits, learn combos, defeat Odurg
-  [Chainscrape Melee Pit]
+--- 2 equal options:
+      ['weapon/frost-blastsling_0', 'weapon/hunter-bow_0']
+    . {Workbench} Increase stats: 50 shards, 1 braided wire [Frost Blastsling]
+    . {Workbench} Unlock acid arrows, increase stats: 50 shards, 1 braided wire
+      [Hunter Bow]
+. {Workbench} Increase stats: 75 shards, 1 braided wire, 1 burrower circulator
+  [Hunter Bow]
+--- 2 equal options:
+      ['weapon/hunter-bow_2', 'encounter/telga-fendur']
+    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
+      burrower soundshell, 1 small machine core [Hunter Bow]
+      Go to The Daunt Relic Ruin for Telga and Fendur
+    . {The Daunt Relic Ruin} Free Fendur from Bristleback, get smoke bombs
+      [Telga and Fendur]
+* {Ruin} Talk to Thurlis, learn location of Erend [To The Brink (rescue Erend)]
+
+============================ RECORDING STARTS HERE =============================
+
+--- 2 equal options:
+      ['story/to-the-brink-erend_1', 'melee-pit/chainscrape']
+      Go to Abandoned Camp for To The Brink (rescue Erend)
+    * {Abandoned Camp} Rescue Erend [To The Brink (rescue Erend)]
+      Go to Chainscrape for Chainscrape Melee Pit
+    . {Chainscrape} Learn about the Melee pits, learn combos, defeat Odurg
+      [Chainscrape Melee Pit]
 --- 5 equal options:
-      ['pouch/potion-pouch_0', 'pouch/resource-pouch_0', 'pouch/trap-pouch_0',
-       'weapon/frost-blastsling_0', 'weapon/hunter-bow_0']
+      ['story/to-the-brink-erend_2', 'pouch/hunter-arrow-quiver_0',
+       'pouch/potion-pouch_0', 'pouch/resource-pouch_0', 'pouch/trap-pouch_0']
+      Go to Redhew Quarry for To The Brink (rescue Erend)
+    * {Redhew Quarry} Dispatch Bristlebacks [To The Brink (rescue Erend)]
+      Go to Workbench for Hunter Arrow Quiver
+    . {Workbench} Increase carry capacity: 25 shards, 2 raccoon hide [Hunter
+      Arrow Quiver]
       Go to Workbench for Potion Pouch
     . {Workbench} Increase carry capacity: 25 shards, 2 squirrel hide [Potion
       Pouch]
@@ -43,27 +67,13 @@
       Go to Workbench for Trap Pouch
     . {Workbench} Increase carry capacity: 25 shards, 1 squirrel bone [Trap
       Pouch]
-      Go to Workbench for Frost Blastsling
-    . {Workbench} Increase stats: 50 shards, 1 braided wire [Frost Blastsling]
-      Go to Workbench for Hunter Bow
-    . {Workbench} Unlock acid arrows, increase stats: 50 shards, 1 braided wire
-      [Hunter Bow]
-  Go to Workbench for Hunter Bow
-. {Workbench} Increase stats: 75 shards, 1 braided wire, 1 burrower circulator
-  [Hunter Bow]
-  Go to The Daunt Relic Ruin for Telga and Fendur
-. {The Daunt Relic Ruin} Free Fendur from Bristleback, get smoke bombs [Telga
-  and Fendur]
-* {Ruin} Talk to Thurlis, learn location of Erend [To The Brink (rescue Erend)]
-* {Abandoned Camp} Rescue Erend [To The Brink (rescue Erend)]
-* {Redhew Quarry} Dispatch Bristlebacks [To The Brink (rescue Erend)]
+  Go to Redhew Quarry for To The Brink (rescue Erend)
 * {Redhew Quarry} Talk to Belna [To The Brink (rescue Erend)]
   Go to Chainscrape for To The Brink (complete)
 * {Chainscrape} Talk to Studious Vuadis [To The Brink (complete)]
---- 5 equal options:
+--- 4 equal options:
       ['story/to-the-brink-end_0', 'pouch/tripwire-pouch_0',
-       'weapon/frost-blastsling_1', 'weapon/hunter-bow_2',
-       'weapon/shock-tripcaster_0']
+       'weapon/frost-blastsling_1', 'weapon/shock-tripcaster_0']
       Go to Chainscrape for To The Brink (complete)
     * {Chainscrape} Talk to Ulvund, unlock the settlement [To The Brink
       (complete)]
@@ -73,9 +83,6 @@
       Go to Workbench for Frost Blastsling
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 bristleback
       circulator [Frost Blastsling]
-      Go to Workbench for Hunter Bow
-    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
-      burrower soundshell, 1 small machine core [Hunter Bow]
       Go to Workbench for Shock Tripcaster
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Shock Tripcaster]
 --- 3 equal options:
@@ -92,11 +99,10 @@
   Go to Workbench for Shock Tripcaster
 . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
   scrounger spark coil, 1 small machine core [Shock Tripcaster]
---- 7 equal options:
+--- 6 equal options:
       ['errand/a-bigger-boom', 'errand/a-dash-of-courage',
        'side-quest/deep-trouble', 'side-quest/the-bristlebacks',
-       'side-quest/the-twilight-path', 'hunting-ground/the-daunt',
-       'pouch/hunter-arrow-quiver_0']
+       'side-quest/the-twilight-path', 'hunting-ground/the-daunt']
       Go to Chainscrape for A Bigger Boom
     . {Chainscrape} Talk to Delah [A Bigger Boom]
       Go to Chainscrape for A Dash of Courage
@@ -111,9 +117,6 @@
       Go to The Daunt Hunting Ground for The Daunt Hunting Ground
     . {The Daunt Hunting Ground} Talk to the groundskeeper, buy the Strike
       pieces and weapons [The Daunt Hunting Ground]
-      Go to Workbench for Hunter Arrow Quiver
-    . {Workbench} Increase carry capacity: 25 shards, 2 raccoon hide [Hunter
-      Arrow Quiver]
 --- 7 equal options:
       ['errand/a-bigger-boom_0', 'errand/a-dash-of-courage_0',
        'side-quest/deep-trouble_0', 'side-quest/the-bristlebacks_0',

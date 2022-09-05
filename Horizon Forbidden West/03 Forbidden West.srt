@@ -1,0 +1,2195 @@
+1
+00:00:21,021 --> 00:00:23,139
+MARAD: Something happened at the Spire.
+
+2
+00:00:25,625 --> 00:00:28,611
+MARAD: Come, I'll show you.
+
+3
+00:00:28,611 --> 00:00:32,866
+ALOY: The Spire is supposed to send out
+signals — messages — for the terraforming system.
+
+4
+00:00:32,866 --> 00:00:36,186
+VARL: But Hades tried to use it to wake up ancient war machines.
+
+5
+00:00:36,519 --> 00:00:38,338
+ALOY: I was sure I cut the connection to that thing.
+
+6
+00:00:47,030 --> 00:00:49,032
+Somewhere to the far West.
+
+7
+00:00:49,632 --> 00:00:52,352
+SYLENS: I see you finally figured it out.
+
+8
+00:00:53,036 --> 00:00:57,474
+SYLENS: To be honest, I'm surprised it took you so long to discover my ruse.
+
+9
+00:00:58,024 --> 00:01:00,493
+You rigged the lance to steal Hades.
+
+10
+00:01:01,127 --> 00:01:02,979
+I've made progress.
+
+11
+00:01:03,530 --> 00:01:07,567
+SYLENS: So once your anger
+at my entirely necessary deception has faded…
+
+12
+00:01:08,201 --> 00:01:11,354
+SYLENS: …well, why don't you come out here
+and find me in the Forbidden West…
+
+13
+00:01:11,354 --> 00:01:14,424
+SYLENS: …and learn all that I have discovered.
+
+14
+00:01:15,191 --> 00:01:17,210
+ALOY: Oh, I'll come find you, alright.
+
+15
+00:01:20,130 --> 00:01:24,284
+VARL: You went inside it and it transformed,
+almost like the day of the battle.
+
+16
+00:01:24,284 --> 00:01:26,686
+MARAD: I can only be grateful that it's a stormy day.
+
+17
+00:01:26,686 --> 00:01:29,239
+Few will have seen the tower change from Meridian.
+
+18
+00:01:30,323 --> 00:01:31,741
+What did you discover?
+
+19
+00:01:32,225 --> 00:01:33,443
+ALOY: Hades.
+
+20
+00:01:34,027 --> 00:01:35,845
+ALOY: The danger didn't end here.
+
+21
+00:01:35,929 --> 00:01:37,947
+ALOY: It went into the Forbidden West.
+
+22
+00:01:38,815 --> 00:01:40,066
+ALOY: And I have to follow.
+
+23
+00:01:40,066 --> 00:01:43,036
+MARAD: I see. That can be difficult.
+
+24
+00:01:45,021 --> 00:01:47,240
+The West is called forbidden for a reason.
+
+25
+00:01:47,624 --> 00:01:52,028
+A tribe of ferocious warriors controls much of it, the Tenakth.
+
+26
+00:01:52,028 --> 00:01:54,547
+MARAD: And they allow no trespassers past its border.
+
+27
+00:01:55,315 --> 00:02:01,304
+MARAD: That said, under the Sun-King Avad,
+a fragile peace has been negotiated.
+
+28
+00:02:01,321 --> 00:02:06,426
+MARAD: And indeed, the next Embassy will take place
+in a day or two on the edge of the frontier.
+
+29
+00:02:06,726 --> 00:02:11,214
+MARAD: Were you to attend the gathering under his auspices,
+
+30
+00:02:11,214 --> 00:02:13,683
+MARAD: the Tenakth might grant right of passage,
+
+31
+00:02:13,683 --> 00:02:16,986
+MARAD: instead of hunting you and attacking on sight.
+
+32
+00:02:16,986 --> 00:02:20,306
+Great, just what I need — more killers.
+
+33
+00:02:21,007 --> 00:02:23,593
+MARAD: Ah, the Sun-King.
+
+34
+00:02:31,351 --> 00:02:34,170
+AVAD: Aloy, it's good to see you.
+
+35
+00:02:34,854 --> 00:02:38,158
+You left in such haste we never had a chance to properly thank you.
+
+36
+00:02:38,158 --> 00:02:40,977
+ITAMEN: Can— can we show the Champion the spear now? Please?
+
+37
+00:02:40,977 --> 00:02:43,129
+NASADI: Itamen, quiet.
+
+38
+00:02:43,563 --> 00:02:46,115
+AVAD: It's true, we bear gifts.
+
+39
+00:02:46,115 --> 00:02:49,636
+AVAD: Decorum usually calls for a ceremony of offering at the palace.
+
+40
+00:02:49,919 --> 00:02:53,039
+AVAD: But I thought you would prefer a less formal occasion.
+
+41
+00:02:53,723 --> 00:02:54,724
+AVAD: Bring them, please!
+
+42
+00:02:54,724 --> 00:02:57,260
+ALOY: Avad, this is all very kind, but I —
+
+43
+00:02:57,260 --> 00:03:00,263
+VANASHA: Quick, better hand them over before she runs off again.
+
+44
+00:03:00,480 --> 00:03:03,499
+UTHID: Really? Must you?
+
+45
+00:03:16,529 --> 00:03:17,947
+VARL: Try it on.
+
+46
+00:03:23,336 --> 00:03:24,921
+ALOY: It's beautiful.
+
+47
+00:03:24,921 --> 00:03:27,507
+AVAD: On behalf of all the citizens of the Sundom…
+
+48
+00:03:28,041 --> 00:03:31,661
+AVAD: …may these tokens remind you of our eternal gratitude.
+
+49
+00:03:44,540 --> 00:03:47,176
+MARAD: Perhaps you'd like to spend more time with your friends.
+
+50
+00:03:47,627 --> 00:03:50,146
+MARAD: Come speak to me when you're ready to depart.
+
+51
+00:03:58,137 --> 00:04:01,741
+I need to attach the Master Override to my new spear.
+
+52
+00:04:01,741 --> 00:04:04,911
+Should be a workbench around here I can use.
+
+53
+00:04:16,739 --> 00:04:20,660
+NASADI: Manners, Itamen. Now come and stand beside me.
+
+54
+00:04:22,929 --> 00:04:24,681
+Dowager Queen Nasadi.
+
+55
+00:04:24,681 --> 00:04:28,751
+NASADI: Blessed Champion. Itamen, what do you say?
+
+56
+00:04:31,137 --> 00:04:33,773
+My humblest thanks to you, great Champion.
+
+57
+00:04:33,773 --> 00:04:35,992
+For delivering my mother and me from Sunfall.
+
+58
+00:04:35,992 --> 00:04:39,262
+ITAMEN: And for defending our holy city against the forces of shadow.
+
+59
+00:04:40,330 --> 00:04:41,547
+Did I say it right?
+
+60
+00:04:42,432 --> 00:04:44,550
+You said it fine, Itamen.
+
+61
+00:04:45,051 --> 00:04:46,085
+And you're welcome.
+
+62
+00:04:46,653 --> 00:04:50,056
+Champion, will you teach me how to shoot like a real machine hunter?
+
+63
+00:04:50,056 --> 00:04:51,007
+Itamen!
+
+64
+00:04:51,541 --> 00:04:55,795
+I have to go on an important mission, Prince.
+
+65
+00:04:55,795 --> 00:04:56,863
+To save the world?
+
+66
+00:04:56,863 --> 00:04:58,298
+Something like that.
+
+67
+00:05:01,084 --> 00:05:04,220
+But when I come back, I could give you a few tips.
+
+68
+00:05:04,587 --> 00:05:05,888
+It would be an honour.
+
+69
+00:05:08,875 --> 00:05:12,695
+NASADI: We owe you our lives, Champion, and we will not forget.
+
+70
+00:05:12,979 --> 00:05:14,897
+NASADI: May the Sun light your way.
+
+71
+00:05:15,181 --> 00:05:17,400
+ITAMEN: Watch out for Thunderjaws, Champion!
+
+72
+00:05:18,184 --> 00:05:22,488
+ITAMEN: Is it true you and Talanah killed Redmaw? Marad said it's true.
+
+73
+00:05:22,488 --> 00:05:28,077
+NASADI: Hush child! Marad should know better
+than to fill your head with such stories.
+
+74
+00:05:28,077 --> 00:05:31,197
+ITAMEN: But his stories are the only ones that aren't boring.
+
+75
+00:05:32,582 --> 00:05:34,951
+ADVISER: Shipments continue to arrive weekly through Cut-Cliffs.
+
+76
+00:05:34,951 --> 00:05:38,988
+ADVISER: And another band of Oseram labourers
+have been hired to speed up reconstruction.
+
+77
+00:05:39,889 --> 00:05:41,007
+AVAD: Very good.
+
+78
+00:05:41,457 --> 00:05:44,844
+ALOY: Is that a statue of me?
+
+79
+00:05:45,778 --> 00:05:48,231
+AVAD: The sculptor wanted something even bigger.
+
+80
+00:05:48,231 --> 00:05:51,901
+AVAD: Twice the size, covered in gold and jewels.
+
+81
+00:05:52,285 --> 00:05:55,455
+AVAD: But I was quite certain you wouldn't appreciate that.
+
+82
+00:05:55,855 --> 00:05:57,306
+ALOY: You were right.
+
+83
+00:06:02,879 --> 00:06:04,997
+ALOY: I'm sorry, Avad.
+
+84
+00:06:05,665 --> 00:06:08,801
+AVAD: It's good to see you, but I can't stay long.
+
+85
+00:06:08,885 --> 00:06:10,002
+AVAD: I see.
+
+86
+00:06:11,788 --> 00:06:14,407
+AVAD: I'd hoped you'd remain in the city for a time.
+
+87
+00:06:15,091 --> 00:06:16,559
+AVAD: Perhaps at the palace.
+
+88
+00:06:16,676 --> 00:06:20,897
+ALOY: Meridian's still in danger, but it's bigger than that.
+
+89
+00:06:21,481 --> 00:06:24,000
+ALOY: To put things right, I have to go west.
+
+90
+00:06:24,684 --> 00:06:26,502
+ALOY: Tenakth territory.
+
+91
+00:06:26,986 --> 00:06:28,888
+AVAD: By the Sun! The Tenakth?
+
+92
+00:06:31,391 --> 00:06:34,043
+AVAD: Well, perhaps Marad already told you, but…
+
+93
+00:06:34,043 --> 00:06:37,296
+AVAD: After years of hostility, we've negotiated a truce.
+
+94
+00:06:37,296 --> 00:06:39,198
+AVAD: And hopes of a lasting peace.
+
+95
+00:06:39,482 --> 00:06:41,984
+AVAD: Another Embassy will be held in just a day or two.
+
+96
+00:06:41,984 --> 00:06:45,054
+"Years of hostility" — I assume you mean the Red Raids?
+
+97
+00:06:45,388 --> 00:06:48,191
+Ah, yes, my favourite subject.
+
+98
+00:06:48,374 --> 00:06:50,710
+I wouldn't ask if I didn't need to know.
+
+99
+00:06:51,227 --> 00:06:54,881
+As you know, my father raided all the border tribes.
+
+100
+00:06:55,648 --> 00:07:00,770
+The Oseram, Banuk, and Nora suffered greatly,
+resisting as best they could.
+
+101
+00:07:01,654 --> 00:07:03,856
+But none fought back like the Tenakth.
+
+102
+00:07:04,457 --> 00:07:07,293
+They rose up and assaulted our western front of Barren Light.
+
+103
+00:07:07,293 --> 00:07:09,162
+Sweeping us from their lands.
+
+104
+00:07:10,179 --> 00:07:14,100
+AVAD: Getting them to talk to us again after that was … tricky.
+
+105
+00:07:14,350 --> 00:07:16,886
+How did you get the Tenakth to talk again?
+
+106
+00:07:16,886 --> 00:07:19,071
+The same way I got you to talk.
+
+107
+00:07:19,071 --> 00:07:20,606
+By giving gifts.
+
+108
+00:07:22,442 --> 00:07:24,243
+The Tenakth like tiaras?
+
+109
+00:07:24,944 --> 00:07:29,365
+More like metals, spices, and relics looted during the fighting.
+
+110
+00:07:30,366 --> 00:07:34,654
+We've met with them on several occasions,
+and the gifts seem to have eased the tension.
+
+111
+00:07:35,204 --> 00:07:38,090
+But this coming Embassy is the most important yet.
+
+112
+00:07:38,090 --> 00:07:41,794
+The best sign we've had so far that the Tenakth want lasting peace.
+
+113
+00:07:42,812 --> 00:07:45,314
+What makes this coming Embassy so special?
+
+114
+00:07:45,314 --> 00:07:49,051
+Well, just like today, it is special because of the guest.
+
+115
+00:07:50,486 --> 00:07:53,806
+Our delegation will meet with the Tenakth just outside Barren Light.
+
+116
+00:07:54,090 --> 00:07:56,993
+We'll give them treasure and they'll return a prisoner.
+
+117
+00:07:57,443 --> 00:08:00,329
+Fashav, one of our finest soldiers.
+
+118
+00:08:00,329 --> 00:08:03,216
+Soldier? Don't you mean Raider?
+
+119
+00:08:03,216 --> 00:08:06,085
+No, not in this case.
+
+120
+00:08:06,352 --> 00:08:07,720
+Fashav is my cousin.
+
+121
+00:08:07,720 --> 00:08:09,755
+Nothing like Helis and his ilk.
+
+122
+00:08:10,256 --> 00:08:14,594
+He joined the Western Expedition with the hopes
+of reining in certain excesses.
+
+123
+00:08:15,311 --> 00:08:20,066
+AVAD: But he was captured during a heroic defence
+of our forward base at Cinnabar Sands.
+
+124
+00:08:20,950 --> 00:08:22,585
+And has been held ever since.
+
+125
+00:08:23,252 --> 00:08:25,421
+How long has he been a Tenakth captive?
+
+126
+00:08:27,456 --> 00:08:28,724
+Five years.
+
+127
+00:08:30,543 --> 00:08:32,445
+Tenakth emissaries swear he is well.
+
+128
+00:08:32,445 --> 00:08:34,363
+But I wonder.
+
+129
+00:08:35,014 --> 00:08:37,416
+That tribe is renowned for its brutality.
+
+130
+00:08:37,750 --> 00:08:39,268
+How did he survive?
+
+131
+00:08:41,888 --> 00:08:44,006
+Well, I'll know soon enough.
+
+132
+00:08:45,708 --> 00:08:47,860
+If you see him before I do…
+
+133
+00:08:47,860 --> 00:08:51,430
+Tell him that I await him in Meridian, where he belongs.
+
+134
+00:08:52,415 --> 00:08:53,933
+Itamen looks happy.
+
+135
+00:08:54,817 --> 00:08:56,419
+AVAD: You got him out of Sunfall.
+
+136
+00:08:56,819 --> 00:08:59,322
+AVAD: Any happiness he has, he owes to you.
+
+137
+00:09:01,741 --> 00:09:03,960
+He's turning into a fine young man.
+
+138
+00:09:04,343 --> 00:09:06,979
+Which he'll need to be if he is to inherit the crown.
+
+139
+00:09:06,979 --> 00:09:09,865
+Wouldn't the crown go to a son of yours first?
+
+140
+00:09:10,149 --> 00:09:11,450
+Yes, well.
+
+141
+00:09:12,051 --> 00:09:13,536
+I'd have to get married for that to happen.
+
+142
+00:09:13,536 --> 00:09:14,020
+I'd have to get married for that to happen.
+
+143
+00:09:16,622 --> 00:09:19,725
+Marad keeps throwing noble matches at me.
+
+144
+00:09:20,610 --> 00:09:23,496
+But I find I'm always…
+
+145
+00:09:24,714 --> 00:09:27,433
+…trying to make them into someone they're not.
+
+146
+00:09:29,919 --> 00:09:32,622
+AVAD: At any rate, I never aspired to the throne.
+
+147
+00:09:32,622 --> 00:09:34,941
+And I don't wish to sit there forever.
+
+148
+00:09:35,207 --> 00:09:38,227
+When Itamen comes of age, I hope to step aside.
+
+149
+00:09:39,512 --> 00:09:41,030
+Free of the crown.
+
+150
+00:09:42,014 --> 00:09:44,216
+I might finally be able to travel the world.
+
+151
+00:09:45,217 --> 00:09:48,871
+Who knows, perhaps even accompany you on one of your adventures?
+
+152
+00:09:48,871 --> 00:09:49,889
+I need to get going.
+
+153
+00:09:49,889 --> 00:09:51,190
+AVAD: Ah, one moment Aloy!
+
+154
+00:09:51,557 --> 00:09:53,376
+There's something I must ask you.
+
+155
+00:09:53,809 --> 00:09:56,495
+Since you left, I've thought of little else.
+
+156
+00:09:56,746 --> 00:09:58,064
+This isn't really the time.
+
+157
+00:09:58,064 --> 00:09:59,565
+But it has to be.
+
+158
+00:10:00,149 --> 00:10:04,203
+The way you left before, there's no way to know when I'll see you again.
+
+159
+00:10:05,538 --> 00:10:09,141
+I'm not trying to stop you or hold you back.
+
+160
+00:10:09,141 --> 00:10:10,459
+But I need to know.
+
+161
+00:10:11,060 --> 00:10:12,795
+When your mission is over.
+
+162
+00:10:13,179 --> 00:10:16,782
+Will you return to Meridian, and stay?
+
+163
+00:10:17,783 --> 00:10:21,687
+Long enough for us to … spend time to …
+
+164
+00:10:21,687 --> 00:10:24,540
+… get to know each other properly, perhaps?
+
+165
+00:10:24,774 --> 00:10:30,196
+Avad, the situation calls for … a higher perspective.
+
+166
+00:10:31,330 --> 00:10:36,285
+The threat I'm facing endangers not just Meridian,
+but a lot of other places too.
+
+167
+00:10:36,285 --> 00:10:37,953
+A lot of innocent people.
+
+168
+00:10:39,171 --> 00:10:43,793
+What happens between us … it's not important.
+
+169
+00:10:44,560 --> 00:10:47,296
+At least not yet.
+
+170
+00:10:47,947 --> 00:10:49,065
+You're right.
+
+171
+00:10:50,249 --> 00:10:51,767
+I'm acting like a fool.
+
+172
+00:10:53,235 --> 00:10:55,955
+It's supposed to be the king who calls for a higher perspective.
+
+173
+00:10:55,955 --> 00:10:58,674
+I do hope to see Meridian again, Avad.
+
+174
+00:10:59,658 --> 00:11:00,876
+And you.
+
+175
+00:11:02,228 --> 00:11:07,149
+But, this mission, it's my life.
+
+176
+00:11:07,900 --> 00:11:09,719
+It's all I can think about.
+
+177
+00:11:10,369 --> 00:11:12,288
+I have to stay focused.
+
+178
+00:11:14,023 --> 00:11:15,641
+What happens after?
+
+179
+00:11:16,776 --> 00:11:18,594
+I can't imagine that.
+
+180
+00:11:19,929 --> 00:11:21,280
+I wouldn't know where to begin.
+
+181
+00:11:21,831 --> 00:11:24,734
+If that place were to end up being Meridian…
+
+182
+00:11:24,734 --> 00:11:27,903
+…know that you will always receive a boundless welcome here.
+
+183
+00:11:29,488 --> 00:11:30,990
+Tend to your mission, Aloy.
+
+184
+00:11:31,273 --> 00:11:33,142
+I will hope for your success.
+
+185
+00:11:34,577 --> 00:11:36,996
+As always, our hopes ride with you.
+
+186
+00:12:03,506 --> 00:12:05,291
+There, the workbench.
+
+187
+00:12:22,641 --> 00:12:25,377
+Okay, Master Override installed.
+
+188
+00:12:26,745 --> 00:12:32,284
+Plus something new to store up and release energy.
+
+189
+00:12:32,284 --> 00:12:36,522
+A "resonator". Should help in a fight.
+
+190
+00:12:42,995 --> 00:12:44,764
+ALOY: Uthid. Vanasha.
+
+191
+00:12:45,181 --> 00:12:46,765
+Thanks for being here.
+
+192
+00:12:46,765 --> 00:12:47,833
+VANASHA: Wouldn't miss it.
+
+193
+00:12:47,833 --> 00:12:50,636
+Even if you did leave us hanging after the big battle.
+
+194
+00:12:50,636 --> 00:12:52,087
+UTHID: Vanasha, stop.
+
+195
+00:12:52,505 --> 00:12:53,823
+She's here now, isn't she?
+
+196
+00:12:54,023 --> 00:12:55,357
+VANASHA: For the moment.
+
+197
+00:12:55,357 --> 00:12:57,209
+But I see that look on her face.
+
+198
+00:12:57,209 --> 00:12:59,395
+She's got business to attend to.
+
+199
+00:12:59,395 --> 00:13:01,580
+And it isn't in Meridian.
+
+200
+00:13:01,847 --> 00:13:05,568
+You know, I didn't vanish before because I wanted to, I had—
+
+201
+00:13:05,568 --> 00:13:08,420
+Little huntress, please.
+
+202
+00:13:08,420 --> 00:13:10,856
+You don't have to justify yourself to us.
+
+203
+00:13:10,856 --> 00:13:12,658
+You saved our butts.
+
+204
+00:13:12,658 --> 00:13:15,077
+If you've got to go, go.
+
+205
+00:13:15,077 --> 00:13:16,879
+With our blessing.
+
+206
+00:13:17,012 --> 00:13:18,330
+UTHID: Always.
+
+207
+00:13:19,248 --> 00:13:21,550
+You both look like you're doing well.
+
+208
+00:13:21,550 --> 00:13:25,738
+VANASHA: Mr Shiny Pants here is now
+the Sun-King's senior military adviser.
+
+209
+00:13:25,738 --> 00:13:29,058
+That means people actually have to listen to him talk.
+
+210
+00:13:29,058 --> 00:13:31,193
+May the Sun bless their sorry souls.
+
+211
+00:13:31,193 --> 00:13:34,864
+UTHID: At least I say something of substance every once in a while.
+
+212
+00:13:35,548 --> 00:13:36,665
+What was that?
+
+213
+00:13:36,749 --> 00:13:38,734
+I just fell asleep while you were talking.
+
+214
+00:13:38,734 --> 00:13:40,653
+ALOY: And how about you, Vanasha?
+
+215
+00:13:40,653 --> 00:13:43,289
+I've been looking after Nasadi and Itamen.
+
+216
+00:13:43,289 --> 00:13:45,074
+Two parts bodyguard, one part—
+
+217
+00:13:45,074 --> 00:13:46,392
+UTHID: Bad influence.
+
+218
+00:13:46,392 --> 00:13:50,112
+VANAHSA: Ha! I was going to say nanny, but I like your version better.
+
+219
+00:13:50,112 --> 00:13:52,481
+ALOY: I never pictured you as a nanny.
+
+220
+00:13:52,481 --> 00:13:53,616
+Itamen must be special.
+
+221
+00:13:53,616 --> 00:13:54,700
+VANASHA: Hold on now!
+
+222
+00:13:54,700 --> 00:13:56,952
+I'm not entirely domesticated.
+
+223
+00:13:56,952 --> 00:14:00,122
+Nasadi was the Mad Sun-King's wife, she has enemies.
+
+224
+00:14:00,122 --> 00:14:02,458
+I've had to foil a plot or two.
+
+225
+00:14:02,458 --> 00:14:08,364
+UTHID: Right. You can try to hide it,
+but inside you're as soft as a silk pillow.
+
+226
+00:14:08,364 --> 00:14:11,383
+VANASHA: Oh, you have no idea.
+
+227
+00:14:11,734 --> 00:14:13,869
+UTHID: Uh, oh dear.
+
+228
+00:14:13,869 --> 00:14:16,171
+ALOY: Uhhh, we were talking about Itamen?
+
+229
+00:14:16,171 --> 00:14:17,973
+VANASHA: Okay, I admit it.
+
+230
+00:14:17,973 --> 00:14:21,260
+Itamen's cute, he's fun, and he looks up to me.
+
+231
+00:14:21,260 --> 00:14:22,828
+I like him.
+
+232
+00:14:22,828 --> 00:14:27,600
+Except when he forgets to wash his hands after hooking worms
+in that muddy garden behind his solarium.
+
+233
+00:14:27,600 --> 00:14:28,784
+Bleech!
+
+234
+00:14:29,468 --> 00:14:31,870
+It's been months since I was in Sunfall.
+
+235
+00:14:31,870 --> 00:14:33,772
+What's become of the Shadow Carja?
+
+236
+00:14:33,772 --> 00:14:39,178
+VANASHA: After you wiped out the Eclipse, there were
+hardly any priests or officers left to terrorise the little people.
+
+237
+00:14:39,178 --> 00:14:43,165
+UTHID: Avad offered amnesty to all
+who were forced to serve the Shadow.
+
+238
+00:14:43,165 --> 00:14:46,685
+So the commoners cleaned out the citadel and handed it back to him.
+
+239
+00:14:46,769 --> 00:14:48,671
+The Sundom was unified.
+
+240
+00:14:48,671 --> 00:14:52,558
+VANASHA: Avad wanted Uthid to take command of the garrison there…
+
+241
+00:14:52,558 --> 00:14:55,511
+VANASHA: …but Captain cuddly here refused.
+
+242
+00:14:55,511 --> 00:14:59,031
+Rumour has it that he wanted to stay close to me here in Meridian.
+
+243
+00:14:59,031 --> 00:15:01,717
+UTHID: He he, that's nonsense of course.
+
+244
+00:15:04,169 --> 00:15:07,072
+ALOY: Well—
+VANASHA: I know, I know, you're out.
+
+245
+00:15:07,072 --> 00:15:08,857
+Go! Away with you!
+
+246
+00:15:08,857 --> 00:15:10,759
+UTHID: Always an honour, Champion.
+
+247
+00:15:10,759 --> 00:15:12,895
+VANASHA: Always a pleasure.
+
+248
+00:15:13,262 --> 00:15:16,432
+But please, little huntress, come back someday?
+
+249
+00:15:16,432 --> 00:15:18,567
+And tell us about your adventures?
+
+250
+00:15:18,567 --> 00:15:22,087
+If I can't get in trouble, at least I can hear about yours.
+
+251
+00:15:30,312 --> 00:15:33,499
+GUARD: Saviour, welcome back to the Alight.
+
+252
+00:15:33,916 --> 00:15:35,534
+Well, that's everyone.
+
+253
+00:15:36,418 --> 00:15:38,237
+I guess it was nice to catch up.
+
+254
+00:15:39,121 --> 00:15:40,339
+For a little while.
+
+255
+00:15:45,311 --> 00:15:50,232
+Machine carcasses, remnants from the battle of the Alight.
+
+256
+00:16:07,216 --> 00:16:10,536
+"Honouring those who fell in the battle of the Alight."
+
+257
+00:16:11,020 --> 00:16:14,223
+Lots of brave people defended this place from Hades.
+
+258
+00:16:31,123 --> 00:16:34,343
+I guess I should be flattered by the statue.
+
+259
+00:16:35,110 --> 00:16:37,146
+It feels wrong.
+
+260
+00:16:37,613 --> 00:16:40,249
+Especially when my job is only half done.
+
+261
+00:16:48,090 --> 00:16:49,641
+I'd better get going.
+
+262
+00:16:49,725 --> 00:16:55,047
+And if I'm headed west, it sounds like I'll need
+right of passage from the Tenakth as you said.
+
+263
+00:16:55,814 --> 00:16:58,400
+Where exactly is this Embassy going to be held?
+
+264
+00:16:58,400 --> 00:17:02,638
+MARAD: Past The Daunt, the canyon that marks
+the western border of the Sundom.
+
+265
+00:17:02,638 --> 00:17:06,158
+You'll find the fortress of Barren Light at its farthest edge.
+
+266
+00:17:06,158 --> 00:17:09,428
+MARAD: The Embassy will take place just beyond its gates.
+
+267
+00:17:09,428 --> 00:17:13,248
+It's a long march, fortnight on foot.
+
+268
+00:17:13,632 --> 00:17:16,051
+VARL: A couple of day's hard riding should get us there.
+
+269
+00:17:17,536 --> 00:17:20,856
+ALOY: Actually, it might be better to rest here tonight.
+
+270
+00:17:21,240 --> 00:17:22,241
+Head out in the morning.
+
+271
+00:17:22,241 --> 00:17:25,044
+Of course. I'll arrange it.
+
+272
+00:18:07,486 --> 00:18:10,489
+[Song: In The Flood, by Oleksa Lozowchuk, feat. Ariana Gillis]
+
+273
+00:18:18,030 --> 00:18:21,567
+Am I the one to hold
+
+274
+00:18:21,567 --> 00:18:25,270
+This crown of ash and salt
+
+275
+00:18:25,270 --> 00:18:28,941
+Their kindness calls to me
+
+276
+00:18:28,941 --> 00:18:32,277
+I have to block it out
+
+277
+00:18:32,461 --> 00:18:36,381
+My voice has grown so somber
+
+278
+00:18:36,381 --> 00:18:39,985
+These words don't seem like mine
+
+279
+00:18:39,985 --> 00:18:43,655
+But the iron won't subside
+
+280
+00:18:43,655 --> 00:18:50,078
+No matter, no matter what I try
+
+281
+00:18:54,249 --> 00:19:00,906
+Am I rain drops in the flood?
+
+282
+00:19:01,690 --> 00:19:08,947
+In this emptiness, in the storm
+
+283
+00:19:08,947 --> 00:19:16,038
+ If I falter, if I fall
+
+284
+00:19:16,038 --> 00:19:23,846
+The wave inside my soul carries all I know
+
+285
+00:19:23,846 --> 00:19:31,486
+Who can take my hand in the flood?
+
+286
+00:19:35,407 --> 00:19:39,094
+Her voice calls me forth
+
+287
+00:19:39,094 --> 00:19:42,614
+Through darkness unknown 
+
+288
+00:19:42,614 --> 00:19:46,218
+My heart with silence burns
+
+289
+00:19:46,218 --> 00:19:50,155
+Through solemness and bone
+
+290
+00:19:50,155 --> 00:19:53,892
+The edge beyond the shore
+
+291
+00:19:53,892 --> 00:19:57,563
+This weight of root and rot
+
+292
+00:19:57,563 --> 00:20:01,166
+I long to reach the other
+
+293
+00:20:01,166 --> 00:20:08,473
+To find, to find the path we lost
+
+294
+00:20:11,994 --> 00:20:18,650
+Am I rain drops in the flood?
+
+295
+00:20:19,434 --> 00:20:26,692
+In this emptiness, in the storm
+
+296
+00:20:26,692 --> 00:20:33,782
+If I'm broken, if I'm torn
+
+297
+00:20:33,782 --> 00:20:41,590
+The wave inside my soul carries all I know
+
+298
+00:20:41,590 --> 00:20:55,087
+Who can take my hand in the flood?
+
+299
+00:21:11,637 --> 00:21:14,323
+Sparks to steel!
+
+300
+00:21:17,392 --> 00:21:21,830
+Ha! Never seen anyone use one of those to get around.
+
+301
+00:21:24,232 --> 00:21:25,651
+Is that how I get to Barren Light?
+
+302
+00:21:25,651 --> 00:21:28,370
+Uh yes, I mean usually, but not today.
+
+303
+00:21:28,370 --> 00:21:30,155
+Not yet.
+
+304
+00:21:30,439 --> 00:21:32,040
+And why is that?
+
+305
+00:21:32,341 --> 00:21:38,647
+Well, The Daunt, the whole valley, it's infested with machines.
+
+306
+00:21:45,437 --> 00:21:47,172
+ALOY: I can handle machines.
+
+307
+00:21:47,172 --> 00:21:48,874
+Oh I'm sure you can, but…
+
+308
+00:21:48,874 --> 00:21:54,646
+I'm under strict orders not to operate until the whistle
+down at Chainscrape sounds the all-clear.
+
+309
+00:21:56,231 --> 00:22:00,752
+Look, I didn't come all this way just to stand around and wait.
+
+310
+00:22:01,219 --> 00:22:03,855
+I'll crank that car down myself if I have to.
+
+311
+00:22:04,239 --> 00:22:08,260
+Well, but then who would crank it back up?
+
+312
+00:22:09,628 --> 00:22:11,747
+KARHN: Fine, fine.
+
+313
+00:22:20,839 --> 00:22:27,946
+Though, should anyone ask, it might be best to say you forced me.
+
+314
+00:22:33,852 --> 00:22:37,556
+ALOY: I see smoke, but not a lot of activity.
+
+315
+00:22:37,556 --> 00:22:40,959
+KARHN: Smoke's probably coming
+from something the machines wrecked.
+
+316
+00:22:41,293 --> 00:22:48,033
+KARHN: As for the quiet, well,
+there's a work stoppage in effect because of all the fuss.
+
+317
+00:22:48,633 --> 00:22:51,353
+ALOY: What sort of machines are causing the trouble?
+
+318
+00:22:51,636 --> 00:22:56,358
+KARHN: Nasty ones and lots of them. Bristlebacks, they're called.
+
+319
+00:22:57,042 --> 00:23:00,328
+KARHN: Strangeness is they're not native to The Daunt.
+
+320
+00:23:00,328 --> 00:23:03,231
+KARHN: Just showed up all of a sudden.
+
+321
+00:23:03,231 --> 00:23:05,050
+ALOY: No hunters to kill them?
+
+322
+00:23:05,233 --> 00:23:07,135
+KARHN: Well, we've got hunters. 
+
+323
+00:23:07,135 --> 00:23:09,071
+KARHN: Just none that want to cross Ulvund.
+
+324
+00:23:09,071 --> 00:23:13,675
+KARHN: Boss of Chainscrape, he is self-appointed.
+
+325
+00:23:13,675 --> 00:23:16,161
+KARHN: Work stoppage was his idea.
+
+326
+00:23:17,329 --> 00:23:20,949
+ALOY: Yeah, well, I'm just passing through.
+
+327
+00:23:20,949 --> 00:23:22,768
+ALOY: Got an embassy to attend.
+
+328
+00:23:23,635 --> 00:23:25,020
+KARHN: You should have said!
+
+329
+00:23:25,020 --> 00:23:28,056
+KARHN: That ain't gonna happen no time soon.
+
+330
+00:23:28,740 --> 00:23:30,559
+ALOY: What are you talking about?
+
+331
+00:23:31,543 --> 00:23:34,629
+KARHN: You hear that? That's your answer.
+
+332
+00:23:34,629 --> 00:23:35,580
+[distant raised voice] Not this time!
+
+333
+00:23:35,580 --> 00:23:36,548
+ALOY: Who is that?
+
+334
+00:23:36,548 --> 00:23:42,871
+KARHN: Carja Sun-Priest, cranked him down yesterday
+about an hour before the machine trouble started.
+
+335
+00:23:43,638 --> 00:23:45,807
+KARHN: He's a very important man.
+
+336
+00:23:45,807 --> 00:23:47,659
+KARHN: Or so he says.
+
+337
+00:23:47,659 --> 00:23:49,711
+KARHN: That Embassy at Barren Light?
+
+338
+00:23:49,711 --> 00:23:52,547
+KARHN: He's the one supposed to run it! Hah!
+
+339
+00:23:54,032 --> 00:23:55,050
+ALOY: Great.
+
+340
+00:23:56,835 --> 00:24:01,990
+VUADIS: If you don't do as I say immediately,
+the Sun-King himself shall hear of your insolence.
+
+341
+00:24:02,441 --> 00:24:05,710
+VUADIS: Thanks to you, I was forced to spend the night
+shivering in the tent.
+
+342
+00:24:05,710 --> 00:24:08,363
+VUADIS:  Exposed to attack! I might have died.
+
+343
+00:24:09,030 --> 00:24:12,234
+VUADIS: Oh, me you refuse to transport, but not this …
+
+344
+00:24:12,234 --> 00:24:18,723
+VUADIS: This … what? This Nora girl? This savage?!
+
+345
+00:24:18,723 --> 00:24:20,642
+VUADIS: Aside, scallywag.
+
+346
+00:24:20,642 --> 00:24:22,561
+JORUF: Vuadis, that's Aloy.
+
+347
+00:24:22,561 --> 00:24:24,646
+VUADIS: Studious Vuadis.
+
+348
+00:24:24,646 --> 00:24:27,549
+JORUF: Aloy, you know, Saviour of Meridian.
+
+349
+00:24:27,933 --> 00:24:28,950
+VUADIS: Really?
+
+350
+00:24:30,135 --> 00:24:34,039
+VUADIS: Well, that lessens the insult, I suppose.
+
+351
+00:24:34,723 --> 00:24:36,942
+I came here for the Embassy at Barren Light.
+
+352
+00:24:36,942 --> 00:24:38,527
+Way I hear it, so did you.
+
+353
+00:24:38,527 --> 00:24:42,214
+VUADIS: Well, not with the valley infested.
+
+354
+00:24:44,232 --> 00:24:52,707
+"And so did Araman proclaim the Sun-Priests
+most precious and worthy of safekeeping."
+
+355
+00:24:52,707 --> 00:24:55,260
+See? Scripture.
+
+356
+00:24:56,528 --> 00:25:01,950
+I shall head to Barren Light when the captain of the Vanguard
+tells me the way is clear.
+
+357
+00:25:01,950 --> 00:25:03,668
+And not a moment sooner.
+
+358
+00:25:05,437 --> 00:25:06,438
+Fine.
+
+359
+00:25:07,138 --> 00:25:09,157
+Captain's a friend of mine, you know.
+
+360
+00:25:10,926 --> 00:25:12,427
+ALOY: Where is Erend?
+
+361
+00:25:12,427 --> 00:25:16,198
+Wouldn't mind speaking to someone a little more action, a little less …
+
+362
+00:25:16,198 --> 00:25:17,566
+… scroll.
+
+363
+00:25:18,133 --> 00:25:20,719
+JARUF: Vuadis—
+VUADIS: Studious Vuadis.
+
+364
+00:25:21,753 --> 00:25:26,691
+Studious Vuadis sent Erend and another Vanguard
+out at daybreak to clear the way.
+
+365
+00:25:26,691 --> 00:25:28,810
+VUADIS: "And so at daybreak—"
+ALOY: Hey!
+
+366
+00:25:29,277 --> 00:25:30,111
+ALOY: Shh!
+
+367
+00:25:31,079 --> 00:25:32,380
+ALOY: Down the valley, then?
+
+368
+00:25:32,380 --> 00:25:35,083
+Yeah, said they'd check the ruins on the left bank for tracks.
+
+369
+00:25:35,083 --> 00:25:36,134
+Take it from there.
+
+370
+00:25:36,134 --> 00:25:39,471
+Okay. I hear there's a work stoppage.
+
+371
+00:25:39,471 --> 00:25:41,039
+Any way to upgrade my gear?
+
+372
+00:25:41,039 --> 00:25:44,676
+JORUF: I'll bet the smith in Chainscrape
+would let you use his workbench.
+
+373
+00:25:44,676 --> 00:25:49,047
+As for the Bristlebacks, you might want to craft some acid arrows.
+
+374
+00:25:49,047 --> 00:25:51,983
+Hitting their canisters with those will take 'em down quick.
+
+375
+00:25:51,983 --> 00:25:55,403
+ALOY: Thanks. I'll find Erend and I'll bring him back.
+
+376
+00:25:58,757 --> 00:25:59,824
+ALOY: Where do you think you're going?
+
+377
+00:25:59,824 --> 00:26:03,245
+VUADIS: Why, to the top of the ridge to wait in safety.
+
+378
+00:26:03,245 --> 00:26:06,548
+ALOY: Sorry, operator's under strict orders!
+
+379
+00:26:06,548 --> 00:26:08,800
+ALOY: No passengers till the whistle blows, right?
+
+380
+00:26:08,800 --> 00:26:12,387
+That's right. Best start cranking.
+
+381
+00:26:13,738 --> 00:26:16,157
+VUADIS: Why? Why?
+
+382
+00:26:16,157 --> 00:26:20,378
+ALOY: Joruf, would you kindly escort
+Studious to Chainscrape and wait for me there?
+
+383
+00:26:20,779 --> 00:26:21,947
+JORUF: You got it.
+
+384
+00:26:23,181 --> 00:26:26,101
+I will find Erend and I will help clear a path.
+
+385
+00:26:26,284 --> 00:26:29,421
+But after that, no more excuses.
+
+386
+00:26:29,421 --> 00:26:32,207
+Barren Light. Embassy.
+
+387
+00:26:34,276 --> 00:26:36,511
+VUADIS: If such be the will of the Sun.
+
+388
+00:26:37,679 --> 00:26:40,332
+It will be, trust me.
+
+389
+00:26:46,554 --> 00:26:51,876
+I gotta find Erend, but it might be good
+to hit Chainscrape first and upgrade my bow.
+
+390
+00:32:28,863 --> 00:32:35,520
+A gemstone. It's green like blaze, but it's hard and shiny.
+
+391
+00:32:35,520 --> 00:32:38,206
+Wonder if merchants would be interested?
+
+392
+00:33:16,711 --> 00:33:18,329
+It's a dead machine.
+
+393
+00:33:18,713 --> 00:33:20,431
+It must be a Bristleback.
+
+394
+00:33:21,015 --> 00:33:23,518
+Maybe Erend took it down?
+
+395
+00:33:25,319 --> 00:33:27,438
+Ground's soaked with acid.
+
+396
+00:33:27,822 --> 00:33:29,741
+Did the Bristlebacks do this?
+
+397
+00:33:39,917 --> 00:33:41,436
+That must be Chainscrape.
+
+398
+00:33:42,320 --> 00:33:44,939
+Joruf said I could get my bow upgraded in there.
+
+399
+00:33:45,723 --> 00:33:48,226
+Might be able to tinker with my other gear too.
+
+400
+00:34:08,312 --> 00:34:11,833
+OSERAM GUARD: Outlander approaching. Is that the Saviour?
+
+401
+00:34:12,233 --> 00:34:13,835
+OSERAM GUARD: Wanna come in Saviour?
+
+402
+00:34:22,076 --> 00:34:23,895
+Welcome to Chainscrape, Saviour.
+
+403
+00:34:24,462 --> 00:34:26,981
+Open up guys, Joruf's orders.
+
+404
+00:34:27,915 --> 00:34:29,350
+Good enough for me.
+
+405
+00:34:40,411 --> 00:34:43,431
+VOICE: By. The. Forge!
+
+406
+00:34:44,215 --> 00:34:45,333
+Petra?
+
+407
+00:34:45,333 --> 00:34:48,035
+Aloy! What are you doing here?
+
+408
+00:34:48,503 --> 00:34:49,520
+ALOY: Uhh…
+
+409
+00:34:49,987 --> 00:34:52,707
+PETRA: 'Bout time there was something worth looking at in this dump.
+
+410
+00:34:52,874 --> 00:34:54,859
+ALOY: It's nice to see you too.
+
+411
+00:34:54,859 --> 00:34:57,095
+PETRA: And not a moment too soon.
+
+412
+00:34:57,278 --> 00:34:58,196
+PETRA: Come on!
+
+413
+00:34:58,479 --> 00:34:58,980
+ALOY: I…
+
+414
+00:35:02,266 --> 00:35:05,203
+PETRA: Damn brewery's only thing I can count on in this place.
+
+415
+00:35:05,203 --> 00:35:08,172
+ALOY: Yeah, I heard. Machines. Work stoppage?
+
+416
+00:35:08,172 --> 00:35:10,208
+PETRA: Oh, those are just the latest malfunctions.
+
+417
+00:35:10,208 --> 00:35:12,994
+Chainscrape's always been a few tools short of a kit.
+
+418
+00:35:13,277 --> 00:35:14,846
+And right there is the biggest tool of all.
+
+419
+00:35:14,846 --> 00:35:16,414
+ULVUND: Not our land, not our problem.
+
+420
+00:35:16,414 --> 00:35:18,099
+JAVAD: The Bristlebacks are everybody's problem.
+
+421
+00:35:18,099 --> 00:35:18,933
+ALOY: Ulvund?
+
+422
+00:35:19,484 --> 00:35:20,952
+PETRA: You've heard of him?
+
+423
+00:35:20,952 --> 00:35:22,637
+ALOY: Yeah.
+
+424
+00:35:22,637 --> 00:35:26,474
+PETRA: But he's a story best told over a cold beer.
+
+425
+00:35:26,941 --> 00:35:28,609
+ALOY: Uh Petra! Petra!
+
+426
+00:35:30,161 --> 00:35:31,696
+I'm just passing through.
+
+427
+00:35:32,463 --> 00:35:33,681
+I'm headed west.
+
+428
+00:35:34,282 --> 00:35:35,249
+Oh.
+
+429
+00:35:36,784 --> 00:35:39,253
+There's an Embassy at Barren Light I need to make happen.
+
+430
+00:35:39,253 --> 00:35:42,373
+And then I… keep moving.
+
+431
+00:35:43,057 --> 00:35:45,877
+Ah, of course.
+
+432
+00:35:46,060 --> 00:35:48,079
+Bigger gears to grind.
+
+433
+00:35:48,946 --> 00:35:52,333
+Well, flamehair, good to see you.
+
+434
+00:35:53,267 --> 00:35:54,802
+If you gotta move on…
+
+435
+00:35:55,486 --> 00:35:56,704
+Petra.
+
+436
+00:35:58,890 --> 00:36:02,326
+But if you want a cold beer and a few laughs with an old friend?
+
+437
+00:36:02,326 --> 00:36:04,712
+Come find me at the brewery, your choice.
+
+438
+00:36:12,954 --> 00:36:15,456
+Well this Ulvund guy sounds like trouble.
+
+439
+00:36:16,023 --> 00:36:18,426
+Maybe Petra could use some support.
+
+440
+00:36:18,426 --> 00:36:21,445
+But first things first I need to find that workbench and upgrade my bow.
+
+441
+00:36:29,537 --> 00:36:32,540
+HAKUND: Until Ulvund blows that whistle, no-one's working here.
+
+442
+00:36:36,227 --> 00:36:37,828
+ALOY: Shop looks closed?
+
+443
+00:36:37,828 --> 00:36:38,596
+HAKUND: Yep.
+
+444
+00:36:38,763 --> 00:36:40,681
+ALOY: Can I still use the workbench?
+
+445
+00:36:41,265 --> 00:36:42,783
+HAKUND: I ain't gonna stop you.
+
+446
+00:36:47,088 --> 00:36:50,091
+HAKUND: Workbench is good for all kinds of tinkering.
+
+447
+00:37:39,991 --> 00:37:41,509
+This should be useful.
+
+448
+00:37:42,276 --> 00:37:45,663
+Now I just need to find Erend and help him clear the Bristlebacks.
+
+449
+00:39:18,723 --> 00:39:23,911
+Can't override that now. Need to get data
+from a cauldron, if I can find one,.
+
+450
+00:40:40,271 --> 00:40:42,356
+Pain's subsiding.
+
+451
+00:41:25,716 --> 00:41:27,351
+I'll gather these while I can.
+
+452
+00:42:22,539 --> 00:42:24,141
+Acid won't make much of a dent.
+
+453
+00:42:54,605 --> 00:42:56,023
+Is that a tripwire?
+
+454
+00:43:12,606 --> 00:43:15,409
+This whole area is rigged with tripwires.
+
+455
+00:43:15,409 --> 00:43:20,281
+THURLIS: Hey! You! Make it worth your while
+if you kill these Scroungers!
+
+456
+00:43:20,281 --> 00:43:21,815
+ALOY: It's always something.
+
+457
+00:43:22,800 --> 00:43:25,402
+ALOY: Hold tight! I'll see what I can do.
+
+458
+00:43:25,402 --> 00:43:27,521
+THURLIS: Try luring them into the tripwires.
+
+459
+00:43:58,018 --> 00:44:00,287
+THURLIS: That's fancy wire-work!
+
+460
+00:44:55,626 --> 00:44:57,411
+ALOY: That's the last one.
+
+461
+00:44:57,644 --> 00:45:00,731
+THURLIS: Hello, Red. What a day. What a day.
+
+462
+00:45:06,170 --> 00:45:07,938
+THURLIS: Thank the Forge you showed up.
+
+463
+00:45:07,938 --> 00:45:11,792
+THURLIS: Tripwires are handy, but machine hunting's a young-uns game.
+
+464
+00:45:12,076 --> 00:45:15,129
+THURLIS: Come on over, let me give thanks proper like.
+
+465
+00:45:18,265 --> 00:45:20,401
+THURLIS: I see you're a practised hunter.
+
+466
+00:45:20,784 --> 00:45:25,489
+Took you less time to kill those Scroungers
+than Vanguards to kill one Bristleback.
+
+467
+00:45:25,489 --> 00:45:27,541
+ALOY: So the Vanguards came through here?
+
+468
+00:45:27,541 --> 00:45:29,960
+THURLIS: Yeah, just a bit ago.
+
+469
+00:45:29,960 --> 00:45:32,546
+THURLIS: Downed that Bristleback, headed south.
+
+470
+00:45:33,330 --> 00:45:37,851
+THURLIS: But then those Scroungers showed up
+to carve the carcass, as they do.
+
+471
+00:45:38,035 --> 00:45:40,637
+THURLIS: Then another Bristleback ran through.
+
+472
+00:45:40,637 --> 00:45:43,357
+I'm telling you, it's crazy around here.
+
+473
+00:45:43,357 --> 00:45:45,426
+So the Vanguard went south.
+
+474
+00:45:45,426 --> 00:45:49,229
+Probably. This whole valley is swarming with them.
+
+475
+00:45:49,229 --> 00:45:51,782
+THURLIS: The Vanguard seemed dead set on getting rid of them.
+
+476
+00:45:51,782 --> 00:45:52,850
+ALOY: I see.
+
+477
+00:45:52,933 --> 00:45:54,651
+Hold on there, Red.
+
+478
+00:45:54,835 --> 00:45:59,056
+If you're gonna go chasing across The Daunt,
+you're gonna want a Tripcaster.
+
+479
+00:45:59,339 --> 00:46:03,961
+Not just any Tripcaster, one of my make, free of charge.
+
+480
+00:46:05,229 --> 00:46:07,347
+Workmanship looks solid enough.
+
+481
+00:46:07,431 --> 00:46:08,515
+THURLIS: Yup.
+
+482
+00:46:08,515 --> 00:46:11,435
+Been tweaking the design since I left Chainscrape.
+
+483
+00:46:11,435 --> 00:46:17,508
+More room to tinker out here and less chance of, well, accidents.
+
+484
+00:46:18,175 --> 00:46:20,577
+Did something happen in Chainscrape?
+
+485
+00:46:21,795 --> 00:46:23,564
+More like someone.
+
+486
+00:46:23,564 --> 00:46:24,932
+I don't follow.
+
+487
+00:46:25,032 --> 00:46:28,485
+There's this sack of wet dirt, Ulvund.
+
+488
+00:46:28,485 --> 00:46:31,288
+Thinks he's the Ealdorman of Chainscrape.
+
+489
+00:46:31,288 --> 00:46:33,757
+Got half the town treating him as such.
+
+490
+00:46:36,326 --> 00:46:40,447
+Back when I had a place in town, he took a real interest in my wares.
+
+491
+00:46:40,631 --> 00:46:43,183
+THURLIS: Kept pressing for the "Ulvund discount".
+
+492
+00:46:43,183 --> 00:46:46,553
+THURLIS: I said no, he didn't like that so much.
+
+493
+00:46:47,287 --> 00:46:52,142
+THURLIS: I can't prove it, but that chuffbucket set my workshop on fire.
+
+494
+00:46:52,509 --> 00:46:55,362
+Felt it best to put some distance between us after that.
+
+495
+00:46:55,662 --> 00:46:59,433
+ALOY: Cable car operator told me
+the Bristlebacks just appeared yesterday.
+
+496
+00:46:59,449 --> 00:47:01,084
+Do you know anything about them?
+
+497
+00:47:01,134 --> 00:47:02,636
+How is old Karhn?
+
+498
+00:47:02,820 --> 00:47:06,123
+Back in the day, me and him got into all sorts of trouble.
+
+499
+00:47:06,123 --> 00:47:07,224
+There was this one time tha—
+
+500
+00:47:07,224 --> 00:47:09,343
+ALOY: Anything about the Bristlebacks?
+
+501
+00:47:09,343 --> 00:47:11,762
+Nope, Karhn said true.
+
+502
+00:47:11,762 --> 00:47:14,364
+Just showed up and ran amok.
+
+503
+00:47:14,631 --> 00:47:19,436
+Lucky for me, I've got you and the Vanguard
+swooping in time to time to save my backside.
+
+504
+00:47:19,503 --> 00:47:21,138
+ALOY: I should get going.
+
+505
+00:47:21,805 --> 00:47:23,690
+Thanks for the Tripcaster.
+
+506
+00:47:24,074 --> 00:47:28,478
+While you're blasting Bristlebacks,
+I think I'll head down to the hunting grounds.
+
+507
+00:47:29,129 --> 00:47:31,465
+Did you know they have a Tripcaster trial?
+
+508
+00:47:31,782 --> 00:47:33,834
+Come by later, if you want to try it out.
+
+509
+00:47:33,851 --> 00:47:37,638
+ALOY: Maybe, after I get things under control.
+
+510
+00:47:38,088 --> 00:47:40,607
+ALOY: So Erend headed south.
+
+511
+00:47:40,607 --> 00:47:43,176
+Should be able to pick up his tracks with my Focus.
+
+512
+00:47:49,349 --> 00:47:52,853
+Tracks. Maybe Erend's and the Vanguards'.
+
+513
+00:48:49,159 --> 00:48:51,178
+It's a ruin from the Old World.
+
+514
+00:48:51,845 --> 00:48:54,264
+Bet I could find something interesting inside.
+
+515
+00:49:15,535 --> 00:49:18,805
+FENDUR: Hey you! Mind giving me a hand?
+
+516
+00:49:18,805 --> 00:49:20,691
+TELGA: Is that the Saviour of Meridian?
+
+517
+00:49:20,691 --> 00:49:22,225
+FENDUR: Welcome to the party!
+
+518
+00:49:22,225 --> 00:49:23,560
+ALOY: Glad I can help.
+
+519
+00:49:26,630 --> 00:49:28,332
+TELGA: Big guy's fast!
+
+520
+00:49:32,736 --> 00:49:34,338
+TELGA: Try pushing it off.
+
+521
+00:50:05,936 --> 00:50:07,854
+Mighty thankful to you, Saviour.
+
+522
+00:50:07,854 --> 00:50:10,440
+Just Aloy is fine.
+
+523
+00:50:10,440 --> 00:50:13,043
+Erend mentioned you're not one for fancy titles.
+
+524
+00:50:13,043 --> 00:50:14,127
+You're Vanguard.
+
+525
+00:50:14,127 --> 00:50:17,497
+FENDUR: We're here to escort Vuadis' delicate behind to the Embassy.
+
+526
+00:50:17,497 --> 00:50:20,350
+TELGA: If we can get rid of these Bristlebacks.
+
+527
+00:50:20,350 --> 00:50:22,769
+FENDUR: Captain said to keep an eye on Chainscrape.
+
+528
+00:50:22,769 --> 00:50:24,588
+Then these ugly lugs showed up.
+
+529
+00:50:24,588 --> 00:50:26,089
+TELGA: Gave the first one a good beating.
+
+530
+00:50:26,089 --> 00:50:29,259
+FENDUR: But didn't quite have time to roll out of the way when it fell.
+
+531
+00:50:29,259 --> 00:50:32,529
+Told you it wasn't a good idea to eat that much before heading out.
+
+532
+00:50:32,529 --> 00:50:35,282
+ALOY: I should probably get going.
+
+533
+00:50:35,432 --> 00:50:38,652
+FENDUR: Now, if you see any more of these Bristlebacks…
+
+534
+00:50:38,652 --> 00:50:41,021
+ALOY: I'll make sure to roll out of their way.
+
+535
+00:50:41,054 --> 00:50:43,356
+TELGA: Might want to take some of these with you as well.
+
+536
+00:50:43,356 --> 00:50:45,142
+They're handy in a pinch.
+
+537
+00:50:45,675 --> 00:50:46,743
+Thanks.
+
+538
+00:50:47,227 --> 00:50:48,328
+TELGA: Stay safe, Aloy.
+

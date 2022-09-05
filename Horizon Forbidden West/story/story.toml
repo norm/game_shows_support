@@ -17,6 +17,12 @@ completed_threads = [
     # ch1+2
     'story/reach-for-the-stars',
 
+    # ch3
+    'story/the-point-of-the-lance',
+    'weapon/hunter-bow',
+    'story/to-the-brink',
+    'encounter/telga-fendur',
+
 ]
 
 # notes:
@@ -24,6 +30,10 @@ completed_threads = [
 #   completed nodes in the thread, not just the latest
 # * completed threads don't mark post_actions as complete
 completed_nodes = [
+    # ch3
+    'weapon/frost-blastsling_0',
+    'story/to-the-brink-erend_0',
+
 ]
 
 abandoned_threads = [

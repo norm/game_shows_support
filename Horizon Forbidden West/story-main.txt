@@ -12,9 +12,6 @@
   Stars]
 * {Far Zenith} Use Slitherfang coil blasters (on the ground, to the left, once
   fire goes out) [Reach For The Stars]
-
-============================ RECORDING STARTS HERE =============================
-
 * {Meridian} Examine Hades sphere [The Point of the Lance]
 * {Meridian} Talk to Avad, learn about Fashav [The Point of the Lance]
 * {Meridian} Talk to everyone else [The Point of the Lance]
@@ -24,8 +21,14 @@
   [To The Brink]
 * {Chainscrape} Upgrade bow with acid arrows [To The Brink]
 * {Ruin} Talk to Thurlis, learn location of Erend [To The Brink (rescue Erend)]
+
+============================ RECORDING STARTS HERE =============================
+
+  Go to Abandoned Camp for To The Brink (rescue Erend)
 * {Abandoned Camp} Rescue Erend [To The Brink (rescue Erend)]
+  Go to Redhew Quarry for To The Brink (rescue Erend)
 * {Redhew Quarry} Dispatch Bristlebacks [To The Brink (rescue Erend)]
+  Go to Redhew Quarry for To The Brink (rescue Erend)
 * {Redhew Quarry} Talk to Belna [To The Brink (rescue Erend)]
   Go to Chainscrape for To The Brink (complete)
 * {Chainscrape} Talk to Studious Vuadis [To The Brink (complete)]
