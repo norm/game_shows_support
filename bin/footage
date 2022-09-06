@@ -138,10 +138,11 @@ for capture in "${captures[@]}"; do
             cat "$slices"
         }
 
+        done=0
         chose=0
         index=1
         while [ $chose = 0 ]; do
-            status -cnr "[A]:Use All [S]:Use Slice [D]:Done [R]:Remove [ ]:Skip - Keep? "
+            status -cnr "Keep? -- [A]:Use All [S]:Use Slice [D]:Done [R]:Remove [ ]:Skip for now [Q]:Quit "
             read -N1 -s keeper
             echo $keeper
             case $keeper in
@@ -162,6 +163,11 @@ for capture in "${captures[@]}"; do
                     chose=1
                     ;;
 
+                q|Q)
+                    done=1
+                    break
+                    ;;
+
                 r|R)
                     rm "$capture"
                     chose=1
@@ -178,5 +184,7 @@ for capture in "${captures[@]}"; do
             esac
         done
         echo ''
+
+        [ $done = 1 ] && break
     fi
 done
