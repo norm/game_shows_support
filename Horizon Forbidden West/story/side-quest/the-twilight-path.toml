@@ -3,17 +3,27 @@ type = 'side-quest'
 start = 'Chainscrape'
 end = "Twilight's Landing"
 
+after = [
+    # these are in the other direction, do them first
+    'errand/a-dash-of-courage',
+    'side-quest/deep-trouble',
+    'errand/a-bigger-boom',
+
+]
+
+
 begin = 'Talk to Petra, learn of the Shadow Carja refugees'
+
+[[action]]
+text = 'Talk to Tolland'
+after = [
+    # do the pit after talking to Petra, but before setting out
+    'melee-pit/chainscrape',
+]
 
 [[action]]
 text = 'Deal with attacking machines, talk to Lokasha'
 location = "Twilight's Landing"
-after = [
-    # these are in the other direction
-    'errand/a-dash-of-courage',
-    'side-quest/deep-trouble',
-    'errand/a-bigger-boom',
-]
 
 [[action]]
 text = 'Climb tower, find body of priest, return'

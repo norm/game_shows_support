@@ -8,6 +8,10 @@ unlocks = [
     'side-quest/boom-or-bust',
 ]
 
+after = [
+    'side-quest/deep-trouble',
+]
+
 
 begin = 'Talk to Delah'
 

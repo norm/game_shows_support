@@ -21,21 +21,16 @@
   [To The Brink]
 * {Chainscrape} Upgrade bow with acid arrows [To The Brink]
 * {Ruin} Talk to Thurlis, learn location of Erend [To The Brink (rescue Erend)]
-
-============================ RECORDING STARTS HERE =============================
-
-  Go to Abandoned Camp for To The Brink (rescue Erend)
 * {Abandoned Camp} Rescue Erend [To The Brink (rescue Erend)]
-  Go to Redhew Quarry for To The Brink (rescue Erend)
 * {Redhew Quarry} Dispatch Bristlebacks [To The Brink (rescue Erend)]
-  Go to Redhew Quarry for To The Brink (rescue Erend)
 * {Redhew Quarry} Talk to Belna [To The Brink (rescue Erend)]
   Go to Chainscrape for To The Brink (complete)
 * {Chainscrape} Talk to Studious Vuadis [To The Brink (complete)]
-  Go to Chainscrape for To The Brink (complete)
 * {Chainscrape} Talk to Ulvund, unlock the settlement [To The Brink (complete)]
-  Go to Chainscrape for To The Brink (complete)
 * {Chainscrape} Talk to Studious Vuadis again [To The Brink (complete)]
+
+============================ RECORDING STARTS HERE =============================
+
   Go to Barren Light for The Embassy
 * {Barren Light} Speak to Erend [The Embassy]
   Go to Barren Light for The Embassy
@@ -43,12 +38,9 @@
   Go to Barren Light for The Embassy
 * {Barren Light} Follow Varl to the Embassy, exhaust Fashav diaglogue [The
   Embassy]
-  Go to Barren Light for The Embassy
 * {Barren Light} Regalla attacks, take out four riders to trigger cutscene [The
   Embassy]
-  Go to Barren Light for The Embassy
 * {Barren Light} Take out four more riders to trigger cutscene [The Embassy]
-  Go to Barren Light for The Embassy
 * {Barren Light} Break Grudda's shield, then kill him [The Embassy]
 * {Barren Light} Speak to Lawan [The Embassy]
 

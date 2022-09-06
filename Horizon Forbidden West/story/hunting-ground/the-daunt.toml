@@ -10,7 +10,7 @@ unlocks = [
 ]
 
 after = [
-    'story/to-the-brink-end',
+    'side-quest/the-twilight-path',
 ]
 
 begin = 'Talk to the groundskeeper, buy the Strike pieces and weapons'

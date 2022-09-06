@@ -23,6 +23,10 @@ completed_threads = [
     'story/to-the-brink',
     'encounter/telga-fendur',
 
+    # ch4
+    'story/to-the-brink-erend',
+    'story/to-the-brink-end',
+
 ]
 
 # notes:
@@ -32,7 +36,7 @@ completed_threads = [
 completed_nodes = [
     # ch3
     'weapon/frost-blastsling_0',
-    'story/to-the-brink-erend_0',
+    # 'story/to-the-brink-erend_0',
 
 ]
 

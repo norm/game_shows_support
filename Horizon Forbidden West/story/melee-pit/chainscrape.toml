@@ -6,4 +6,9 @@ unlocks = [
     'errand/the-enduring',
 ]
 
+after = [
+    'side-quest/deep-trouble',
+]
+
+
 begin = 'Learn about the Melee pits, learn combos, defeat Odurg'

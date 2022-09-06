@@ -3,6 +3,10 @@ type = 'side-quest'
 start = 'Deadfalls'
 end = 'Chainscrape'
 
+requires = [
+    'story/the-embassy',
+]
+
 
 begin = 'Sneak into the Deadfalls rebel outpost, kill everyone'
 

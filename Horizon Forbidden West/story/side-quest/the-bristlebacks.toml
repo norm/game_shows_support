@@ -10,7 +10,7 @@ unlocks = [
 before = ['story/the-embassy']
 after  = ['story/to-the-brink-end']
 
-begin = 'Talk to Ulvund, and then Javad'
+begin = 'Talk to Javad in the brewery'
 
 [[action]]
 text = 'Head to the quarry, investigate the dead bristlebacks'

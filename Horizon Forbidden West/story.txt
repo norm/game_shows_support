@@ -40,21 +40,33 @@
     . {The Daunt Relic Ruin} Free Fendur from Bristleback, get smoke bombs
       [Telga and Fendur]
 * {Ruin} Talk to Thurlis, learn location of Erend [To The Brink (rescue Erend)]
+* {Abandoned Camp} Rescue Erend [To The Brink (rescue Erend)]
+* {Redhew Quarry} Dispatch Bristlebacks [To The Brink (rescue Erend)]
+* {Redhew Quarry} Talk to Belna [To The Brink (rescue Erend)]
+  Go to Chainscrape for To The Brink (complete)
+* {Chainscrape} Talk to Studious Vuadis [To The Brink (complete)]
+* {Chainscrape} Talk to Ulvund, unlock the settlement [To The Brink (complete)]
+* {Chainscrape} Talk to Studious Vuadis again [To The Brink (complete)]
 
 ============================ RECORDING STARTS HERE =============================
 
---- 2 equal options:
-      ['story/to-the-brink-erend_1', 'melee-pit/chainscrape']
-      Go to Abandoned Camp for To The Brink (rescue Erend)
-    * {Abandoned Camp} Rescue Erend [To The Brink (rescue Erend)]
-      Go to Chainscrape for Chainscrape Melee Pit
-    . {Chainscrape} Learn about the Melee pits, learn combos, defeat Odurg
-      [Chainscrape Melee Pit]
---- 5 equal options:
-      ['story/to-the-brink-erend_2', 'pouch/hunter-arrow-quiver_0',
-       'pouch/potion-pouch_0', 'pouch/resource-pouch_0', 'pouch/trap-pouch_0']
-      Go to Redhew Quarry for To The Brink (rescue Erend)
-    * {Redhew Quarry} Dispatch Bristlebacks [To The Brink (rescue Erend)]
+--- 4 equal options:
+      ['errand/a-dash-of-courage', 'side-quest/deep-trouble',
+       'side-quest/the-bristlebacks', 'weapon/frost-blastsling_1']
+    . {Chainscrape} Talk to Milduf [A Dash of Courage]
+    . {Chainscrape} Talk to Arnuf [Deep Trouble]
+    . {Chainscrape} Talk to Javad in the brewery [The Bristlebacks]
+      Go to Workbench for Frost Blastsling
+    . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 bristleback
+      circulator [Frost Blastsling]
+--- 9 equal options:
+      ['errand/a-dash-of-courage_0', 'side-quest/deep-trouble_0',
+       'pouch/hunter-arrow-quiver_0', 'pouch/potion-pouch_0',
+       'pouch/resource-pouch_0', 'pouch/trap-pouch_0', 'pouch/tripwire-pouch_0',
+       'weapon/frost-blastsling_2', 'weapon/shock-tripcaster_0']
+    . {Chainscrape} Gather 5 wild meat and 3 bitter leaf [A Dash of Courage]
+      Go to Crimson Narrows for Deep Trouble
+    . {Crimson Narrows} Speak to Korvend, enter the mine [Deep Trouble]
       Go to Workbench for Hunter Arrow Quiver
     . {Workbench} Increase carry capacity: 25 shards, 2 raccoon hide [Hunter
       Arrow Quiver]
@@ -67,127 +79,138 @@
       Go to Workbench for Trap Pouch
     . {Workbench} Increase carry capacity: 25 shards, 1 squirrel bone [Trap
       Pouch]
-  Go to Redhew Quarry for To The Brink (rescue Erend)
-* {Redhew Quarry} Talk to Belna [To The Brink (rescue Erend)]
-  Go to Chainscrape for To The Brink (complete)
-* {Chainscrape} Talk to Studious Vuadis [To The Brink (complete)]
---- 4 equal options:
-      ['story/to-the-brink-end_0', 'pouch/tripwire-pouch_0',
-       'weapon/frost-blastsling_1', 'weapon/shock-tripcaster_0']
-      Go to Chainscrape for To The Brink (complete)
-    * {Chainscrape} Talk to Ulvund, unlock the settlement [To The Brink
-      (complete)]
       Go to Workbench for Tripwire Pouch
     . {Workbench} Increase carry capacity: 25 shards, 1 jay wishbone [Tripwire
       Pouch]
       Go to Workbench for Frost Blastsling
-    . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 bristleback
-      circulator [Frost Blastsling]
-      Go to Workbench for Shock Tripcaster
-    . {Workbench} Increase stats: 50 shards, 1 braided wire [Shock Tripcaster]
---- 3 equal options:
-      ['story/to-the-brink-end_1', 'weapon/frost-blastsling_2',
-       'weapon/shock-tripcaster_1']
-      Go to Chainscrape for To The Brink (complete)
-    * {Chainscrape} Talk to Studious Vuadis again [To The Brink (complete)]
-      Go to Workbench for Frost Blastsling
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
       bristleback tusk, 1 small machine core [Frost Blastsling]
       Go to Workbench for Shock Tripcaster
-    . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 scrounger
-      circulator [Shock Tripcaster]
-  Go to Workbench for Shock Tripcaster
-. {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
-  scrounger spark coil, 1 small machine core [Shock Tripcaster]
---- 6 equal options:
-      ['errand/a-bigger-boom', 'errand/a-dash-of-courage',
-       'side-quest/deep-trouble', 'side-quest/the-bristlebacks',
-       'side-quest/the-twilight-path', 'hunting-ground/the-daunt']
-      Go to Chainscrape for A Bigger Boom
-    . {Chainscrape} Talk to Delah [A Bigger Boom]
-      Go to Chainscrape for A Dash of Courage
-    . {Chainscrape} Talk to Milduf [A Dash of Courage]
-      Go to Chainscrape for Deep Trouble
-    . {Chainscrape} Talk to Arnuf [Deep Trouble]
-      Go to Chainscrape for The Bristlebacks
-    . {Chainscrape} Talk to Ulvund, and then Javad [The Bristlebacks]
-      Go to Chainscrape for The Twilight Path
-    . {Chainscrape} Talk to Petra, learn of the Shadow Carja refugees [The
-      Twilight Path]
-      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
-    . {The Daunt Hunting Ground} Talk to the groundskeeper, buy the Strike
-      pieces and weapons [The Daunt Hunting Ground]
---- 7 equal options:
-      ['errand/a-bigger-boom_0', 'errand/a-dash-of-courage_0',
-       'side-quest/deep-trouble_0', 'side-quest/the-bristlebacks_0',
-       'hunting-ground/the-daunt_0', 'side-quest/the-twilight-path_0',
-       'pouch/bomb-satchel_0']
-      Go to Chainscrape for A Bigger Boom
-    . {Chainscrape} Gather 3 charger horns and a fanghorn rib [A Bigger Boom]
-      Go to Chainscrape for A Dash of Courage
-    . {Chainscrape} Gather 5 wild meat and 3 bitter leaf [A Dash of Courage]
-      Go to Crimson Narrows for Deep Trouble
-    . {Crimson Narrows} Speak to Korvend, enter the mine [Deep Trouble]
-      Go to Redhew Quarry for The Bristlebacks
-    . {Redhew Quarry} Head to the quarry, investigate the dead bristlebacks [The
-      Bristlebacks]
-      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
-    . {The Daunt Hunting Ground} Complete the Tear Trial [The Daunt Hunting
-      Ground]
-      Go to Twilight's Landing for The Twilight Path
-    . {Twilight's Landing} Deal with attacking machines, talk to Lokasha [The
-      Twilight Path]
-      Go to Workbench for Bomb Satchel
-    . {Workbench} Increase carry capacity: 25 shards, 1 boar bone [Bomb Satchel]
---- 6 equal options:
-      ['errand/a-bigger-boom_1', 'side-quest/deep-trouble_1',
-       'errand/a-dash-of-courage_1', 'side-quest/the-bristlebacks_1',
-       'hunting-ground/the-daunt_1', 'side-quest/the-twilight-path_1']
-      Go to Chainscrape for A Bigger Boom
-    . {Chainscrape} Return and get the spike thrower [A Bigger Boom]
+    . {Workbench} Increase stats: 50 shards, 1 braided wire [Shock Tripcaster]
+--- 3 equal options:
+      ['side-quest/deep-trouble_1', 'errand/a-dash-of-courage_1',
+       'weapon/shock-tripcaster_1']
       Go to Crimson Narrows for Deep Trouble
     . {Crimson Narrows} Rescue the miners [Deep Trouble]
       Go to Scrounger Site for A Dash of Courage
     . {Scrounger Site} Gather a corrugated metal plate, making sure to get the
       upgrade parts needed from the Scroungers [A Dash of Courage]
-      Go to Split Crag for The Bristlebacks
-    . {Split Crag} Enter Split Crag, kill more bristlebacks, find the datapoint
-      [The Bristlebacks]
-      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
-    . {The Daunt Hunting Ground} Complete the Shock Trial [The Daunt Hunting
-      Ground]
-      Go to Twilight's Landing for The Twilight Path
-    . {Twilight's Landing} Climb tower, find body of priest, return [The
-      Twilight Path]
---- 4 equal options:
-      ['side-quest/the-bristlebacks_2', 'side-quest/deep-trouble_2',
-       'errand/a-dash-of-courage_2', 'hunting-ground/the-daunt_2']
-      Go to Chainscrape for The Bristlebacks
-    . {Chainscrape} Return to Javad [The Bristlebacks]
+      Go to Workbench for Shock Tripcaster
+    . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 scrounger
+      circulator [Shock Tripcaster]
+--- 3 equal options:
+      ['side-quest/deep-trouble_2', 'errand/a-dash-of-courage_2',
+       'weapon/shock-tripcaster_2']
       Go to Crimson Narrows for Deep Trouble
     . {Crimson Narrows} Return to Korvend [Deep Trouble]
       Go to Scrounger Site for A Dash of Courage
     . {Scrounger Site} Return to Milduf, get meal and buy two more for free [A
       Dash of Courage]
+      Go to Workbench for Shock Tripcaster
+    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
+      scrounger spark coil, 1 small machine core [Shock Tripcaster]
+  Go to Workbench for Bomb Satchel
+. {Workbench} Increase carry capacity: 25 shards, 1 boar bone [Bomb Satchel]
+. {Chainscrape} Check in with the rescued miners [Deep Trouble]
+--- 2 equal options:
+      ['errand/a-bigger-boom', 'melee-pit/chainscrape']
+    . {Chainscrape} Talk to Delah [A Bigger Boom]
+    . {Chainscrape} Learn about the Melee pits, learn combos, defeat Odurg
+      [Chainscrape Melee Pit]
+--- 3 equal options:
+      ['errand/a-bigger-boom_0', 'side-quest/the-bristlebacks_0',
+       'pouch/food-pouch_0']
+    . {Chainscrape} Gather 3 charger horns and a fanghorn rib [A Bigger Boom]
+      Go to Redhew Quarry for The Bristlebacks
+    . {Redhew Quarry} Head to the quarry, investigate the dead bristlebacks [The
+      Bristlebacks]
+      Go to Workbench for Food Pouch
+    . {Workbench} Increase carry capacity: 25 shards, 1 fox hide [Food Pouch]
+--- 2 equal options:
+      ['errand/a-bigger-boom_1', 'side-quest/the-bristlebacks_1']
+    . {Chainscrape} Return and get the spike thrower [A Bigger Boom]
+      Go to Split Crag for The Bristlebacks
+    . {Split Crag} Enter Split Crag, kill more bristlebacks, find the datapoint
+      [The Bristlebacks]
+. {Chainscrape} Return to Javad [The Bristlebacks]
+. {Chainscrape} Talk to Petra, learn of the Shadow Carja refugees [The Twilight
+  Path]
+--- 3 equal options:
+      ['side-quest/shadow-from-the-past', 'side-quest/the-twilight-path_0',
+       'weapon/prototype-spike-thrower_0']
+      Go to Barren Light for Shadow from the Past
+    . {Barren Light} Talk to Conover and guard [Shadow from the Past]
+    . {Chainscrape} Talk to Tolland [The Twilight Path]
+      Go to Workbench for Prototype Spike Thrower
+    . {Workbench} Increase stats: 50 shards, 1 braided wire [Prototype Spike
+      Thrower]
+--- 3 equal options:
+      ['side-quest/shadow-from-the-past_0', 'side-quest/the-twilight-path_1',
+       'weapon/prototype-spike-thrower_1']
+      Go to Straggler's Shade for Shadow from the Past
+    . {Straggler's Shade} Go to the clearing, enter the tunnel, kill the Eclipse
+      cultists [Shadow from the Past]
+      Go to Twilight's Landing for The Twilight Path
+    . {Twilight's Landing} Deal with attacking machines, talk to Lokasha [The
+      Twilight Path]
+      Go to Workbench for Prototype Spike Thrower
+    . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 scrounger
+      circulator [Prototype Spike Thrower]
+--- 3 equal options:
+      ['side-quest/shadow-from-the-past_1', 'side-quest/the-twilight-path_2',
+       'weapon/prototype-spike-thrower_2']
+      Go to Straggler's Shade for Shadow from the Past
+    . {Straggler's Shade} Scan the datapoint at the end of the tunnel [Shadow
+      from the Past]
+      Go to Twilight's Landing for The Twilight Path
+    . {Twilight's Landing} Climb tower, find body of priest, return [The
+      Twilight Path]
+      Go to Workbench for Prototype Spike Thrower
+    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
+      scrounger spark coil, 1 small machine core [Prototype Spike Thrower]
+  Go to Straggler's Shade for Shadow from the Past
+. {Straggler's Shade} Kill the lieutenant, then examine the corpse [Shadow from
+  the Past]
+--- 2 equal options:
+      ['side-quest/the-twilight-path_post_0', 'side-quest/the-twilight-path_post_1']
+    . {Chainscrape} Talk to Petra again [The Twilight Path]
+    . {Chainscrape} Talk to Lokasha again [The Twilight Path]
+--- 2 equal options:
+      ['side-quest/shadow-from-the-past_3', 'hunting-ground/the-daunt']
+      Go to Barren Light for Shadow from the Past
+    . {Barren Light} Return to Conover and exonerate him [Shadow from the Past]
+      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
+    . {The Daunt Hunting Ground} Talk to the groundskeeper, buy the Strike
+      pieces and weapons [The Daunt Hunting Ground]
+--- 2 equal options:
+      ['hunting-ground/the-daunt_0', 'pouch/spike-holster_0']
+      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
+    . {The Daunt Hunting Ground} Complete the Tear Trial [The Daunt Hunting
+      Ground]
+      Go to Workbench for Spike Holster
+    . {Workbench} Increase carry capacity: 25 shards, 2 fox hide [Spike Holster]
+--- 2 equal options:
+      ['weapon/explosive-blastsling', 'hunting-ground/the-daunt_1']
+      Go to Barren Light for Explosive Blastsling
+    . {Barren Light} Purchase from Hunter for 149 shards and fanghorn circulator
+      [Explosive Blastsling]
+      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
+    . {The Daunt Hunting Ground} Complete the Shock Trial [The Daunt Hunting
+      Ground]
+--- 2 equal options:
+      ['hunting-ground/the-daunt_2', 'weapon/explosive-blastsling_0']
       Go to The Daunt Hunting Ground for The Daunt Hunting Ground
     . {The Daunt Hunting Ground} Complete the Shock and Trap Trial [The Daunt
       Hunting Ground]
---- 2 equal options:
-      ['side-quest/the-twilight-path_post_0', 'side-quest/the-twilight-path_post_1']
-      Go to Chainscrape
-    . {Chainscrape} Talk to Petra again [The Twilight Path]
-      Go to Chainscrape
-    . {Chainscrape} Talk to Lokasha again [The Twilight Path]
-. {Chainscrape} Check in with the rescued miners [Deep Trouble]
---- 6 equal options:
-      ['side-quest/shadow-from-the-past', 'side-quest/the-bristlebacks-end',
-       'weapon/ropecaster', 'weapon/shock-warrior-bow',
-       'weapon/fire-hunter-bow', 'weapon/prototype-spike-thrower_0']
-      Go to Barren Light for Shadow from the Past
-    . {Barren Light} Talk to Conover and guard [Shadow from the Past]
-      Go to Deadfalls for The Bristlebacks (End)
-    . {Deadfalls} Sneak into the Deadfalls rebel outpost, kill everyone [The
-      Bristlebacks (End)]
+      Go to Workbench for Explosive Blastsling
+    . {Workbench} Increase stats: 50 shards, 1 braided wire [Explosive
+      Blastsling]
+  Go to Workbench for Explosive Blastsling
+. {Workbench} Increase stats: 75 shards, 1 braided wire, 1 skydrifter circulator
+  [Explosive Blastsling]
+--- 4 equal options:
+      ['weapon/ropecaster', 'weapon/shock-warrior-bow',
+       'weapon/fire-hunter-bow', 'weapon/explosive-blastsling_2']
       Go to The Daunt Hunting Ground for Ropecaster
     . {The Daunt Hunting Ground} Buy from Thurlis for 149 shards [Ropecaster]
       Go to The Daunt Hunting Ground for Shock Warrior Bow
@@ -196,135 +219,81 @@
       Go to The Daunt Hunting Grounds for Fire Hunter Bow
     . {The Daunt Hunting Grounds} Purchase Fire Hunter Bow (149 shards,
       bristleback circulator) [Fire Hunter Bow]
-      Go to Workbench for Prototype Spike Thrower
-    . {Workbench} Increase stats: 50 shards, 1 braided wire [Prototype Spike
-      Thrower]
---- 7 equal options:
-      ['side-quest/the-bristlebacks-end_0', 'side-quest/shadow-from-the-past_0',
-       'pouch/food-pouch_0', 'weapon/fire-hunter-bow_0',
-       'weapon/prototype-spike-thrower_1', 'weapon/ropecaster_0',
+      Go to Workbench for Explosive Blastsling
+    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
+      skydrifter razor tail, 1 small machine core [Explosive Blastsling]
+--- 3 equal options:
+      ['weapon/fire-hunter-bow_0', 'weapon/ropecaster_0',
        'weapon/shock-warrior-bow_0']
-      Go to Deadfalls for The Bristlebacks (End)
-    . {Deadfalls} Make sure to loot the cache for the strongarm hunter bow [The
-      Bristlebacks (End)]
-      Go to Straggler's Shade for Shadow from the Past
-    . {Straggler's Shade} Go to the clearing, enter the tunnel, kill the Eclipse
-      cultists [Shadow from the Past]
-      Go to Workbench for Food Pouch
-    . {Workbench} Increase carry capacity: 25 shards, 1 fox hide [Food Pouch]
       Go to Workbench for Fire Hunter Bow
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Fire Hunter Bow]
-      Go to Workbench for Prototype Spike Thrower
-    . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 scrounger
-      circulator [Prototype Spike Thrower]
       Go to Workbench for Ropecaster
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Ropecaster]
       Go to Workbench for Shock Warrior Bow
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Shock Warrior Bow]
---- 6 equal options:
-      ['side-quest/the-bristlebacks-end_1', 'side-quest/shadow-from-the-past_1',
-       'weapon/fire-hunter-bow_1', 'weapon/prototype-spike-thrower_2',
-       'weapon/ropecaster_1', 'weapon/shock-warrior-bow_1']
-    . {Chainscrape} Return and speak to Javad [The Bristlebacks (End)]
-      Go to Straggler's Shade for Shadow from the Past
-    . {Straggler's Shade} Scan the datapoint at the end of the tunnel [Shadow
-      from the Past]
-      Go to Workbench for Fire Hunter Bow
+--- 3 equal options:
+      ['weapon/fire-hunter-bow_1', 'weapon/ropecaster_1',
+       'weapon/shock-warrior-bow_1']
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 charger
       circulator [Fire Hunter Bow]
-      Go to Workbench for Prototype Spike Thrower
-    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
-      scrounger spark coil, 1 small machine core [Prototype Spike Thrower]
-      Go to Workbench for Ropecaster
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 scrapper
       circulator [Ropecaster]
-      Go to Workbench for Shock Warrior Bow
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 greenshine sliver
       [Shock Warrior Bow]
---- 4 equal options:
-      ['side-quest/shadow-from-the-past_2', 'weapon/fire-hunter-bow_2',
-       'weapon/ropecaster_2', 'weapon/shock-warrior-bow_2']
-      Go to Straggler's Shade for Shadow from the Past
-    . {Straggler's Shade} Kill the lieutenant, then examine the corpse [Shadow
-      from the Past]
-      Go to Workbench for Fire Hunter Bow
+--- 3 equal options:
+      ['weapon/fire-hunter-bow_2', 'weapon/ropecaster_2',
+       'weapon/shock-warrior-bow_2']
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 2
       charger horn, 1 small machine core [Fire Hunter Bow]
-      Go to Workbench for Ropecaster
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
       scrapper radar, 1 small machine core [Ropecaster]
-      Go to Workbench for Shock Warrior Bow
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
       greenshine fragment, 2 greenshine sliver [Shock Warrior Bow]
---- 2 equal options:
-      ['side-quest/the-bristlebacks-end_post_0',
-       'side-quest/the-bristlebacks-end_post_1']
-    . {Chainscrape} Speak to Javad (in Ulvund's old building) and scan datapoint
-      [The Bristlebacks (End)]
-      Go to Merchant
-    . {Merchant} Can sell the Strongarm Hunter Bow [The Bristlebacks (End)]
-  Go to Barren Light for Shadow from the Past
-. {Barren Light} Return to Conover and exonerate him [Shadow from the Past]
-  Go to Workbench for Spike Holster
-. {Workbench} Increase carry capacity: 25 shards, 2 fox hide [Spike Holster]
---- 4 equal options:
-      ['story/the-embassy', 'weapon/explosive-blastsling',
-       'pouch/light-arrow-quiver_0', 'pouch/rope-pouch_0']
-      Go to Barren Light for The Embassy
-    * {Barren Light} Speak to Erend [The Embassy]
-      Go to Barren Light for Explosive Blastsling
-    . {Barren Light} Purchase from Hunter for 149 shards and fanghorn circulator
-      [Explosive Blastsling]
-      Go to Workbench for Light Arrow Quiver
-    . {Workbench} Increase carry capacity: 25 shards, 2 jay feathers [Light
-      Arrow Quiver]
-      Go to Workbench for Rope Pouch
-    . {Workbench} Increase carry capacity: 50 shards, 1 fox bone [Rope Pouch]
---- 2 equal options:
-      ['story/the-embassy_0', 'weapon/explosive-blastsling_0']
+  Go to Barren Light for The Embassy
+* {Barren Light} Speak to Erend [The Embassy]
+--- 3 equal options:
+      ['story/the-embassy_0', 'pouch/light-arrow-quiver_0', 'pouch/rope-pouch_0']
       Go to Barren Light for The Embassy
     * {Barren Light} Speak to Lawan, get introduced to Nozar [The Embassy]
-      Go to Workbench for Explosive Blastsling
-    . {Workbench} Increase stats: 50 shards, 1 braided wire [Explosive
-      Blastsling]
---- 2 equal options:
-      ['story/the-embassy_1', 'weapon/explosive-blastsling_1']
-      Go to Barren Light for The Embassy
-    * {Barren Light} Follow Varl to the Embassy, exhaust Fashav diaglogue [The
-      Embassy]
-      Go to Workbench for Explosive Blastsling
-    . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 skydrifter
-      circulator [Explosive Blastsling]
---- 2 equal options:
-      ['story/the-embassy_2', 'weapon/explosive-blastsling_2']
-      Go to Barren Light for The Embassy
-    * {Barren Light} Regalla attacks, take out four riders to trigger cutscene
-      [The Embassy]
-      Go to Workbench for Explosive Blastsling
-    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
-      skydrifter razor tail, 1 small machine core [Explosive Blastsling]
+    . {Workbench} Increase carry capacity: 25 shards, 2 jay feathers [Light
+      Arrow Quiver]
+    . {Workbench} Increase carry capacity: 50 shards, 1 fox bone [Rope Pouch]
   Go to Barren Light for The Embassy
+* {Barren Light} Follow Varl to the Embassy, exhaust Fashav diaglogue [The
+  Embassy]
+* {Barren Light} Regalla attacks, take out four riders to trigger cutscene [The
+  Embassy]
 * {Barren Light} Take out four more riders to trigger cutscene [The Embassy]
-  Go to Barren Light for The Embassy
 * {Barren Light} Break Grudda's shield, then kill him [The Embassy]
 * {Barren Light} Speak to Lawan [The Embassy]
---- 2 equal options:
-      ['armour/nora-sentinel', 'story/opened-the-gate']
+--- 3 equal options:
+      ['armour/nora-sentinel', 'story/opened-the-gate',
+       'side-quest/the-bristlebacks-end']
     . {Barren Light} Buy Nora Sentinel for 399 shards and 1 skydrifter
       circulator; +1 concentration+, +1 stamina regen, 1 coil [Nora Sentinel]
 
 ==== OPENED THE GATE TO THE FORBIDDEN WEST ====
 
-  Go to Workbench for Nora Sentinel
-. {Workbench} Increase stats; 75 shards, 2 small machine core, 1 sturdy
-  hardplate [Nora Sentinel]
---- 7 equal options:
-      ['salvage/barren-light', 'tallneck/cinnabar-sands',
-       'rebel-camp/eastern-lie', 'rebel-outpost/jagged-deep',
-       'black-box/no-mans-land', 'encounter/oseram-delvers',
-       'armour/nora-sentinel_1']
+      Go to Deadfalls for The Bristlebacks (End)
+    . {Deadfalls} Sneak into the Deadfalls rebel outpost, kill everyone [The
+      Bristlebacks (End)]
+--- 2 equal options:
+      ['side-quest/the-bristlebacks-end_0', 'armour/nora-sentinel_0']
+      Go to Deadfalls for The Bristlebacks (End)
+    . {Deadfalls} Make sure to loot the cache for the strongarm hunter bow [The
+      Bristlebacks (End)]
+      Go to Workbench for Nora Sentinel
+    . {Workbench} Increase stats; 75 shards, 2 small machine core, 1 sturdy
+      hardplate [Nora Sentinel]
+--- 8 equal options:
+      ['salvage/barren-light', 'side-quest/the-bristlebacks-end_1',
+       'tallneck/cinnabar-sands', 'rebel-camp/eastern-lie',
+       'rebel-outpost/jagged-deep', 'black-box/no-mans-land',
+       'encounter/oseram-delvers', 'armour/nora-sentinel_1']
     . {Barren Light} Speak to Larend to get the first salvage contract [Barren
       Light Salvager]
+      Go to Chainscrape for The Bristlebacks (End)
+    . {Chainscrape} Return and speak to Javad [The Bristlebacks (End)]
       Go to Cinnabar Sands for Cinnabar Sands Tallneck
     . {Cinnabar Sands} Move the satellite dish around, get onto the Tallneck
       [Cinnabar Sands Tallneck]
@@ -358,6 +327,14 @@
     . {Workbench} +2 concentration regen coil, 2 coils, increase stats; 150
       shards, 2 medium machine core, 4 sturdy hardplate, 1 clawstrider
       circulator [Nora Sentinel]
+--- 2 equal options:
+      ['side-quest/the-bristlebacks-end_post_0',
+       'side-quest/the-bristlebacks-end_post_1']
+      Go to Chainscrape
+    . {Chainscrape} Speak to Javad (in Ulvund's old building) and scan datapoint
+      [The Bristlebacks (End)]
+      Go to Merchant
+    . {Merchant} Can sell the Strongarm Hunter Bow [The Bristlebacks (End)]
 --- 3 equal options:
       ['salvage/convoy-ambush', 'cauldron/mu', 'armour/nora-sentinel_3']
       Go to Ambush location for Convoy Ambush
