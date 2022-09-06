@@ -1,0 +1,8 @@
+title = "Plowhorn Override"
+type = 'override'
+location = 'The Base'
+
+# need access to The Base
+after = ['story/the-eye-of-the-earth']
+
+begin = 'Craft Plowhorn override with three Plowhorn horn and one Plowhorn primary nerve'

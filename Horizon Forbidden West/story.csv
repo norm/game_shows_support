@@ -286,10 +286,12 @@ step,location,node,text
 168,Repair Bay Tau,armour/utaru-whisperer_end,
 ,The Base,story/the-eye-of-the-earth_end,
 169,The Base,override/fanghorn,Craft Fanghorn override with three Fanghorn antlers and one Fanghorn primary nerve
+,The Base,override/plowhorn,Craft Plowhorn override with three Plowhorn horn and one Plowhorn primary nerve
 ,The Base,override/scrapper,Craft Scrapper override with two Scrapper radars and one Scrapper primary nerve
 ,The Base,override/widemaw,Craft Widemaw override with two Widemaw tusks and one Widemaw primary nerve
 ,The Base,story/restored-gaia,RESTORED GAIA
 170,The Base,override/fanghorn_end,
+,The Base,override/plowhorn_end,
 ,The Base,override/scrapper_end,
 ,The Base,override/widemaw_end,
 ,The Base,story/restored-gaia_end,

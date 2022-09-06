@@ -13,6 +13,7 @@ after = [
 
 unlocks = [
     'armour/utaru-whisperer',
+    'override/plowhorn',
 ]
 
 

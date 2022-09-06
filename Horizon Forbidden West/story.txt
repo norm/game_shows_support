@@ -564,18 +564,21 @@
       [Utaru Whisperer]
     * {Repair Bay Tau} Exit the base and speak to Rukka to get the rumour about
       of The Hive [The Eye of the Earth]
---- 4 equal options:
-      ['override/fanghorn', 'override/scrapper', 'override/widemaw',
-       'story/restored-gaia']
-      Go to The Base for Fanghorn
+--- 5 equal options:
+      ['override/fanghorn', 'override/plowhorn', 'override/scrapper',
+       'override/widemaw', 'story/restored-gaia']
+      Go to The Base for Fanghorn Override
     . {The Base} Craft Fanghorn override with three Fanghorn antlers and one
-      Fanghorn primary nerve [Fanghorn]
-      Go to The Base for Scrapper
+      Fanghorn primary nerve [Fanghorn Override]
+      Go to The Base for Plowhorn Override
+    . {The Base} Craft Plowhorn override with three Plowhorn horn and one
+      Plowhorn primary nerve [Plowhorn Override]
+      Go to The Base for Scrapper Override
     . {The Base} Craft Scrapper override with two Scrapper radars and one
-      Scrapper primary nerve [Scrapper]
-      Go to The Base for Widemaw
+      Scrapper primary nerve [Scrapper Override]
+      Go to The Base for Widemaw Override
     . {The Base} Craft Widemaw override with two Widemaw tusks and one Widemaw
-      primary nerve [Widemaw]
+      primary nerve [Widemaw Override]
       Go to The Base for Restored Gaia
 
 ==== RESTORED GAIA ====
@@ -1102,23 +1105,23 @@
     * {Stone Crest} Meet Kotallo, proceed to the Bulkwark killing the rebels
       [The Broken Sky (at the Bulwark)]
     . {The Base} Craft Dreadwing override with three Dreadwing metal fangs and
-      one Dreadwing primary nerve [Dreadwing]
+      one Dreadwing primary nerve [Dreadwing Override]
     . {The Base} Craft Fireclaw override with two Fireclaw sac webbing and one
-      Fireclaw primary nerve [Fireclaw]
+      Fireclaw primary nerve [Fireclaw Override]
     . {The Base} Craft Scorcher override with three Scorcher scanning ears and
-      one Scorcher primary nerve [Scorcher]
+      one Scorcher primary nerve [Scorcher Override]
     . {The Base} Craft Shellsnapper override with four Shellsnapper shell bolts
-      and one Shellsnapper primary nerve [Shellsnapper]
+      and one Shellsnapper primary nerve [Shellsnapper Override]
     . {The Base} Craft Slaughterspine override with two Slaughterspine
-      circulators and one Slaughterspine primary nerve [Slaughterspine]
+      circulators and one Slaughterspine primary nerve [Slaughterspine Override]
     . {The Base} Craft Slitherfang override with three Slitherfang earth
-      grinders and one Slitherfang primary nerve [Slitherfang]
+      grinders and one Slitherfang primary nerve [Slitherfang Override]
     . {The Base} Craft Spikesnout override with two Spikesnout sac webbing and
-      one Spikesnout primary nerve [Spikesnout]
+      one Spikesnout primary nerve [Spikesnout Override]
     . {The Base} Craft Stalker override with three Stalker stealth generators
-      and one Stalker primary nerve [Stalker]
+      and one Stalker primary nerve [Stalker Override]
     . {The Base} Craft Thunderjaw override with two Thunderjaw tail and one
-      Thunderjaw primary nerve [Thunderjaw]
+      Thunderjaw primary nerve [Thunderjaw Override]
     . {The Base} Return to Silga, get the spike thrower [Signal Spike]
       Go to The Raintrace for Colleague and Key
     . {The Raintrace} Follow Warend's trail, get the mine launcher from the
@@ -1458,21 +1461,21 @@
        'weapon/the-sun-scourge_2']
       Go to March of the Ten for A Soldier's March
     . {March of the Ten} Kill the Frostclaw [A Soldier's March]
-      Go to The Base for Bellowback
+      Go to The Base for Bellowback Override
     . {The Base} Craft Bellowback override with two Bellowback sac webbing and
-      one Bellowback primary nerve [Bellowback]
-      Go to The Base for Ravager
+      one Bellowback primary nerve [Bellowback Override]
+      Go to The Base for Ravager Override
     . {The Base} Craft Ravager override with one Ravager circulator and one
-      Ravager primary nerve [Ravager]
-      Go to The Base for Rollerback
+      Ravager primary nerve [Ravager Override]
+      Go to The Base for Rollerback Override
     . {The Base} Craft Rollerback override with two Rollerback hammer tail and
-      one Rollerback primary nerve [Rollerback]
-      Go to The Base for Skydrifter
+      one Rollerback primary nerve [Rollerback Override]
+      Go to The Base for Skydrifter Override
     . {The Base} Craft Skydrifter override with two Skydrifter razor tail and
-      one Skydrifter primary nerve [Skydrifter]
-      Go to The Base for Snapmaw
+      one Skydrifter primary nerve [Skydrifter Override]
+      Go to The Base for Snapmaw Override
     . {The Base} Craft Snapmaw override with two Snapmaw sac webbing and one
-      Snapmaw primary nerve [Snapmaw]
+      Snapmaw primary nerve [Snapmaw Override]
       Go to Workbench for Icefire Blastsling
     . {Workbench} Draw speed +65%, second coil unlocked, increase stats: 250
       shards, 1 bellowback sac webbing, 6 braided wire, 3 medium machine core, 1
