@@ -34,7 +34,7 @@ function convert_raw_footage {
         done
 
         local slices="$(echo "$source" | sed -e 's/.mkv$/.txt/')"
-        printf '   %7s -> %7s\n' "$start" "$end" >> "$slices"
+        printf '       %7s -> %7s\n' "$start" "$end" >> "$slices"
     fi
 
     # filter out the second audio channel (mic input, not used)
@@ -136,6 +136,7 @@ for capture in "${captures[@]}"; do
         [ -f "$slices" ] && {
             echo "   Existing slices taken:"
             cat "$slices"
+            echo ''
         }
 
         done=0
