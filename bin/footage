@@ -59,9 +59,12 @@ function convert_raw_footage {
     notes="$(echo "$destination" | sed -e 's/.mkv$/.txt/')"
     if [ ! -f "$notes" ]; then
         cat footage/template.txt > "$notes"
+        subl "$notes"
         add_to_things "Properly annotate $destination"
     fi
-    subl "$notes"
+
+    notify "Footage '$(basename "$destination")' ready"
+    echo ''
 }
 
 function seconds_from_timestamp {
