@@ -112,7 +112,7 @@ function slice_duration {
 }
 
 
-mapfile -t captures < <(ls raw/*mkv 2>/dev/null)
+mapfile -t captures < <(ls -t raw/*mkv 2>/dev/null)
 for capture in "${captures[@]}"; do
     file="$(basename "$capture")"
     [ "$file" = '*mkv' ] && break

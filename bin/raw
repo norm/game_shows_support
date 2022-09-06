@@ -47,6 +47,7 @@ for capture in "${captures[@]}"; do
                 "$capture" \
                 "$destination"
         rm "$capture"
+        touch -d $(date -r $actual +'%Y-%m-%dT%H:%M:%S') "$destination"
     fi
 done
 
