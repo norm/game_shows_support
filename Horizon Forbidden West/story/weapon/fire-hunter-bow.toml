@@ -1,10 +1,11 @@
 title = 'Fire Hunter Bow'
 type = 'weapon'
-start = 'The Daunt Hunting Grounds'
+start = 'Chainscrape'
 end = 'Workbench'
 
 # upgrade early
-before = ['story/the-embassy']
+before = ['side-quest/deep-trouble']
+
 
 # 6 dmg, 25 fire / 6 dmg, 25 acid
 begin = 'Purchase Fire Hunter Bow (149 shards, bristleback circulator)'

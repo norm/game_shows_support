@@ -12,6 +12,7 @@ before = [
 ]
 after = [
     'side-quest/the-bristlebacks',
+    'hunting-ground/the-daunt',
 ]
 
 begin = 'Talk to Conover and guard'

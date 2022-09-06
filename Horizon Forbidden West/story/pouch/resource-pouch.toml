@@ -10,7 +10,7 @@ text = 'Increase carry capacity: 25 shards, 2 boar hide'
 
 [[action]]
 text = 'Increase carry capacity: 50 shards, 1 horned lizard bone, 1 goose feather'
-after = ['story/the-eye-of-the-earth']  # not found in the daunt or plainsong
+after = ['story/restored-gaia']  # not found in the daunt or plainsong
 
 [[action]]
 text = 'Increase carry capacity: 100 shards, 2 bass skin, 1 iridescent crab shell'

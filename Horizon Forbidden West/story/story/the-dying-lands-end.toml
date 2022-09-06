@@ -1,0 +1,32 @@
+title = "The Dying Lands (End)"
+type = 'story'
+start = "Plainsong"
+end = 'Repair Bay Tau'
+
+triggers = 'story/the-eye-of-the-earth'
+
+after = [
+    'rebel-outpost/plainsong',
+    'hunting-ground/plainsong',
+    'side-quest/the-roots-that-bind',
+]
+
+unlocks = [
+    'armour/utaru-whisperer',
+]
+
+
+
+begin = 'Talk to Zo, and then the Chorus'
+
+[[action]]
+text = 'Help the Utaru as you follow the Sacred Trail'
+
+[[action]]
+text = 'Look for the Ravager Cannon when get to the part where you have to kill machines'
+
+[[action]]
+text = 'Just before the cave, make sure to loot the chest with the Utaru Whisperer armour'
+
+[[action]]
+text = 'Work through the Repair Bay, fight the Grimhorn, override the core'

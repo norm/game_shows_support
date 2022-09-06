@@ -34,7 +34,13 @@ text = 'Get the cell datapoint (should have been 5 in total) on the way out'
 [[post_action]]
 text = 'Talk to Conover again'
 location = 'Barren Light'
+after = [
+    'side-quest/the-burning-blooms',
+]
 
 [[post_action]]
 text = 'Talk to Yef again'
 location = 'Plainsong'
+after = [
+    'side-quest/the-burning-blooms',
+]

@@ -2,5 +2,9 @@ title = "Scavengers"
 type = 'salvage'
 location = 'Barren Light'
 
+after = [
+    'side-quest/the-burning-blooms',
+]
+
 
 begin = 'Collect the Scrapper parts and return to Larend'

@@ -7,7 +7,7 @@ autobegin = true
 
 [[action]]
 text = 'Increase carry capacity: 50 shards, 2 peccary hide'
-after = ['story/the-eye-of-the-earth']  # not found in the daunt or plainsong
+after = ['story/restored-gaia']  # not found in the daunt or plainsong
 
 [[action]]
 text = 'Increase carry capacity: 100 shards, 1 pelican wishbone, 1 peccary hide'

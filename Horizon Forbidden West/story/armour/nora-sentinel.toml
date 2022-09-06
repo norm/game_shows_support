@@ -3,8 +3,12 @@ type = 'armour'
 start = 'Barren Light'
 end = 'Workbench'
 
+
 # melee 10 / ranged 23 / fire 14 / shock 8 / acid -20
 begin = 'Buy Nora Sentinel for 399 shards and 1 skydrifter circulator; +1 concentration+, +1 stamina regen, 1 coil'
+after = [
+    'side-quest/the-roots-that-bind',   # no clawstriders before plainsong
+]
 
 # melee 16 / ranged 28 / fire 14 / shock 12 / acid -15
 [[action]]

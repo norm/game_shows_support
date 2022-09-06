@@ -4,7 +4,7 @@ start = 'Deadfalls'
 end = 'Chainscrape'
 
 requires = [
-    'story/the-embassy',
+    'story/opened-the-gate',
 ]
 
 
@@ -12,10 +12,16 @@ begin = 'Sneak into the Deadfalls rebel outpost, kill everyone'
 
 [[action]]
 text = 'Make sure to loot the cache for the strongarm hunter bow'
+before = [
+    'rebel-camp/eastern-lie',
+]
 
 [[action]]
 text = 'Return and speak to Javad'
 location = 'Chainscrape'
+after = [
+    'rebel-camp/eastern-lie',   # do this immediately after Deadfalls
+]
 
 [[post_action]]
 text = "Speak to Javad (in Ulvund's old building) and scan datapoint"

@@ -5,6 +5,7 @@ end = 'Plainsong Hunting Ground'
 
 after = [
     'story/deaths-door',                # don't go near Plainsong until met Zo
+    'side-quest/the-roots-that-bind',
 ]
 
 unlocks = [

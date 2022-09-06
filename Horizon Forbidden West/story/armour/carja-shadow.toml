@@ -8,6 +8,7 @@ begin = 'Buy Carja Shadow for 399 shards and 1 longleg circulator; +1 potent med
 # melee 27 / ranged 17 / fire 10 / frost -10 / purgewater 12
 [[action]]
 text = 'Increase stats; 75 shards, 2 small machine core, 1 sturdy hardplate'
+location = 'Workbench'
 
 # melee 30 / ranged 23 / fire 15 / frost -10 / purgewater 16
 [[action]]

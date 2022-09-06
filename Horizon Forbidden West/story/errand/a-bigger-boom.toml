@@ -9,7 +9,7 @@ unlocks = [
 ]
 
 after = [
-    'side-quest/deep-trouble',
+    'melee-pit/chainscrape',
 ]
 
 

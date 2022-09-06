@@ -1,10 +1,11 @@
 title = 'Frost Hunter Bow'
 type = 'weapon'
-start = 'Jagged Deep'
+location = 'Workbench'
 end = 'Workbench'
 
 # 8 dmg, 51 frost / 8 dmg, 52 acid
-begin = 'Purchase Frost Hunter Bow (549 shards, scrapper circulator)'
+# bought in story/deaths-door
+autobegin = true
 
 [[action]]
 # 9 dmg, 54 frost / 9 dmg, 55 acid

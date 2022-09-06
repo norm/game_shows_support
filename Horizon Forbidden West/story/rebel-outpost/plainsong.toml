@@ -1,14 +1,11 @@
 title = "Plainsong rebel outpost"
 type = 'rebel-outpost'
-start = 'Plainsong'
-end = 'Plainsong rebel outpost'
+location = 'Plainsong rebel outpost'
 
 after = [
     'story/deaths-door',    # don't go near Plainsong until met Zo
+    'hunting-ground/plainsong',
 ]
 
-begin = 'Get the rumour about the outpost'
 
-[[action]]
-text = 'Kill the rebels'
-location = 'Plainsong Rebel Outpost'
+begin = 'Kill the rebels'

@@ -3,38 +3,10 @@ type = 'story'
 start = "Stone's Echo"
 end = 'Repair Bay Tau'
 
-triggers = 'story/the-eye-of-the-earth'
-
 unlocks = [
-    'armour/utaru-whisperer',
-]
-
-after = [
-    'rebel-outpost/jagged-deep',
+    'story/the-dying-lands-plainsong',
     'side-quest/the-burning-blooms',
-    'rebel-outpost/plainsong',
-    'hunting-ground/plainsong',
-    'side-quest/the-roots-that-bind',
 ]
 
 
 begin = "Remove the Plowhorn's damaged part, convince Varl to follow Zo"
-
-[[action]]
-text = 'Talk to Varl and Zo at the entrance to Plainsong'
-location = 'Plainsong'
-
-[[action]]
-text = 'Talk to Zo, and then the Chorus'
-
-[[action]]
-text = 'Help the Utaru as you follow the Sacred Trail'
-
-[[action]]
-text = 'Look for the Ravager Cannon when get to the part where you have to kill machines'
-
-[[action]]
-text = 'Inside the cave, make sure to look the chest with the Utaru Whisperer armour'
-
-[[action]]
-text = 'Work through the Repair Bay, fight the Grimhorn, override the core'

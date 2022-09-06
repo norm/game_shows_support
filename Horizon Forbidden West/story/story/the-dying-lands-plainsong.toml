@@ -1,0 +1,24 @@
+title = "The Dying Lands (Plainsong)"
+type = 'story'
+location = "Plainsong"
+
+unlocks = [
+    'armour/carja-shadow',
+]
+
+before = [
+    'rebel-outpost/plainsong',
+    'hunting-ground/plainsong',
+    'side-quest/the-roots-that-bind',
+]
+
+after = [
+    'salvage/elusive-fanghorn',
+    'side-quest/the-burning-blooms',
+]
+
+
+begin = 'Talk to Varl and Zo at the entrance to Plainsong'
+
+[[action]]
+text = 'Explore Plainsong, get the rumour about rebels, find Daen, Yef, and Nel'

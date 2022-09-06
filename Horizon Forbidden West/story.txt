@@ -32,13 +32,11 @@
       [Hunter Bow]
 . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 burrower circulator
   [Hunter Bow]
---- 2 equal options:
-      ['weapon/hunter-bow_2', 'encounter/telga-fendur']
-    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
-      burrower soundshell, 1 small machine core [Hunter Bow]
-      Go to The Daunt Relic Ruin for Telga and Fendur
-    . {The Daunt Relic Ruin} Free Fendur from Bristleback, get smoke bombs
-      [Telga and Fendur]
+. {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1 burrower
+  soundshell, 1 small machine core [Hunter Bow]
+  Go to The Daunt Relic Ruin for Telga and Fendur
+. {The Daunt Relic Ruin} Free Fendur from Bristleback, get smoke bombs [Telga
+  and Fendur]
 * {Ruin} Talk to Thurlis, learn location of Erend [To The Brink (rescue Erend)]
 * {Abandoned Camp} Rescue Erend [To The Brink (rescue Erend)]
 * {Redhew Quarry} Dispatch Bristlebacks [To The Brink (rescue Erend)]
@@ -51,22 +49,21 @@
 ============================ RECORDING STARTS HERE =============================
 
 --- 4 equal options:
-      ['errand/a-dash-of-courage', 'side-quest/deep-trouble',
-       'side-quest/the-bristlebacks', 'weapon/frost-blastsling_1']
+      ['errand/a-dash-of-courage', 'side-quest/the-bristlebacks',
+       'weapon/fire-hunter-bow', 'weapon/frost-blastsling_1']
     . {Chainscrape} Talk to Milduf [A Dash of Courage]
-    . {Chainscrape} Talk to Arnuf [Deep Trouble]
     . {Chainscrape} Talk to Javad in the brewery [The Bristlebacks]
+    . {Chainscrape} Purchase Fire Hunter Bow (149 shards, bristleback
+      circulator) [Fire Hunter Bow]
       Go to Workbench for Frost Blastsling
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 bristleback
       circulator [Frost Blastsling]
 --- 9 equal options:
-      ['errand/a-dash-of-courage_0', 'side-quest/deep-trouble_0',
-       'pouch/hunter-arrow-quiver_0', 'pouch/potion-pouch_0',
-       'pouch/resource-pouch_0', 'pouch/trap-pouch_0', 'pouch/tripwire-pouch_0',
+      ['errand/a-dash-of-courage_0', 'pouch/hunter-arrow-quiver_0',
+       'pouch/potion-pouch_0', 'pouch/resource-pouch_0', 'pouch/trap-pouch_0',
+       'pouch/tripwire-pouch_0', 'weapon/fire-hunter-bow_0',
        'weapon/frost-blastsling_2', 'weapon/shock-tripcaster_0']
     . {Chainscrape} Gather 5 wild meat and 3 bitter leaf [A Dash of Courage]
-      Go to Crimson Narrows for Deep Trouble
-    . {Crimson Narrows} Speak to Korvend, enter the mine [Deep Trouble]
       Go to Workbench for Hunter Arrow Quiver
     . {Workbench} Increase carry capacity: 25 shards, 2 raccoon hide [Hunter
       Arrow Quiver]
@@ -82,50 +79,60 @@
       Go to Workbench for Tripwire Pouch
     . {Workbench} Increase carry capacity: 25 shards, 1 jay wishbone [Tripwire
       Pouch]
+      Go to Workbench for Fire Hunter Bow
+    . {Workbench} Increase stats: 50 shards, 1 braided wire [Fire Hunter Bow]
       Go to Workbench for Frost Blastsling
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
       bristleback tusk, 1 small machine core [Frost Blastsling]
       Go to Workbench for Shock Tripcaster
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Shock Tripcaster]
 --- 3 equal options:
-      ['side-quest/deep-trouble_1', 'errand/a-dash-of-courage_1',
+      ['errand/a-dash-of-courage_1', 'weapon/fire-hunter-bow_1',
        'weapon/shock-tripcaster_1']
-      Go to Crimson Narrows for Deep Trouble
-    . {Crimson Narrows} Rescue the miners [Deep Trouble]
       Go to Scrounger Site for A Dash of Courage
     . {Scrounger Site} Gather a corrugated metal plate, making sure to get the
       upgrade parts needed from the Scroungers [A Dash of Courage]
+      Go to Workbench for Fire Hunter Bow
+    . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 charger
+      circulator [Fire Hunter Bow]
       Go to Workbench for Shock Tripcaster
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 scrounger
       circulator [Shock Tripcaster]
 --- 3 equal options:
-      ['side-quest/deep-trouble_2', 'errand/a-dash-of-courage_2',
+      ['errand/a-dash-of-courage_2', 'weapon/fire-hunter-bow_2',
        'weapon/shock-tripcaster_2']
-      Go to Crimson Narrows for Deep Trouble
-    . {Crimson Narrows} Return to Korvend [Deep Trouble]
       Go to Scrounger Site for A Dash of Courage
     . {Scrounger Site} Return to Milduf, get meal and buy two more for free [A
       Dash of Courage]
+      Go to Workbench for Fire Hunter Bow
+    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 2
+      charger horn, 1 small machine core [Fire Hunter Bow]
       Go to Workbench for Shock Tripcaster
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
       scrounger spark coil, 1 small machine core [Shock Tripcaster]
   Go to Workbench for Bomb Satchel
 . {Workbench} Increase carry capacity: 25 shards, 1 boar bone [Bomb Satchel]
-. {Chainscrape} Check in with the rescued miners [Deep Trouble]
+. {Chainscrape} Talk to Arnuf [Deep Trouble]
 --- 2 equal options:
-      ['errand/a-bigger-boom', 'melee-pit/chainscrape']
-    . {Chainscrape} Talk to Delah [A Bigger Boom]
-    . {Chainscrape} Learn about the Melee pits, learn combos, defeat Odurg
-      [Chainscrape Melee Pit]
---- 3 equal options:
-      ['errand/a-bigger-boom_0', 'side-quest/the-bristlebacks_0',
-       'pouch/food-pouch_0']
+      ['side-quest/deep-trouble_0', 'pouch/food-pouch_0']
+      Go to Crimson Narrows for Deep Trouble
+    . {Crimson Narrows} Speak to Korvend, enter the mine [Deep Trouble]
+      Go to Workbench for Food Pouch
+    . {Workbench} Increase carry capacity: 25 shards, 1 fox hide [Food Pouch]
+  Go to Crimson Narrows for Deep Trouble
+. {Crimson Narrows} Rescue the miners [Deep Trouble]
+. {Crimson Narrows} Return to Korvend [Deep Trouble]
+  Go to Chainscrape
+. {Chainscrape} Check in with the rescued miners [Deep Trouble]
+. {Chainscrape} Learn about the Melee pits, learn combos, defeat Odurg
+  [Chainscrape Melee Pit]
+. {Chainscrape} Talk to Delah [A Bigger Boom]
+--- 2 equal options:
+      ['errand/a-bigger-boom_0', 'side-quest/the-bristlebacks_0']
     . {Chainscrape} Gather 3 charger horns and a fanghorn rib [A Bigger Boom]
       Go to Redhew Quarry for The Bristlebacks
     . {Redhew Quarry} Head to the quarry, investigate the dead bristlebacks [The
       Bristlebacks]
-      Go to Workbench for Food Pouch
-    . {Workbench} Increase carry capacity: 25 shards, 1 fox hide [Food Pouch]
 --- 2 equal options:
       ['errand/a-bigger-boom_1', 'side-quest/the-bristlebacks_1']
     . {Chainscrape} Return and get the spike thrower [A Bigger Boom]
@@ -135,53 +142,35 @@
 . {Chainscrape} Return to Javad [The Bristlebacks]
 . {Chainscrape} Talk to Petra, learn of the Shadow Carja refugees [The Twilight
   Path]
---- 3 equal options:
-      ['side-quest/shadow-from-the-past', 'side-quest/the-twilight-path_0',
-       'weapon/prototype-spike-thrower_0']
-      Go to Barren Light for Shadow from the Past
-    . {Barren Light} Talk to Conover and guard [Shadow from the Past]
+--- 2 equal options:
+      ['side-quest/the-twilight-path_0', 'weapon/prototype-spike-thrower_0']
     . {Chainscrape} Talk to Tolland [The Twilight Path]
       Go to Workbench for Prototype Spike Thrower
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Prototype Spike
       Thrower]
---- 3 equal options:
-      ['side-quest/shadow-from-the-past_0', 'side-quest/the-twilight-path_1',
-       'weapon/prototype-spike-thrower_1']
-      Go to Straggler's Shade for Shadow from the Past
-    . {Straggler's Shade} Go to the clearing, enter the tunnel, kill the Eclipse
-      cultists [Shadow from the Past]
+--- 2 equal options:
+      ['side-quest/the-twilight-path_1', 'weapon/prototype-spike-thrower_1']
       Go to Twilight's Landing for The Twilight Path
     . {Twilight's Landing} Deal with attacking machines, talk to Lokasha [The
       Twilight Path]
       Go to Workbench for Prototype Spike Thrower
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 scrounger
       circulator [Prototype Spike Thrower]
---- 3 equal options:
-      ['side-quest/shadow-from-the-past_1', 'side-quest/the-twilight-path_2',
-       'weapon/prototype-spike-thrower_2']
-      Go to Straggler's Shade for Shadow from the Past
-    . {Straggler's Shade} Scan the datapoint at the end of the tunnel [Shadow
-      from the Past]
+--- 2 equal options:
+      ['side-quest/the-twilight-path_2', 'weapon/prototype-spike-thrower_2']
       Go to Twilight's Landing for The Twilight Path
     . {Twilight's Landing} Climb tower, find body of priest, return [The
       Twilight Path]
       Go to Workbench for Prototype Spike Thrower
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
       scrounger spark coil, 1 small machine core [Prototype Spike Thrower]
-  Go to Straggler's Shade for Shadow from the Past
-. {Straggler's Shade} Kill the lieutenant, then examine the corpse [Shadow from
-  the Past]
 --- 2 equal options:
       ['side-quest/the-twilight-path_post_0', 'side-quest/the-twilight-path_post_1']
     . {Chainscrape} Talk to Petra again [The Twilight Path]
     . {Chainscrape} Talk to Lokasha again [The Twilight Path]
---- 2 equal options:
-      ['side-quest/shadow-from-the-past_3', 'hunting-ground/the-daunt']
-      Go to Barren Light for Shadow from the Past
-    . {Barren Light} Return to Conover and exonerate him [Shadow from the Past]
-      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
-    . {The Daunt Hunting Ground} Talk to the groundskeeper, buy the Strike
-      pieces and weapons [The Daunt Hunting Ground]
+  Go to The Daunt Hunting Ground for The Daunt Hunting Ground
+. {The Daunt Hunting Ground} Talk to the groundskeeper, buy the Strike pieces
+  and weapons [The Daunt Hunting Ground]
 --- 2 equal options:
       ['hunting-ground/the-daunt_0', 'pouch/spike-holster_0']
       Go to The Daunt Hunting Ground for The Daunt Hunting Ground
@@ -189,430 +178,415 @@
       Ground]
       Go to Workbench for Spike Holster
     . {Workbench} Increase carry capacity: 25 shards, 2 fox hide [Spike Holster]
---- 2 equal options:
-      ['weapon/explosive-blastsling', 'hunting-ground/the-daunt_1']
-      Go to Barren Light for Explosive Blastsling
-    . {Barren Light} Purchase from Hunter for 149 shards and fanghorn circulator
-      [Explosive Blastsling]
-      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
-    . {The Daunt Hunting Ground} Complete the Shock Trial [The Daunt Hunting
-      Ground]
---- 2 equal options:
-      ['hunting-ground/the-daunt_2', 'weapon/explosive-blastsling_0']
-      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
-    . {The Daunt Hunting Ground} Complete the Shock and Trap Trial [The Daunt
-      Hunting Ground]
-      Go to Workbench for Explosive Blastsling
-    . {Workbench} Increase stats: 50 shards, 1 braided wire [Explosive
-      Blastsling]
-  Go to Workbench for Explosive Blastsling
-. {Workbench} Increase stats: 75 shards, 1 braided wire, 1 skydrifter circulator
-  [Explosive Blastsling]
---- 4 equal options:
+  Go to The Daunt Hunting Ground for The Daunt Hunting Ground
+. {The Daunt Hunting Ground} Complete the Shock Trial [The Daunt Hunting Ground]
+. {The Daunt Hunting Ground} Complete the Shock and Trap Trial [The Daunt
+  Hunting Ground]
+--- 3 equal options:
       ['weapon/ropecaster', 'weapon/shock-warrior-bow',
-       'weapon/fire-hunter-bow', 'weapon/explosive-blastsling_2']
-      Go to The Daunt Hunting Ground for Ropecaster
+       'side-quest/shadow-from-the-past']
     . {The Daunt Hunting Ground} Buy from Thurlis for 149 shards [Ropecaster]
-      Go to The Daunt Hunting Ground for Shock Warrior Bow
     . {The Daunt Hunting Ground} Talk to Izvad to get the bow for free [Shock
       Warrior Bow]
-      Go to The Daunt Hunting Grounds for Fire Hunter Bow
-    . {The Daunt Hunting Grounds} Purchase Fire Hunter Bow (149 shards,
-      bristleback circulator) [Fire Hunter Bow]
-      Go to Workbench for Explosive Blastsling
-    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
-      skydrifter razor tail, 1 small machine core [Explosive Blastsling]
+      Go to Barren Light for Shadow from the Past
+    . {Barren Light} Talk to Conover and guard [Shadow from the Past]
 --- 3 equal options:
-      ['weapon/fire-hunter-bow_0', 'weapon/ropecaster_0',
+      ['side-quest/shadow-from-the-past_0', 'weapon/ropecaster_0',
        'weapon/shock-warrior-bow_0']
-      Go to Workbench for Fire Hunter Bow
-    . {Workbench} Increase stats: 50 shards, 1 braided wire [Fire Hunter Bow]
+      Go to Straggler's Shade for Shadow from the Past
+    . {Straggler's Shade} Go to the clearing, enter the tunnel, kill the Eclipse
+      cultists [Shadow from the Past]
       Go to Workbench for Ropecaster
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Ropecaster]
       Go to Workbench for Shock Warrior Bow
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Shock Warrior Bow]
 --- 3 equal options:
-      ['weapon/fire-hunter-bow_1', 'weapon/ropecaster_1',
+      ['side-quest/shadow-from-the-past_1', 'weapon/ropecaster_1',
        'weapon/shock-warrior-bow_1']
-    . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 charger
-      circulator [Fire Hunter Bow]
+      Go to Straggler's Shade for Shadow from the Past
+    . {Straggler's Shade} Scan the datapoint at the end of the tunnel [Shadow
+      from the Past]
+      Go to Workbench for Ropecaster
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 scrapper
       circulator [Ropecaster]
+      Go to Workbench for Shock Warrior Bow
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 greenshine sliver
       [Shock Warrior Bow]
 --- 3 equal options:
-      ['weapon/fire-hunter-bow_2', 'weapon/ropecaster_2',
+      ['side-quest/shadow-from-the-past_2', 'weapon/ropecaster_2',
        'weapon/shock-warrior-bow_2']
-    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 2
-      charger horn, 1 small machine core [Fire Hunter Bow]
+      Go to Straggler's Shade for Shadow from the Past
+    . {Straggler's Shade} Kill the lieutenant, then examine the corpse [Shadow
+      from the Past]
+      Go to Workbench for Ropecaster
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
       scrapper radar, 1 small machine core [Ropecaster]
+      Go to Workbench for Shock Warrior Bow
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
       greenshine fragment, 2 greenshine sliver [Shock Warrior Bow]
-  Go to Barren Light for The Embassy
-* {Barren Light} Speak to Erend [The Embassy]
---- 3 equal options:
-      ['story/the-embassy_0', 'pouch/light-arrow-quiver_0', 'pouch/rope-pouch_0']
+  Go to Barren Light for Shadow from the Past
+. {Barren Light} Return to Conover and exonerate him [Shadow from the Past]
+--- 4 equal options:
+      ['story/the-embassy', 'weapon/explosive-blastsling',
+       'pouch/light-arrow-quiver_0', 'pouch/rope-pouch_0']
       Go to Barren Light for The Embassy
-    * {Barren Light} Speak to Lawan, get introduced to Nozar [The Embassy]
+    * {Barren Light} Speak to Erend [The Embassy]
+      Go to Barren Light for Explosive Blastsling
+    . {Barren Light} Purchase from Hunter for 149 shards and fanghorn circulator
+      [Explosive Blastsling]
+      Go to Workbench for Light Arrow Quiver
     . {Workbench} Increase carry capacity: 25 shards, 2 jay feathers [Light
       Arrow Quiver]
+      Go to Workbench for Rope Pouch
     . {Workbench} Increase carry capacity: 50 shards, 1 fox bone [Rope Pouch]
+--- 2 equal options:
+      ['story/the-embassy_0', 'weapon/explosive-blastsling_0']
+      Go to Barren Light for The Embassy
+    * {Barren Light} Speak to Lawan, get introduced to Nozar [The Embassy]
+      Go to Workbench for Explosive Blastsling
+    . {Workbench} Increase stats: 50 shards, 1 braided wire [Explosive
+      Blastsling]
+--- 2 equal options:
+      ['story/the-embassy_1', 'weapon/explosive-blastsling_1']
+      Go to Barren Light for The Embassy
+    * {Barren Light} Follow Varl to the Embassy, exhaust Fashav diaglogue [The
+      Embassy]
+      Go to Workbench for Explosive Blastsling
+    . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 skydrifter
+      circulator [Explosive Blastsling]
+--- 2 equal options:
+      ['story/the-embassy_2', 'weapon/explosive-blastsling_2']
+      Go to Barren Light for The Embassy
+    * {Barren Light} Regalla attacks, take out four riders to trigger cutscene
+      [The Embassy]
+      Go to Workbench for Explosive Blastsling
+    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
+      skydrifter razor tail, 1 small machine core [Explosive Blastsling]
   Go to Barren Light for The Embassy
-* {Barren Light} Follow Varl to the Embassy, exhaust Fashav diaglogue [The
-  Embassy]
-* {Barren Light} Regalla attacks, take out four riders to trigger cutscene [The
-  Embassy]
 * {Barren Light} Take out four more riders to trigger cutscene [The Embassy]
+  Go to Barren Light for The Embassy
 * {Barren Light} Break Grudda's shield, then kill him [The Embassy]
 * {Barren Light} Speak to Lawan [The Embassy]
---- 3 equal options:
-      ['armour/nora-sentinel', 'story/opened-the-gate',
-       'side-quest/the-bristlebacks-end']
-    . {Barren Light} Buy Nora Sentinel for 399 shards and 1 skydrifter
-      circulator; +1 concentration+, +1 stamina regen, 1 coil [Nora Sentinel]
 
 ==== OPENED THE GATE TO THE FORBIDDEN WEST ====
 
-      Go to Deadfalls for The Bristlebacks (End)
-    . {Deadfalls} Sneak into the Deadfalls rebel outpost, kill everyone [The
-      Bristlebacks (End)]
+  Go to Deadfalls for The Bristlebacks (End)
+. {Deadfalls} Sneak into the Deadfalls rebel outpost, kill everyone [The
+  Bristlebacks (End)]
+. {Deadfalls} Make sure to loot the cache for the strongarm hunter bow [The
+  Bristlebacks (End)]
+  Go to Eastern Lie for Eastern Lie
+. {Eastern Lie} Enter carefully via the river [Eastern Lie]
 --- 2 equal options:
-      ['side-quest/the-bristlebacks-end_0', 'armour/nora-sentinel_0']
-      Go to Deadfalls for The Bristlebacks (End)
-    . {Deadfalls} Make sure to loot the cache for the strongarm hunter bow [The
-      Bristlebacks (End)]
-      Go to Workbench for Nora Sentinel
-    . {Workbench} Increase stats; 75 shards, 2 small machine core, 1 sturdy
-      hardplate [Nora Sentinel]
---- 8 equal options:
-      ['salvage/barren-light', 'side-quest/the-bristlebacks-end_1',
-       'tallneck/cinnabar-sands', 'rebel-camp/eastern-lie',
-       'rebel-outpost/jagged-deep', 'black-box/no-mans-land',
-       'encounter/oseram-delvers', 'armour/nora-sentinel_1']
-    . {Barren Light} Speak to Larend to get the first salvage contract [Barren
-      Light Salvager]
+      ['rebel-camp/eastern-lie_0', 'side-quest/the-bristlebacks-end_1']
+    . {Eastern Lie} Kill the rebels, explode the blaze, rescue the prisoner
+      [Eastern Lie]
       Go to Chainscrape for The Bristlebacks (End)
     . {Chainscrape} Return and speak to Javad [The Bristlebacks (End)]
-      Go to Cinnabar Sands for Cinnabar Sands Tallneck
-    . {Cinnabar Sands} Move the satellite dish around, get onto the Tallneck
-      [Cinnabar Sands Tallneck]
-      Go to Eastern Lie for Eastern Lie
-    . {Eastern Lie} Enter carefully via the river [Eastern Lie]
+--- 3 equal options:
+      ['side-quest/the-bristlebacks-end_post_0',
+       'rebel-camp/eastern-lie_post_0',
+       'side-quest/the-bristlebacks-end_post_1']
+      Go to Chainscrape
+    . {Chainscrape} Speak to Javad (in Ulvund's old building) and scan datapoint
+      [The Bristlebacks (End)]
+      Go to Hunter
+    . {Hunter} Can sell the Carja Blazon armour [Eastern Lie]
+      Go to Merchant
+    . {Merchant} Can sell the Strongarm Hunter Bow [The Bristlebacks (End)]
+  Go to Barren Light for Barren Light Salvager
+. {Barren Light} Speak to Larend to get the first salvage contract [Barren Light
+  Salvager]
+  Go to No Man's Land Relic Ruin for Oseram Delvers
+. {No Man's Land Relic Ruin} Fight the Tenakth rebels attacking the Oseram
+  [Oseram Delvers]
+  Go to Cinnabar Sands for Cinnabar Sands Tallneck
+. {Cinnabar Sands} Move the satellite dish around, get onto the Tallneck
+  [Cinnabar Sands Tallneck]
+  Go to Ambush location for Convoy Ambush
+. {Ambush location} Examine log traps already laid out, pass time at the bedroll
+  [Convoy Ambush]
+. {Ambush location} Take out the machines ensuring the Shellwalker crate is
+  undamaged, try to get the lightning gun part [Convoy Ambush]
+  Go to Cauldron Mu for Mu
+. {Cauldron Mu} Advance through the cauldron to the core, killing the machines
+  [Mu]
+. {Cauldron Mu} Kill the two widemaws [Mu]
+  Go to Shadow's Reach for Shadow in the West
+. {Shadow's Reach} Eliminate the Eclipse guards outside the encampment, then
+  talk to Yef [Shadow in the West]
+. {Shadow's Reach} Make your way around, getting the datapoint and whisper
+  hunter bow [Shadow in the West]
+. {Shadow's Reach} Infiltrate the encampment, kill the guards and Longleg, get
+  the datapoint [Shadow in the West]
+. {Shadow's Reach} Inside, rescue Utaru, ignore that datapoint for now [Shadow
+  in the West]
+. {Shadow's Reach} Kill Vezreh and his pet Ravager, scan his datapoints, talk to
+  Yef again [Shadow in the West]
+. {Shadow's Reach} Get the cell datapoint (should have been 5 in total) on the
+  way out [Shadow in the West]
+  Go to Sylens' Workshop for Death's Door
+* {Sylens' Workshop} Approach the Metal Devil, look around, activate the
+  console, scan datapoints [Death's Door]
+* {Sylens' Workshop} Follow the trail, ensure you get/already have a Scrapper
+  circulator, keep an eye out for foxes for pouch upgrade materials [Death's
+  Door]
+* {Sylens' Workshop} Purchase Frost Hunter Bow (549 shards, scrapper circulator)
+  from the Hunter found on the way [Death's Door]
+* {Sylens' Workshop} Talk to Hades, then Sylens to get the igniter recipe
+  [Death's Door]
+* {Sylens' Workshop} Kill leaplashers, craft igniter and upgrade anything that
+  can be [Death's Door]
+* {Sylens' Workshop} Use igniter, work your way inside, get Gaia [Death's Door]
+* {Sylens' Workshop} Avoid Erik as much as possible once proving his shield is
+  impervious [Death's Door]
+* {Sylens' Workshop} Escape Latopolis [Death's Door]
+--- 3 equal options:
+      ['story/the-dying-lands', 'rebel-outpost/jagged-deep', 'black-box/no-mans-land']
+    * {Stone's Echo} Remove the Plowhorn's damaged part, convince Varl to follow
+      Zo [The Dying Lands]
       Go to Jagged Deep for Jagged Deep rebel outpost
     . {Jagged Deep} Kill the riders carefully when approaching [Jagged Deep
       rebel outpost]
       Go to No Man's Land for No Man's Land black box
     . {No Man's Land} When nearby, make sure to catch the signal in your Focus
       first [No Man's Land black box]
-      Go to No Man's Land Relic Ruin for Oseram Delvers
-    . {No Man's Land Relic Ruin} Fight the Tenakth rebels attacking the Oseram
-      [Oseram Delvers]
-      Go to Workbench for Nora Sentinel
-    . {Workbench} +1 stealth ranged, +2 concentration+, increase stats; 112
-      shards, 1 clawstrider razor tail, 1 skydrifter razor tail, 2 sturdy
-      hardplate [Nora Sentinel]
 --- 4 equal options:
-      ['rebel-camp/eastern-lie_0', 'rebel-outpost/jagged-deep_0',
-       'black-box/no-mans-land_0', 'armour/nora-sentinel_2']
-      Go to Eastern Lie for Eastern Lie
-    . {Eastern Lie} Kill the rebels, explode the blaze, rescue the prisoner
-      [Eastern Lie]
+      ['rebel-outpost/jagged-deep_0', 'black-box/no-mans-land_0',
+       'weapon/frost-hunter-bow_0', 'weapon/whisper-hunter-bow_0']
       Go to Jagged Deep for Jagged Deep rebel outpost
     . {Jagged Deep} Take out the rebels in the outpost, careful of Aloy dialogue
       about taking parts from the Corruptors [Jagged Deep rebel outpost]
       Go to No Man's Land for No Man's Land black box
     . {No Man's Land} Recover the black box [No Man's Land black box]
-      Go to Workbench for Nora Sentinel
-    . {Workbench} +2 concentration regen coil, 2 coils, increase stats; 150
-      shards, 2 medium machine core, 4 sturdy hardplate, 1 clawstrider
-      circulator [Nora Sentinel]
+      Go to Workbench for Frost Hunter Bow
+    . {Workbench} Draw speed +15%, increase stats: 75 shards, 2 braided wire, 2
+      small machine core [Frost Hunter Bow]
+      Go to Workbench for Whisper Hunter Bow
+    . {Workbench} Increase stats: 50 shards, 1 braided wire [Whisper Hunter Bow]
+--- 3 equal options:
+      ['side-quest/the-burning-blooms', 'weapon/frost-hunter-bow_1',
+       'weapon/whisper-hunter-bow_1']
+    . {Stone's Echo} Talk to Mian, find out about Talanah [The Burning Blooms]
+      Go to Workbench for Frost Hunter Bow
+    . {Workbench} Increase stats: 112 shards, 2 braided wire, 1 scrapper radar,
+      1 skydrifter razor tail [Frost Hunter Bow]
+      Go to Workbench for Whisper Hunter Bow
+    . {Workbench} Stealth damage to +90%, increase stats: 75 shards, 1 braided
+      wire, 1 greenshine sliver [Whisper Hunter Bow]
+--- 3 equal options:
+      ['side-quest/the-burning-blooms_0', 'weapon/frost-hunter-bow_2',
+       'weapon/whisper-hunter-bow_2']
+    . {Stone's Echo} Go to the area Talanah was headed, defeat the machines [The
+      Burning Blooms]
+      Go to Workbench for Frost Hunter Bow
+    . {Workbench} Overdraw +15%, increase stats: 150 shards, 3 braided wire, 2
+      medium machine core, 1 skydrifter circulator [Frost Hunter Bow]
+      Go to Workbench for Whisper Hunter Bow
+    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
+      greenshine fragment, 2 greenshine sliver [Whisper Hunter Bow]
 --- 2 equal options:
-      ['side-quest/the-bristlebacks-end_post_0',
-       'side-quest/the-bristlebacks-end_post_1']
-      Go to Chainscrape
-    . {Chainscrape} Speak to Javad (in Ulvund's old building) and scan datapoint
-      [The Bristlebacks (End)]
-      Go to Merchant
-    . {Merchant} Can sell the Strongarm Hunter Bow [The Bristlebacks (End)]
---- 3 equal options:
-      ['salvage/convoy-ambush', 'cauldron/mu', 'armour/nora-sentinel_3']
-      Go to Ambush location for Convoy Ambush
-    . {Ambush location} Examine log traps already laid out, pass time at the
-      bedroll [Convoy Ambush]
-      Go to Cauldron Mu for Mu
-    . {Cauldron Mu} Advance through the cauldron to the core, killing the
-      machines [Mu]
-      Go to Workbench for Nora Sentinel
-    . {Workbench} Equip Nora Sentinel, add whatever weaves are best from
-      collection [Nora Sentinel]
-  Go to Hunter
-. {Hunter} Can sell the Carja Blazon armour [Eastern Lie]
---- 3 equal options:
-      ['salvage/convoy-ambush_0', 'cauldron/mu_0', 'armour/nora-sentinel_4']
-      Go to Ambush location for Convoy Ambush
-    . {Ambush location} Take out the machines ensuring the Shellwalker crate is
-      undamaged, try to get the lightning gun part [Convoy Ambush]
-      Go to Cauldron Mu for Mu
-    . {Cauldron Mu} Kill the two widemaws [Mu]
-      Go to Workbench for Nora Sentinel
-    . {Workbench} +2 stamina regen, increase stats; 250 shards, 3 medium machine
-      core, 2 spikesnout sac webbing, 8 sturdy hardplate, 1 clawstrider primary
-      nerve [Nora Sentinel]
-  Go to Ambush location for Convoy Ambush
-. {Ambush location} Return to Larend [Convoy Ambush]
-  Go to Shadow's Reach for Shadow in the West
-. {Shadow's Reach} Eliminate the Eclipse guards outside the encampment, then
-  talk to Yef [Shadow in the West]
---- 3 equal options:
-      ['salvage/alarm-antennas', 'salvage/scavengers',
-       'side-quest/shadow-in-the-west_0']
+      ['side-quest/the-burning-blooms_1', 'weapon/frost-hunter-bow_3']
+    . {Stone's Echo} Follow Talanah, investigate the battlefield [The Burning
+      Blooms]
+      Go to Workbench for Frost Hunter Bow
+    . {Workbench} Unlock coil, draw speed +65%, increase stats: 250 shards, 1
+      bellowback sac webbing, 6 braided wire, 3 medium machine core, 1
+      skydrifter primary nerve [Frost Hunter Bow]
+. {Stone's Echo} Defeat the Shellsnapper [The Burning Blooms]
+--- 4 equal options:
+      ['salvage/convoy-ambush_post_0', 'side-quest/shadow-in-the-west_post_0',
+       'side-quest/shadow-in-the-west_post_1',
+       'side-quest/the-burning-blooms_post_0']
+      Go to Ambush location
+    . {Ambush location} Return to Larend [Convoy Ambush]
+      Go to Barren Light
+    . {Barren Light} Talk to Conover again [Shadow in the West]
+      Go to Plainsong
+    . {Plainsong} Talk to Yef again [Shadow in the West]
+      Go to Stone's Echo
+    . {Stone's Echo} Check in on Milu [The Burning Blooms]
+--- 2 equal options:
+      ['salvage/alarm-antennas', 'salvage/scavengers']
       Go to Barren Light for Alarm Antennas
     . {Barren Light} Talk to Larend to start salvage [Alarm Antennas]
       Go to Barren Light for Scavengers
     . {Barren Light} Collect the Scrapper parts and return to Larend
       [Scavengers]
-      Go to Shadow's Reach for Shadow in the West
-    . {Shadow's Reach} Make your way around, getting the datapoint and whisper
-      hunter bow [Shadow in the West]
---- 2 equal options:
-      ['salvage/alarm-antennas_0', 'side-quest/shadow-in-the-west_1']
-      Go to Barren Light for Alarm Antennas
-    . {Barren Light} Collect the antennas and return them to Larend [Alarm
-      Antennas]
-      Go to Shadow's Reach for Shadow in the West
-    . {Shadow's Reach} Infiltrate the encampment, kill the guards and Longleg,
-      get the datapoint [Shadow in the West]
-  Go to Shadow's Reach for Shadow in the West
-. {Shadow's Reach} Inside, rescue Utaru, ignore that datapoint for now [Shadow
-  in the West]
---- 2 equal options:
-      ['salvage/elusive-fanghorn', 'side-quest/shadow-in-the-west_3']
-      Go to Barren Light for Elusive Fanghorn
-    . {Barren Light} Chase down the Fanghorn [Elusive Fanghorn]
-      Go to Shadow's Reach for Shadow in the West
-    . {Shadow's Reach} Kill Vezreh and his pet Ravager, scan his datapoints,
-      talk to Yef again [Shadow in the West]
---- 2 equal options:
-      ['salvage/elusive-fanghorn_0', 'side-quest/shadow-in-the-west_4']
-      Go to Barren Light for Elusive Fanghorn
-    . {Barren Light} Loot a circulator and drill horn from the nearby Lancehorns
-      [Elusive Fanghorn]
-      Go to Shadow's Reach for Shadow in the West
-    . {Shadow's Reach} Get the cell datapoint (should have been 5 in total) on
-      the way out [Shadow in the West]
-  Go to Barren Light for Elusive Fanghorn
+. {Barren Light} Collect the antennas and return them to Larend [Alarm Antennas]
+. {Barren Light} Chase down the Fanghorn [Elusive Fanghorn]
+. {Barren Light} Loot a circulator and drill horn from the nearby Lancehorns
+  [Elusive Fanghorn]
 . {Barren Light} Return to Larend to finish his salvage [Elusive Fanghorn]
---- 2 equal options:
-      ['side-quest/shadow-in-the-west_post_0', 'side-quest/shadow-in-the-west_post_1']
-      Go to Barren Light
-    . {Barren Light} Talk to Conover again [Shadow in the West]
-      Go to Plainsong
-    . {Plainsong} Talk to Yef again [Shadow in the West]
-  Go to Sylens' Workshop for Death's Door
-* {Sylens' Workshop} Approach the Metal Devil, look around, activate the
-  console, scan datapoints [Death's Door]
   Go to Merchant
 . {Merchant} Can sell the Impact Spike Thrower [Elusive Fanghorn]
+  Go to Plainsong for The Dying Lands (Plainsong)
+* {Plainsong} Talk to Varl and Zo at the entrance to Plainsong [The Dying Lands
+  (Plainsong)]
+* {Plainsong} Explore Plainsong, get the rumour about rebels, find Daen, Yef,
+  and Nel [The Dying Lands (Plainsong)]
 --- 2 equal options:
-      ['story/deaths-door_0', 'weapon/whisper-hunter-bow_0']
-      Go to Sylens' Workshop for Death's Door
-    * {Sylens' Workshop} Follow the trail, ensure you get/already have a
-      Scrapper circulator, keep an eye out for foxes for pouch upgrade materials
-      [Death's Door]
-      Go to Workbench for Whisper Hunter Bow
-    . {Workbench} Increase stats: 50 shards, 1 braided wire [Whisper Hunter Bow]
---- 2 equal options:
-      ['story/deaths-door_1', 'weapon/whisper-hunter-bow_1']
-      Go to Sylens' Workshop for Death's Door
-    * {Sylens' Workshop} Buy the Frost Hunter Bow from the Hunter on the way
-      [Death's Door]
-      Go to Workbench for Whisper Hunter Bow
-    . {Workbench} Stealth damage to +90%, increase stats: 75 shards, 1 braided
-      wire, 1 greenshine sliver [Whisper Hunter Bow]
---- 2 equal options:
-      ['story/deaths-door_2', 'weapon/whisper-hunter-bow_2']
-      Go to Sylens' Workshop for Death's Door
-    * {Sylens' Workshop} Talk to Hades, then Sylens to get the igniter recipe
-      [Death's Door]
-      Go to Workbench for Whisper Hunter Bow
-    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
-      greenshine fragment, 2 greenshine sliver [Whisper Hunter Bow]
-  Go to Sylens' Workshop for Death's Door
-* {Sylens' Workshop} Kill leaplashers, craft igniter and upgrade anything that
-  can be [Death's Door]
-  Go to Sylens' Workshop for Death's Door
-* {Sylens' Workshop} Use igniter, work your way inside, get Gaia [Death's Door]
-* {Sylens' Workshop} Avoid Erik as much as possible once proving his shield is
-  impervious [Death's Door]
-* {Sylens' Workshop} Escape Latopolis [Death's Door]
---- 6 equal options:
-      ['side-quest/the-burning-blooms', 'weapon/frost-hunter-bow',
-       'armour/carja-shadow', 'hunting-ground/plainsong',
-       'rebel-outpost/plainsong', 'side-quest/the-roots-that-bind']
-    . {Stone's Echo} Talk to Mian, find out about Talanah [The Burning Blooms]
-      Go to Jagged Deep for Frost Hunter Bow
-    . {Jagged Deep} Purchase Frost Hunter Bow (549 shards, scrapper circulator)
-      [Frost Hunter Bow]
-      Go to Plainsong for Carja Shadow
+      ['armour/carja-shadow', 'side-quest/the-roots-that-bind']
     . {Plainsong} Buy Carja Shadow for 399 shards and 1 longleg circulator; +1
       potent medicine, +1 low health defense, 1 coil [Carja Shadow]
-      Go to Plainsong for Plainsong Hunting Ground
+    . {Plainsong} Talk to Nel to find out about Riverhymn [The Roots That Bind]
+--- 2 equal options:
+      ['side-quest/the-roots-that-bind_0', 'armour/carja-shadow_0']
+      Go to Riverhymn for The Roots That Bind
+    . {Riverhymn} Take out the rebels, then speak to Kue [The Roots That Bind]
+      Go to Workbench for Carja Shadow
+    . {Workbench} Increase stats; 75 shards, 2 small machine core, 1 sturdy
+      hardplate [Carja Shadow]
+--- 2 equal options:
+      ['side-quest/the-roots-that-bind_1', 'armour/carja-shadow_1']
+      Go to Riverhymn for The Roots That Bind
+    . {Riverhymn} Collect Metal Pods from the Drumroot [The Roots That Bind]
+      Go to Workbench for Carja Shadow
+    . {Workbench} +1 medicine capacity, +2 potent medicine, increase stats; 112
+      shards, 1 clawstrider razor tail, 1 longleg wing burner, 2 sturdy
+      hardplate [Carja Shadow]
+--- 2 equal options:
+      ['side-quest/the-roots-that-bind_2', 'armour/carja-shadow_2']
+      Go to Riverhymn for The Roots That Bind
+    . {Riverhymn} Return to Kue, fight more rebels [The Roots That Bind]
+      Go to Workbench for Carja Shadow
+    . {Workbench} +2 concentration coil, 2 coils, increase stats; 150 shards, 2
+      medium machine core, 4 sturdy hardplate, 1 clawstrider circulator [Carja
+      Shadow]
+--- 2 equal options:
+      ['side-quest/the-roots-that-bind_3', 'armour/carja-shadow_3']
+      Go to Riverhymn for The Roots That Bind
+    . {Riverhymn} Talk to Nel and Kue again before leaving [The Roots That Bind]
+      Go to Workbench for Carja Shadow
+    . {Workbench} Equip Carja Shadow with +2 concentration regen from Nora
+      Sentinel (+1 concentration regen from Nora Anointed if not yet upgraded)
+      [Carja Shadow]
+  Go to Workbench for Carja Shadow
+. {Workbench} Increase stats; 250 shards, 3 medium machine core, 1 snapmaw sac
+  webbing, 8 sturdy hardplate, 1 clawstrider primary nerve [Carja Shadow]
+--- 2 equal options:
+      ['hunting-ground/plainsong', 'armour/nora-sentinel']
     . {Plainsong} Talk to Ivinna to learn of the hunting ground [Plainsong
       Hunting Ground]
-      Go to Plainsong for Plainsong rebel outpost
-    . {Plainsong} Get the rumour about the outpost [Plainsong rebel outpost]
-      Go to Plainsong for The Roots That Bind
-    . {Plainsong} Talk to Nel to find out about Riverhymn [The Roots That Bind]
---- 6 equal options:
-      ['side-quest/the-burning-blooms_0', 'armour/carja-shadow_0',
-       'hunting-ground/plainsong_0', 'rebel-outpost/plainsong_0',
-       'side-quest/the-roots-that-bind_0', 'weapon/frost-hunter-bow_0']
-    . {Stone's Echo} Go to the area Talanah was headed, defeat the machines [The
-      Burning Blooms]
-      Go to Plainsong for Carja Shadow
-    . {Plainsong} Increase stats; 75 shards, 2 small machine core, 1 sturdy
-      hardplate [Carja Shadow]
+      Go to Barren Light for Nora Sentinel
+    . {Barren Light} Buy Nora Sentinel for 399 shards and 1 skydrifter
+      circulator; +1 concentration+, +1 stamina regen, 1 coil [Nora Sentinel]
+--- 3 equal options:
+      ['hunting-ground/plainsong_0', 'armour/nora-sentinel_0',
+       'weapon/kues-sharpshot-bow_0']
       Go to Plainsong Hunting Ground for Plainsong Hunting Ground
     . {Plainsong Hunting Ground} Talk to the groundskeeper [Plainsong Hunting
       Ground]
-      Go to Plainsong Rebel Outpost for Plainsong rebel outpost
-    . {Plainsong Rebel Outpost} Kill the rebels [Plainsong rebel outpost]
-      Go to Riverhymn for The Roots That Bind
-    . {Riverhymn} Take out the rebels, then speak to Kue [The Roots That Bind]
-      Go to Workbench for Frost Hunter Bow
-    . {Workbench} Draw speed +15%, increase stats: 75 shards, 2 braided wire, 2
-      small machine core [Frost Hunter Bow]
---- 5 equal options:
-      ['side-quest/the-burning-blooms_1', 'armour/carja-shadow_1',
-       'hunting-ground/plainsong_1', 'side-quest/the-roots-that-bind_1',
-       'weapon/frost-hunter-bow_1']
-    . {Stone's Echo} Follow Talanah, investigate the battlefield [The Burning
-      Blooms]
-      Go to Plainsong for Carja Shadow
-    . {Plainsong} +1 medicine capacity, +2 potent medicine, increase stats; 112
-      shards, 1 clawstrider razor tail, 1 longleg wing burner, 2 sturdy
-      hardplate [Carja Shadow]
-      Go to Plainsong Hunting Ground for Plainsong Hunting Ground
-    . {Plainsong Hunting Ground} Complete the Silent Looting Trial (ensure to
-      get Tracker Burrower circulator) [Plainsong Hunting Ground]
-      Go to Riverhymn for The Roots That Bind
-    . {Riverhymn} Collect Metal Pods from the Drumroot [The Roots That Bind]
-      Go to Workbench for Frost Hunter Bow
-    . {Workbench} Increase stats: 112 shards, 2 braided wire, 1 scrapper radar,
-      1 skydrifter razor tail [Frost Hunter Bow]
---- 5 equal options:
-      ['side-quest/the-burning-blooms_2', 'armour/carja-shadow_2',
-       'hunting-ground/plainsong_2', 'side-quest/the-roots-that-bind_2',
-       'weapon/frost-hunter-bow_2']
-    . {Stone's Echo} Defeat the Shellsnapper [The Burning Blooms]
-      Go to Plainsong for Carja Shadow
-    . {Plainsong} +2 concentration coil, 2 coils, increase stats; 150 shards, 2
-      medium machine core, 4 sturdy hardplate, 1 clawstrider circulator [Carja
-      Shadow]
-      Go to Plainsong Hunting Ground for Plainsong Hunting Ground
-    . {Plainsong Hunting Ground} Complete the Silent Strike Trial [Plainsong
-      Hunting Ground]
-      Go to Riverhymn for The Roots That Bind
-    . {Riverhymn} Return to Kue, and talk to Nel at the flowerbed [The Roots
-      That Bind]
-      Go to Workbench for Frost Hunter Bow
-    . {Workbench} Overdraw +15%, increase stats: 150 shards, 3 braided wire, 2
-      medium machine core, 1 skydrifter circulator [Frost Hunter Bow]
---- 3 equal options:
-      ['armour/carja-shadow_3', 'hunting-ground/plainsong_3',
-       'weapon/frost-hunter-bow_3']
-      Go to Plainsong for Carja Shadow
-    . {Plainsong} Equip Carja Shadow with +2 concentration regen from Nora
-      Sentinel (+1 concentration regen from Nora Anointed if not yet upgraded)
-      [Carja Shadow]
-      Go to Plainsong Hunting Ground for Plainsong Hunting Ground
-    . {Plainsong Hunting Ground} Complete the Silent Gliding Trial [Plainsong
-      Hunting Ground]
-      Go to Workbench for Frost Hunter Bow
-    . {Workbench} Unlock coil, draw speed +65%, increase stats: 250 shards, 1
-      bellowback sac webbing, 6 braided wire, 3 medium machine core, 1
-      skydrifter primary nerve [Frost Hunter Bow]
-. {Stone's Echo} Check in on Milu [The Burning Blooms]
-  Go to Plainsong for Carja Shadow
-. {Plainsong} Increase stats; 250 shards, 3 medium machine core, 1 snapmaw sac
-  webbing, 8 sturdy hardplate, 1 clawstrider primary nerve [Carja Shadow]
---- 3 equal options:
-      ['story/the-dying-lands', 'weapon/sun-touched-hunter-bow',
-       'weapon/kues-sharpshot-bow_0']
-    * {Stone's Echo} Remove the Plowhorn's damaged part, convince Varl to follow
-      Zo [The Dying Lands]
-      Go to Plainsong Hunting Grounds for Sun-Touched Hunter Bow
-    . {Plainsong Hunting Grounds} Purchase Sun-Touched Hunter Bow (945 shards,
-      tracker burrower circulator) [Sun-Touched Hunter Bow]
+      Go to Workbench for Nora Sentinel
+    . {Workbench} Increase stats; 75 shards, 2 small machine core, 1 sturdy
+      hardplate [Nora Sentinel]
       Go to Workbench for Kue's Sharpshot Bow
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Kue's Sharpshot
       Bow]
 --- 3 equal options:
-      ['story/the-dying-lands_0', 'weapon/kues-sharpshot-bow_1',
-       'weapon/sun-touched-hunter-bow_0']
-      Go to Plainsong for The Dying Lands
-    * {Plainsong} Talk to Varl and Zo at the entrance to Plainsong [The Dying
-      Lands]
+      ['hunting-ground/plainsong_1', 'armour/nora-sentinel_1',
+       'weapon/kues-sharpshot-bow_1']
+      Go to Plainsong Hunting Ground for Plainsong Hunting Ground
+    . {Plainsong Hunting Ground} Complete the Silent Looting Trial (ensure to
+      get Tracker Burrower circulator) [Plainsong Hunting Ground]
+      Go to Workbench for Nora Sentinel
+    . {Workbench} +1 stealth ranged, +2 concentration+, increase stats; 112
+      shards, 1 clawstrider razor tail, 1 skydrifter razor tail, 2 sturdy
+      hardplate [Nora Sentinel]
       Go to Workbench for Kue's Sharpshot Bow
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 clawstrider
       circulator [Kue's Sharpshot Bow]
-      Go to Workbench for Sun-Touched Hunter Bow
-    . {Workbench} Crit +15%, increase stats: 75 shards, 2 braided wire, 2 small
-      machine core [Sun-Touched Hunter Bow]
 --- 3 equal options:
-      ['story/the-dying-lands_1', 'weapon/kues-sharpshot-bow_2',
-       'weapon/sun-touched-hunter-bow_1']
-      Go to Plainsong for The Dying Lands
-    * {Plainsong} Talk to Zo, and then the Chorus [The Dying Lands]
+      ['hunting-ground/plainsong_2', 'armour/nora-sentinel_2',
+       'weapon/kues-sharpshot-bow_2']
+      Go to Plainsong Hunting Ground for Plainsong Hunting Ground
+    . {Plainsong Hunting Ground} Complete the Silent Strike Trial [Plainsong
+      Hunting Ground]
+      Go to Workbench for Nora Sentinel
+    . {Workbench} +2 concentration regen coil, 2 coils, increase stats; 150
+      shards, 2 medium machine core, 4 sturdy hardplate, 1 clawstrider
+      circulator [Nora Sentinel]
       Go to Workbench for Kue's Sharpshot Bow
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
       clawstrider razor tail, 1 small machine core [Kue's Sharpshot Bow]
-      Go to Workbench for Sun-Touched Hunter Bow
-    . {Workbench} Overdraw +15%, increase stats: 112 shards, 1 bellowback sac
-      webbing, 2 braided wire, 2 lancehorn drill horn [Sun-Touched Hunter Bow]
 --- 2 equal options:
-      ['story/the-dying-lands_2', 'weapon/sun-touched-hunter-bow_2']
-      Go to Plainsong for The Dying Lands
-    * {Plainsong} Help the Utaru as you follow the Sacred Trail [The Dying
-      Lands]
-      Go to Workbench for Sun-Touched Hunter Bow
-    . {Workbench} Advanced arrows, increase stats: 150 shards, 1 bellowback
-      circulator, 3 braided wire, 2 medium machine core [Sun-Touched Hunter Bow]
---- 2 equal options:
-      ['story/the-dying-lands_3', 'weapon/sun-touched-hunter-bow_3']
-      Go to Plainsong for The Dying Lands
-    * {Plainsong} Look for the Ravager Cannon when get to the part where you
-      have to kill machines [The Dying Lands]
-      Go to Workbench for Sun-Touched Hunter Bow
-    . {Workbench} Crit +40%, crit chance +15% chance, coil unlocked, increase
-      stats: 250 shards, 1 bellowback primary nerve, 6 braided wire, 3 medium
-      machine core, 2 rollerback hammer tail [Sun-Touched Hunter Bow]
---- 2 equal options:
-      ['story/the-dying-lands_4', 'pouch/precision-arrow-quiver_0']
-      Go to Plainsong for The Dying Lands
-    * {Plainsong} Inside the cave, make sure to look the chest with the Utaru
-      Whisperer armour [The Dying Lands]
+      ['hunting-ground/plainsong_3', 'armour/nora-sentinel_3']
+      Go to Plainsong Hunting Ground for Plainsong Hunting Ground
+    . {Plainsong Hunting Ground} Complete the Silent Gliding Trial [Plainsong
+      Hunting Ground]
+      Go to Workbench for Nora Sentinel
+    . {Workbench} Equip Nora Sentinel, add whatever weaves are best from
+      collection [Nora Sentinel]
+  Go to Workbench for Nora Sentinel
+. {Workbench} +2 stamina regen, increase stats; 250 shards, 3 medium machine
+  core, 2 spikesnout sac webbing, 8 sturdy hardplate, 1 clawstrider primary
+  nerve [Nora Sentinel]
+--- 3 equal options:
+      ['weapon/sun-touched-hunter-bow', 'rebel-outpost/plainsong',
+       'pouch/precision-arrow-quiver_0']
+      Go to Plainsong Hunting Grounds for Sun-Touched Hunter Bow
+    . {Plainsong Hunting Grounds} Purchase Sun-Touched Hunter Bow (945 shards,
+      tracker burrower circulator) [Sun-Touched Hunter Bow]
+      Go to Plainsong rebel outpost for Plainsong rebel outpost
+    . {Plainsong rebel outpost} Kill the rebels [Plainsong rebel outpost]
       Go to Workbench for Precision Arrow Quiver
     . {Workbench} Increase carry capacity: 50 shards, 1 fox bone [Precision
       Arrow Quiver]
-  Go to Plainsong for The Dying Lands
+  Go to Plainsong for The Dying Lands (End)
+* {Plainsong} Talk to Zo, and then the Chorus [The Dying Lands (End)]
+* {Plainsong} Help the Utaru as you follow the Sacred Trail [The Dying Lands
+  (End)]
+* {Plainsong} Look for the Ravager Cannon when get to the part where you have to
+  kill machines [The Dying Lands (End)]
+* {Plainsong} Just before the cave, make sure to loot the chest with the Utaru
+  Whisperer armour [The Dying Lands (End)]
 * {Plainsong} Work through the Repair Bay, fight the Grimhorn, override the core
-  [The Dying Lands]
+  [The Dying Lands (End)]
 . {Repair Bay Tau} Get Utaru Whisperer: +1 silent strike gain (+valor, +weapon
   stamina), +1 silent strike heal, 1 coil [Utaru Whisperer]
---- 14 equal options:
-      ['armour/utaru-whisperer_0', 'story/the-eye-of-the-earth_0',
-       'pouch/bolt-clip-satchel_0', 'pouch/bomb-satchel_1',
-       'pouch/food-pouch_1', 'pouch/hunter-arrow-quiver_1',
-       'pouch/light-arrow-quiver_1', 'pouch/potion-pouch_1',
-       'pouch/precision-arrow-quiver_1', 'pouch/resource-pouch_1',
-       'pouch/rope-pouch_1', 'pouch/spike-holster_1', 'pouch/trap-pouch_1',
-       'pouch/tripwire-pouch_1']
+--- 2 equal options:
+      ['armour/utaru-whisperer_0', 'story/the-eye-of-the-earth_0']
     . {Repair Bay Tau} Increase stats; 75 shards, 2 small machine core, 1 sturdy
       hardplate [Utaru Whisperer]
     * {Repair Bay Tau} Figure out the way in, insert Gaia kernel into the
       console [The Eye of the Earth]
+--- 2 equal options:
+      ['armour/utaru-whisperer_1', 'story/the-eye-of-the-earth_1']
+    . {Repair Bay Tau} +1 quiet spear, +2 silent strike gain, increase stats;
+      112 shards, 1 clawstrider razor tail, 1 sunwing shield caster, 2 sturdy
+      hardplate [Utaru Whisperer]
+    * {Repair Bay Tau} Explore the base, use the Fabrication Terminal to finish
+      any corrupted overrides [The Eye of the Earth]
+--- 2 equal options:
+      ['armour/utaru-whisperer_2', 'story/the-eye-of-the-earth_2']
+    . {Repair Bay Tau} +2 silent strike (coil), 2 coils, increase stats; 150
+      shards, 2 medium machine core, 4 sturdy hardplate, 1 sunwing circulator
+      [Utaru Whisperer]
+    * {Repair Bay Tau} Exit the base and speak to Rukka to get the rumour about
+      of The Hive [The Eye of the Earth]
+--- 4 equal options:
+      ['override/fanghorn', 'override/scrapper', 'override/widemaw',
+       'story/restored-gaia']
+      Go to The Base for Fanghorn
+    . {The Base} Craft Fanghorn override with three Fanghorn antlers and one
+      Fanghorn primary nerve [Fanghorn]
+      Go to The Base for Scrapper
+    . {The Base} Craft Scrapper override with two Scrapper radars and one
+      Scrapper primary nerve [Scrapper]
+      Go to The Base for Widemaw
+    . {The Base} Craft Widemaw override with two Widemaw tusks and one Widemaw
+      primary nerve [Widemaw]
+      Go to The Base for Restored Gaia
+
+==== RESTORED GAIA ====
+
+--- 13 equal options:
+      ['pouch/bolt-clip-satchel_0', 'pouch/bomb-satchel_1',
+       'pouch/food-pouch_1', 'pouch/hunter-arrow-quiver_1',
+       'pouch/light-arrow-quiver_1', 'pouch/potion-pouch_1',
+       'pouch/precision-arrow-quiver_1', 'pouch/resource-pouch_1',
+       'pouch/rope-pouch_1', 'pouch/spike-holster_1', 'pouch/trap-pouch_1',
+       'pouch/tripwire-pouch_1', 'weapon/sun-touched-hunter-bow_0']
       Go to Workbench for Bolt Clip Satchel
     . {Workbench} Increase carry capacity: 50 shards, 2 peccary hide [Bolt Clip
       Satchel]
@@ -649,110 +623,10 @@
       Go to Workbench for Tripwire Pouch
     . {Workbench} Increase carry capacity: 50 shards, 3 rabbit hide [Tripwire
       Pouch]
---- 14 equal options:
-      ['armour/utaru-whisperer_1', 'story/the-eye-of-the-earth_1',
-       'pouch/bolt-clip-satchel_1', 'pouch/bomb-satchel_2',
-       'pouch/food-pouch_2', 'pouch/hunter-arrow-quiver_2',
-       'pouch/light-arrow-quiver_2', 'pouch/potion-pouch_2',
-       'pouch/precision-arrow-quiver_2', 'pouch/resource-pouch_2',
-       'pouch/rope-pouch_2', 'pouch/spike-holster_2', 'pouch/trap-pouch_2',
-       'pouch/tripwire-pouch_2']
-    . {Repair Bay Tau} +1 quiet spear, +2 silent strike gain, increase stats;
-      112 shards, 1 clawstrider razor tail, 1 sunwing shield caster, 2 sturdy
-      hardplate [Utaru Whisperer]
-    * {Repair Bay Tau} Explore the base, use the Fabrication Terminal to finish
-      any corrupted overrides [The Eye of the Earth]
-      Go to Workbench for Bolt Clip Satchel
-    . {Workbench} Increase carry capacity: 100 shards, 1 pelican wishbone, 1
-      peccary hide [Bolt Clip Satchel]
-      Go to Workbench for Bomb Satchel
-    . {Workbench} Increase carry capacity: 100 shards, 3 owl feather, 1 salmon
-      bone [Bomb Satchel]
-      Go to Workbench for Food Pouch
-    . {Workbench} Increase carry capacity: 100 shards, 2 duck feather, 1 salmon
-      bone [Food Pouch]
-      Go to Workbench for Hunter Arrow Quiver
-    . {Workbench} Increase carry capacity: 100 shards, 3 bighorn sheep skin, 1
-      salmon bone [Hunter Arrow Quiver]
-      Go to Workbench for Light Arrow Quiver
-    . {Workbench} Increase carry capacity: 100 shards, 3 salmon skin, 1 owl
-      wishbone [Light Arrow Quiver]
-      Go to Workbench for Potion Pouch
-    . {Workbench} Increase carry capacity: 100 shards, 2 carp skin, 1 bighorn
-      sheep bone [Potion Pouch]
-      Go to Workbench for Precision Arrow Quiver
-    . {Workbench} Increase carry capacity: 200 shards, 3 moonfish skin, 1 owl
-      wishbone [Precision Arrow Quiver]
-      Go to Workbench for Resource Pouch
-    . {Workbench} Increase carry capacity: 100 shards, 2 bass skin, 1 iridescent
-      crab shell [Resource Pouch]
-      Go to Workbench for Rope Pouch
-    . {Workbench} Increase carry capacity: 200 shards, 3 moonfish skin, 1
-      bighorn sheep bone [Rope Pouch]
-      Go to Workbench for Spike Holster
-    . {Workbench} Increase carry capacity: 100 shards, 3 owl feather, 1 duck
-      wishbone [Spike Holster]
-      Go to Workbench for Trap Pouch
-    . {Workbench} Increase carry capacity: 100 shards, 1 duck wishbone, 2
-      bighorn sheep hide [Trap Pouch]
-      Go to Workbench for Tripwire Pouch
-    . {Workbench} Increase carry capacity: 100 shards, 1 bighorn sheep bone, 3
-      owl feather [Tripwire Pouch]
---- 10 equal options:
-      ['armour/utaru-whisperer_2', 'story/the-eye-of-the-earth_2',
-       'pouch/bolt-clip-satchel_2', 'pouch/bomb-satchel_3',
-       'pouch/hunter-arrow-quiver_3', 'pouch/light-arrow-quiver_3',
-       'pouch/precision-arrow-quiver_3', 'pouch/rope-pouch_3',
-       'pouch/spike-holster_3', 'pouch/tripwire-pouch_3']
-    . {Repair Bay Tau} +2 silent strike (coil), 2 coils, increase stats; 150
-      shards, 2 medium machine core, 4 sturdy hardplate, 1 sunwing circulator
-      [Utaru Whisperer]
-    * {Repair Bay Tau} Exit the base and speak to Rukka to get the rumour about
-      of The Hive [The Eye of the Earth]
-      Go to Workbench for Bolt Clip Satchel
-    . {Workbench} Increase carry capacity: 200 shards, 3 gull feather, 1 bighorn
-      sheep bone [Bolt Clip Satchel]
-      Go to Workbench for Bomb Satchel
-    . {Workbench} Increase carry capacity: 200 shards, 3 lobster shell, 1
-      iridescent crab shell, 1 peccary bone [Bomb Satchel]
-      Go to Workbench for Hunter Arrow Quiver
-    . {Workbench} Increase carry capacity: 200 shards, 1 pelican wishbone, 2
-      peccary hide, 1 iridescent lobster shell [Hunter Arrow Quiver]
-      Go to Workbench for Light Arrow Quiver
-    . {Workbench} Increase carry capacity: 200 shards, 1 moonfish bone, 2 bass
-      skin, 1 gull wishbone [Light Arrow Quiver]
-      Go to Workbench for Precision Arrow Quiver
-    . {Workbench} Increase carry capacity: 300 shards, 3 bass skin, 1 moonfish
-      bone, 1 iridescent lobster shell [Precision Arrow Quiver]
-      Go to Workbench for Rope Pouch
-    . {Workbench} Increase carry capacity: 300 shards, 1 bass bone, 2 peccary
-      hide, 1 iridescent lobster shell [Rope Pouch]
-      Go to Workbench for Spike Holster
-    . {Workbench} Increase carry capacity: 200 shards, 1 bass bone, 2 crab
-      shell, 1 peccary bone [Spike Holster]
-      Go to Workbench for Tripwire Pouch
-    . {Workbench} Increase carry capacity: 200 shards, 1 crab shell, 1
-      iridescent lobster shell, 1 gull wishbone [Tripwire Pouch]
-  Go to Workbench for Bolt Clip Satchel
-. {Workbench} Increase carry capacity: 300 shards, 1 iridescent lobster shell, 1
-  iridescent crab shell [Bolt Clip Satchel]
---- 4 equal options:
-      ['override/fanghorn', 'override/scrapper', 'override/widemaw',
-       'story/restored-gaia']
-      Go to The Base for Fanghorn
-    . {The Base} Craft Fanghorn override with three Fanghorn antlers and one
-      Fanghorn primary nerve [Fanghorn]
-      Go to The Base for Scrapper
-    . {The Base} Craft Scrapper override with two Scrapper radars and one
-      Scrapper primary nerve [Scrapper]
-      Go to The Base for Widemaw
-    . {The Base} Craft Widemaw override with two Widemaw tusks and one Widemaw
-      primary nerve [Widemaw]
-      Go to The Base for Restored Gaia
-
-==== RESTORED GAIA ====
-
---- 49 equal options:
+      Go to Workbench for Sun-Touched Hunter Bow
+    . {Workbench} Crit +15%, increase stats: 75 shards, 2 braided wire, 2 small
+      machine core [Sun-Touched Hunter Bow]
+--- 62 equal options:
       ['side-quest/thirst-for-the-hunt', 'black-box/bleeding-mark',
        'black-box/bonewhite-tear', 'rebel-outpost/bonewhite-tear',
        'rebel-camp/breached-rock', 'side-quest/breaking-even',
@@ -776,7 +650,13 @@
        'rebel-outpost/the-stand-of-the-sentinels',
        'tallneck/the-stand-of-the-sentinels', 'salvage/the-stillsands',
        'story/the-sea-of-sands', 'tallneck/the-stillsands',
-       'melee-pit/thornmarsh', 'weapon/elite-ropecaster']
+       'melee-pit/thornmarsh', 'weapon/elite-ropecaster',
+       'pouch/bolt-clip-satchel_1', 'pouch/bomb-satchel_2',
+       'pouch/food-pouch_2', 'pouch/hunter-arrow-quiver_2',
+       'pouch/light-arrow-quiver_2', 'pouch/potion-pouch_2',
+       'pouch/precision-arrow-quiver_2', 'pouch/resource-pouch_2',
+       'pouch/rope-pouch_2', 'pouch/spike-holster_2', 'pouch/trap-pouch_2',
+       'pouch/tripwire-pouch_2', 'weapon/sun-touched-hunter-bow_1']
       Go to Arrowhand for Thirst for the Hunt
     . {Arrowhand} Speak to Drakka [Thirst for the Hunt]
       Go to Bleeding Mark for Bleeding Mark black box
@@ -901,7 +781,46 @@
       Go to Thornmarsh for Elite Ropecaster
     . {Thornmarsh} Purchase Glowblast Sharpshot Bow (1035 shards, thunderjaw
       circulator, large machine core) [Elite Ropecaster]
---- 22 equal options:
+      Go to Workbench for Bolt Clip Satchel
+    . {Workbench} Increase carry capacity: 100 shards, 1 pelican wishbone, 1
+      peccary hide [Bolt Clip Satchel]
+      Go to Workbench for Bomb Satchel
+    . {Workbench} Increase carry capacity: 100 shards, 3 owl feather, 1 salmon
+      bone [Bomb Satchel]
+      Go to Workbench for Food Pouch
+    . {Workbench} Increase carry capacity: 100 shards, 2 duck feather, 1 salmon
+      bone [Food Pouch]
+      Go to Workbench for Hunter Arrow Quiver
+    . {Workbench} Increase carry capacity: 100 shards, 3 bighorn sheep skin, 1
+      salmon bone [Hunter Arrow Quiver]
+      Go to Workbench for Light Arrow Quiver
+    . {Workbench} Increase carry capacity: 100 shards, 3 salmon skin, 1 owl
+      wishbone [Light Arrow Quiver]
+      Go to Workbench for Potion Pouch
+    . {Workbench} Increase carry capacity: 100 shards, 2 carp skin, 1 bighorn
+      sheep bone [Potion Pouch]
+      Go to Workbench for Precision Arrow Quiver
+    . {Workbench} Increase carry capacity: 200 shards, 3 moonfish skin, 1 owl
+      wishbone [Precision Arrow Quiver]
+      Go to Workbench for Resource Pouch
+    . {Workbench} Increase carry capacity: 100 shards, 2 bass skin, 1 iridescent
+      crab shell [Resource Pouch]
+      Go to Workbench for Rope Pouch
+    . {Workbench} Increase carry capacity: 200 shards, 3 moonfish skin, 1
+      bighorn sheep bone [Rope Pouch]
+      Go to Workbench for Spike Holster
+    . {Workbench} Increase carry capacity: 100 shards, 3 owl feather, 1 duck
+      wishbone [Spike Holster]
+      Go to Workbench for Trap Pouch
+    . {Workbench} Increase carry capacity: 100 shards, 1 duck wishbone, 2
+      bighorn sheep hide [Trap Pouch]
+      Go to Workbench for Tripwire Pouch
+    . {Workbench} Increase carry capacity: 100 shards, 1 bighorn sheep bone, 3
+      owl feather [Tripwire Pouch]
+      Go to Workbench for Sun-Touched Hunter Bow
+    . {Workbench} Overdraw +15%, increase stats: 112 shards, 1 bellowback sac
+      webbing, 2 braided wire, 2 lancehorn drill horn [Sun-Touched Hunter Bow]
+--- 31 equal options:
       ['side-quest/thirst-for-the-hunt_0', 'side-quest/the-deluge_0',
        'rebel-camp/breached-rock_0', 'side-quest/signal-spike_0',
        'errand/a-hunt-to-remember_0', 'rebel-camp/fenrise_0',
@@ -911,7 +830,12 @@
        'story/seeds-of-the-past_0', 'side-quest/the-promontory_0',
        'side-quest/breaking-even_0', 'tallneck/the-stand-of-the-sentinels_0',
        'story/the-sea-of-sands_0', 'tallneck/the-stillsands_0',
-       'weapon/elite-ropecaster_0', 'weapon/purgewater-hunter-bow_0']
+       'pouch/bolt-clip-satchel_2', 'pouch/bomb-satchel_3',
+       'pouch/hunter-arrow-quiver_3', 'pouch/light-arrow-quiver_3',
+       'pouch/precision-arrow-quiver_3', 'pouch/rope-pouch_3',
+       'pouch/spike-holster_3', 'pouch/tripwire-pouch_3',
+       'weapon/elite-ropecaster_0', 'weapon/purgewater-hunter-bow_0',
+       'weapon/sun-touched-hunter-bow_2']
       Go to Arrowhand for Thirst for the Hunt
     . {Arrowhand} Follow Drakka, kill the machines for their hearts [Thirst for
       the Hunt]
@@ -964,12 +888,39 @@
       Go to The Stillsands for The Stillsands Tallneck
     . {The Stillsands} Kill the machines and use the ballistas to bring down and
       reboot the Tallneck [The Stillsands Tallneck]
+      Go to Workbench for Bolt Clip Satchel
+    . {Workbench} Increase carry capacity: 200 shards, 3 gull feather, 1 bighorn
+      sheep bone [Bolt Clip Satchel]
+      Go to Workbench for Bomb Satchel
+    . {Workbench} Increase carry capacity: 200 shards, 3 lobster shell, 1
+      iridescent crab shell, 1 peccary bone [Bomb Satchel]
+      Go to Workbench for Hunter Arrow Quiver
+    . {Workbench} Increase carry capacity: 200 shards, 1 pelican wishbone, 2
+      peccary hide, 1 iridescent lobster shell [Hunter Arrow Quiver]
+      Go to Workbench for Light Arrow Quiver
+    . {Workbench} Increase carry capacity: 200 shards, 1 moonfish bone, 2 bass
+      skin, 1 gull wishbone [Light Arrow Quiver]
+      Go to Workbench for Precision Arrow Quiver
+    . {Workbench} Increase carry capacity: 300 shards, 3 bass skin, 1 moonfish
+      bone, 1 iridescent lobster shell [Precision Arrow Quiver]
+      Go to Workbench for Rope Pouch
+    . {Workbench} Increase carry capacity: 300 shards, 1 bass bone, 2 peccary
+      hide, 1 iridescent lobster shell [Rope Pouch]
+      Go to Workbench for Spike Holster
+    . {Workbench} Increase carry capacity: 200 shards, 1 bass bone, 2 crab
+      shell, 1 peccary bone [Spike Holster]
+      Go to Workbench for Tripwire Pouch
+    . {Workbench} Increase carry capacity: 200 shards, 1 crab shell, 1
+      iridescent lobster shell, 1 gull wishbone [Tripwire Pouch]
       Go to Workbench for Elite Ropecaster
     . {Workbench} Increase stats, +25% overdraw: 127 shards, 4 braided wire, 4
       small machine core, 1 greenshine sliver [Elite Ropecaster]
       Go to Workbench for Purgewater Hunter Bow
     . {Workbench} Melee followup +15%, increase stats: 75 shards, 2 braided
       wire, 2 small machine core [Purgewater Hunter Bow]
+      Go to Workbench for Sun-Touched Hunter Bow
+    . {Workbench} Advanced arrows, increase stats: 150 shards, 1 bellowback
+      circulator, 3 braided wire, 2 medium machine core [Sun-Touched Hunter Bow]
 --- 4 equal options:
       ['salvage/the-stillsands_post_1', 'salvage/the-greenswell_post_0',
        'salvage/the-raintrace_post_0', 'salvage/the-stillsands_post_0']
@@ -982,7 +933,7 @@
     . {The Raintrace} Return to Danur to complete the salvage [The Raintrace]
       Go to The Stillsands
     . {The Stillsands} Return to Runda [The Stillsands]
---- 27 equal options:
+--- 29 equal options:
       ['side-quest/thirst-for-the-hunt_1', 'side-quest/the-deluge_1',
        'rebel-camp/fenrise_1', 'armour/nora-valiant_1', 'cauldron/kappa_1',
        'errand/the-oldgrowth_1', 'side-quest/a-tribe-apart_1',
@@ -995,7 +946,8 @@
        'salvage/mine-launchers', 'side-quest/breaking-even_1',
        'salvage/lost-supplies', 'salvage/pristine-bellowback',
        'salvage/rollerback-salvage', 'story/the-sea-of-sands_1',
-       'weapon/elite-ropecaster_1', 'weapon/purgewater-hunter-bow_1']
+       'pouch/bolt-clip-satchel_3', 'weapon/elite-ropecaster_1',
+       'weapon/purgewater-hunter-bow_1', 'weapon/sun-touched-hunter-bow_3']
       Go to Arrowhand for Thirst for the Hunt
     . {Arrowhand} Follow Drakka again, kill the burrowers and Thunderjaw [Thirst
       for the Hunt]
@@ -1064,12 +1016,19 @@
       Go to The Stillsands for The Sea of Sands
     * {The Stillsands} Explore the underwater area, and drain it [The Sea of
       Sands]
+      Go to Workbench for Bolt Clip Satchel
+    . {Workbench} Increase carry capacity: 300 shards, 1 iridescent lobster
+      shell, 1 iridescent crab shell [Bolt Clip Satchel]
       Go to Workbench for Elite Ropecaster
     . {Workbench} Unlock 2nd coil, increase stats: 212 shards, 8 braided wire, 1
       greenshine fragment, 1 greenshine cluster [Elite Ropecaster]
       Go to Workbench for Purgewater Hunter Bow
     . {Workbench} Increase stats: 112 shards, 2 braided wire, 1 lancehorn drill
       horn, 1 snapmaw sac webbing [Purgewater Hunter Bow]
+      Go to Workbench for Sun-Touched Hunter Bow
+    . {Workbench} Crit +40%, crit chance +15% chance, coil unlocked, increase
+      stats: 250 shards, 1 bellowback primary nerve, 6 braided wire, 3 medium
+      machine core, 2 rollerback hammer tail [Sun-Touched Hunter Bow]
 --- 16 equal options:
       ['side-quest/thirst-for-the-hunt_2', 'side-quest/the-deluge_2',
        'side-quest/breaking-even_2', 'rebel-camp/fenrise_2',

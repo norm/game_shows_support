@@ -2,6 +2,10 @@ title = "No Man's Land black box"
 type = 'black-box'
 location = "No Man's Land"
 
+after = [
+    'story/deaths-door',
+]
+
 
 begin = 'When nearby, make sure to catch the signal in your Focus first'
 

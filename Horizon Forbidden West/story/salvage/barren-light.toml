@@ -6,5 +6,10 @@ unlocks = [
     'salvage/convoy-ambush',
 ]
 
+after = [
+    'side-quest/the-bristlebacks-end',
+    'rebel-camp/eastern-lie',
+]
+
 
 begin = 'Speak to Larend to get the first salvage contract'

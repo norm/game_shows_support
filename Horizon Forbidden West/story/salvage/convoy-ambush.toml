@@ -8,11 +8,18 @@ unlocks = [
     'salvage/elusive-fanghorn',
 ]
 
+after = [
+    'tallneck/cinnabar-sands',
+]
+
 
 begin = 'Examine log traps already laid out, pass time at the bedroll'
 
 [[action]]
 text = 'Take out the machines ensuring the Shellwalker crate is undamaged, try to get the lightning gun part'
 
-[[action]]
+[[post_action]]
 text = 'Return to Larend'
+after = [
+    'side-quest/the-burning-blooms',
+]

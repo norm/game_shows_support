@@ -11,10 +11,6 @@ after = [
     'story/deaths-door',
 ]
 
-before = [
-    'story/the-dying-lands',
-]
-
 
 begin = 'Talk to Nel to find out about Riverhymn'
 
@@ -26,4 +22,7 @@ location = 'Riverhymn'
 text = 'Collect Metal Pods from the Drumroot'
 
 [[action]]
-text = 'Return to Kue, and talk to Nel at the flowerbed'
+text = 'Return to Kue, fight more rebels'
+
+[[action]]
+text = 'Talk to Nel and Kue again before leaving'

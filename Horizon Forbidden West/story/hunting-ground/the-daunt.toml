@@ -4,7 +4,6 @@ start = 'The Daunt Hunting Ground'
 end = 'The Daunt Hunting Ground'
 
 unlocks = [
-    'weapon/fire-hunter-bow',
     'weapon/shock-warrior-bow',
     'weapon/ropecaster',
 ]

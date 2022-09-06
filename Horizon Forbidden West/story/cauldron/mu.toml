@@ -13,6 +13,10 @@ before = [
     'side-quest/shadow-in-the-west',
 ]
 
+after = [
+    'salvage/convoy-ambush',
+]
+
 
 begin = 'Advance through the cauldron to the core, killing the machines'
 

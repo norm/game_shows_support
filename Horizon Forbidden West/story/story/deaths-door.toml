@@ -3,13 +3,10 @@ type = 'story'
 start = "Sylens' Workshop"
 end = "Stone's Echo"
 
+triggers = 'story/the-dying-lands'
+
 unlocks = [
-    'story/the-dying-lands',
-
-    'side-quest/the-burning-blooms',
-
     'weapon/frost-hunter-bow',
-    'armour/carja-shadow',
 ]
 
 
@@ -19,7 +16,7 @@ begin = 'Approach the Metal Devil, look around, activate the console, scan datap
 text = 'Follow the trail, ensure you get/already have a Scrapper circulator, keep an eye out for foxes for pouch upgrade materials'
 
 [[action]]
-text = 'Buy the Frost Hunter Bow from the Hunter on the way'
+text = 'Purchase Frost Hunter Bow (549 shards, scrapper circulator) from the Hunter found on the way'
 
 [[action]]
 text = 'Talk to Hades, then Sylens to get the igniter recipe'

@@ -2,6 +2,11 @@ title = 'Whisper Hunter Bow'
 type = 'weapon'
 location = 'Workbench'
 
+after = [
+    'story/deaths-door',
+]
+
+
 # 15 dmg, 25 tear, +25% stealth damage
 autobegin = true
 

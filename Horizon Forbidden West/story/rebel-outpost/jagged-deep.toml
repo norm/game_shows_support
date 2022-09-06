@@ -2,6 +2,11 @@ title = "Jagged Deep rebel outpost"
 type = 'rebel-outpost'
 location = 'Jagged Deep'
 
+after = [
+    'story/deaths-door',
+]
+
+
 begin = 'Kill the riders carefully when approaching'
 
 [[action]]

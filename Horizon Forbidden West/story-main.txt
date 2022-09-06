@@ -38,9 +38,12 @@
   Go to Barren Light for The Embassy
 * {Barren Light} Follow Varl to the Embassy, exhaust Fashav diaglogue [The
   Embassy]
+  Go to Barren Light for The Embassy
 * {Barren Light} Regalla attacks, take out four riders to trigger cutscene [The
   Embassy]
+  Go to Barren Light for The Embassy
 * {Barren Light} Take out four more riders to trigger cutscene [The Embassy]
+  Go to Barren Light for The Embassy
 * {Barren Light} Break Grudda's shield, then kill him [The Embassy]
 * {Barren Light} Speak to Lawan [The Embassy]
 
@@ -49,41 +52,36 @@
   Go to Sylens' Workshop for Death's Door
 * {Sylens' Workshop} Approach the Metal Devil, look around, activate the
   console, scan datapoints [Death's Door]
-  Go to Sylens' Workshop for Death's Door
 * {Sylens' Workshop} Follow the trail, ensure you get/already have a Scrapper
   circulator, keep an eye out for foxes for pouch upgrade materials [Death's
   Door]
-  Go to Sylens' Workshop for Death's Door
-* {Sylens' Workshop} Buy the Frost Hunter Bow from the Hunter on the way
-  [Death's Door]
-  Go to Sylens' Workshop for Death's Door
+* {Sylens' Workshop} Purchase Frost Hunter Bow (549 shards, scrapper circulator)
+  from the Hunter found on the way [Death's Door]
 * {Sylens' Workshop} Talk to Hades, then Sylens to get the igniter recipe
   [Death's Door]
-  Go to Sylens' Workshop for Death's Door
 * {Sylens' Workshop} Kill leaplashers, craft igniter and upgrade anything that
   can be [Death's Door]
-  Go to Sylens' Workshop for Death's Door
 * {Sylens' Workshop} Use igniter, work your way inside, get Gaia [Death's Door]
 * {Sylens' Workshop} Avoid Erik as much as possible once proving his shield is
   impervious [Death's Door]
 * {Sylens' Workshop} Escape Latopolis [Death's Door]
 * {Stone's Echo} Remove the Plowhorn's damaged part, convince Varl to follow Zo
   [The Dying Lands]
-  Go to Plainsong for The Dying Lands
-* {Plainsong} Talk to Varl and Zo at the entrance to Plainsong [The Dying Lands]
-  Go to Plainsong for The Dying Lands
-* {Plainsong} Talk to Zo, and then the Chorus [The Dying Lands]
-  Go to Plainsong for The Dying Lands
-* {Plainsong} Help the Utaru as you follow the Sacred Trail [The Dying Lands]
-  Go to Plainsong for The Dying Lands
+  Go to Plainsong for The Dying Lands (Plainsong)
+* {Plainsong} Talk to Varl and Zo at the entrance to Plainsong [The Dying Lands
+  (Plainsong)]
+* {Plainsong} Explore Plainsong, get the rumour about rebels, find Daen, Yef,
+  and Nel [The Dying Lands (Plainsong)]
+  Go to Plainsong for The Dying Lands (End)
+* {Plainsong} Talk to Zo, and then the Chorus [The Dying Lands (End)]
+* {Plainsong} Help the Utaru as you follow the Sacred Trail [The Dying Lands
+  (End)]
 * {Plainsong} Look for the Ravager Cannon when get to the part where you have to
-  kill machines [The Dying Lands]
-  Go to Plainsong for The Dying Lands
-* {Plainsong} Inside the cave, make sure to look the chest with the Utaru
-  Whisperer armour [The Dying Lands]
-  Go to Plainsong for The Dying Lands
+  kill machines [The Dying Lands (End)]
+* {Plainsong} Just before the cave, make sure to loot the chest with the Utaru
+  Whisperer armour [The Dying Lands (End)]
 * {Plainsong} Work through the Repair Bay, fight the Grimhorn, override the core
-  [The Dying Lands]
+  [The Dying Lands (End)]
 * {Repair Bay Tau} Figure out the way in, insert Gaia kernel into the console
   [The Eye of the Earth]
 * {Repair Bay Tau} Explore the base, use the Fabrication Terminal to finish any

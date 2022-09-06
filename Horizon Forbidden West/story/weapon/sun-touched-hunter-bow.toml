@@ -10,6 +10,9 @@ begin = 'Purchase Sun-Touched Hunter Bow (945 shards, tracker burrower circulato
 # 33 dmg, 63 tear / 10 dmg, 60 fire / --
 text = 'Crit +15%, increase stats: 75 shards, 2 braided wire, 2 small machine core'
 location = 'Workbench'
+after = [
+    'story/restored-gaia',  # no bellowbacks before Tenakth lands
+]
 
 [[action]]
 # 36 dmg, 71 tear / 12 dmg, 65 fire / --

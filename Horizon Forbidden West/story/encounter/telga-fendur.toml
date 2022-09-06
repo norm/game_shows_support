@@ -8,3 +8,8 @@ before = [
     'relic-ruin/the-daunt',
     'story/to-the-brink-erend',
 ]
+
+after = [
+    'story/to-the-brink',
+    'weapon/hunter-bow',
+]

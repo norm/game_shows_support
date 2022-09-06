@@ -2,6 +2,10 @@ title = "Alarm Antennas"
 type = 'salvage'
 location = 'Barren Light'
 
+after = [
+    'side-quest/the-burning-blooms',
+]
+
 
 begin = 'Talk to Larend to start salvage'
 
