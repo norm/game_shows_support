@@ -64,6 +64,53 @@ function convert_raw_footage {
     subl "$notes"
 }
 
+function seconds_from_timestamp {
+    local timestamp="$1"
+
+    local seconds="${timestamp##*:}"
+    timestamp="${timestamp%:*}"
+
+    local minutes="${timestamp##*:}"
+    ((seconds += minutes * 60))
+
+    # M:S is lowest expectation, not H:M:S
+    if grep : <(echo $timestamp) >/dev/null; then
+        timestamp="${timestamp%:*}"
+        ((seconds += ${timestamp%:*} * 60 * 60))
+    fi
+
+    echo $seconds
+}
+
+function slice_duration {
+    local start="${1:-}"
+    local end="${2:-}"
+    local total="${3:-}"
+
+    [ -z "$start" ] && start='0:00'
+    [ -z "$end" ] && end="$total"
+
+    local start_seconds=$(seconds_from_timestamp "$start")
+    local end_seconds=$(seconds_from_timestamp "$end")
+
+    local total_seconds=$((end_seconds - start_seconds))
+    local seconds=$((total_seconds % 60))
+    local minutes=$((total_seconds / 60 % 60))
+    local hours=$((total_seconds / 60 / 60 % 24))
+
+    local duration=''
+    [ $hours -gt 0 ] && duration="$hours:"
+    [ $minutes -gt 0 ] && duration+="$(printf '%02d:' $minutes)"
+    duration+="$(printf '%02d' $seconds)"
+
+    if [ $(($total_seconds * 60)) -gt 99999 ]; then
+        # frame count clicks over, pushing the text by one
+        printf '%50s%8s\n' '=' $duration
+    else
+        printf '%49s%8s\n' '=' $duration
+    fi
+}
+
 
 mapfile -t captures < <(ls raw/*mkv 2>/dev/null)
 for capture in "${captures[@]}"; do
@@ -77,7 +124,8 @@ for capture in "${captures[@]}"; do
         # can mark a raw file as being "done"
         grep done "$slices" >/dev/null 2>&1 && continue
 
-        status "++ {green}$file [$(duration "$capture")]"
+        duration=$(duration "$capture")
+        status "++ {green}$file [$duration]"
         [ -n "${DRY_RUN:-}" ] && continue
 
         play "$capture"
@@ -100,8 +148,9 @@ for capture in "${captures[@]}"; do
                     ;;
 
                 s|S)
-                    read -p "From: " start_time
-                    read -p "To:   " end_time
+                    read -p "   From: " start_time
+                    read -p "   To:   " end_time
+                    slice_duration "$start_time" "$end_time" "$duration"
                     convert_raw_footage "$capture" "$destination" "$start_time" "$end_time"
                     ;;
 
