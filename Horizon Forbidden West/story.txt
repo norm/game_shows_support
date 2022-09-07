@@ -629,18 +629,16 @@
       Go to Workbench for Sun-Touched Hunter Bow
     . {Workbench} Crit +15%, increase stats: 75 shards, 2 braided wire, 2 small
       machine core [Sun-Touched Hunter Bow]
---- 62 equal options:
-      ['side-quest/thirst-for-the-hunt', 'black-box/bleeding-mark',
-       'black-box/bonewhite-tear', 'rebel-outpost/bonewhite-tear',
+--- 56 equal options:
+      ['side-quest/thirst-for-the-hunt', 'rebel-outpost/bonewhite-tear',
        'rebel-camp/breached-rock', 'side-quest/breaking-even',
        'side-quest/signal-spike', 'errand/a-hunt-to-remember',
        'rebel-camp/devils-grasp', 'rebel-outpost/dry-yearn',
-       'rebel-camp/fenrise', 'black-box/isle-of-spires', 'armour/nora-valiant',
-       'story/the-broken-sky', 'cauldron/kappa', 'errand/the-oldgrowth',
-       'side-quest/a-tribe-apart', 'side-quest/the-promontory',
-       'rebel-outpost/raintrace-east', 'rebel-outpost/raintrace-north',
-       'rebel-outpost/raintrace-west', 'errand/supply-drop',
-       'rebel-outpost/runners-wild', 'black-box/salt-bite',
+       'rebel-camp/fenrise', 'armour/nora-valiant', 'story/the-broken-sky',
+       'cauldron/kappa', 'errand/the-oldgrowth', 'side-quest/a-tribe-apart',
+       'side-quest/the-promontory', 'rebel-outpost/raintrace-east',
+       'rebel-outpost/raintrace-north', 'rebel-outpost/raintrace-west',
+       'errand/supply-drop', 'rebel-outpost/runners-wild',
        'errand/the-taste-of-victory', 'melee-pit/scalding-spear',
        'side-quest/the-deluge', 'weapon/purgewater-hunter-bow',
        'rebel-outpost/shining-wastes-north', 'cauldron/chi',
@@ -648,8 +646,7 @@
        'rebel-outpost/stillsands-west', 'errand/sons-of-prometheus-data',
        'rebel-camp/the-hive', 'rebel-outpost/the-graypeak',
        'story/seeds-of-the-past', 'salvage/the-greenswell',
-       'rebel-outpost/the-high-turning', 'black-box/the-memorial-grove',
-       'salvage/the-raintrace', 'black-box/the-stand-of-the-sentinels',
+       'rebel-outpost/the-high-turning', 'salvage/the-raintrace',
        'rebel-outpost/the-stand-of-the-sentinels',
        'tallneck/the-stand-of-the-sentinels', 'salvage/the-stillsands',
        'story/the-sea-of-sands', 'tallneck/the-stillsands',
@@ -662,10 +659,6 @@
        'pouch/tripwire-pouch_2', 'weapon/sun-touched-hunter-bow_1']
       Go to Arrowhand for Thirst for the Hunt
     . {Arrowhand} Speak to Drakka [Thirst for the Hunt]
-      Go to Bleeding Mark for Bleeding Mark black box
-    . {Bleeding Mark} Recover the black box [Bleeding Mark black box]
-      Go to Bonewhite Tear for Bonewhite Tear black box
-    . {Bonewhite Tear} Recover the black box [Bonewhite Tear black box]
       Go to Bonewhite Tear for Bonewhite Tear rebel outpost
     . {Bonewhite Tear} Take out the rebels [Bonewhite Tear rebel outpost]
       Go to Breached Rock for Breached Rock rebel camp
@@ -686,8 +679,6 @@
       Go to Fenrise for Fenrise rebel camp
     . {Fenrise} Kill some rebels, talk to the Tenakth who come to assist
       [Fenrise rebel camp]
-      Go to Isle of Spires for Isle of Spires black box
-    . {Isle of Spires} Recover the black box [Isle of Spires black box]
       Go to Lowland's Path for Nora Valiant
     . {Lowland's Path} Buy Nora Valiant for 399 shards and 1 longleg circulator;
       +1 concentration+, +1 weapon stamina+, +2 concentration regen, 1 coil
@@ -715,8 +706,6 @@
     . {Runner's Wild} Help Vetteh kill a Rollerback [Supply Drop]
       Go to Runner's Wild for Runner's Wild rebel outpost
     . {Runner's Wild} Take out the rebels [Runner's Wild rebel outpost]
-      Go to Salt Bite for Salt Bite black box
-    . {Salt Bite} Recover the black box [Salt Bite black box]
       Go to Salt Bite for The Taste of Victory
     . {Salt Bite} Talk to the cook [The Taste of Victory]
       Go to Scalding Spear for Scalding Spear melee pit
@@ -755,14 +744,9 @@
       salvage]
       Go to The High Turning for The High Turning rebel outpost
     . {The High Turning} Take out the rebels [The High Turning rebel outpost]
-      Go to The Memorial Grove for The Memorial Grove black box
-    . {The Memorial Grove} Recover the black box [The Memorial Grove black box]
       Go to The Raintrace for The Raintrace
     . {The Raintrace} Defend the salvagers from the Stalkers (getting 3 mine
       launchers will complete one of the contracts immediately) [The Raintrace]
-      Go to The Stand of the Sentinels for The Stand of the Sentinels black box
-    . {The Stand of the Sentinels} Recover the black box [The Stand of the
-      Sentinels black box]
       Go to The Stand of the Sentinels for The Stand of the Sentinels rebel
       outpost
     . {The Stand of the Sentinels} Take out the rebels [The Stand of the
@@ -1159,15 +1143,14 @@
     . {Summerwind} Talk to Bree again [The Promontory]
       Go to Summerwind
     . {Summerwind} Talk to Fane again [The Promontory]
---- 16 equal options:
+--- 13 equal options:
       ['side-quest/the-deluge_4', 'armour/nora-valiant_4',
        'side-quest/the-wound-in-the-sand', 'story/the-broken-sky-bulwark_0',
-       'rebel-camp/first-forge', 'black-box/the-promontory',
-       'black-box/the-raintrace', 'salvage/colleague-and-key_0',
-       'black-box/the-stillsands', 'story/the-sea-of-sands_4',
-       'side-quest/in-the-fog', 'weapon/cleaving-sharpshot-bow_2',
-       'weapon/elite-ropecaster_4', 'weapon/piercing-sharpshot-bow_1',
-       'weapon/puncturing-boltblaster_1', 'weapon/vindicator-spike-thrower_1']
+       'rebel-camp/first-forge', 'salvage/colleague-and-key_0',
+       'story/the-sea-of-sands_4', 'side-quest/in-the-fog',
+       'weapon/cleaving-sharpshot-bow_2', 'weapon/elite-ropecaster_4',
+       'weapon/piercing-sharpshot-bow_1', 'weapon/puncturing-boltblaster_1',
+       'weapon/vindicator-spike-thrower_1']
       Go to Bleeding Mark for The Deluge
     . {Bleeding Mark} Return to Natikka [The Deluge]
       Go to Lowland's Path for Nora Valiant
@@ -1180,15 +1163,9 @@
     * {Stone Crest} Speak to Tekkoteh, buy stuff, head back out, look at the
       rockface [The Broken Sky (at the Bulwark)]
     . {The Base} Talk to Erend about the Sons of Prometheus [First Forge]
-      Go to The Promontory for The Promontory black box
-    . {The Promontory} Collect the black box [The Promontory black box]
-      Go to The Raintrace for The Raintrace black box
-    . {The Raintrace} Recover the black box [The Raintrace black box]
       Go to The Raintrace for Colleague and Key
     . {The Raintrace} Retrun to Danur, defeat the rebels, give him the key
       [Colleague and Key]
-      Go to The Stillsands for The Stillsands black box
-    . {The Stillsands} Recover the black box [The Stillsands black box]
       Go to The Stillsands for The Sea of Sands
     * {The Stillsands} Return Poseidon to the Base [The Sea of Sands]
       Go to Tide's Reach for In the Fog
@@ -2012,26 +1989,30 @@
 
 ============================= COMPLETING THE GAME ==============================
 
---- 38 equal options:
+--- 47 equal options:
       ['black-box/jagged-deep', 'errand/shining-example',
-       'errand/signals-of-the-sun', 'errand/broken-locks',
+       'errand/signals-of-the-sun', 'black-box/bleeding-mark',
+       'black-box/bonewhite-tear', 'errand/broken-locks',
        'side-quest/drowned-hopes', 'errand/learning-machine-strike',
        'relic-ruin/dry-yearn', 'survey-drone/dry-yearn',
-       'vista-point/dunehollow', 'relic-ruin/isle-of-spires',
-       'survey-drone/isle-of-spires', 'vista-point/isle-of-spires',
-       'side-quest/the-way-home', 'relic-ruin/no-mans-land',
-       'survey-drone/no-mans-land', 'survey-drone/plainsong',
-       'vista-point/plainsong', 'relic-ruin/restless-weald',
-       'relic-ruin/runners-wild', 'vista-point/scalding-spear',
+       'vista-point/dunehollow', 'black-box/isle-of-spires',
+       'relic-ruin/isle-of-spires', 'survey-drone/isle-of-spires',
+       'vista-point/isle-of-spires', 'side-quest/the-way-home',
+       'relic-ruin/no-mans-land', 'survey-drone/no-mans-land',
+       'survey-drone/plainsong', 'vista-point/plainsong',
+       'relic-ruin/restless-weald', 'relic-ruin/runners-wild',
+       'black-box/salt-bite', 'vista-point/scalding-spear',
        'survey-drone/sheerside-mountains', 'vista-point/shrouded-heights',
        'errand/first-to-fly', 'relic-ruin/the-daunt', 'vista-point/the-daunt',
        'survey-drone/the-graypeak', 'survey-drone/the-greenswell',
        'relic-ruin/the-long-coast', 'vista-point/the-long-coast',
-       'vista-point/the-memorial-grove', 'errand/in-bloom',
-       'survey-drone/the-stand-of-the-sentinels', 'relic-ruin/the-stillsands',
-       'survey-drone/the-stillsands', 'vista-point/the-stillsands',
-       'black-box/the-whitewatch-peaks', 'survey-drone/thornmarsh',
-       'errand/tides-of-justice']
+       'black-box/the-memorial-grove', 'vista-point/the-memorial-grove',
+       'black-box/the-promontory', 'black-box/the-raintrace', 'errand/in-bloom',
+       'black-box/the-stand-of-the-sentinels',
+       'survey-drone/the-stand-of-the-sentinels', 'black-box/the-stillsands',
+       'relic-ruin/the-stillsands', 'survey-drone/the-stillsands',
+       'vista-point/the-stillsands', 'black-box/the-whitewatch-peaks',
+       'survey-drone/thornmarsh', 'errand/tides-of-justice']
       Go to  for Jagged Deep
     . {} Recover the black box [Jagged Deep]
       Go to Arrowhand for Shining Example
@@ -2039,6 +2020,10 @@
       Go to Barren Light for Signals of the Sun
     . {Barren Light} Come across Maleev north of Barren Light [Signals of the
       Sun]
+      Go to Bleeding Mark for Bleeding Mark black box
+    . {Bleeding Mark} Recover the black box [Bleeding Mark black box]
+      Go to Bonewhite Tear for Bonewhite Tear black box
+    . {Bonewhite Tear} Recover the black box [Bonewhite Tear black box]
       Go to Camp Nowhere for Broken Locks
     . {Camp Nowhere} Speak to Porguf [Broken Locks]
       Go to Carja Camp for Drowned Hopes
@@ -2052,6 +2037,8 @@
       Go to Dunehollow for Dunehollow vista point
     . {Dunehollow} Activate Focus, then find the right spot [Dunehollow vista
       point]
+      Go to Isle of Spires for Isle of Spires black box
+    . {Isle of Spires} Recover the black box [Isle of Spires black box]
       Go to Isle of Spires for Isle of Spires relic ruin
     . {Isle of Spires} Recover the ornament [Isle of Spires relic ruin]
       Go to Isle of Spires for Isle of Spires survey drone
@@ -2074,6 +2061,8 @@
     . {Restless Weald} Recover the ornament [Restless Weald relic ruin]
       Go to Runner's Wild for Runner's Wild relic ruin
     . {Runner's Wild} Recover the ornament [Runner's Wild relic ruin]
+      Go to Salt Bite for Salt Bite black box
+    . {Salt Bite} Recover the black box [Salt Bite black box]
       Go to Scalding Spear for Scalding Spear vista point
     . {Scalding Spear} Activate Focus, then find the right spot [Scalding Spear
       vista point]
@@ -2099,16 +2088,27 @@
       Go to The Long Coast for The Long Coast vista point
     . {The Long Coast} Activate Focus, then find the right spot [The Long Coast
       vista point]
+      Go to The Memorial Grove for The Memorial Grove black box
+    . {The Memorial Grove} Recover the black box [The Memorial Grove black box]
       Go to The Memorial Grove for The Memorial Grove vista point
     . {The Memorial Grove} Activate Focus, then find the right spot [The
       Memorial Grove vista point]
+      Go to The Promontory for The Promontory black box
+    . {The Promontory} Collect the black box [The Promontory black box]
+      Go to The Raintrace for The Raintrace black box
+    . {The Raintrace} Recover the black box [The Raintrace black box]
       Go to The Shining Wastes for In Bloom
     . {The Shining Wastes} Tak to Darikka and Teikka, collect three flowers [In
       Bloom]
+      Go to The Stand of the Sentinels for The Stand of the Sentinels black box
+    . {The Stand of the Sentinels} Recover the black box [The Stand of the
+      Sentinels black box]
       Go to The Stand of the Sentinels for The Stand of the Sentinels survey
       drone
     . {The Stand of the Sentinels} Capture the survey drone [The Stand of the
       Sentinels survey drone]
+      Go to The Stillsands for The Stillsands black box
+    . {The Stillsands} Recover the black box [The Stillsands black box]
       Go to The Stillsands for The Stillsands relic ruin
     . {The Stillsands} Recover the ornament [The Stillsands relic ruin]
       Go to The Stillsands for The Stillsands survey drone

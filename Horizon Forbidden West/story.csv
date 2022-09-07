@@ -309,8 +309,6 @@ step,location,node,text
 ,Workbench,pouch/tripwire-pouch_1,"Increase carry capacity: 50 shards, 3 rabbit hide"
 ,Workbench,weapon/sun-touched-hunter-bow_0,"Crit +15%, increase stats: 75 shards, 2 braided wire, 2 small machine core"
 171,Arrowhand,side-quest/thirst-for-the-hunt,Speak to Drakka
-,Bleeding Mark,black-box/bleeding-mark,Recover the black box
-,Bonewhite Tear,black-box/bonewhite-tear,Recover the black box
 ,Bonewhite Tear,rebel-outpost/bonewhite-tear,Take out the rebels
 ,Breached Rock,rebel-camp/breached-rock,"Enter the camp, kill the rebels, take the key"
 ,Camp Nowhere,side-quest/breaking-even,Speak to Porguf
@@ -319,7 +317,6 @@ step,location,node,text
 ,Devil's Grasp,rebel-camp/devils-grasp,"Enter the camp, kill the rebels, examine the device and parchment"
 ,Dry Yearn,rebel-outpost/dry-yearn,Take out the rebels
 ,Fenrise,rebel-camp/fenrise,"Kill some rebels, talk to the Tenakth who come to assist"
-,Isle of Spires,black-box/isle-of-spires,Recover the black box
 ,Lowland's Path,armour/nora-valiant,"Buy Nora Valiant for 399 shards and 1 longleg circulator; +1 concentration+, +1 weapon stamina+, +2 concentration regen, 1 coil"
 ,Memorial Grove,story/the-broken-sky,"Tour the Memorial Grove with Dekka, then speak to Hekarro"
 ,North of The Greenhouse,cauldron/kappa,Kill the Shellsnapper and Snapmaw guarding the entrance
@@ -331,7 +328,6 @@ step,location,node,text
 ,Raintrace West,rebel-outpost/raintrace-west,Take out the rebels
 ,Runner's Wild,errand/supply-drop,Help Vetteh kill a Rollerback
 ,Runner's Wild,rebel-outpost/runners-wild,Take out the rebels
-,Salt Bite,black-box/salt-bite,Recover the black box
 ,Salt Bite,errand/the-taste-of-victory,Talk to the cook
 ,Scalding Spear,melee-pit/scalding-spear,"Do the challenges, defeat the Pit Master"
 ,Scalding Spear,side-quest/the-deluge,Speak to Zokkah
@@ -347,9 +343,7 @@ step,location,node,text
 ,The Greenhouse,story/seeds-of-the-past,"Approach the Greenhouse, kill the Quen marines"
 ,The Greenswell,salvage/the-greenswell,"Meet Handa, get salvage contracts"
 ,The High Turning,rebel-outpost/the-high-turning,Take out the rebels
-,The Memorial Grove,black-box/the-memorial-grove,Recover the black box
 ,The Raintrace,salvage/the-raintrace,Defend the salvagers from the Stalkers (getting 3 mine launchers will complete one of the contracts immediately)
-,The Stand of the Sentinels,black-box/the-stand-of-the-sentinels,Recover the black box
 ,The Stand of the Sentinels,rebel-outpost/the-stand-of-the-sentinels,Take out the rebels
 ,The Stand of the Sentinels,tallneck/the-stand-of-the-sentinels,Clear the area of Stalkers and Clamberjaws
 ,The Stillsands,salvage/the-stillsands,"Talk to Runda, get the contracts"
@@ -371,9 +365,7 @@ step,location,node,text
 ,Workbench,pouch/tripwire-pouch_2,"Increase carry capacity: 100 shards, 1 bighorn sheep bone, 3 owl feather"
 ,Workbench,weapon/sun-touched-hunter-bow_1,"Overdraw +15%, increase stats: 112 shards, 1 bellowback sac webbing, 2 braided wire, 2 lancehorn drill horn"
 172,Arrowhand,side-quest/thirst-for-the-hunt_0,"Follow Drakka, kill the machines for their hearts"
-,Bleeding Mark,black-box/bleeding-mark_end,
 ,Bleeding Mark,side-quest/the-deluge_0,Speak to Natikka
-,Bonewhite Tear,black-box/bonewhite-tear_end,
 ,Bonewhite Tear,rebel-outpost/bonewhite-tear_end,
 ,Breached Rock,rebel-camp/breached-rock_0,"Enter the bunker, kill the rebels, examine the device, overload the batteries"
 ,Camp Nowhere,side-quest/signal-spike_0,"Help Silga kill machines, then climb the antenna"
@@ -381,7 +373,6 @@ step,location,node,text
 ,Devil's Grasp,rebel-camp/devils-grasp_end,
 ,Dry Yearn,rebel-outpost/dry-yearn_end,
 ,Fenrise,rebel-camp/fenrise_0,Kill the radar (with a strikethrough arrow to kill the rebel too)
-,Isle of Spires,black-box/isle-of-spires_end,
 ,Lowland's Path,armour/nora-valiant_0,"Increase stats; 127 shards, 1 medium machine core, 4 sturdy hardplate, 4 small machine core"
 ,Memorial Grove,story/the-broken-sky_end,
 ,North of The Greenhouse,cauldron/kappa_0,"Advance through the cauldron to the core, killing the machines"
@@ -391,7 +382,6 @@ step,location,node,text
 ,Raintrace West,rebel-outpost/raintrace-west_end,
 ,Runner's Wild,errand/supply-drop_0,"Speak to Vetteh, go find Littay"
 ,Runner's Wild,rebel-outpost/runners-wild_end,
-,Salt Bite,black-box/salt-bite_end,
 ,Salt Bite,errand/the-taste-of-victory_0,"From the island, collect bird meat and eggs, also killing the Widemaw"
 ,Scalding Spear,melee-pit/scalding-spear_end,
 ,Shining Wastes North,rebel-outpost/shining-wastes-north_end,
@@ -406,11 +396,9 @@ step,location,node,text
 ,The Greenhouse,story/seeds-of-the-past_0,"Explore the Greenhouse, meet Alva"
 ,The Greenswell,salvage/the-greenswell_end,
 ,The High Turning,rebel-outpost/the-high-turning_end,
-,The Memorial Grove,black-box/the-memorial-grove_end,
 ,The Promontory,side-quest/the-promontory_0,"Investigate the trail, kill the Stalkers"
 ,The Raintrace,salvage/the-raintrace_end,
 ,The Spinebreak,side-quest/breaking-even_0,Kill the smaller machines
-,The Stand of the Sentinels,black-box/the-stand-of-the-sentinels_end,
 ,The Stand of the Sentinels,rebel-outpost/the-stand-of-the-sentinels_end,
 ,The Stand of the Sentinels,tallneck/the-stand-of-the-sentinels_0,Climb the ruins of the settlement to get to the Tallneck
 ,The Stillsands,salvage/the-stillsands_end,
@@ -562,10 +550,7 @@ step,location,node,text
 ,The Base,override/stalker_end,
 ,The Base,override/thunderjaw_end,
 ,The Base,rebel-camp/first-forge,Talk to Erend about the Sons of Prometheus
-,The Promontory,black-box/the-promontory,Collect the black box
-,The Raintrace,black-box/the-raintrace,Recover the black box
 ,The Raintrace,salvage/colleague-and-key_0,"Retrun to Danur, defeat the rebels, give him the key"
-,The Stillsands,black-box/the-stillsands,Recover the black box
 ,The Stillsands,story/the-sea-of-sands_4,Return Poseidon to the Base
 ,Tide's Reach,side-quest/in-the-fog,Speak to Fenirra
 ,Workbench,weapon/cleaving-sharpshot-bow_2,"Increase stats, +65% draw speed: 150 shards, 3 braided wire, 2 medium machine core, 1 snapmaw circulator"
@@ -580,10 +565,7 @@ step,location,node,text
 ,Plainsong,errand/the-music-in-metal,Speak to Jaxx and Korreh
 ,Scalding Spear,side-quest/the-wound-in-the-sand_0,Lead Yarra along the pipes to the pumping station
 ,Stone Crest,story/the-broken-sky-bulwark_1,"Go with Kotallo, take out the Tremortusk, blow up the Bulwark"
-,The Promontory,black-box/the-promontory_end,
-,The Raintrace,black-box/the-raintrace_end,
 ,The Raintrace,salvage/colleague-and-key_end,
-,The Stillsands,black-box/the-stillsands_end,
 ,The Stillsands,story/the-sea-of-sands_end,
 ,Tide's Reach,side-quest/in-the-fog_0,"Travel to the camp, investigate with your Focus, follow the trail"
 ,Workbench,weapon/cleaving-sharpshot-bow_3,"Unlock 2nd coil, increase stats, +25% component tear: 250 shards, 3 medium machine core, 1 snapmaw primary nerve, 6 shellsnapper shell bolts"
@@ -892,12 +874,15 @@ step,location,node,text
 244,,black-box/jagged-deep,Recover the black box
 ,Arrowhand,errand/shining-example,Talk to Marallo
 ,Barren Light,errand/signals-of-the-sun,Come across Maleev north of Barren Light
+,Bleeding Mark,black-box/bleeding-mark,Recover the black box
+,Bonewhite Tear,black-box/bonewhite-tear,Recover the black box
 ,Camp Nowhere,errand/broken-locks,Speak to Porguf
 ,Carja Camp,side-quest/drowned-hopes,Talk to Gendas and Rushavid
 ,Chainscrape,errand/learning-machine-strike,Learn Machine Strike
 ,Dry Yearn,relic-ruin/dry-yearn,Recover the ornament
 ,Dry Yearn,survey-drone/dry-yearn,Capture the survey drone
 ,Dunehollow,vista-point/dunehollow,"Activate Focus, then find the right spot"
+,Isle of Spires,black-box/isle-of-spires,Recover the black box
 ,Isle of Spires,relic-ruin/isle-of-spires,Recover the ornament
 ,Isle of Spires,survey-drone/isle-of-spires,Capture the survey drone
 ,Isle of Spires,vista-point/isle-of-spires,"Activate Focus, then find the right spot"
@@ -908,6 +893,7 @@ step,location,node,text
 ,Plainsong,vista-point/plainsong,"Activate Focus, then find the right spot"
 ,Restless Weald,relic-ruin/restless-weald,Recover the ornament
 ,Runner's Wild,relic-ruin/runners-wild,Recover the ornament
+,Salt Bite,black-box/salt-bite,Recover the black box
 ,Scalding Spear,vista-point/scalding-spear,"Activate Focus, then find the right spot"
 ,Sheerside Mountains,survey-drone/sheerside-mountains,Capture the survey drone
 ,Shrouded Heights,vista-point/shrouded-heights,"Activate Focus, then find the right spot"
@@ -918,9 +904,14 @@ step,location,node,text
 ,The Greenswell,survey-drone/the-greenswell,Capture the survey drone
 ,The Long Coast,relic-ruin/the-long-coast,Recover the ornament
 ,The Long Coast,vista-point/the-long-coast,"Activate Focus, then find the right spot"
+,The Memorial Grove,black-box/the-memorial-grove,Recover the black box
 ,The Memorial Grove,vista-point/the-memorial-grove,"Activate Focus, then find the right spot"
+,The Promontory,black-box/the-promontory,Collect the black box
+,The Raintrace,black-box/the-raintrace,Recover the black box
 ,The Shining Wastes,errand/in-bloom,"Tak to Darikka and Teikka, collect three flowers"
+,The Stand of the Sentinels,black-box/the-stand-of-the-sentinels,Recover the black box
 ,The Stand of the Sentinels,survey-drone/the-stand-of-the-sentinels,Capture the survey drone
+,The Stillsands,black-box/the-stillsands,Recover the black box
 ,The Stillsands,relic-ruin/the-stillsands,Recover the ornament
 ,The Stillsands,survey-drone/the-stillsands,Capture the survey drone
 ,The Stillsands,vista-point/the-stillsands,"Activate Focus, then find the right spot"
@@ -930,12 +921,15 @@ step,location,node,text
 245,,black-box/jagged-deep_end,
 ,Arrowhand,errand/shining-example_0,"Fetch a Horus Energy Cell, drop it on the machines, kill the machines"
 ,Barren Light,errand/signals-of-the-sun_0,Rescue Raynah from the machines
+,Bleeding Mark,black-box/bleeding-mark_end,
+,Bonewhite Tear,black-box/bonewhite-tear_end,
 ,Carja Camp,side-quest/drowned-hopes_0,Retrieve the three keys
 ,Chainscrape,errand/broken-locks_0,Speak to Petra
 ,Chainscrape,errand/learning-machine-strike_end,
 ,Dry Yearn,relic-ruin/dry-yearn_end,
 ,Dry Yearn,survey-drone/dry-yearn_end,
 ,Dunehollow,vista-point/dunehollow_end,
+,Isle of Spires,black-box/isle-of-spires_end,
 ,Isle of Spires,relic-ruin/isle-of-spires_end,
 ,Isle of Spires,survey-drone/isle-of-spires_end,
 ,Isle of Spires,vista-point/isle-of-spires_end,
@@ -947,6 +941,7 @@ step,location,node,text
 ,Plainsong,vista-point/plainsong_end,
 ,Restless Weald,relic-ruin/restless-weald_end,
 ,Runner's Wild,relic-ruin/runners-wild_end,
+,Salt Bite,black-box/salt-bite_end,
 ,Scalding Spear,vista-point/scalding-spear_end,
 ,Sheerside Mountains,survey-drone/sheerside-mountains_end,
 ,Shrouded Heights,vista-point/shrouded-heights_end,
@@ -957,8 +952,13 @@ step,location,node,text
 ,The Greenswell,survey-drone/the-greenswell_end,
 ,The Long Coast,relic-ruin/the-long-coast_end,
 ,The Long Coast,vista-point/the-long-coast_end,
+,The Memorial Grove,black-box/the-memorial-grove_end,
 ,The Memorial Grove,vista-point/the-memorial-grove_end,
+,The Promontory,black-box/the-promontory_end,
+,The Raintrace,black-box/the-raintrace_end,
+,The Stand of the Sentinels,black-box/the-stand-of-the-sentinels_end,
 ,The Stand of the Sentinels,survey-drone/the-stand-of-the-sentinels_end,
+,The Stillsands,black-box/the-stillsands_end,
 ,The Stillsands,relic-ruin/the-stillsands_end,
 ,The Stillsands,survey-drone/the-stillsands_end,
 ,The Stillsands,vista-point/the-stillsands_end,

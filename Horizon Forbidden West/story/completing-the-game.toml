@@ -44,7 +44,16 @@ finish_before = [
     'vista-point/the-stillsands',
 
     # black boxes are boring
+    'black-box/bleeding-mark',
+    'black-box/bonewhite-tear',
+    'black-box/isle-of-spires',
     'black-box/jagged-deep',
+    'black-box/salt-bite',
+    'black-box/the-memorial-grove',
+    'black-box/the-promontory',
+    'black-box/the-raintrace',
+    'black-box/the-stand-of-the-sentinels',
+    'black-box/the-stillsands',
     'black-box/the-whitewatch-peaks',
 
     # survey drones are boring
