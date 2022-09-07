@@ -1,6 +1,6 @@
 #!/usr/bin/env -S bash -euo pipefail
 
-DEFAULT_SHOW='Red Dead Redemption II'
+DEFAULT_SHOW='Horizon Forbidden West'
 show="$DEFAULT_SHOW"
 
 function usage {
