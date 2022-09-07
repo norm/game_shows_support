@@ -9,6 +9,12 @@ unlocks = [
     'errand/the-music-in-metal',
 ]
 
+after = [
+    'story/the-sea-of-sands',
+    'story/the-kulrut',
+]
+
+
 begin = 'Approach the Greenhouse, kill the Quen marines'
 
 [[action]]

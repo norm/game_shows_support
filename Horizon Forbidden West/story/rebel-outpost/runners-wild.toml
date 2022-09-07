@@ -2,5 +2,9 @@ title = "Runner's Wild rebel outpost"
 type = 'rebel-outpost'
 location = "Runner's Wild"
 
+after = [
+    'salvage/property-retrieval',   # ends nearby
+]
+
 
 begin = 'Take out the rebels'

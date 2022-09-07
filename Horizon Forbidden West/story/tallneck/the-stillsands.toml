@@ -2,6 +2,14 @@ title = "The Stillsands Tallneck"
 type = 'tallneck'
 location = 'The Stillsands'
 
+before = [
+    'story/the-sea-of-sands',
+]
+
+after = [
+    'side-quest/breaking-even',
+]
+
 
 begin = 'Explore the abandoned Oseram camp, examine the ballistas'
 

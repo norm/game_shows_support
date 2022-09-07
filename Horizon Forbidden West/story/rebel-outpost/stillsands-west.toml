@@ -2,5 +2,9 @@ title = "Stillsands West rebel outpost"
 type = 'rebel-outpost'
 location = 'Stillsands West'
 
+after = [
+    'side-quest/lofty-ambitions',   # ends nearby
+]
+
 
 begin = 'Take out the rebels'

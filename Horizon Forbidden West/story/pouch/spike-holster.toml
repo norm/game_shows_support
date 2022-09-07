@@ -14,6 +14,7 @@ after = ['story/restored-gaia']  # not found in the daunt or plainsong
 
 [[action]]
 text = 'Increase carry capacity: 100 shards, 3 owl feather, 1 duck wishbone'
+after = ['story/the-kulrut']  # ducks only found in areas west of memorial grove
 
 [[action]]
 text = 'Increase carry capacity: 200 shards, 1 bass bone, 2 crab shell, 1 peccary bone'

@@ -4,7 +4,10 @@ start = 'The Stillsands'
 end = 'The Stillsands'
 
 unlocks = [
+    'story/hidden-ember',
     'story/cradle-of-echoes',
+    'weapon/hammerburst-boltblaster',
+    'pouch/bolt-clip-satchel',
 
     'side-quest/boom-or-bust',
     'side-quest/lofty-ambitions',
@@ -13,11 +16,55 @@ unlocks = [
     'errand/burden-of-command',
 ]
 
-finish_before = [
-    'side-quest/drowned-hopes',
+# FIXME placeholder until the order is more fully established
+before = [
+    'side-quest/a-tribe-apart',
+    'side-quest/signal-spike',
+    'side-quest/the-deluge',
+    'side-quest/the-promontory',
+    'side-quest/thirst-for-the-hunt',
+    'errand/the-oldgrowth',
+    'errand/supply-drop',
+    'errand/a-hunt-to-remember',
+    'errand/the-taste-of-victory',
+    'errand/sons-of-prometheus-data',
+
+    'cauldron/chi',
+    'cauldron/kappa',
+    'gauntlet-run/cliffs-of-the-cry',
+    'melee-pit/scalding-spear',
+    'melee-pit/thornmarsh',
+    'rebel-camp/breached-rock',
+    'rebel-camp/devils-grasp',
+    'rebel-camp/fenrise',
+    'rebel-camp/first-forge',
+    'rebel-outpost/dry-yearn',
+    'rebel-outpost/the-high-turning',
+    'rebel-outpost/stillsands-south',
+    'rebel-outpost/stillsands-west',
+    'rebel-outpost/bonewhite-tear',
+    'rebel-outpost/runners-wild',
+    'rebel-outpost/shining-wastes-north',
+    'rebel-outpost/shining-wastes-south',
+    'rebel-outpost/raintrace-north',
+    'rebel-outpost/raintrace-east',
+    'rebel-outpost/raintrace-west',
+    'rebel-outpost/the-stand-of-the-sentinels',
+    'rebel-outpost/the-graypeak',
+    'salvage/the-greenswell',
+    'salvage/the-raintrace',
+    'tallneck/the-stand-of-the-sentinels',
+
+    'weapon/purgewater-hunter-bow',
+    'weapon/elite-ropecaster',
+    'armour/nora-valiant',
 ]
 
-begin = 'Talk to the Oseram, dive to get the mask'
+
+begin = 'Find the Tower of Tears, loot the cache at the base before climbing up'
+
+[[action]]
+text = 'Talk to the Oseram, dive to get the mask'
 
 [[action]]
 text = 'Fetch the parts from the machine herd'

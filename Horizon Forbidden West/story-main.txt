@@ -92,51 +92,28 @@
 
 ==== RESTORED GAIA ====
 
---- 3 equal options:
-      ['story/the-broken-sky', 'story/seeds-of-the-past', 'story/the-sea-of-sands']
+* {The Stillsands} Find the Tower of Tears, loot the cache at the base before
+  climbing up [The Sea of Sands]
+* {The Stillsands} Talk to the Oseram, dive to get the mask [The Sea of Sands]
+* {The Stillsands} Fetch the parts from the machine herd [The Sea of Sands]
+* {The Stillsands} Explore the underwater area, and drain it [The Sea of Sands]
+* {The Stillsands} Kill the Tideripper [The Sea of Sands]
+* {The Stillsands} Retrieve Poseidon [The Sea of Sands]
+* {The Stillsands} Return Poseidon to the Base [The Sea of Sands]
+--- 2 equal options:
+      ['story/the-broken-sky', 'story/hidden-ember']
       Go to Memorial Grove for The Broken Sky
     * {Memorial Grove} Tour the Memorial Grove with Dekka, then speak to Hekarro
       [The Broken Sky]
-      Go to The Greenhouse for Seeds of the Past
-    * {The Greenhouse} Approach the Greenhouse, kill the Quen marines [Seeds of
-      the Past]
-      Go to The Stillsands for The Sea of Sands
-    * {The Stillsands} Talk to the Oseram, dive to get the mask [The Sea of
-      Sands]
---- 2 equal options:
-      ['story/seeds-of-the-past_0', 'story/the-sea-of-sands_0']
-      Go to The Greenhouse for Seeds of the Past
-    * {The Greenhouse} Explore the Greenhouse, meet Alva [Seeds of the Past]
-      Go to The Stillsands for The Sea of Sands
-    * {The Stillsands} Fetch the parts from the machine herd [The Sea of Sands]
---- 2 equal options:
-      ['story/seeds-of-the-past_1', 'story/the-sea-of-sands_1']
-      Go to The Greenhouse for Seeds of the Past
-    * {The Greenhouse} Continue exploring the Greenhouse, kill the Dreadwing,
-      equip the Vine Cutter, get Demeter [Seeds of the Past]
-      Go to The Stillsands for The Sea of Sands
-    * {The Stillsands} Explore the underwater area, and drain it [The Sea of
-      Sands]
---- 2 equal options:
-      ['story/seeds-of-the-past_2', 'story/the-sea-of-sands_2']
-      Go to The Greenhouse for Seeds of the Past
-    * {The Greenhouse} Return Demeter to the Base [Seeds of the Past]
-      Go to The Stillsands for The Sea of Sands
-    * {The Stillsands} Kill the Tideripper [The Sea of Sands]
---- 2 equal options:
-      ['story/the-broken-sky-bulwark', 'story/the-sea-of-sands_3']
-      Go to Stone Crest for The Broken Sky (at the Bulwark)
-    * {Stone Crest} Meet Kotallo, proceed to the Bulkwark killing the rebels
-      [The Broken Sky (at the Bulwark)]
-      Go to The Stillsands for The Sea of Sands
-    * {The Stillsands} Retrieve Poseidon [The Sea of Sands]
---- 2 equal options:
-      ['story/the-broken-sky-bulwark_0', 'story/the-sea-of-sands_4']
-      Go to Stone Crest for The Broken Sky (at the Bulwark)
-    * {Stone Crest} Speak to Tekkoteh, buy stuff, head back out, look at the
-      rockface [The Broken Sky (at the Bulwark)]
-      Go to The Stillsands for The Sea of Sands
-    * {The Stillsands} Return Poseidon to the Base [The Sea of Sands]
+
+==== Hidden Ember founded ====
+
+  Go to Stone Crest for The Broken Sky (at the Bulwark)
+* {Stone Crest} Meet Kotallo, proceed to the Bulkwark killing the rebels [The
+  Broken Sky (at the Bulwark)]
+  Go to Stone Crest for The Broken Sky (at the Bulwark)
+* {Stone Crest} Speak to Tekkoteh, buy stuff, head back out, look at the
+  rockface [The Broken Sky (at the Bulwark)]
   Go to Stone Crest for The Broken Sky (at the Bulwark)
 * {Stone Crest} Go with Kotallo, take out the Tremortusk, blow up the Bulwark
   [The Broken Sky (at the Bulwark)]
@@ -154,6 +131,16 @@
   and unlock the arena [The Kulrut]
   Go to Memorial Grove for The Kulrut
 * {Memorial Grove} Return Aether to The Base [The Kulrut]
+  Go to The Greenhouse for Seeds of the Past
+* {The Greenhouse} Approach the Greenhouse, kill the Quen marines [Seeds of the
+  Past]
+  Go to The Greenhouse for Seeds of the Past
+* {The Greenhouse} Explore the Greenhouse, meet Alva [Seeds of the Past]
+  Go to The Greenhouse for Seeds of the Past
+* {The Greenhouse} Continue exploring the Greenhouse, kill the Dreadwing, equip
+  the Vine Cutter, get Demeter [Seeds of the Past]
+  Go to The Greenhouse for Seeds of the Past
+* {The Greenhouse} Return Demeter to the Base [Seeds of the Past]
   Go to The Base for Cradle of Echoes
 * {The Base} Watch the fight, then explore the area [Cradle of Echoes]
   Go to The Base for Cradle of Echoes

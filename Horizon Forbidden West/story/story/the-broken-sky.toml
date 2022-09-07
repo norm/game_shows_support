@@ -8,5 +8,9 @@ unlocks = [
     'weapon/cleaving-sharpshot-bow',
 ]
 
+after = [
+    'story/the-sea-of-sands',
+]
+
 
 begin = 'Tour the Memorial Grove with Dekka, then speak to Hekarro'

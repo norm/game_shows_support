@@ -3,4 +3,4 @@ type = 'salvage'
 location = 'The Stillsands'
 
 
-begin = 'Kill the bellowback without destroying the sacs, then loot it'
+begin = 'Kill the bellowback without destroying the sacs, loot it, immediately return to Runda'

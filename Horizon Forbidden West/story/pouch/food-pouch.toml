@@ -10,7 +10,8 @@ text = 'Increase carry capacity: 25 shards, 1 fox hide'
 
 [[action]]
 text = 'Increase carry capacity: 50 shards, 1 peccary bone, 1 prairie dog hide'
-after = ['story/restored-gaia']  # not found in the daunt or plainsong
+after = ['story/restored-gaia']  # prairie dog found north of scalding spear
 
 [[action]]
 text = 'Increase carry capacity: 100 shards, 2 duck feather, 1 salmon bone'
+after = ['story/the-broken-sky']  # salmon found northwest of memorial grove

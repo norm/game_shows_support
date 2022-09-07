@@ -10,10 +10,12 @@ text = 'Increase carry capacity: 25 shards, 2 raccoon hide'
 
 [[action]]
 text = 'Increase carry capacity: 50 shards, 1 rabbit hide, 1 peccary bone'
-after = ['story/restored-gaia']  # not found in the daunt or plainsong
+after = ['story/restored-gaia']  # peccary not found in the daunt or plainsong
 
 [[action]]
 text = 'Increase carry capacity: 100 shards, 3 bighorn sheep skin, 1 salmon bone'
+after = ['story/the-broken-sky']  # salmon found northwest of memorial grove
 
 [[action]]
 text = 'Increase carry capacity: 200 shards, 1 pelican wishbone, 2 peccary hide, 1 iridescent lobster shell'
+after = ['story/the-kulrut']  # not found until on the western shore

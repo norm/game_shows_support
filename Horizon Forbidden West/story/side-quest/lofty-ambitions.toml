@@ -2,6 +2,10 @@ title = "Lofty Ambitions"
 type = 'side-quest'
 location = 'Hidden Ember'
 
+requires = [
+    'story/hidden-ember',
+]
+
 
 begin = 'Talk to Morlund, go to Dunehollow, retrieve the burner'
 

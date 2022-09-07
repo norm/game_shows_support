@@ -2,5 +2,15 @@ title = "Stillsands North rebel outpost"
 type = 'rebel-outpost'
 location = 'Stillsands North'
 
+before = [
+    'story/the-sea-of-sands',
+    'salvage/the-stillsands',
+]
+
+after = [
+    'side-quest/breaking-even',
+    'tallneck/the-stillsands',
+]
+
 
 begin = 'Destroy blaze to loose the Ravager, clean up what remains'

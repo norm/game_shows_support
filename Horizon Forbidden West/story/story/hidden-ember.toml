@@ -1,0 +1,8 @@
+title = 'Hidden Ember founded'
+type = 'marker'
+location = 'current'
+
+requires = [
+    'story/the-sea-of-sands',
+    'side-quest/breaking-even',
+]

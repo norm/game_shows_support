@@ -14,6 +14,7 @@ after = ['story/restored-gaia']  # not found in the daunt or plainsong
 
 [[action]]
 text = 'Increase carry capacity: 200 shards, 3 moonfish skin, 1 owl wishbone'
+after = ['story/the-kulrut']  # not found until on the western shore
 
 [[action]]
 text = 'Increase carry capacity: 300 shards, 3 bass skin, 1 moonfish bone, 1 iridescent lobster shell'

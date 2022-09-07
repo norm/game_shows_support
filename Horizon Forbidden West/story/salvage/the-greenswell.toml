@@ -10,6 +10,11 @@ unlocks = [
     'salvage/speedy-lancehorns',
 ]
 
+after = [
+    'story/the-sea-of-sands',
+    'story/the-kulrut',
+]
+
 
 begin = 'Meet Handa, get salvage contracts'
 

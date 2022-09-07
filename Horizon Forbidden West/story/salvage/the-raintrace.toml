@@ -7,6 +7,11 @@ unlocks = [
     'salvage/colleague-and-key',
 ]
 
+after = [
+    'story/the-sea-of-sands',
+    'story/the-kulrut',
+]
+
 
 begin = 'Defend the salvagers from the Stalkers (getting 3 mine launchers will complete one of the contracts immediately)'
 

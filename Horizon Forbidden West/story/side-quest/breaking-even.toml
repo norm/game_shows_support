@@ -3,9 +3,8 @@ type = 'side-quest'
 start = 'Camp Nowhere'
 end = 'Camp Nowhere'
 
-finish_before = [
-    'side-quest/boom-or-bust',
-    'errand/broken-locks',
+after = [
+    'rebel-camp/the-hive',
 ]
 
 

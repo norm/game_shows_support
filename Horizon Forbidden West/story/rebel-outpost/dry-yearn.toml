@@ -2,5 +2,9 @@ title = "Dry Yearn rebel outpost"
 type = 'rebel-outpost'
 location = 'Dry Yearn'
 
+after = [
+    'story/hidden-ember',
+]
+
 
 begin = 'Take out the rebels'

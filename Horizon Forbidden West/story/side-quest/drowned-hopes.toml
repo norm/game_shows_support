@@ -3,6 +3,10 @@ type = 'side-quest'
 start = 'Carja Camp'
 end = 'Carja Camp'
 
+requires = [
+    'story/the-sea-of-sands',   # need the rebreather
+]
+
 
 begin = 'Talk to Gendas and Rushavid'
 

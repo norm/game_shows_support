@@ -20,3 +20,4 @@ text = 'Increase stats, +40% multiple enemy: 150 shards, 3 braided wire, 2 mediu
 [[action]]
 # 121 dmg, 85 tear / 145 piercing dmg
 text = 'Unlock 2nd coil, increase stats, +40% knockdown: 250 shards, 6 braided wire, 3 medium machine core, 1 spikesnout primary nerve, 2 rollerback hammer tail'
+after = ['story/the-broken-sky-bulwark']    # rollerbacks are rare

@@ -2,5 +2,9 @@ title = "Devil's Grasp rebel camp"
 type = 'rebel-camp'
 location = "Devil's Grasp"
 
+after = [
+    'salvage/rollerback-salvage',   # ends nearby
+]
+
 
 begin = 'Enter the camp, kill the rebels, examine the device and parchment'

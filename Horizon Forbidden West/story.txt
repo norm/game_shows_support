@@ -583,16 +583,11 @@
 
 ==== RESTORED GAIA ====
 
---- 13 equal options:
-      ['pouch/bolt-clip-satchel_0', 'pouch/bomb-satchel_1',
-       'pouch/food-pouch_1', 'pouch/hunter-arrow-quiver_1',
-       'pouch/light-arrow-quiver_1', 'pouch/potion-pouch_1',
-       'pouch/precision-arrow-quiver_1', 'pouch/resource-pouch_1',
-       'pouch/rope-pouch_1', 'pouch/spike-holster_1', 'pouch/trap-pouch_1',
-       'pouch/tripwire-pouch_1', 'weapon/sun-touched-hunter-bow_0']
-      Go to Workbench for Bolt Clip Satchel
-    . {Workbench} Increase carry capacity: 50 shards, 2 peccary hide [Bolt Clip
-      Satchel]
+--- 7 equal options:
+      ['pouch/bomb-satchel_1', 'pouch/food-pouch_1',
+       'pouch/hunter-arrow-quiver_1', 'pouch/precision-arrow-quiver_1',
+       'pouch/spike-holster_1', 'pouch/trap-pouch_1',
+       'weapon/sun-touched-hunter-bow_0']
       Go to Workbench for Bomb Satchel
     . {Workbench} Increase carry capacity: 50 shards, 3 vulture feather [Bomb
       Satchel]
@@ -602,80 +597,118 @@
       Go to Workbench for Hunter Arrow Quiver
     . {Workbench} Increase carry capacity: 50 shards, 1 rabbit hide, 1 peccary
       bone [Hunter Arrow Quiver]
-      Go to Workbench for Light Arrow Quiver
-    . {Workbench} Increase carry capacity: 50 shards, 1 vulture wishbone, 1
-      praire dog hide [Light Arrow Quiver]
-      Go to Workbench for Potion Pouch
-    . {Workbench} Increase carry capacity: 50 shards, 1 prairie dog bone, 1
-      rabbit hide [Potion Pouch]
       Go to Workbench for Precision Arrow Quiver
     . {Workbench} Increase carry capacity: 100 shards, 1 vulture wishbone, 1
       horned lizard skin [Precision Arrow Quiver]
-      Go to Workbench for Resource Pouch
-    . {Workbench} Increase carry capacity: 50 shards, 1 horned lizard bone, 1
-      goose feather [Resource Pouch]
-      Go to Workbench for Rope Pouch
-    . {Workbench} Increase carry capacity: 100 shards, 1 iridescent crab shell,
-      1 duck feather [Rope Pouch]
       Go to Workbench for Spike Holster
     . {Workbench} Increase carry capacity: 50 shards, 1 rabbit bone, 1 peccary
       hide [Spike Holster]
       Go to Workbench for Trap Pouch
     . {Workbench} Increase carry capacity: 50 shards, 3 horned lizard skin [Trap
       Pouch]
-      Go to Workbench for Tripwire Pouch
-    . {Workbench} Increase carry capacity: 50 shards, 3 rabbit hide [Tripwire
-      Pouch]
       Go to Workbench for Sun-Touched Hunter Bow
     . {Workbench} Crit +15%, increase stats: 75 shards, 2 braided wire, 2 small
       machine core [Sun-Touched Hunter Bow]
---- 56 equal options:
-      ['side-quest/thirst-for-the-hunt', 'rebel-outpost/bonewhite-tear',
-       'rebel-camp/breached-rock', 'side-quest/breaking-even',
-       'side-quest/signal-spike', 'errand/a-hunt-to-remember',
-       'rebel-camp/devils-grasp', 'rebel-outpost/dry-yearn',
-       'rebel-camp/fenrise', 'armour/nora-valiant', 'story/the-broken-sky',
-       'cauldron/kappa', 'errand/the-oldgrowth', 'side-quest/a-tribe-apart',
-       'side-quest/the-promontory', 'rebel-outpost/raintrace-east',
-       'rebel-outpost/raintrace-north', 'rebel-outpost/raintrace-west',
-       'errand/supply-drop', 'rebel-outpost/runners-wild',
-       'errand/the-taste-of-victory', 'melee-pit/scalding-spear',
-       'side-quest/the-deluge', 'weapon/purgewater-hunter-bow',
-       'rebel-outpost/shining-wastes-north', 'cauldron/chi',
-       'rebel-outpost/stillsands-north', 'rebel-outpost/stillsands-south',
-       'rebel-outpost/stillsands-west', 'errand/sons-of-prometheus-data',
-       'rebel-camp/the-hive', 'rebel-outpost/the-graypeak',
-       'story/seeds-of-the-past', 'salvage/the-greenswell',
-       'rebel-outpost/the-high-turning', 'salvage/the-raintrace',
+--- 2 equal options:
+      ['gauntlet-run/dry-yearn', 'weapon/sun-touched-hunter-bow_1']
+      Go to Dry Yearn for Dry Yearn Gauntlet Run
+    . {Dry Yearn} Win the race [Dry Yearn Gauntlet Run]
+      Go to Workbench for Sun-Touched Hunter Bow
+    . {Workbench} Overdraw +15%, increase stats: 112 shards, 1 bellowback sac
+      webbing, 2 braided wire, 2 lancehorn drill horn [Sun-Touched Hunter Bow]
+  Go to Workbench for Sun-Touched Hunter Bow
+. {Workbench} Advanced arrows, increase stats: 150 shards, 1 bellowback
+  circulator, 3 braided wire, 2 medium machine core [Sun-Touched Hunter Bow]
+--- 2 equal options:
+      ['rebel-camp/the-hive', 'weapon/sun-touched-hunter-bow_3']
+      Go to The Base West exit for The Hive rebel camp
+    . {The Base West exit} Get the rumour about the rebel camp [The Hive rebel
+      camp]
+      Go to Workbench for Sun-Touched Hunter Bow
+    . {Workbench} Crit +40%, crit chance +15% chance, coil unlocked, increase
+      stats: 250 shards, 1 bellowback primary nerve, 6 braided wire, 3 medium
+      machine core, 2 rollerback hammer tail [Sun-Touched Hunter Bow]
+  Go to The Base West exit for The Hive rebel camp
+. {The Base West exit} Kill the rebels, explode the weapon caches, rescue the
+  prisoner [The Hive rebel camp]
+  Go to Camp Nowhere for Breaking Even
+. {Camp Nowhere} Speak to Porguf [Breaking Even]
+--- 2 equal options:
+      ['side-quest/breaking-even_0', 'weapon/piercing-sharpshot-bow_0']
+      Go to The Spinebreak for Breaking Even
+    . {The Spinebreak} Kill the smaller machines [Breaking Even]
+      Go to Workbench for Piercing Sharpshot Bow
+    . {Workbench} Increase stats, +15% knockdown: 75 shards, 2 braided wire, 2
+      small machine core [Piercing Sharpshot Bow]
+--- 2 equal options:
+      ['side-quest/breaking-even_1', 'weapon/piercing-sharpshot-bow_1']
+      Go to The Spinebreak for Breaking Even
+    . {The Spinebreak} Kill the rockbreaker [Breaking Even]
+      Go to Workbench for Piercing Sharpshot Bow
+    . {Workbench} Increase stats, +25% overdraw: 112 shards, 2 braided wire, 1
+      spikesnout sac webbing, 2 lancehorn drill horn [Piercing Sharpshot Bow]
+--- 2 equal options:
+      ['side-quest/breaking-even_2', 'weapon/piercing-sharpshot-bow_2']
+      Go to Camp Nowhere for Breaking Even
+    . {Camp Nowhere} Return to Porguf [Breaking Even]
+      Go to Workbench for Piercing Sharpshot Bow
+    . {Workbench} Increase stats, +40% multiple enemy: 150 shards, 3 braided
+      wire, 2 medium machine core, 1 spikesnout circulator [Piercing Sharpshot
+      Bow]
+  Go to The Stillsands for The Stillsands Tallneck
+. {The Stillsands} Explore the abandoned Oseram camp, examine the ballistas [The
+  Stillsands Tallneck]
+. {The Stillsands} Kill the machines and use the ballistas to bring down and
+  reboot the Tallneck [The Stillsands Tallneck]
+  Go to Stillsands North for Stillsands North rebel outpost
+. {Stillsands North} Destroy blaze to loose the Ravager, clean up what remains
+  [Stillsands North rebel outpost]
+  Go to The Stillsands for The Stillsands
+. {The Stillsands} Talk to Runda, get the contracts [The Stillsands]
+--- 3 equal options:
+      ['salvage/lost-supplies', 'salvage/missing-gear', 'salvage/pristine-bellowback']
+    . {The Stillsands} Override a Bristleback, then investigate the areas,
+      killing the machines as you go [Lost Supplies]
+    . {The Stillsands} Go to near Camp Nowhere, examine the cart, follow the
+      path, loot the Sunwing nest [Missing Gear]
+    . {The Stillsands} Kill the bellowback without destroying the sacs, loot it,
+      immediately return to Runda [Pristine Bellowback]
+* {The Stillsands} Find the Tower of Tears, loot the cache at the base before
+  climbing up [The Sea of Sands]
+* {The Stillsands} Talk to the Oseram, dive to get the mask [The Sea of Sands]
+* {The Stillsands} Fetch the parts from the machine herd [The Sea of Sands]
+* {The Stillsands} Explore the underwater area, and drain it [The Sea of Sands]
+* {The Stillsands} Kill the Tideripper [The Sea of Sands]
+* {The Stillsands} Retrieve Poseidon [The Sea of Sands]
+* {The Stillsands} Return Poseidon to the Base [The Sea of Sands]
+--- 31 equal options:
+      ['rebel-outpost/bonewhite-tear', 'rebel-camp/breached-rock',
+       'side-quest/signal-spike', 'gauntlet-run/cliffs-of-the-cry',
+       'errand/a-hunt-to-remember', 'rebel-camp/fenrise', 'armour/nora-valiant',
+       'story/the-broken-sky', 'cauldron/kappa', 'errand/the-oldgrowth',
+       'side-quest/a-tribe-apart', 'side-quest/the-promontory',
+       'rebel-outpost/raintrace-east', 'rebel-outpost/raintrace-north',
+       'rebel-outpost/raintrace-west', 'errand/supply-drop',
+       'errand/the-taste-of-victory', 'errand/burden-of-command',
+       'melee-pit/scalding-spear', 'side-quest/the-deluge',
+       'weapon/purgewater-hunter-bow', 'rebel-outpost/shining-wastes-north',
+       'cauldron/chi', 'errand/sons-of-prometheus-data',
+       'rebel-outpost/the-graypeak', 'rebel-outpost/the-high-turning',
        'rebel-outpost/the-stand-of-the-sentinels',
-       'tallneck/the-stand-of-the-sentinels', 'salvage/the-stillsands',
-       'story/the-sea-of-sands', 'tallneck/the-stillsands',
-       'melee-pit/thornmarsh', 'weapon/elite-ropecaster',
-       'pouch/bolt-clip-satchel_1', 'pouch/bomb-satchel_2',
-       'pouch/food-pouch_2', 'pouch/hunter-arrow-quiver_2',
-       'pouch/light-arrow-quiver_2', 'pouch/potion-pouch_2',
-       'pouch/precision-arrow-quiver_2', 'pouch/resource-pouch_2',
-       'pouch/rope-pouch_2', 'pouch/spike-holster_2', 'pouch/trap-pouch_2',
-       'pouch/tripwire-pouch_2', 'weapon/sun-touched-hunter-bow_1']
-      Go to Arrowhand for Thirst for the Hunt
-    . {Arrowhand} Speak to Drakka [Thirst for the Hunt]
+       'tallneck/the-stand-of-the-sentinels', 'melee-pit/thornmarsh',
+       'weapon/elite-ropecaster', 'story/hidden-ember']
       Go to Bonewhite Tear for Bonewhite Tear rebel outpost
     . {Bonewhite Tear} Take out the rebels [Bonewhite Tear rebel outpost]
       Go to Breached Rock for Breached Rock rebel camp
     . {Breached Rock} Enter the camp, kill the rebels, take the key [Breached
       Rock rebel camp]
-      Go to Camp Nowhere for Breaking Even
-    . {Camp Nowhere} Speak to Porguf [Breaking Even]
       Go to Camp Nowhere for Signal Spike
     . {Camp Nowhere} Speak to Corend to find out about Silga [Signal Spike]
+      Go to Cliffs of the Cry for Cliffs of the Cry Gauntlet Run
+    . {Cliffs of the Cry} Win the race [Cliffs of the Cry Gauntlet Run]
       Go to Cliffwatch for A Hunt to Remember
     . {Cliffwatch} Talk to Ikkotah, then go meet him at The Stand of the
       Sentinels [A Hunt to Remember]
-      Go to Devil's Grasp for Devil's Grasp rebel camp
-    . {Devil's Grasp} Enter the camp, kill the rebels, examine the device and
-      parchment [Devil's Grasp rebel camp]
-      Go to Dry Yearn for Dry Yearn rebel outpost
-    . {Dry Yearn} Take out the rebels [Dry Yearn rebel outpost]
       Go to Fenrise for Fenrise rebel camp
     . {Fenrise} Kill some rebels, talk to the Tenakth who come to assist
       [Fenrise rebel camp]
@@ -704,10 +737,10 @@
     . {Raintrace West} Take out the rebels [Raintrace West rebel outpost]
       Go to Runner's Wild for Supply Drop
     . {Runner's Wild} Help Vetteh kill a Rollerback [Supply Drop]
-      Go to Runner's Wild for Runner's Wild rebel outpost
-    . {Runner's Wild} Take out the rebels [Runner's Wild rebel outpost]
       Go to Salt Bite for The Taste of Victory
     . {Salt Bite} Talk to the cook [The Taste of Victory]
+      Go to Scalding Spear for Burden of Command
+    . {Scalding Spear} Talk to Yarra [Burden of Command]
       Go to Scalding Spear for Scalding Spear melee pit
     . {Scalding Spear} Do the challenges, defeat the Pit Master [Scalding Spear
       melee pit]
@@ -722,31 +755,13 @@
       Go to Southern Lowlands for Cauldron Chi
     . {Southern Lowlands} Find the original entrance, then find the other way in
       [Cauldron Chi]
-      Go to Stillsands North for Stillsands North rebel outpost
-    . {Stillsands North} Destroy blaze to loose the Ravager, clean up what
-      remains [Stillsands North rebel outpost]
-      Go to Stillsands South for Stillsands South rebel outpost
-    . {Stillsands South} Take out the rebels [Stillsands South rebel outpost]
-      Go to Stillsands West for Stillsands West rebel outpost
-    . {Stillsands West} Take out the rebels [Stillsands West rebel outpost]
+      Go to The Base for Sons of Prometheus Data
     . {The Base} Examine the retrieved Focus, speak to Sylens [Sons of
       Prometheus Data]
-      Go to The Base West exit for The Hive rebel camp
-    . {The Base West exit} Get the rumour about the rebel camp [The Hive rebel
-      camp]
       Go to The Graypeak for The Graypeak rebel outpost
     . {The Graypeak} Take out the rebels [The Graypeak rebel outpost]
-      Go to The Greenhouse for Seeds of the Past
-    * {The Greenhouse} Approach the Greenhouse, kill the Quen marines [Seeds of
-      the Past]
-      Go to The Greenswell for The Greenswell salvage
-    . {The Greenswell} Meet Handa, get salvage contracts [The Greenswell
-      salvage]
       Go to The High Turning for The High Turning rebel outpost
     . {The High Turning} Take out the rebels [The High Turning rebel outpost]
-      Go to The Raintrace for The Raintrace
-    . {The Raintrace} Defend the salvagers from the Stalkers (getting 3 mine
-      launchers will complete one of the contracts immediately) [The Raintrace]
       Go to The Stand of the Sentinels for The Stand of the Sentinels rebel
       outpost
     . {The Stand of the Sentinels} Take out the rebels [The Stand of the
@@ -754,78 +769,29 @@
       Go to The Stand of the Sentinels for The Stand of the Sentinels Tallneck
     . {The Stand of the Sentinels} Clear the area of Stalkers and Clamberjaws
       [The Stand of the Sentinels Tallneck]
-      Go to The Stillsands for The Stillsands
-    . {The Stillsands} Talk to Runda, get the contracts [The Stillsands]
-      Go to The Stillsands for The Sea of Sands
-    * {The Stillsands} Talk to the Oseram, dive to get the mask [The Sea of
-      Sands]
-      Go to The Stillsands for The Stillsands Tallneck
-    . {The Stillsands} Explore the abandoned Oseram camp, examine the ballistas
-      [The Stillsands Tallneck]
       Go to Thornmarsh for Thornmarsh melee pit
     . {Thornmarsh} Do the challenges, defeat the Pit Master [Thornmarsh melee
       pit]
       Go to Thornmarsh for Elite Ropecaster
     . {Thornmarsh} Purchase Glowblast Sharpshot Bow (1035 shards, thunderjaw
       circulator, large machine core) [Elite Ropecaster]
-      Go to Workbench for Bolt Clip Satchel
-    . {Workbench} Increase carry capacity: 100 shards, 1 pelican wishbone, 1
-      peccary hide [Bolt Clip Satchel]
-      Go to Workbench for Bomb Satchel
-    . {Workbench} Increase carry capacity: 100 shards, 3 owl feather, 1 salmon
-      bone [Bomb Satchel]
-      Go to Workbench for Food Pouch
-    . {Workbench} Increase carry capacity: 100 shards, 2 duck feather, 1 salmon
-      bone [Food Pouch]
-      Go to Workbench for Hunter Arrow Quiver
-    . {Workbench} Increase carry capacity: 100 shards, 3 bighorn sheep skin, 1
-      salmon bone [Hunter Arrow Quiver]
-      Go to Workbench for Light Arrow Quiver
-    . {Workbench} Increase carry capacity: 100 shards, 3 salmon skin, 1 owl
-      wishbone [Light Arrow Quiver]
-      Go to Workbench for Potion Pouch
-    . {Workbench} Increase carry capacity: 100 shards, 2 carp skin, 1 bighorn
-      sheep bone [Potion Pouch]
-      Go to Workbench for Precision Arrow Quiver
-    . {Workbench} Increase carry capacity: 200 shards, 3 moonfish skin, 1 owl
-      wishbone [Precision Arrow Quiver]
-      Go to Workbench for Resource Pouch
-    . {Workbench} Increase carry capacity: 100 shards, 2 bass skin, 1 iridescent
-      crab shell [Resource Pouch]
-      Go to Workbench for Rope Pouch
-    . {Workbench} Increase carry capacity: 200 shards, 3 moonfish skin, 1
-      bighorn sheep bone [Rope Pouch]
-      Go to Workbench for Spike Holster
-    . {Workbench} Increase carry capacity: 100 shards, 3 owl feather, 1 duck
-      wishbone [Spike Holster]
-      Go to Workbench for Trap Pouch
-    . {Workbench} Increase carry capacity: 100 shards, 1 duck wishbone, 2
-      bighorn sheep hide [Trap Pouch]
-      Go to Workbench for Tripwire Pouch
-    . {Workbench} Increase carry capacity: 100 shards, 1 bighorn sheep bone, 3
-      owl feather [Tripwire Pouch]
-      Go to Workbench for Sun-Touched Hunter Bow
-    . {Workbench} Overdraw +15%, increase stats: 112 shards, 1 bellowback sac
-      webbing, 2 braided wire, 2 lancehorn drill horn [Sun-Touched Hunter Bow]
---- 31 equal options:
-      ['side-quest/thirst-for-the-hunt_0', 'side-quest/the-deluge_0',
-       'rebel-camp/breached-rock_0', 'side-quest/signal-spike_0',
-       'errand/a-hunt-to-remember_0', 'rebel-camp/fenrise_0',
-       'armour/nora-valiant_0', 'cauldron/kappa_0', 'errand/the-oldgrowth_0',
-       'errand/supply-drop_0', 'errand/the-taste-of-victory_0',
-       'cauldron/chi_0', 'side-quest/a-tribe-apart_0', 'rebel-camp/the-hive_0',
-       'story/seeds-of-the-past_0', 'side-quest/the-promontory_0',
-       'side-quest/breaking-even_0', 'tallneck/the-stand-of-the-sentinels_0',
-       'story/the-sea-of-sands_0', 'tallneck/the-stillsands_0',
-       'pouch/bolt-clip-satchel_2', 'pouch/bomb-satchel_3',
-       'pouch/hunter-arrow-quiver_3', 'pouch/light-arrow-quiver_3',
-       'pouch/precision-arrow-quiver_3', 'pouch/rope-pouch_3',
-       'pouch/spike-holster_3', 'pouch/tripwire-pouch_3',
-       'weapon/elite-ropecaster_0', 'weapon/purgewater-hunter-bow_0',
-       'weapon/sun-touched-hunter-bow_2']
-      Go to Arrowhand for Thirst for the Hunt
-    . {Arrowhand} Follow Drakka, kill the machines for their hearts [Thirst for
-      the Hunt]
+
+==== Hidden Ember founded ====
+
+--- 26 equal options:
+      ['side-quest/the-deluge_0', 'rebel-camp/breached-rock_0',
+       'side-quest/signal-spike_0', 'errand/a-hunt-to-remember_0',
+       'rebel-camp/fenrise_0', 'armour/nora-valiant_0', 'cauldron/kappa_0',
+       'errand/the-oldgrowth_0', 'errand/supply-drop_0',
+       'errand/the-taste-of-victory_0', 'cauldron/chi_0',
+       'side-quest/a-tribe-apart_0', 'side-quest/the-promontory_0',
+       'errand/burden-of-command_0', 'tallneck/the-stand-of-the-sentinels_0',
+       'pouch/bolt-clip-satchel_0', 'pouch/bomb-satchel_2',
+       'pouch/food-pouch_2', 'pouch/hunter-arrow-quiver_2',
+       'pouch/light-arrow-quiver_1', 'pouch/potion-pouch_1',
+       'pouch/resource-pouch_1', 'pouch/tripwire-pouch_1',
+       'weapon/elite-ropecaster_0', 'weapon/hammerburst-boltblaster_0',
+       'weapon/purgewater-hunter-bow_0']
       Go to Bleeding Mark for The Deluge
     . {Bleeding Mark} Speak to Natikka [The Deluge]
       Go to Breached Rock for Breached Rock rebel camp
@@ -858,91 +824,82 @@
       machines [Cauldron Chi]
       Go to Stone's Echo for A Tribe Apart
     . {Stone's Echo} Speak to Jaxx [A Tribe Apart]
-      Go to The Base West exit for The Hive rebel camp
-    . {The Base West exit} Kill the rebels, explode the weapon caches, rescue
-      the prisoner [The Hive rebel camp]
-      Go to The Greenhouse for Seeds of the Past
-    * {The Greenhouse} Explore the Greenhouse, meet Alva [Seeds of the Past]
       Go to The Promontory for The Promontory
     . {The Promontory} Investigate the trail, kill the Stalkers [The Promontory]
-      Go to The Spinebreak for Breaking Even
-    . {The Spinebreak} Kill the smaller machines [Breaking Even]
+      Go to The Shining Wastes for Burden of Command
+    . {The Shining Wastes} Find the child, kill the Thunderjaw and Stormbird
+      [Burden of Command]
       Go to The Stand of the Sentinels for The Stand of the Sentinels Tallneck
     . {The Stand of the Sentinels} Climb the ruins of the settlement to get to
       the Tallneck [The Stand of the Sentinels Tallneck]
-      Go to The Stillsands for The Sea of Sands
-    * {The Stillsands} Fetch the parts from the machine herd [The Sea of Sands]
-      Go to The Stillsands for The Stillsands Tallneck
-    . {The Stillsands} Kill the machines and use the ballistas to bring down and
-      reboot the Tallneck [The Stillsands Tallneck]
       Go to Workbench for Bolt Clip Satchel
-    . {Workbench} Increase carry capacity: 200 shards, 3 gull feather, 1 bighorn
-      sheep bone [Bolt Clip Satchel]
+    . {Workbench} Increase carry capacity: 50 shards, 2 peccary hide [Bolt Clip
+      Satchel]
       Go to Workbench for Bomb Satchel
-    . {Workbench} Increase carry capacity: 200 shards, 3 lobster shell, 1
-      iridescent crab shell, 1 peccary bone [Bomb Satchel]
+    . {Workbench} Increase carry capacity: 100 shards, 3 owl feather, 1 salmon
+      bone [Bomb Satchel]
+      Go to Workbench for Food Pouch
+    . {Workbench} Increase carry capacity: 100 shards, 2 duck feather, 1 salmon
+      bone [Food Pouch]
       Go to Workbench for Hunter Arrow Quiver
-    . {Workbench} Increase carry capacity: 200 shards, 1 pelican wishbone, 2
-      peccary hide, 1 iridescent lobster shell [Hunter Arrow Quiver]
+    . {Workbench} Increase carry capacity: 100 shards, 3 bighorn sheep skin, 1
+      salmon bone [Hunter Arrow Quiver]
       Go to Workbench for Light Arrow Quiver
-    . {Workbench} Increase carry capacity: 200 shards, 1 moonfish bone, 2 bass
-      skin, 1 gull wishbone [Light Arrow Quiver]
-      Go to Workbench for Precision Arrow Quiver
-    . {Workbench} Increase carry capacity: 300 shards, 3 bass skin, 1 moonfish
-      bone, 1 iridescent lobster shell [Precision Arrow Quiver]
-      Go to Workbench for Rope Pouch
-    . {Workbench} Increase carry capacity: 300 shards, 1 bass bone, 2 peccary
-      hide, 1 iridescent lobster shell [Rope Pouch]
-      Go to Workbench for Spike Holster
-    . {Workbench} Increase carry capacity: 200 shards, 1 bass bone, 2 crab
-      shell, 1 peccary bone [Spike Holster]
+    . {Workbench} Increase carry capacity: 50 shards, 1 vulture wishbone, 1
+      praire dog hide [Light Arrow Quiver]
+      Go to Workbench for Potion Pouch
+    . {Workbench} Increase carry capacity: 50 shards, 1 prairie dog bone, 1
+      rabbit hide [Potion Pouch]
+      Go to Workbench for Resource Pouch
+    . {Workbench} Increase carry capacity: 50 shards, 1 horned lizard bone, 1
+      goose feather [Resource Pouch]
       Go to Workbench for Tripwire Pouch
-    . {Workbench} Increase carry capacity: 200 shards, 1 crab shell, 1
-      iridescent lobster shell, 1 gull wishbone [Tripwire Pouch]
+    . {Workbench} Increase carry capacity: 50 shards, 3 rabbit hide [Tripwire
+      Pouch]
       Go to Workbench for Elite Ropecaster
     . {Workbench} Increase stats, +25% overdraw: 127 shards, 4 braided wire, 4
       small machine core, 1 greenshine sliver [Elite Ropecaster]
+      Go to Workbench for Hammerburst Boltblaster
+    . {Workbench} Crit chance +5%, increase stats: 75 shards, 2 braided wire, 2
+      small machine core [Hammerburst Boltblaster]
       Go to Workbench for Purgewater Hunter Bow
     . {Workbench} Melee followup +15%, increase stats: 75 shards, 2 braided
       wire, 2 small machine core [Purgewater Hunter Bow]
-      Go to Workbench for Sun-Touched Hunter Bow
-    . {Workbench} Advanced arrows, increase stats: 150 shards, 1 bellowback
-      circulator, 3 braided wire, 2 medium machine core [Sun-Touched Hunter Bow]
---- 4 equal options:
-      ['salvage/the-stillsands_post_1', 'salvage/the-greenswell_post_0',
-       'salvage/the-raintrace_post_0', 'salvage/the-stillsands_post_0']
-      Go to Merchant
-    . {Merchant} Can sell Sunshot Hunter Bow [The Stillsands]
-      Go to The Greenswell
-    . {The Greenswell} Return to Handa, defend camp against the scroungers and
-      spikesnouts [The Greenswell salvage]
-      Go to The Raintrace
-    . {The Raintrace} Return to Danur to complete the salvage [The Raintrace]
-      Go to The Stillsands
-    . {The Stillsands} Return to Runda [The Stillsands]
---- 29 equal options:
-      ['side-quest/thirst-for-the-hunt_1', 'side-quest/the-deluge_1',
-       'rebel-camp/fenrise_1', 'armour/nora-valiant_1', 'cauldron/kappa_1',
-       'errand/the-oldgrowth_1', 'side-quest/a-tribe-apart_1',
-       'errand/supply-drop_1', 'errand/the-taste-of-victory_1',
-       'side-quest/signal-spike_1', 'cauldron/chi_1',
-       'story/seeds-of-the-past_1', 'salvage/ancient-relics',
-       'salvage/plowhorns-and-plants', 'salvage/property-retrieval',
-       'salvage/ravager-cannon', 'salvage/speedy-lancehorns',
-       'side-quest/the-promontory_1', 'salvage/mine-launchers',
-       'side-quest/breaking-even_1', 'salvage/lost-supplies',
-       'salvage/missing-gear', 'salvage/pristine-bellowback',
-       'salvage/rollerback-salvage', 'story/the-sea-of-sands_1',
-       'pouch/bolt-clip-satchel_3', 'weapon/elite-ropecaster_1',
-       'weapon/purgewater-hunter-bow_1', 'weapon/sun-touched-hunter-bow_3']
+--- 25 equal options:
+      ['salvage/rollerback-salvage', 'side-quest/thirst-for-the-hunt',
+       'side-quest/the-deluge_1', 'gauntlet-run/bonewhite-tear',
+       'rebel-outpost/dry-yearn', 'rebel-camp/fenrise_1',
+       'errand/nights-of-lights', 'side-quest/boom-or-bust',
+       'side-quest/lofty-ambitions', 'armour/nora-valiant_1',
+       'cauldron/kappa_1', 'errand/the-oldgrowth_1',
+       'side-quest/a-tribe-apart_1', 'errand/supply-drop_1',
+       'errand/the-taste-of-victory_1', 'side-quest/signal-spike_1',
+       'cauldron/chi_1', 'side-quest/the-promontory_1',
+       'pouch/bolt-clip-satchel_1', 'pouch/light-arrow-quiver_2',
+       'pouch/potion-pouch_2', 'pouch/tripwire-pouch_2',
+       'weapon/elite-ropecaster_1', 'weapon/hammerburst-boltblaster_1',
+       'weapon/purgewater-hunter-bow_1']
+    . {The Stillsands} Collect some rollerback salvage, kill the shellsnapper,
+      loot it and the remaining rollerback salvage [Rollerback Salvage]
       Go to Arrowhand for Thirst for the Hunt
-    . {Arrowhand} Follow Drakka again, kill the burrowers and Thunderjaw [Thirst
-      for the Hunt]
+    . {Arrowhand} Speak to Drakka [Thirst for the Hunt]
       Go to Bleeding Mark for The Deluge
     . {Bleeding Mark} Rescue the group trapped in the tower [The Deluge]
+      Go to Bonewhite Tear for Bonewhite Tear Gauntlet Run
+    . {Bonewhite Tear} Win the race [Bonewhite Tear Gauntlet Run]
+      Go to Dry Yearn for Dry Yearn rebel outpost
+    . {Dry Yearn} Take out the rebels [Dry Yearn rebel outpost]
       Go to Fenrise for Fenrise rebel camp
     . {Fenrise} Kill the remaining rebels, examine the parchment and
       ornamentation [Fenrise rebel camp]
+      Go to Hidden Ember for Nights of Lights
+    . {Hidden Ember} Talk to Stemmur, go to Dunehollow, retrieve the ornament,
+      return [Nights of Lights]
+      Go to Hidden Ember for Boom or Bust
+    . {Hidden Ember} Speak to Delah, then follow her [Boom or Bust]
+      Go to Hidden Ember for Lofty Ambitions
+    . {Hidden Ember} Talk to Morlund, go to Dunehollow, retrieve the burner
+      [Lofty Ambitions]
       Go to Lowland's Path for Nora Valiant
     . {Lowland's Path} +1 stamina regen, +2 concentration+, increase stats; 212
       shards, 2 clamberjaw tail duster, 3 shellsnapper shell bolt, 6 sturdy
@@ -965,75 +922,52 @@
       signal [Signal Spike]
       Go to Southern Lowlands for Cauldron Chi
     . {Southern Lowlands} Kill the Slitherfang, override the core [Cauldron Chi]
-      Go to The Greenhouse for Seeds of the Past
-    * {The Greenhouse} Continue exploring the Greenhouse, kill the Dreadwing,
-      equip the Vine Cutter, get Demeter [Seeds of the Past]
-      Go to The Greenswell for Ancient Relics
-    . {The Greenswell} Retrieve the relics to the north [Ancient Relics]
-      Go to The Greenswell for Plowhorns and Plants
-    . {The Greenswell} Collect plants from the plowhorn trails, then kill the
-      plowhorns [Plowhorns and Plants]
-      Go to The Greenswell for Missing Gear
-    . {The Greenswell} Investigate the shelter, get scrolls from the corpse near
-      the Snapmaw [Missing Gear]
-      Go to The Greenswell for Ravager Cannon
-    . {The Greenswell} Collect a ravager's cannon [Ravager Cannon]
-      Go to The Greenswell for Speedy Lancehorns
-    . {The Greenswell} Take down the lancehorns while mounted [Speedy
-      Lancehorns]
       Go to The Promontory for The Promontory
     . {The Promontory} Return to Plainsong, talk to Bree and Fane [The
       Promontory]
-      Go to The Raintrace for Mine Launchers
-    . {The Raintrace} Collect three Stalker mine launchers [Mine Launchers]
-      Go to The Spinebreak for Breaking Even
-    . {The Spinebreak} Kill the rockbreaker [Breaking Even]
-      Go to The Stillsands for Lost Supplies
-    . {The Stillsands} Override a Bristleback, then investigate the areas,
-      killing the machines as you go [Lost Supplies]
-      Go to The Stillsands for Missing Gear
-    . {The Stillsands} Go to near Camp Nowhere, examine the cart, follow the
-      path, loot the Sunwing nest [Missing Gear]
-      Go to The Stillsands for Pristine Bellowback
-    . {The Stillsands} Kill the bellowback without destroying the sacs, then
-      loot it [Pristine Bellowback]
-      Go to The Stillsands for Rollerback Salvage
-    . {The Stillsands} Collect some rollerback salvage, kill the shellsnapper,
-      loot it and the remaining rollerback salvage [Rollerback Salvage]
-      Go to The Stillsands for The Sea of Sands
-    * {The Stillsands} Explore the underwater area, and drain it [The Sea of
-      Sands]
       Go to Workbench for Bolt Clip Satchel
-    . {Workbench} Increase carry capacity: 300 shards, 1 iridescent lobster
-      shell, 1 iridescent crab shell [Bolt Clip Satchel]
+    . {Workbench} Increase carry capacity: 100 shards, 1 pelican wishbone, 1
+      peccary hide [Bolt Clip Satchel]
+      Go to Workbench for Light Arrow Quiver
+    . {Workbench} Increase carry capacity: 100 shards, 3 salmon skin, 1 owl
+      wishbone [Light Arrow Quiver]
+      Go to Workbench for Potion Pouch
+    . {Workbench} Increase carry capacity: 100 shards, 2 carp skin, 1 bighorn
+      sheep bone [Potion Pouch]
+      Go to Workbench for Tripwire Pouch
+    . {Workbench} Increase carry capacity: 100 shards, 1 bighorn sheep bone, 3
+      owl feather [Tripwire Pouch]
       Go to Workbench for Elite Ropecaster
     . {Workbench} Unlock 2nd coil, increase stats: 212 shards, 8 braided wire, 1
       greenshine fragment, 1 greenshine cluster [Elite Ropecaster]
+      Go to Workbench for Hammerburst Boltblaster
+    . {Workbench} Overdraw +15%, increase stats: 112 shards, 1 rollerback hammer
+      tail, 2 braided wire, 2 sunwing shield caster [Hammerburst Boltblaster]
       Go to Workbench for Purgewater Hunter Bow
     . {Workbench} Increase stats: 112 shards, 2 braided wire, 1 lancehorn drill
       horn, 1 snapmaw sac webbing [Purgewater Hunter Bow]
-      Go to Workbench for Sun-Touched Hunter Bow
-    . {Workbench} Crit +40%, crit chance +15% chance, coil unlocked, increase
-      stats: 250 shards, 1 bellowback primary nerve, 6 braided wire, 3 medium
-      machine core, 2 rollerback hammer tail [Sun-Touched Hunter Bow]
 --- 16 equal options:
-      ['side-quest/thirst-for-the-hunt_2', 'side-quest/the-deluge_2',
-       'side-quest/breaking-even_2', 'rebel-camp/fenrise_2',
-       'armour/nora-valiant_2', 'errand/the-oldgrowth_2',
-       'side-quest/a-tribe-apart_2', 'side-quest/the-promontory_2',
-       'side-quest/signal-spike_2', 'story/seeds-of-the-past_2',
-       'salvage/ancient-relics_0', 'salvage/property-retrieval_0',
-       'story/the-sea-of-sands_2', 'weapon/cleaving-sharpshot-bow_0',
-       'weapon/elite-ropecaster_2', 'weapon/purgewater-hunter-bow_2']
+      ['side-quest/thirst-for-the-hunt_0', 'side-quest/the-deluge_2',
+       'rebel-camp/fenrise_2', 'side-quest/boom-or-bust_0',
+       'side-quest/lofty-ambitions_0', 'armour/nora-valiant_2',
+       'errand/the-oldgrowth_2', 'side-quest/a-tribe-apart_2',
+       'side-quest/the-promontory_2', 'side-quest/signal-spike_2',
+       'pouch/bolt-clip-satchel_2', 'pouch/light-arrow-quiver_3',
+       'weapon/cleaving-sharpshot-bow_0', 'weapon/elite-ropecaster_2',
+       'weapon/hammerburst-boltblaster_2', 'weapon/purgewater-hunter-bow_2']
       Go to Arrowhand for Thirst for the Hunt
-    . {Arrowhand} Return to Arrowhand, speak to Jetakka [Thirst for the Hunt]
+    . {Arrowhand} Follow Drakka, kill the machines for their hearts [Thirst for
+      the Hunt]
       Go to Bleeding Mark for The Deluge
     . {Bleeding Mark} Rescue the group up on the platform [The Deluge]
-      Go to Camp Nowhere for Breaking Even
-    . {Camp Nowhere} Return to Porguf [Breaking Even]
       Go to Fenrise for Fenrise rebel camp
     . {Fenrise} Kill the reinforcements rebels that turn up, speak to Gattak
       [Fenrise rebel camp]
+      Go to Hidden Ember for Boom or Bust
+    . {Hidden Ember} Kill the machines, and continue on [Boom or Bust]
+      Go to Hidden Ember for Lofty Ambitions
+    . {Hidden Ember} Speak to Morlund again, go for a flight in the balloon
+      [Lofty Ambitions]
       Go to Lowland's Path for Nora Valiant
     . {Lowland's Path} +2 low health ranged (coil), 2 coils, increase stats; 300
       shards, 1 large machine core, 2 scorcher scanning ear, 1 shellsnapper
@@ -1045,16 +979,15 @@
       Go to Summerwind for The Promontory
     . {Summerwind} Confront Kel, resolve Flashpoint (choose fist first so it is
       not the saved outcome) [The Promontory]
+      Go to The Base for Signal Spike
     . {The Base} Climb the mountain above the base to triangulate the signal
       [Signal Spike]
-      Go to The Greenhouse for Seeds of the Past
-    * {The Greenhouse} Return Demeter to the Base [Seeds of the Past]
-      Go to The Greenswell for Ancient Relics
-    . {The Greenswell} Retrieve the relics to the south [Ancient Relics]
-      Go to The Greenswell for Missing Gear
-    . {The Greenswell} Travel to the ruins, get the Relic [Missing Gear]
-      Go to The Stillsands for The Sea of Sands
-    * {The Stillsands} Kill the Tideripper [The Sea of Sands]
+      Go to Workbench for Bolt Clip Satchel
+    . {Workbench} Increase carry capacity: 200 shards, 3 gull feather, 1 bighorn
+      sheep bone [Bolt Clip Satchel]
+      Go to Workbench for Light Arrow Quiver
+    . {Workbench} Increase carry capacity: 200 shards, 1 moonfish bone, 2 bass
+      skin, 1 gull wishbone [Light Arrow Quiver]
       Go to Workbench for Cleaving Sharpshot Bow
     . {Workbench} Increase stats, +10% component tear: 75 shards, 2 braided
       wire, 2 small machine core [Cleaving Sharpshot Bow]
@@ -1062,22 +995,42 @@
     . {Workbench} Increase stats, +10% component tear: 300 shards, 8 braided
       wire, 1 large machine core, 1 greenshine chunk, 2 greenshine cluster
       [Elite Ropecaster]
+      Go to Workbench for Hammerburst Boltblaster
+    . {Workbench} Explosive bolts, increase stats: 150 shards, 1 rollerback
+      circulator, 3 braided wire, 2 medium machine core [Hammerburst
+      Boltblaster]
       Go to Workbench for Purgewater Hunter Bow
     . {Workbench} Overdraw +15%, increase stats: 150 shards, 3 braided wire, 2
       medium machine core, 1 snapmaw circulator [Purgewater Hunter Bow]
---- 22 equal options:
-      ['side-quest/the-deluge_3', 'armour/nora-valiant_3',
-       'side-quest/a-tribe-apart_3', 'story/the-broken-sky-bulwark',
-       'override/dreadwing', 'override/fireclaw', 'override/scorcher',
-       'override/shellsnapper', 'override/slaughterspine',
-       'override/slitherfang', 'override/spikesnout', 'override/stalker',
-       'override/thunderjaw', 'side-quest/signal-spike_3',
-       'salvage/colleague-and-key', 'story/the-sea-of-sands_3',
+--- 2 equal options:
+      ['salvage/the-stillsands_post_0', 'salvage/the-stillsands_post_1']
+    . {The Stillsands} Return to Runda [The Stillsands]
+      Go to Merchant
+    . {Merchant} Can sell Sunshot Hunter Bow [The Stillsands]
+--- 23 equal options:
+      ['gauntlet-run/the-stillsands', 'side-quest/thirst-for-the-hunt_1',
+       'side-quest/the-deluge_3', 'rebel-camp/devils-grasp',
+       'side-quest/boom-or-bust_1', 'side-quest/lofty-ambitions_1',
+       'armour/nora-valiant_3', 'side-quest/a-tribe-apart_3',
+       'story/the-broken-sky-bulwark', 'override/dreadwing',
+       'override/fireclaw', 'override/scorcher', 'override/shellsnapper',
+       'override/slaughterspine', 'override/slitherfang', 'override/spikesnout',
+       'override/stalker', 'override/thunderjaw', 'side-quest/signal-spike_3',
        'weapon/cleaving-sharpshot-bow_1', 'weapon/elite-ropecaster_3',
-       'weapon/piercing-sharpshot-bow_0', 'weapon/puncturing-boltblaster_0',
-       'weapon/purgewater-hunter-bow_3', 'weapon/vindicator-spike-thrower_0']
+       'weapon/hammerburst-boltblaster_3', 'weapon/purgewater-hunter-bow_3']
+    . {The Stillsands} Win the race, speak to Nil [The Stillsands Gauntlet Run]
+      Go to Arrowhand for Thirst for the Hunt
+    . {Arrowhand} Follow Drakka again, kill the burrowers and Thunderjaw [Thirst
+      for the Hunt]
       Go to Bleeding Mark for The Deluge
     . {Bleeding Mark} Rescue the group up in the cliffs [The Deluge]
+      Go to Devil's Grasp for Devil's Grasp rebel camp
+    . {Devil's Grasp} Enter the camp, kill the rebels, examine the device and
+      parchment [Devil's Grasp rebel camp]
+      Go to Hidden Ember for Boom or Bust
+    . {Hidden Ember} Rescue Boomer from the machines [Boom or Bust]
+      Go to Hidden Ember for Lofty Ambitions
+    . {Hidden Ember} Kill the machines, then the Stormbird [Lofty Ambitions]
       Go to Lowland's Path for Nora Valiant
     . {Lowland's Path} Equip Nora Valiant, add +2 concentration from Carja
       Shadow, and +2 concentration regen from Nora Sentinel (or +2 silent strike
@@ -1088,30 +1041,35 @@
       Go to Stone Crest for The Broken Sky (at the Bulwark)
     * {Stone Crest} Meet Kotallo, proceed to the Bulkwark killing the rebels
       [The Broken Sky (at the Bulwark)]
+      Go to The Base for Dreadwing Override
     . {The Base} Craft Dreadwing override with three Dreadwing metal fangs and
       one Dreadwing primary nerve [Dreadwing Override]
+      Go to The Base for Fireclaw Override
     . {The Base} Craft Fireclaw override with two Fireclaw sac webbing and one
       Fireclaw primary nerve [Fireclaw Override]
+      Go to The Base for Scorcher Override
     . {The Base} Craft Scorcher override with three Scorcher scanning ears and
       one Scorcher primary nerve [Scorcher Override]
+      Go to The Base for Shellsnapper Override
     . {The Base} Craft Shellsnapper override with four Shellsnapper shell bolts
       and one Shellsnapper primary nerve [Shellsnapper Override]
+      Go to The Base for Slaughterspine Override
     . {The Base} Craft Slaughterspine override with two Slaughterspine
       circulators and one Slaughterspine primary nerve [Slaughterspine Override]
+      Go to The Base for Slitherfang Override
     . {The Base} Craft Slitherfang override with three Slitherfang earth
       grinders and one Slitherfang primary nerve [Slitherfang Override]
+      Go to The Base for Spikesnout Override
     . {The Base} Craft Spikesnout override with two Spikesnout sac webbing and
       one Spikesnout primary nerve [Spikesnout Override]
+      Go to The Base for Stalker Override
     . {The Base} Craft Stalker override with three Stalker stealth generators
       and one Stalker primary nerve [Stalker Override]
+      Go to The Base for Thunderjaw Override
     . {The Base} Craft Thunderjaw override with two Thunderjaw tail and one
       Thunderjaw primary nerve [Thunderjaw Override]
+      Go to The Base for Signal Spike
     . {The Base} Return to Silga, get the spike thrower [Signal Spike]
-      Go to The Raintrace for Colleague and Key
-    . {The Raintrace} Follow Warend's trail, get the mine launcher from the
-      Thunderjaw, kill the Clamberjaws, get the key [Colleague and Key]
-      Go to The Stillsands for The Sea of Sands
-    * {The Stillsands} Retrieve Poseidon [The Sea of Sands]
       Go to Workbench for Cleaving Sharpshot Bow
     . {Workbench} Increase stats, +25% overdraw: 112 shards, 2 braided wire, 1
       snapmaw sac webbing, 1 bellowback sac webbing [Cleaving Sharpshot Bow]
@@ -1119,57 +1077,42 @@
     . {Workbench} Increase stats, +40% high ground: 450 shards, 8 braided wire,
       2 large machine core, 2 greenshine chunk, 2 greenshine slab [Elite
       Ropecaster]
-      Go to Workbench for Piercing Sharpshot Bow
-    . {Workbench} Increase stats, +15% knockdown: 75 shards, 2 braided wire, 2
-      small machine core [Piercing Sharpshot Bow]
-      Go to Workbench for Puncturing Boltblaster
-    . {Workbench} Increase stats: 75 shards, 2 braided wire, 2 small machine
-      core [Puncturing Boltblaster]
+      Go to Workbench for Hammerburst Boltblaster
+    . {Workbench} Crit chance +15% chance, coil unlocked, increase stats: 250
+      shards, 1 rollerback primary nerve, 6 braided wire, 3 medium machine core,
+      1 slitherfang earthgrinder [Hammerburst Boltblaster]
       Go to Workbench for Purgewater Hunter Bow
     . {Workbench} Unlock coil, melee followup +40%, increase stats: 250 shards,
       6 braided wire, 3 medium machine core, 1 snapmaw primary nerve, 4 stalker
       stealth generator [Purgewater Hunter Bow]
-      Go to Workbench for Vindicator Spike Thrower
-    . {Workbench} +15% overdraw, increase stats: 127 shards, 4 braided wire, 4
-      small machine core, 1 medium machine core [Vindicator Spike Thrower]
---- 4 equal options:
-      ['side-quest/thirst-for-the-hunt_post_0', 'errand/the-oldgrowth_post_0',
-       'side-quest/the-promontory_post_0', 'side-quest/the-promontory_post_1']
-      Go to Arrowhand
-    . {Arrowhand} Speak to Drakka again [Thirst for the Hunt]
+--- 3 equal options:
+      ['errand/the-oldgrowth_post_0', 'side-quest/the-promontory_post_0',
+       'side-quest/the-promontory_post_1']
       Go to Plainsong
     . {Plainsong} Speak to Lao and Ven again [The Oldgrowth]
       Go to Summerwind
     . {Summerwind} Talk to Bree again [The Promontory]
       Go to Summerwind
     . {Summerwind} Talk to Fane again [The Promontory]
---- 13 equal options:
-      ['side-quest/the-deluge_4', 'armour/nora-valiant_4',
-       'side-quest/the-wound-in-the-sand', 'story/the-broken-sky-bulwark_0',
-       'rebel-camp/first-forge', 'salvage/colleague-and-key_0',
-       'story/the-sea-of-sands_4', 'side-quest/in-the-fog',
-       'weapon/cleaving-sharpshot-bow_2', 'weapon/elite-ropecaster_4',
-       'weapon/piercing-sharpshot-bow_1', 'weapon/puncturing-boltblaster_1',
-       'weapon/vindicator-spike-thrower_1']
+--- 8 equal options:
+      ['side-quest/thirst-for-the-hunt_2', 'side-quest/the-deluge_4',
+       'side-quest/boom-or-bust_2', 'armour/nora-valiant_4',
+       'story/the-broken-sky-bulwark_0', 'weapon/cleaving-sharpshot-bow_2',
+       'weapon/elite-ropecaster_4', 'weapon/piercing-sharpshot-bow_3']
+      Go to Arrowhand for Thirst for the Hunt
+    . {Arrowhand} Return to Arrowhand, speak to Jetakka [Thirst for the Hunt]
       Go to Bleeding Mark for The Deluge
     . {Bleeding Mark} Return to Natikka [The Deluge]
+      Go to Hidden Ember for Boom or Bust
+    . {Hidden Ember} Kill the Shellsnapper with Boomer's new shredder gauntlet
+      [Boom or Bust]
       Go to Lowland's Path for Nora Valiant
     . {Lowland's Path} +2 weapon stamina+, increase stats; 450 shards, 2 apex
       stalker heart, 1 clamberjaw primary nerve, 2 large machine core, 1
       scorcher circulator [Nora Valiant]
-      Go to Scalding Spear for The Wound in the Sand
-    . {Scalding Spear} Speak with Jetakka and Yarra [The Wound in the Sand]
       Go to Stone Crest for The Broken Sky (at the Bulwark)
     * {Stone Crest} Speak to Tekkoteh, buy stuff, head back out, look at the
       rockface [The Broken Sky (at the Bulwark)]
-    . {The Base} Talk to Erend about the Sons of Prometheus [First Forge]
-      Go to The Raintrace for Colleague and Key
-    . {The Raintrace} Retrun to Danur, defeat the rebels, give him the key
-      [Colleague and Key]
-      Go to The Stillsands for The Sea of Sands
-    * {The Stillsands} Return Poseidon to the Base [The Sea of Sands]
-      Go to Tide's Reach for In the Fog
-    . {Tide's Reach} Speak to Fenirra [In the Fog]
       Go to Workbench for Cleaving Sharpshot Bow
     . {Workbench} Increase stats, +65% draw speed: 150 shards, 3 braided wire, 2
       medium machine core, 1 snapmaw circulator [Cleaving Sharpshot Bow]
@@ -1178,100 +1121,53 @@
       shards, 8 braided wire, 1 luminous brainstem, 3 greenshine chunk, 3
       greenshine slab [Elite Ropecaster]
       Go to Workbench for Piercing Sharpshot Bow
-    . {Workbench} Increase stats, +25% overdraw: 112 shards, 2 braided wire, 1
-      spikesnout sac webbing, 2 lancehorn drill horn [Piercing Sharpshot Bow]
-      Go to Workbench for Puncturing Boltblaster
-    . {Workbench} Overdraw +30%, increase stats: 112 shards, 2 braided wire, 1
-      spikesnout sac webbing, 1 stalker stealth generator [Puncturing
-      Boltblaster]
-      Go to Workbench for Vindicator Spike Thrower
-    . {Workbench} Unlock 2nd coil, increase stats: 212 shards, 6 braided wire, 2
-      elemental clawstrider sac webbing, 1 behemoth force loader [Vindicator
-      Spike Thrower]
-  Go to Plainsong
-. {Plainsong} Speak to Jaxx and Korreh again [A Tribe Apart]
---- 11 equal options:
-      ['side-quest/the-deluge_5', 'rebel-camp/first-forge_0',
-       'armour/nora-valiant_5', 'errand/the-music-in-metal',
-       'side-quest/the-wound-in-the-sand_0', 'story/the-broken-sky-bulwark_1',
-       'side-quest/in-the-fog_0', 'weapon/cleaving-sharpshot-bow_3',
-       'weapon/piercing-sharpshot-bow_2', 'weapon/puncturing-boltblaster_2',
-       'weapon/vindicator-spike-thrower_2']
+    . {Workbench} Unlock 2nd coil, increase stats, +40% knockdown: 250 shards, 6
+      braided wire, 3 medium machine core, 1 spikesnout primary nerve, 2
+      rollerback hammer tail [Piercing Sharpshot Bow]
+--- 6 equal options:
+      ['side-quest/the-deluge_5', 'armour/nora-valiant_5',
+       'rebel-outpost/stillsands-west', 'story/the-broken-sky-bulwark_1',
+       'rebel-camp/first-forge', 'weapon/cleaving-sharpshot-bow_3']
       Go to Bleeding Mark for The Deluge
     . {Bleeding Mark} Rescue Kentokk from the Gouge [The Deluge]
-      Go to First Forge for First Forge
-    . {First Forge} Infiltrate the First Forge [First Forge]
       Go to Lowland's Path for Nora Valiant
     . {Lowland's Path} +2 stamina regen, increase stats; 600 shards, 1 apex
       tremortusk heart, 4 dreadwing metal fang, 1 luminous brainstem, 1
       thunderjaw primary nerve [Nora Valiant]
-    . {Plainsong} Speak to Jaxx and Korreh [The Music in Metal]
-      Go to Scalding Spear for The Wound in the Sand
-    . {Scalding Spear} Lead Yarra along the pipes to the pumping station [The
-      Wound in the Sand]
+      Go to Stillsands West for Stillsands West rebel outpost
+    . {Stillsands West} Take out the rebels [Stillsands West rebel outpost]
       Go to Stone Crest for The Broken Sky (at the Bulwark)
     * {Stone Crest} Go with Kotallo, take out the Tremortusk, blow up the
       Bulwark [The Broken Sky (at the Bulwark)]
-      Go to Tide's Reach for In the Fog
-    . {Tide's Reach} Travel to the camp, investigate with your Focus, follow the
-      trail [In the Fog]
+      Go to The Base for First Forge
+    . {The Base} Talk to Erend about the Sons of Prometheus [First Forge]
       Go to Workbench for Cleaving Sharpshot Bow
     . {Workbench} Unlock 2nd coil, increase stats, +25% component tear: 250
       shards, 3 medium machine core, 1 snapmaw primary nerve, 6 shellsnapper
       shell bolts [Cleaving Sharpshot Bow]
-      Go to Workbench for Piercing Sharpshot Bow
-    . {Workbench} Increase stats, +40% multiple enemy: 150 shards, 3 braided
-      wire, 2 medium machine core, 1 spikesnout circulator [Piercing Sharpshot
-      Bow]
-      Go to Workbench for Puncturing Boltblaster
-    . {Workbench} Increase stats: 150 shards, 3 braided wire, 2 medium machine
-      core, 1 stalker circulator [Puncturing Boltblaster]
-      Go to Workbench for Vindicator Spike Thrower
-    . {Workbench} Increase stats, +15% critical hit: 300 shards, 10 braided
-      wire, 2 stalker stealth generator, 1 large machine core, 1 elemental
-      clawstrider circulator [Vindicator Spike Thrower]
---- 13 equal options:
-      ['rebel-camp/first-forge_1', 'errand/nights-of-lights',
-       'side-quest/boom-or-bust', 'side-quest/lofty-ambitions',
-       'errand/the-music-in-metal_0', 'errand/burden-of-command',
-       'side-quest/the-wound-in-the-sand_1', 'salvage/reinforced-components',
-       'salvage/underwater-salvage', 'side-quest/in-the-fog_1',
-       'weapon/piercing-sharpshot-bow_3', 'weapon/puncturing-boltblaster_3',
-       'weapon/vindicator-spike-thrower_3']
+--- 3 equal options:
+      ['side-quest/thirst-for-the-hunt_post_0',
+       'side-quest/boom-or-bust_post_0', 'side-quest/boom-or-bust_post_1']
+      Go to Arrowhand
+    . {Arrowhand} Speak to Drakka again [Thirst for the Hunt]
+      Go to Chainscrape
+    . {Chainscrape} Scan the datapoint at Delah and Boomer's old workshop [Boom
+      or Bust]
+      Go to Hidden Ember
+    . {Hidden Ember} Speak to Delah and Boomer again [Boom or Bust]
+--- 4 equal options:
+      ['rebel-camp/first-forge_0', 'side-quest/the-wound-in-the-sand',
+       'rebel-outpost/stillsands-south', 'weapon/carjas-bane_0']
       Go to First Forge for First Forge
-    . {First Forge} Kill Asera [First Forge]
-      Go to Hidden Ember for Nights of Lights
-    . {Hidden Ember} Talk to Stemmur, go to Dunehollow, retrieve the ornament,
-      return [Nights of Lights]
-      Go to Hidden Ember for Boom or Bust
-    . {Hidden Ember} Speak to Delah, then follow her [Boom or Bust]
-      Go to Hidden Ember for Lofty Ambitions
-    . {Hidden Ember} Talk to Morlund, go to Dunehollow, retrieve the burner
-      [Lofty Ambitions]
-    . {Plainsong} Meet Jaxx, kill the machines [The Music in Metal]
-      Go to Scalding Spear for Burden of Command
-    . {Scalding Spear} Talk to Yarra [Burden of Command]
+    . {First Forge} Infiltrate the First Forge [First Forge]
       Go to Scalding Spear for The Wound in the Sand
-    . {Scalding Spear} Kill the machines [The Wound in the Sand]
-      Go to The Raintrace for Reinforced Components
-    . {The Raintrace} Get the spikesnouts to reinforce the behemoth, then kill
-      it (nearby ravager carcass still has its cannon) [Reinforced Components]
-      Go to The Raintrace for Underwater Salvage
-    . {The Raintrace} Collet the underwater salvage [Underwater Salvage]
-      Go to Tide's Reach for In the Fog
-    . {Tide's Reach} Kill the Clawstrider [In the Fog]
-      Go to Workbench for Piercing Sharpshot Bow
-    . {Workbench} Unlock 2nd coil, increase stats, +40% knockdown: 250 shards, 6
-      braided wire, 3 medium machine core, 1 spikesnout primary nerve, 2
-      rollerback hammer tail [Piercing Sharpshot Bow]
-      Go to Workbench for Puncturing Boltblaster
-    . {Workbench} Unlock 2nd coil, knockdown +40%, overdraw +55%, increase
-      stats: 250 shards, 6 braided wire, 1 elemental clawstrider sac webbing, 3
-      medium machine core, 1 stalker primary nerve [Puncturing Boltblaster]
-      Go to Workbench for Vindicator Spike Thrower
-    . {Workbench} Increase stats, +40% long range: 450 shards, 4 slitherfang
-      earthgrinder, 1 stalker circulator, 2 large machine core, 1 behemoth
-      primary nerve [Vindicator Spike Thrower]
+    . {Scalding Spear} Speak with Jetakka and Yarra [The Wound in the Sand]
+      Go to Stillsands South for Stillsands South rebel outpost
+    . {Stillsands South} Take out the rebels [Stillsands South rebel outpost]
+      Go to Workbench for Carja's Bane
+    . {Workbench} Increase stats: 600 shards, 5 dreadwing metal fang, 2
+      dreadwing primary nerve, 1 luminous brainstem, 2 tideripper circulator
+      [Carja's Bane]
 --- 5 equal options:
       ['side-quest/the-deluge_post_0', 'weapon/spinthorn-spike-thrower_post_0',
        'weapon/spinthorn-spike-thrower_post_1',
@@ -1292,24 +1188,20 @@
     . {Workbench} Unlock coil, increase stats, +40% damage over time, +25%
       knockdown: 250 shards, 2 medium machine core, 3 greenshine fragment, 1
       greenshine cluster [Spinthorn Spike Thrower]
---- 13 equal options:
-      ['side-quest/boom-or-bust_0', 'side-quest/lofty-ambitions_0',
-       'cauldron/iota', 'side-quest/the-wound-in-the-sand_2',
-       'errand/call-and-response', 'melee-pit/the-bulwark',
-       'side-quest/a-soldiers-march', 'weapon/icefire-blastsling',
-       'hunting-ground/the-raintrace', 'errand/burden-of-command_0',
-       'side-quest/in-the-fog_2', 'errand/the-music-in-metal_1',
-       'weapon/vindicator-spike-thrower_4']
-      Go to Hidden Ember for Boom or Bust
-    . {Hidden Ember} Kill the machines, and continue on [Boom or Bust]
-      Go to Hidden Ember for Lofty Ambitions
-    . {Hidden Ember} Speak to Morlund again, go for a flight in the balloon
-      [Lofty Ambitions]
+--- 10 equal options:
+      ['rebel-camp/first-forge_1', 'cauldron/iota',
+       'side-quest/the-wound-in-the-sand_0', 'errand/call-and-response',
+       'melee-pit/the-bulwark', 'side-quest/a-soldiers-march',
+       'weapon/icefire-blastsling', 'hunting-ground/the-raintrace',
+       'weapon/boomers-shredder-gauntlet_0', 'weapon/carjas-bane_1']
+      Go to First Forge for First Forge
+    . {First Forge} Kill Asera [First Forge]
       Go to Salt Bite for Cauldron Iota
     . {Salt Bite} Approach the cauldron, then find the crevice to get in
       [Cauldron Iota]
       Go to Scalding Spear for The Wound in the Sand
-    . {Scalding Spear} Restore the pipe network [The Wound in the Sand]
+    . {Scalding Spear} Lead Yarra along the pipes to the pumping station [The
+      Wound in the Sand]
       Go to The Bulwark for Call and Response
     . {The Bulwark} Talk to Gerrah, learn of the squad [Call and Response]
       Go to The Bulwark for The Bulwark melee pit
@@ -1323,70 +1215,53 @@
       Go to The Raintrace for The Raintrace Hunting Ground
     . {The Raintrace} Purchase the Glowblast Sharpshot bow [The Raintrace
       Hunting Ground]
-      Go to The Shining Wastes for Burden of Command
-    . {The Shining Wastes} Find the child, kill the Thunderjaw and Stormbird
-      [Burden of Command]
-      Go to Tide's Reach for In the Fog
-    . {Tide's Reach} Follow Garokkah, killing the Stalkers [In the Fog]
-      Go to Whitewatch Peaks for The Music in Metal
-    . {Whitewatch Peaks} Follow Jaxx, kill the machines, then talk to Jaxx again
-      [The Music in Metal]
-      Go to Workbench for Vindicator Spike Thrower
-    . {Workbench} Unlock 3rd coil, increase stats, +40% critical hit: 600
-      shards, 3 apex clamberjaw heart, 1 luminous brainstem, 1 apex frostclaw
-      heart, 1 slitherfang primary nerve [Vindicator Spike Thrower]
-  Go to The Base
-. {The Base} Speak to Erend about Asera (get damage coil) [First Forge]
---- 9 equal options:
-      ['side-quest/boom-or-bust_1', 'side-quest/lofty-ambitions_1',
-       'side-quest/a-soldiers-march_0', 'cauldron/iota_0',
-       'errand/call-and-response_0', 'hunting-ground/the-raintrace_0',
-       'side-quest/in-the-fog_3', 'errand/the-music-in-metal_2',
+      Go to Workbench for Boomer's Shredder Gauntlet
+    . {Workbench} Increase stats, second coil, +40% range damage: 250 shards, 6
+      braided wire, 3 medium machine core, 6 shellsnapper shell bolt, 1 snapmaw
+      primary nerve [Boomer's Shredder Gauntlet]
+      Go to Workbench for Carja's Bane
+    . {Workbench} Unlock 4th coil, 25% agility, +25% corroding, increase stats:
+      800 shards, 2 luminous brainstem, 2 stormbird primary nerve, 3 tideripper
+      primary nerve, 2 tideripper tail fin [Carja's Bane]
+--- 7 equal options:
+      ['side-quest/a-soldiers-march_0', 'cauldron/iota_0',
+       'side-quest/the-wound-in-the-sand_1', 'errand/call-and-response_0',
+       'hunting-ground/the-raintrace_0', 'weapon/carjas-bane_2',
        'weapon/icefire-blastsling_0']
-      Go to Hidden Ember for Boom or Bust
-    . {Hidden Ember} Rescue Boomer from the machines [Boom or Bust]
-      Go to Hidden Ember for Lofty Ambitions
-    . {Hidden Ember} Kill the machines, then the Stormbird [Lofty Ambitions]
       Go to March of the Ten for A Soldier's March
     . {March of the Ten} Speak to Wekatta [A Soldier's March]
       Go to Salt Bite for Cauldron Iota
     . {Salt Bite} Advance through the cauldron to the core, killing the machines
       [Cauldron Iota]
+      Go to Scalding Spear for The Wound in the Sand
+    . {Scalding Spear} Kill the machines [The Wound in the Sand]
       Go to The Bulwark for Call and Response
     . {The Bulwark} Go to the watchtower, go check on Ezekko, kill the
       Skydrifters [Call and Response]
       Go to The Raintrace for The Raintrace Hunting Ground
     . {The Raintrace} Complete the Shock and Remove Trial [The Raintrace Hunting
       Ground]
-      Go to Tide's Reach for In the Fog
-    . {Tide's Reach} Scan the memorial, retrieve the missing piece from the
-      Clamberjaws [In the Fog]
-      Go to Whitewatch Peaks for The Music in Metal
-    . {Whitewatch Peaks} Return to Plainsong and give Korreh the longleg throat
-      [The Music in Metal]
+      Go to Workbench for Carja's Bane
+    . {Workbench} +10% knockdown, increase stats: 1000 shards, 1 apex frostclaw
+      heart, 3 apex ravager heart, 3 luminous brainstem, 3 thunderjaw tail
+      [Carja's Bane]
       Go to Workbench for Icefire Blastsling
     . {Workbench} Draw speed +25%, increase stats: 75 shards, 2 braided wire, 2
       small machine core [Icefire Blastsling]
-  Go to Scalding Spear
-. {Scalding Spear} Speak to Rakkar by the Wound, then head up to see Yarra and
-  Drakka arguing [The Wound in the Sand]
---- 10 equal options:
-      ['side-quest/the-gate-of-the-vanquished', 'side-quest/boom-or-bust_2',
-       'side-quest/a-soldiers-march_1', 'cauldron/iota_1',
-       'errand/call-and-response_1', 'errand/the-enduring',
-       'hunting-ground/the-raintrace_1', 'side-quest/in-the-fog_4',
-       'weapon/icefire-blastsling_1', 'weapon/the-sun-scourge_0']
-      Go to Gemini for The Gate of the Vanquished
-    . {Gemini} Listen to the arguments from both sides [The Gate of the
-      Vanquished]
-      Go to Hidden Ember for Boom or Bust
-    . {Hidden Ember} Kill the Shellsnapper with Boomer's new shredder gauntlet
-      [Boom or Bust]
+  Go to The Base
+. {The Base} Speak to Erend about Asera (get damage coil) [First Forge]
+--- 8 equal options:
+      ['side-quest/a-soldiers-march_1', 'cauldron/iota_1',
+       'side-quest/the-wound-in-the-sand_2', 'errand/call-and-response_1',
+       'errand/the-enduring', 'hunting-ground/the-raintrace_1',
+       'weapon/carjas-bane_3', 'weapon/icefire-blastsling_1']
       Go to March of the Ten for A Soldier's March
     . {March of the Ten} Start the climb, rescue Rokko from the Stalker [A
       Soldier's March]
       Go to Salt Bite for Cauldron Iota
     . {Salt Bite} Repair and override the Tallneck to exit [Cauldron Iota]
+      Go to Scalding Spear for The Wound in the Sand
+    . {Scalding Spear} Restore the pipe network [The Wound in the Sand]
       Go to The Bulwark for Call and Response
     . {The Bulwark} Return to the watchtower, kill the Glinthawks [Call and
       Response]
@@ -1396,46 +1271,48 @@
       Go to The Raintrace for The Raintrace Hunting Ground
     . {The Raintrace} Complete the Mounted Combat Trial [The Raintrace Hunting
       Ground]
-      Go to Tide's Reach for In the Fog
-    . {Tide's Reach} Return to Tide's Reach, speak to Fenirra again [In the Fog]
+      Go to Workbench for Carja's Bane
+    . {Workbench} +25% knockdown, +15% melee followup, increase stats: 1200
+      shards, 1 apex thunderjaw heart, 2 fireclaw sac webbing, 4 luminous
+      brainstem, 2 thunderjaw circulator [Carja's Bane]
       Go to Workbench for Icefire Blastsling
     . {Workbench} Overdraw +15%, increase stats: 112 shards, 1 leaplasher spark
       coil, 2 braided wire, 1 skydrifter razor tail [Icefire Blastsling]
-      Go to Workbench for The Sun Scourge
-    . {Workbench} Overdraw +15%, reload +10%, increase stats: 600 shards, 3 apex
-      elemental clawstrider heart, 2 dreadwing primary nerve, 1 luminous
-      brainstem, 2 tideripper circulator [The Sun Scourge]
---- 5 equal options:
-      ['side-quest/the-gate-of-the-vanquished_0',
-       'side-quest/a-soldiers-march_2', 'hunting-ground/the-raintrace_2',
-       'weapon/icefire-blastsling_2', 'weapon/the-sun-scourge_1']
-      Go to Gemini for The Gate of the Vanquished
-    . {Gemini} Fight Drakka's men [The Gate of the Vanquished]
+--- 6 equal options:
+      ['side-quest/a-soldiers-march_2', 'hunting-ground/the-raintrace_2',
+       'pouch/shredder-satchel_0', 'weapon/carjas-bane_4',
+       'weapon/icefire-blastsling_2', 'weapon/the-sun-scourge_0']
       Go to March of the Ten for A Soldier's March
     . {March of the Ten} Continue, rescue Penttoh from machines [A Soldier's
       March]
       Go to The Raintrace for The Raintrace Hunting Ground
     . {The Raintrace} Complete the Heavy Weapons Trial [The Raintrace Hunting
       Ground]
+      Go to Workbench for Shredder Satchel
+    . {Workbench} Increase carry capacity: 50 shards, 2 pelican feathers
+      [Shredder Satchel]
+      Go to Workbench for Carja's Bane
+    . {Workbench} Unlock 5th coil, +40% melee followup, increase stats: 1500
+      shards, 2 apex fireclaw heart, 1 apex slaughterspine heart, 5 luminous
+      brainstem, 2 slaughterspine circulator [Carja's Bane]
       Go to Workbench for Icefire Blastsling
     . {Workbench} Increase stats: 150 shards, 1 leaplasher circulator, 3 braided
       wire, 2 medium machine core [Icefire Blastsling]
       Go to Workbench for The Sun Scourge
-    . {Workbench} Unlock fourth coil, agility +25%, increase stats: 800 shards,
-      2 luminous brainstem, 2 stormbird primary nerve, 2 tideripper primary
-      nerve, 3 tideripper tail fin [The Sun Scourge]
---- 2 equal options:
-      ['side-quest/boom-or-bust_post_0', 'side-quest/boom-or-bust_post_1']
-      Go to Chainscrape
-    . {Chainscrape} Scan the datapoint at Delah and Boomer's old workshop [Boom
-      or Bust]
-      Go to Hidden Ember
-    . {Hidden Ember} Speak to Delah and Boomer again [Boom or Bust]
---- 8 equal options:
-      ['side-quest/a-soldiers-march_3', 'override/bellowback',
-       'override/ravager', 'override/rollerback', 'override/skydrifter',
-       'override/snapmaw', 'weapon/icefire-blastsling_3',
-       'weapon/the-sun-scourge_2']
+    . {Workbench} Overdraw +15%, reload +10%, increase stats: 600 shards, 3 apex
+      elemental clawstrider heart, 2 dreadwing primary nerve, 1 luminous
+      brainstem, 2 tideripper circulator [The Sun Scourge]
+  Go to Scalding Spear
+. {Scalding Spear} Speak to Rakkar by the Wound, then head up to see Yarra and
+  Drakka arguing [The Wound in the Sand]
+--- 9 equal options:
+      ['side-quest/the-gate-of-the-vanquished', 'side-quest/a-soldiers-march_3',
+       'override/bellowback', 'override/ravager', 'override/rollerback',
+       'override/skydrifter', 'override/snapmaw', 'weapon/icefire-blastsling_3',
+       'weapon/the-sun-scourge_1']
+      Go to Gemini for The Gate of the Vanquished
+    . {Gemini} Listen to the arguments from both sides [The Gate of the
+      Vanquished]
       Go to March of the Ten for A Soldier's March
     . {March of the Ten} Kill the Frostclaw [A Soldier's March]
       Go to The Base for Bellowback Override
@@ -1458,180 +1335,329 @@
       shards, 1 bellowback sac webbing, 6 braided wire, 3 medium machine core, 1
       leaplasher primary nerve [Icefire Blastsling]
       Go to Workbench for The Sun Scourge
-    . {Workbench} Brittle +4%, increase stats: 1000 shards, 3 apex behemoth
-      heart, 1 apex stormbird heart, 3 luminous brainstem, 10 tremortusk tusk
-      [The Sun Scourge]
-. {Scalding Spear} Speak to Yarra again [The Gate of the Vanquished]
+    . {Workbench} Unlock fourth coil, agility +25%, increase stats: 800 shards,
+      2 luminous brainstem, 2 stormbird primary nerve, 2 tideripper primary
+      nerve, 3 tideripper tail fin [The Sun Scourge]
 --- 4 equal options:
-      ['side-quest/a-soldiers-march_4', 'weapon/boomers-shredder-gauntlet_0',
-       'weapon/sunhawk-shredder-gauntlet_0', 'weapon/the-sun-scourge_3']
+      ['side-quest/the-gate-of-the-vanquished_0',
+       'side-quest/a-soldiers-march_4', 'hunting-ground/sheerside-mountains',
+       'weapon/the-sun-scourge_2']
+      Go to Gemini for The Gate of the Vanquished
+    . {Gemini} Fight Drakka's men [The Gate of the Vanquished]
       Go to March of the Ten for A Soldier's March
     . {March of the Ten} Glide back down, speak to Wekatta again [A Soldier's
       March]
-      Go to Workbench for Boomer's Shredder Gauntlet
-    . {Workbench} Increase stats, second coil, +40% range damage: 250 shards, 6
-      braided wire, 3 medium machine core, 6 shellsnapper shell bolt, 1 snapmaw
-      primary nerve [Boomer's Shredder Gauntlet]
-      Go to Workbench for Sunhawk Shredder Gauntlet
-    . {Workbench} Increase stats: 127 shards, 4 braided wire, 4 small machine
-      core, 1 medium machine core [Sunhawk Shredder Gauntlet]
+      Go to Sheerside Mountains for Sheerside Mountains Hunting Ground
+    . {Sheerside Mountains} Speak to Lokattok [Sheerside Mountains Hunting
+      Ground]
+      Go to Workbench for The Sun Scourge
+    . {Workbench} Brittle +4%, increase stats: 1000 shards, 3 apex behemoth
+      heart, 1 apex stormbird heart, 3 luminous brainstem, 10 tremortusk tusk
+      [The Sun Scourge]
+--- 3 equal options:
+      ['story/the-kulrut', 'hunting-ground/sheerside-mountains_0',
+       'weapon/the-sun-scourge_3']
+      Go to Memorial Grove for The Kulrut
+    * {Memorial Grove} Talk to Hekarro and Tekotteh [The Kulrut]
+      Go to Sheerside Mountains for Sheerside Mountains Hunting Ground
+    . {Sheerside Mountains} Complete the Frost Trial [Sheerside Mountains
+      Hunting Ground]
       Go to Workbench for The Sun Scourge
     . {Workbench} Reload +25%, aerial +15%, increase stats: 1200 shards, 1 apex
       tremortusk heart, 2 fireclaw sac webbing, 4 luminous brainstem, 2
       tremortusk circulator [The Sun Scourge]
---- 4 equal options:
-      ['story/the-kulrut', 'weapon/firestorm-warrior-bow_0',
-       'weapon/sunhawk-shredder-gauntlet_1', 'weapon/the-sun-scourge_4']
+. {Scalding Spear} Speak to Yarra again [The Gate of the Vanquished]
+--- 13 equal options:
+      ['story/the-kulrut_0', 'hunting-ground/sheerside-mountains_1',
+       'pouch/bolt-clip-satchel_3', 'pouch/bomb-satchel_3',
+       'pouch/hunter-arrow-quiver_3', 'pouch/precision-arrow-quiver_2',
+       'pouch/resource-pouch_2', 'pouch/rope-pouch_1',
+       'pouch/shredder-satchel_1', 'pouch/spike-holster_2',
+       'pouch/trap-pouch_2', 'pouch/tripwire-pouch_3',
+       'weapon/the-sun-scourge_4']
       Go to Memorial Grove for The Kulrut
-    * {Memorial Grove} Talk to Hekarro and Tekotteh [The Kulrut]
-      Go to Workbench for Firestorm Warrior Bow
-    . {Workbench} Increase stats: 127 shards, 4 braided wire, 1 medium machine
-      core, 4 small machine core [Firestorm Warrior Bow]
-      Go to Workbench for Sunhawk Shredder Gauntlet
-    . {Workbench} Unlock 2nd coil, increase stats: 219 shards, 6 braided wire, 2
-      rockbreaker mining claw, 1 stalker stealth generator [Sunhawk Shredder
-      Gauntlet]
+    * {Memorial Grove} Follow Dekka, battle machines [The Kulrut]
+      Go to Sheerside Mountains for Sheerside Mountains Hunting Ground
+    . {Sheerside Mountains} Complete the Shredder Catch Trial [Sheerside
+      Mountains Hunting Ground]
+      Go to Workbench for Bolt Clip Satchel
+    . {Workbench} Increase carry capacity: 300 shards, 1 iridescent lobster
+      shell, 1 iridescent crab shell [Bolt Clip Satchel]
+      Go to Workbench for Bomb Satchel
+    . {Workbench} Increase carry capacity: 200 shards, 3 lobster shell, 1
+      iridescent crab shell, 1 peccary bone [Bomb Satchel]
+      Go to Workbench for Hunter Arrow Quiver
+    . {Workbench} Increase carry capacity: 200 shards, 1 pelican wishbone, 2
+      peccary hide, 1 iridescent lobster shell [Hunter Arrow Quiver]
+      Go to Workbench for Precision Arrow Quiver
+    . {Workbench} Increase carry capacity: 200 shards, 3 moonfish skin, 1 owl
+      wishbone [Precision Arrow Quiver]
+      Go to Workbench for Resource Pouch
+    . {Workbench} Increase carry capacity: 100 shards, 2 bass skin, 1 iridescent
+      crab shell [Resource Pouch]
+      Go to Workbench for Rope Pouch
+    . {Workbench} Increase carry capacity: 100 shards, 1 iridescent crab shell,
+      1 duck feather [Rope Pouch]
+      Go to Workbench for Shredder Satchel
+    . {Workbench} Increase carry capacity: 100 shards, 1 iridescent crab shell,
+      1 duck feather [Shredder Satchel]
+      Go to Workbench for Spike Holster
+    . {Workbench} Increase carry capacity: 100 shards, 3 owl feather, 1 duck
+      wishbone [Spike Holster]
+      Go to Workbench for Trap Pouch
+    . {Workbench} Increase carry capacity: 100 shards, 1 duck wishbone, 2
+      bighorn sheep hide [Trap Pouch]
+      Go to Workbench for Tripwire Pouch
+    . {Workbench} Increase carry capacity: 200 shards, 1 crab shell, 1
+      iridescent lobster shell, 1 gull wishbone [Tripwire Pouch]
       Go to Workbench for The Sun Scourge
     . {Workbench} Unlock fifth coil, aerial +40%, increase stats: 600 shards, 1
       apex slaughterspine heart, 2 apex tideripper heart, 5 luminous brainstem,
       2 slaughterspine circulator [The Sun Scourge]
---- 4 equal options:
-      ['story/the-kulrut_0', 'hunting-ground/sheerside-mountains',
-       'weapon/firestorm-warrior-bow_1', 'weapon/sunhawk-shredder-gauntlet_2']
-      Go to Memorial Grove for The Kulrut
-    * {Memorial Grove} Follow Dekka, battle machines [The Kulrut]
-      Go to Sheerside Mountains for Sheerside Mountains Hunting Ground
-    . {Sheerside Mountains} Speak to Lokattok [Sheerside Mountains Hunting
-      Ground]
-      Go to Workbench for Firestorm Warrior Bow
-    . {Workbench} Melee followup +15%, increase stats: 212 shards, 1 bellowback
-      sac webbing, 6 braided wire, 2 shellwalker lightning gun [Firestorm
-      Warrior Bow]
-      Go to Workbench for Sunhawk Shredder Gauntlet
-    . {Workbench} Increase stats, +10% component tear: 300 shards, 10 braided
-      wire, 3 behemoth force loader, 1 large machine core, 1 stalker circulator
-      [Sunhawk Shredder Gauntlet]
---- 5 equal options:
-      ['story/the-kulrut_1', 'hunting-ground/sheerside-mountains_0',
-       'pouch/shredder-satchel_0', 'weapon/firestorm-warrior-bow_2',
-       'weapon/sunhawk-shredder-gauntlet_3']
+--- 7 equal options:
+      ['story/the-kulrut_1', 'hunting-ground/sheerside-mountains_2',
+       'pouch/precision-arrow-quiver_3', 'pouch/rope-pouch_2',
+       'pouch/shredder-satchel_2', 'pouch/spike-holster_3',
+       'weapon/firestorm-warrior-bow_0']
       Go to Memorial Grove for The Kulrut
     * {Memorial Grove} Kill the Slitherfang, luring it away from the ballista so
       it can fire [The Kulrut]
       Go to Sheerside Mountains for Sheerside Mountains Hunting Ground
-    . {Sheerside Mountains} Complete the Frost Trial [Sheerside Mountains
+    . {Sheerside Mountains} Complete the Plasma Blast Trial [Sheerside Mountains
       Hunting Ground]
+      Go to Workbench for Precision Arrow Quiver
+    . {Workbench} Increase carry capacity: 300 shards, 3 bass skin, 1 moonfish
+      bone, 1 iridescent lobster shell [Precision Arrow Quiver]
+      Go to Workbench for Rope Pouch
+    . {Workbench} Increase carry capacity: 200 shards, 3 moonfish skin, 1
+      bighorn sheep bone [Rope Pouch]
       Go to Workbench for Shredder Satchel
-    . {Workbench} Increase carry capacity: 50 shards, 2 pelican feathers
-      [Shredder Satchel]
+    . {Workbench} Increase carry capacity: 200 shards, 3 moonfish skin, 1
+      bighorn sheep bone [Shredder Satchel]
+      Go to Workbench for Spike Holster
+    . {Workbench} Increase carry capacity: 200 shards, 1 bass bone, 2 crab
+      shell, 1 peccary bone [Spike Holster]
+      Go to Workbench for Firestorm Warrior Bow
+    . {Workbench} Increase stats: 127 shards, 4 braided wire, 1 medium machine
+      core, 4 small machine core [Firestorm Warrior Bow]
+--- 4 equal options:
+      ['story/the-kulrut_2', 'pouch/rope-pouch_3', 'pouch/shredder-satchel_3',
+       'weapon/firestorm-warrior-bow_1']
+      Go to Memorial Grove for The Kulrut
+    * {Memorial Grove} Kill the rebel forces, drive Regalla away [The Kulrut]
+      Go to Workbench for Rope Pouch
+    . {Workbench} Increase carry capacity: 300 shards, 1 bass bone, 2 peccary
+      hide, 1 iridescent lobster shell [Rope Pouch]
+      Go to Workbench for Shredder Satchel
+    . {Workbench} Increase carry capacity: 300 shards, 1 bass bone, 2 peccary
+      hide, 1 iridescent lobster shell [Shredder Satchel]
+      Go to Workbench for Firestorm Warrior Bow
+    . {Workbench} Melee followup +15%, increase stats: 212 shards, 1 bellowback
+      sac webbing, 6 braided wire, 2 shellwalker lightning gun [Firestorm
+      Warrior Bow]
+--- 2 equal options:
+      ['story/the-kulrut_3', 'weapon/firestorm-warrior-bow_2']
+      Go to Memorial Grove for The Kulrut
+    * {Memorial Grove} Get Aether, rewatch the holograms, talk to Dukkah and
+      Kalla and unlock the arena [The Kulrut]
       Go to Workbench for Firestorm Warrior Bow
     . {Workbench} Second coil, increase stats: 300 shards, 1 bellowback
       circulator, 10 braided wire, 1 large machine core, 3 stalker stealth
       generator [Firestorm Warrior Bow]
-      Go to Workbench for Sunhawk Shredder Gauntlet
-    . {Workbench} Increase stats, +25% agility: 450 shards, 2 stormbird cannon,
-      1 behemoth circulator, 2 large machine core, 1 rockbreaker primary nerve
-      [Sunhawk Shredder Gauntlet]
---- 5 equal options:
-      ['story/the-kulrut_2', 'hunting-ground/sheerside-mountains_1',
-       'pouch/shredder-satchel_1', 'weapon/firestorm-warrior-bow_3',
-       'weapon/sunhawk-shredder-gauntlet_4']
+--- 2 equal options:
+      ['story/the-kulrut_4', 'weapon/firestorm-warrior-bow_3']
       Go to Memorial Grove for The Kulrut
-    * {Memorial Grove} Kill the rebel forces, drive Regalla away [The Kulrut]
-      Go to Sheerside Mountains for Sheerside Mountains Hunting Ground
-    . {Sheerside Mountains} Complete the Shredder Catch Trial [Sheerside
-      Mountains Hunting Ground]
-      Go to Workbench for Shredder Satchel
-    . {Workbench} Increase carry capacity: 100 shards, 1 iridescent crab shell,
-      1 duck feather [Shredder Satchel]
+    * {Memorial Grove} Return Aether to The Base [The Kulrut]
       Go to Workbench for Firestorm Warrior Bow
     . {Workbench} Crit +40%, increase stats: 450 shards, 2 large machine core, 2
       rollerback hammer tail, 1 shellwalker primary nerve, 1 stalker circulator
       [Firestorm Warrior Bow]
-      Go to Workbench for Sunhawk Shredder Gauntlet
-    . {Workbench} Unlock 3rd coil, increase stats, +25% component tear: 600
-      shards, 3 apex snapmaw heart, 1 luminous brainstem, 1 apex slitherfang
-      heart, 1 stormbird primary nerve [Sunhawk Shredder Gauntlet]
---- 4 equal options:
-      ['story/the-kulrut_3', 'hunting-ground/sheerside-mountains_2',
-       'pouch/shredder-satchel_2', 'weapon/firestorm-warrior-bow_4']
-      Go to Memorial Grove for The Kulrut
-    * {Memorial Grove} Get Aether, rewatch the holograms, talk to Dukkah and
-      Kalla and unlock the arena [The Kulrut]
-      Go to Sheerside Mountains for Sheerside Mountains Hunting Ground
-    . {Sheerside Mountains} Complete the Plasma Blast Trial [Sheerside Mountains
-      Hunting Ground]
-      Go to Workbench for Shredder Satchel
-    . {Workbench} Increase carry capacity: 200 shards, 3 moonfish skin, 1
-      bighorn sheep bone [Shredder Satchel]
-      Go to Workbench for Firestorm Warrior Bow
-    . {Workbench} Melee followup +40%, third coil, increase stats: 600 shards, 1
-      apex behemoth heart, 2 elemental clawstrider sac webbing, 1 luminous
-      brainstem, 1 rollerback primary nerve [Firestorm Warrior Bow]
---- 2 equal options:
-      ['story/the-kulrut_4', 'pouch/shredder-satchel_3']
-      Go to Memorial Grove for The Kulrut
-    * {Memorial Grove} Return Aether to The Base [The Kulrut]
-      Go to Workbench for Shredder Satchel
-    . {Workbench} Increase carry capacity: 300 shards, 1 bass bone, 2 peccary
-      hide, 1 iridescent lobster shell [Shredder Satchel]
---- 3 equal options:
-      ['errand/opening-the-arena', 'story/cradle-of-echoes',
-       'side-quest/blood-for-blood']
+  Go to Workbench for Firestorm Warrior Bow
+. {Workbench} Melee followup +40%, third coil, increase stats: 600 shards, 1
+  apex behemoth heart, 2 elemental clawstrider sac webbing, 1 luminous
+  brainstem, 1 rollerback primary nerve [Firestorm Warrior Bow]
+--- 5 equal options:
+      ['errand/opening-the-arena', 'story/seeds-of-the-past',
+       'salvage/the-greenswell', 'side-quest/blood-for-blood',
+       'salvage/the-raintrace']
       Go to Memorial Grove for Opening the Arena
     . {Memorial Grove} Talk to Dukkah and Kalla [Opening the Arena]
-      Go to The Base for Cradle of Echoes
-    * {The Base} Watch the fight, then explore the area [Cradle of Echoes]
+      Go to The Greenhouse for Seeds of the Past
+    * {The Greenhouse} Approach the Greenhouse, kill the Quen marines [Seeds of
+      the Past]
+      Go to The Greenswell for The Greenswell salvage
+    . {The Greenswell} Meet Handa, get salvage contracts [The Greenswell
+      salvage]
       Go to The Memorial Grove for Blood for Blood
     . {The Memorial Grove} Speak to Dekka, follow her to the rebel outpost
       [Blood for Blood]
+      Go to The Raintrace for The Raintrace
+    . {The Raintrace} Defend the salvagers from the Stalkers (getting 3 mine
+      launchers will complete one of the contracts immediately) [The Raintrace]
 --- 3 equal options:
-      ['errand/opening-the-arena_0', 'story/cradle-of-echoes_0',
+      ['errand/opening-the-arena_0', 'story/seeds-of-the-past_0',
        'side-quest/blood-for-blood_0']
       Go to Memorial Grove for Opening the Arena
     . {Memorial Grove} Get two Bristleback tusks [Opening the Arena]
-      Go to The Base for Cradle of Echoes
-    * {The Base} Go into the research lab, get Beta out of the capsule [Cradle
-      of Echoes]
+      Go to The Greenhouse for Seeds of the Past
+    * {The Greenhouse} Explore the Greenhouse, meet Alva [Seeds of the Past]
       Go to The Memorial Grove for Blood for Blood
     . {The Memorial Grove} Kill the rebels, loot everything [Blood for Blood]
---- 3 equal options:
-      ['errand/opening-the-arena_1', 'story/cradle-of-echoes_1',
-       'side-quest/blood-for-blood_1']
+--- 9 equal options:
+      ['errand/opening-the-arena_1', 'story/seeds-of-the-past_1',
+       'salvage/ancient-relics', 'salvage/plowhorns-and-plants',
+       'salvage/property-retrieval', 'salvage/ravager-cannon',
+       'salvage/speedy-lancehorns', 'side-quest/blood-for-blood_1',
+       'salvage/mine-launchers']
       Go to Memorial Grove for Opening the Arena
     . {Memorial Grove} Get a Rollerback sinew [Opening the Arena]
-      Go to The Base for Cradle of Echoes
-    * {The Base} Defeat the Specter in the lab [Cradle of Echoes]
+      Go to The Greenhouse for Seeds of the Past
+    * {The Greenhouse} Continue exploring the Greenhouse, kill the Dreadwing,
+      equip the Vine Cutter, get Demeter [Seeds of the Past]
+      Go to The Greenswell for Ancient Relics
+    . {The Greenswell} Retrieve the relics to the north [Ancient Relics]
+      Go to The Greenswell for Plowhorns and Plants
+    . {The Greenswell} Collect plants from the plowhorn trails, then kill the
+      plowhorns [Plowhorns and Plants]
+      Go to The Greenswell for Missing Gear
+    . {The Greenswell} Investigate the shelter, get scrolls from the corpse near
+      the Snapmaw [Missing Gear]
+      Go to The Greenswell for Ravager Cannon
+    . {The Greenswell} Collect a ravager's cannon [Ravager Cannon]
+      Go to The Greenswell for Speedy Lancehorns
+    . {The Greenswell} Take down the lancehorns while mounted [Speedy
+      Lancehorns]
       Go to The Memorial Grove for Blood for Blood
     . {The Memorial Grove} Find where Nakalla was held, free her, agree to meet
       at Fall's Edge [Blood for Blood]
---- 2 equal options:
-      ['errand/opening-the-arena_2', 'story/cradle-of-echoes_2']
+      Go to The Raintrace for Mine Launchers
+    . {The Raintrace} Collect three Stalker mine launchers [Mine Launchers]
+--- 4 equal options:
+      ['errand/opening-the-arena_2', 'story/seeds-of-the-past_2',
+       'salvage/ancient-relics_0', 'salvage/property-retrieval_0']
       Go to Memorial Grove for Opening the Arena
     . {Memorial Grove} Return to the grove [Opening the Arena]
-      Go to The Base for Cradle of Echoes
-    * {The Base} Defeat the Specter outside (get the cannon from the dead
-      Ravager) [Cradle of Echoes]
+      Go to The Greenhouse for Seeds of the Past
+    * {The Greenhouse} Return Demeter to the Base [Seeds of the Past]
+      Go to The Greenswell for Ancient Relics
+    . {The Greenswell} Retrieve the relics to the south [Ancient Relics]
+      Go to The Greenswell for Missing Gear
+    . {The Greenswell} Travel to the ruins, get the Relic [Missing Gear]
 --- 2 equal options:
-      ['side-quest/blood-for-blood-falls-edge', 'story/cradle-of-echoes_3']
+      ['side-quest/blood-for-blood-falls-edge', 'salvage/colleague-and-key']
       Go to Fall's Edge for Blood for Blood (Fall's Edge)
     . {Fall's Edge} Speak to Dekka [Blood for Blood (Fall's Edge)]
-      Go to The Base for Cradle of Echoes
-    * {The Base} Talk to Beta [Cradle of Echoes]
-  Go to Fall's Edge for Blood for Blood (Fall's Edge)
-. {Fall's Edge} Explore the area, speak to Kavvoh [Blood for Blood (Fall's
-  Edge)]
+      Go to The Raintrace for Colleague and Key
+    . {The Raintrace} Follow Warend's trail, get the mine launcher from the
+      Thunderjaw, kill the Clamberjaws, get the key [Colleague and Key]
+--- 2 equal options:
+      ['side-quest/a-tribe-apart_post_0', 'salvage/the-greenswell_post_0']
+      Go to Plainsong
+    . {Plainsong} Speak to Jaxx and Korreh again [A Tribe Apart]
+      Go to The Greenswell
+    . {The Greenswell} Return to Handa, defend camp against the scroungers and
+      spikesnouts [The Greenswell salvage]
 --- 6 equal options:
-      ['side-quest/need-to-know', 'gauntlet-run/dry-yearn',
-       'side-quest/blood-for-blood-falls-edge_1', 'side-quest/the-second-verse',
-       'story/completed-subfunctions', 'side-quest/the-valley-of-the-fallen']
-      Go to Camp Nowhere for Need to Know
-    . {Camp Nowhere} Talk to Talanah [Need to Know]
-      Go to Dry Yearn for Dry Yearn Gauntlet Run
-    . {Dry Yearn} Win the race [Dry Yearn Gauntlet Run]
+      ['side-quest/blood-for-blood-falls-edge_0', 'errand/the-music-in-metal',
+       'rebel-outpost/runners-wild', 'story/cradle-of-echoes',
+       'salvage/colleague-and-key_0', 'side-quest/in-the-fog']
+      Go to Fall's Edge for Blood for Blood (Fall's Edge)
+    . {Fall's Edge} Explore the area, speak to Kavvoh [Blood for Blood (Fall's
+      Edge)]
+      Go to Plainsong for The Music in Metal
+    . {Plainsong} Speak to Jaxx and Korreh [The Music in Metal]
+      Go to Runner's Wild for Runner's Wild rebel outpost
+    . {Runner's Wild} Take out the rebels [Runner's Wild rebel outpost]
+      Go to The Base for Cradle of Echoes
+    * {The Base} Watch the fight, then explore the area [Cradle of Echoes]
+      Go to The Raintrace for Colleague and Key
+    . {The Raintrace} Retrun to Danur, defeat the rebels, give him the key
+      [Colleague and Key]
+      Go to Tide's Reach for In the Fog
+    . {Tide's Reach} Speak to Fenirra [In the Fog]
+--- 4 equal options:
+      ['side-quest/blood-for-blood-falls-edge_1', 'errand/the-music-in-metal_0',
+       'story/cradle-of-echoes_0', 'side-quest/in-the-fog_0']
       Go to Fall's Edge for Blood for Blood (Fall's Edge)
     . {Fall's Edge} Kill the rebels and their Behemoth [Blood for Blood (Fall's
       Edge)]
+      Go to Plainsong for The Music in Metal
+    . {Plainsong} Meet Jaxx, kill the machines [The Music in Metal]
+      Go to The Base for Cradle of Echoes
+    * {The Base} Go into the research lab, get Beta out of the capsule [Cradle
+      of Echoes]
+      Go to Tide's Reach for In the Fog
+    . {Tide's Reach} Travel to the camp, investigate with your Focus, follow the
+      trail [In the Fog]
+--- 7 equal options:
+      ['side-quest/blood-for-blood-falls-edge_2', 'story/cradle-of-echoes_1',
+       'salvage/reinforced-components', 'salvage/underwater-salvage',
+       'side-quest/in-the-fog_1', 'errand/the-music-in-metal_1',
+       'weapon/puncturing-boltblaster_0']
+      Go to Fall's Edge for Blood for Blood (Fall's Edge)
+    . {Fall's Edge} Speak to Arokkeh, return to Fall's Edge and speak with Dekka
+      again [Blood for Blood (Fall's Edge)]
+      Go to The Base for Cradle of Echoes
+    * {The Base} Defeat the Specter in the lab [Cradle of Echoes]
+      Go to The Raintrace for Reinforced Components
+    . {The Raintrace} Get the spikesnouts to reinforce the behemoth, then kill
+      it (nearby ravager carcass still has its cannon) [Reinforced Components]
+      Go to The Raintrace for Underwater Salvage
+    . {The Raintrace} Collet the underwater salvage [Underwater Salvage]
+      Go to Tide's Reach for In the Fog
+    . {Tide's Reach} Kill the Clawstrider [In the Fog]
+      Go to Whitewatch Peaks for The Music in Metal
+    . {Whitewatch Peaks} Follow Jaxx, kill the machines, then talk to Jaxx again
+      [The Music in Metal]
+      Go to Workbench for Puncturing Boltblaster
+    . {Workbench} Increase stats: 75 shards, 2 braided wire, 2 small machine
+      core [Puncturing Boltblaster]
+--- 4 equal options:
+      ['story/cradle-of-echoes_2', 'side-quest/in-the-fog_2',
+       'errand/the-music-in-metal_2', 'weapon/puncturing-boltblaster_1']
+      Go to The Base for Cradle of Echoes
+    * {The Base} Defeat the Specter outside (get the cannon from the dead
+      Ravager) [Cradle of Echoes]
+      Go to Tide's Reach for In the Fog
+    . {Tide's Reach} Follow Garokkah, killing the Stalkers [In the Fog]
+      Go to Whitewatch Peaks for The Music in Metal
+    . {Whitewatch Peaks} Return to Plainsong and give Korreh the longleg throat
+      [The Music in Metal]
+      Go to Workbench for Puncturing Boltblaster
+    . {Workbench} Overdraw +30%, increase stats: 112 shards, 2 braided wire, 1
+      spikesnout sac webbing, 1 stalker stealth generator [Puncturing
+      Boltblaster]
+--- 2 equal options:
+      ['side-quest/blood-for-blood-falls-edge_post_0', 'salvage/the-raintrace_post_0']
+      Go to Hunter
+    . {Hunter} Can sell the Perimeter Tripcaster [Blood for Blood (Fall's Edge)]
+      Go to The Raintrace
+    . {The Raintrace} Return to Danur to complete the salvage [The Raintrace]
+--- 3 equal options:
+      ['story/cradle-of-echoes_3', 'side-quest/in-the-fog_3',
+       'weapon/puncturing-boltblaster_2']
+      Go to The Base for Cradle of Echoes
+    * {The Base} Talk to Beta [Cradle of Echoes]
+      Go to Tide's Reach for In the Fog
+    . {Tide's Reach} Scan the memorial, retrieve the missing piece from the
+      Clamberjaws [In the Fog]
+      Go to Workbench for Puncturing Boltblaster
+    . {Workbench} Increase stats: 150 shards, 3 braided wire, 2 medium machine
+      core, 1 stalker circulator [Puncturing Boltblaster]
+--- 2 equal options:
+      ['side-quest/in-the-fog_4', 'weapon/puncturing-boltblaster_3']
+      Go to Tide's Reach for In the Fog
+    . {Tide's Reach} Return to Tide's Reach, speak to Fenirra again [In the Fog]
+      Go to Workbench for Puncturing Boltblaster
+    . {Workbench} Unlock 2nd coil, knockdown +40%, overdraw +55%, increase
+      stats: 250 shards, 6 braided wire, 1 elemental clawstrider sac webbing, 3
+      medium machine core, 1 stalker primary nerve [Puncturing Boltblaster]
+--- 5 equal options:
+      ['side-quest/need-to-know', 'side-quest/the-second-verse',
+       'story/completed-subfunctions', 'side-quest/the-valley-of-the-fallen',
+       'weapon/vindicator-spike-thrower_0']
+      Go to Camp Nowhere for Need to Know
+    . {Camp Nowhere} Talk to Talanah [Need to Know]
       Go to The Base for The Second Verse
     . {The Base} Talk to Zo [The Second Verse]
       Go to The Base for Completed subfunctions
@@ -1640,13 +1666,12 @@
 
       Go to The Memorial Grove for The Valley of the Fallen
     . {The Memorial Grove} Speak to Nakko [The Valley of the Fallen]
+      Go to Workbench for Vindicator Spike Thrower
+    . {Workbench} +15% overdraw, increase stats: 127 shards, 4 braided wire, 4
+      small machine core, 1 medium machine core [Vindicator Spike Thrower]
 --- 4 equal options:
-      ['side-quest/blood-for-blood-falls-edge_2',
-       'side-quest/the-second-verse_0', 'side-quest/the-valley-of-the-fallen_0',
-       'side-quest/need-to-know_0']
-      Go to Fall's Edge for Blood for Blood (Fall's Edge)
-    . {Fall's Edge} Speak to Arokkeh, return to Fall's Edge and speak with Dekka
-      again [Blood for Blood (Fall's Edge)]
+      ['side-quest/the-second-verse_0', 'side-quest/the-valley-of-the-fallen_0',
+       'side-quest/need-to-know_0', 'weapon/vindicator-spike-thrower_1']
       Go to The Memorial Grove for The Second Verse
     . {The Memorial Grove} Meet Zo near the Memorial Grove [The Second Verse]
       Go to The Memorial Grove for The Valley of the Fallen
@@ -1654,13 +1679,16 @@
       and Kenalla [The Valley of the Fallen]
       Go to Thornmarsh for Need to Know
     . {Thornmarsh} Meet Talanah north of Thornmarsh [Need to Know]
---- 8 equal options:
-      ['gauntlet-run/cliffs-of-the-cry', 'side-quest/what-was-lost',
-       'story/faros-tomb', 'weapon/glowblast-sharpshot-bow',
-       'side-quest/the-second-verse_1', 'side-quest/the-valley-of-the-fallen_1',
-       'side-quest/need-to-know_1', 'side-quest/the-blood-choke']
-      Go to Cliffs of the Cry for Cliffs of the Cry Gauntlet Run
-    . {Cliffs of the Cry} Win the race [Cliffs of the Cry Gauntlet Run]
+      Go to Workbench for Vindicator Spike Thrower
+    . {Workbench} Unlock 2nd coil, increase stats: 212 shards, 6 braided wire, 2
+      elemental clawstrider sac webbing, 1 behemoth force loader [Vindicator
+      Spike Thrower]
+--- 9 equal options:
+      ['side-quest/what-was-lost', 'story/faros-tomb',
+       'weapon/glowblast-sharpshot-bow', 'side-quest/the-second-verse_1',
+       'side-quest/the-valley-of-the-fallen_1', 'side-quest/need-to-know_1',
+       'side-quest/the-blood-choke', 'weapon/sunhawk-shredder-gauntlet_0',
+       'weapon/vindicator-spike-thrower_2']
       Go to The Base for What Was Lost
     . {The Base} Speak to Kotallo, learn about the arm [What Was Lost]
       Go to The Base for Faro's Tomb
@@ -1679,12 +1707,19 @@
     . {Thornmarsh} Rescue Amadis from the Fireclaw [Need to Know]
       Go to Thornmarsh for The Blood Choke
     . {Thornmarsh} Speak to Atekka [The Blood Choke]
-  Go to Hunter
-. {Hunter} Can sell the Perimeter Tripcaster [Blood for Blood (Fall's Edge)]
---- 6 equal options:
+      Go to Workbench for Sunhawk Shredder Gauntlet
+    . {Workbench} Increase stats: 127 shards, 4 braided wire, 4 small machine
+      core, 1 medium machine core [Sunhawk Shredder Gauntlet]
+      Go to Workbench for Vindicator Spike Thrower
+    . {Workbench} Increase stats, +15% critical hit: 300 shards, 10 braided
+      wire, 2 stalker stealth generator, 1 large machine core, 1 elemental
+      clawstrider circulator [Vindicator Spike Thrower]
+--- 8 equal options:
       ['side-quest/what-was-lost_0', 'story/faros-tomb_0',
        'side-quest/the-valley-of-the-fallen_2', 'side-quest/need-to-know_2',
-       'side-quest/the-blood-choke_0', 'weapon/glowblast-sharpshot-bow_0']
+       'side-quest/the-blood-choke_0', 'weapon/glowblast-sharpshot-bow_0',
+       'weapon/sunhawk-shredder-gauntlet_1',
+       'weapon/vindicator-spike-thrower_3']
       Go to Ninmah Research Lab for What Was Lost
     . {Ninmah Research Lab} Meet Kotallo, kill the machines, explore the
       research lab [What Was Lost]
@@ -1703,13 +1738,20 @@
       Go to Workbench for Glowblast Sharpshot Bow
     . {Workbench} Increase stats, +25% overdraw: 127 shards, 4 braided wire, 4
       small machine core, 1 greenshine sliver [Glowblast Sharpshot Bow]
---- 7 equal options:
-      ['gauntlet-run/bonewhite-tear', 'story/faros-tomb_1',
-       'side-quest/what-was-lost_1', 'side-quest/the-second-verse-heal',
+      Go to Workbench for Sunhawk Shredder Gauntlet
+    . {Workbench} Unlock 2nd coil, increase stats: 219 shards, 6 braided wire, 2
+      rockbreaker mining claw, 1 stalker stealth generator [Sunhawk Shredder
+      Gauntlet]
+      Go to Workbench for Vindicator Spike Thrower
+    . {Workbench} Increase stats, +40% long range: 450 shards, 4 slitherfang
+      earthgrinder, 1 stalker circulator, 2 large machine core, 1 behemoth
+      primary nerve [Vindicator Spike Thrower]
+--- 8 equal options:
+      ['story/faros-tomb_1', 'side-quest/what-was-lost_1',
+       'side-quest/the-second-verse-heal',
        'side-quest/the-valley-of-the-fallen_3', 'side-quest/the-blood-choke_1',
-       'weapon/glowblast-sharpshot-bow_1']
-      Go to Bonewhite Tear for Bonewhite Tear Gauntlet Run
-    . {Bonewhite Tear} Win the race [Bonewhite Tear Gauntlet Run]
+       'weapon/glowblast-sharpshot-bow_1', 'weapon/sunhawk-shredder-gauntlet_2',
+       'weapon/vindicator-spike-thrower_4']
       Go to Legacy's Landfall for Faro's Tomb
     * {Legacy's Landfall} Collect the Thunderbolt Shredder Gauntlet from the
       superior cache [Faro's Tomb]
@@ -1726,12 +1768,21 @@
       Go to Workbench for Glowblast Sharpshot Bow
     . {Workbench} Unlock 2nd coil, increase stats: 212 shards, 8 braided wire, 1
       greenshine fragment, 1 greenshine cluster [Glowblast Sharpshot Bow]
+      Go to Workbench for Sunhawk Shredder Gauntlet
+    . {Workbench} Increase stats, +10% component tear: 300 shards, 10 braided
+      wire, 3 behemoth force loader, 1 large machine core, 1 stalker circulator
+      [Sunhawk Shredder Gauntlet]
+      Go to Workbench for Vindicator Spike Thrower
+    . {Workbench} Unlock 3rd coil, increase stats, +40% critical hit: 600
+      shards, 3 apex clamberjaw heart, 1 luminous brainstem, 1 apex frostclaw
+      heart, 1 slitherfang primary nerve [Vindicator Spike Thrower]
   Go to Barren Light
 . {Barren Light} Speak to Talanah and Milu again [Need to Know]
---- 5 equal options:
+--- 6 equal options:
       ['side-quest/what-was-lost_2', 'side-quest/the-second-verse-heal_0',
        'side-quest/the-valley-of-the-fallen_4', 'side-quest/the-blood-choke_2',
-       'weapon/glowblast-sharpshot-bow_2']
+       'weapon/glowblast-sharpshot-bow_2',
+       'weapon/sunhawk-shredder-gauntlet_3']
       Go to Ninmah Research Lab for What Was Lost
     . {Ninmah Research Lab} Continue exploring, get the components needed [What
       Was Lost]
@@ -1746,10 +1797,15 @@
     . {Workbench} Increase stats, +10% component tear: 300 shards, 8 braided
       wire, 1 large machine core, 1 greenshine chunk, 2 greenshine cluster
       [Glowblast Sharpshot Bow]
+      Go to Workbench for Sunhawk Shredder Gauntlet
+    . {Workbench} Increase stats, +25% agility: 450 shards, 2 stormbird cannon,
+      1 behemoth circulator, 2 large machine core, 1 rockbreaker primary nerve
+      [Sunhawk Shredder Gauntlet]
 --- 7 equal options:
       ['tallneck/landfall', 'errand/the-souvenir', 'story/faros-tomb-thebes',
        'side-quest/the-second-verse-heal_1', 'weapon/lightning-hunter-bow_0',
-       'gauntlet-run/the-stillsands', 'weapon/glowblast-sharpshot-bow_3']
+       'weapon/glowblast-sharpshot-bow_3',
+       'weapon/sunhawk-shredder-gauntlet_4']
       Go to Landfall for Landfall Tallneck
     . {Landfall} Examine the Tallneck, kill the Glinthawks [Landfall Tallneck]
       Go to Legacy's Landfall for The Souvenir
@@ -1762,12 +1818,14 @@
       Go to The Rot for Lightning Hunter Bow
     . {The Rot} Draw speed +15%, increase stats: 75 shards, 2 braided wire, 2
       small machine core [Lightning Hunter Bow]
-      Go to The Stillsands for The Stillsands Gauntlet Run
-    . {The Stillsands} Win the race, speak to Nil [The Stillsands Gauntlet Run]
       Go to Workbench for Glowblast Sharpshot Bow
     . {Workbench} Increase stats, +40% high ground: 450 shards, 8 braided wire,
       2 large machine core, 2 greenshine chunk, 2 greenshine slab [Glowblast
       Sharpshot Bow]
+      Go to Workbench for Sunhawk Shredder Gauntlet
+    . {Workbench} Unlock 3rd coil, increase stats, +25% component tear: 600
+      shards, 3 apex snapmaw heart, 1 luminous brainstem, 1 apex slitherfang
+      heart, 1 stormbird primary nerve [Sunhawk Shredder Gauntlet]
 --- 2 equal options:
       ['side-quest/the-valley-of-the-fallen_post_0',
        'side-quest/the-blood-choke_post_0']
@@ -1827,9 +1885,9 @@
     . {Workbench} Unlock 2nd coil, increase stats: 219 shards, 6 braided wire, 2
       slitherfang earthgrinder, 1 behemoth force loader [Thunderbolt Shredder
       Gauntlet]
---- 5 equal options:
+--- 4 equal options:
       ['story/faros-tomb-thebes_2', 'weapon/lightning-hunter-bow_3',
-       'weapon/carjas-bane_0', 'weapon/skystrike-boltblaster_1',
+       'weapon/skystrike-boltblaster_1',
        'weapon/thunderbolt-shredder-gauntlet_2']
       Go to Legacy's Landfall for Faro's Tomb (Thebes)
     * {Legacy's Landfall} Enter Thebes, kill the Corruptors [Faro's Tomb
@@ -1838,10 +1896,6 @@
     . {The Rot} Unlock coil, draw speed +65%, increase stats: 250 shards, 1
       bellowback sac webbing, 6 braided wire, 3 medium machine core, 1
       skydrifter primary nerve [Lightning Hunter Bow]
-      Go to Workbench for Carja's Bane
-    . {Workbench} Increase stats: 600 shards, 5 dreadwing metal fang, 2
-      dreadwing primary nerve, 1 luminous brainstem, 2 tideripper circulator
-      [Carja's Bane]
       Go to Workbench for Skystrike Boltblaster
     . {Workbench} Unlock 2nd coil, increase stats: 212 shards, 6 braided wire, 1
       greenshine cluster, 1 greenshine fragment [Skystrike Boltblaster]
@@ -1849,16 +1903,11 @@
     . {Workbench} Increase stats, +15% knockdown: 300 shards, 10 braided wire, 2
       frostclaw sac webbing, 1 large machine core, 1 slitherfang circulator
       [Thunderbolt Shredder Gauntlet]
---- 4 equal options:
-      ['story/faros-tomb-thebes_3', 'weapon/carjas-bane_1',
-       'weapon/skystrike-boltblaster_2',
+--- 3 equal options:
+      ['story/faros-tomb-thebes_3', 'weapon/skystrike-boltblaster_2',
        'weapon/thunderbolt-shredder-gauntlet_3']
       Go to Legacy's Landfall for Faro's Tomb (Thebes)
     * {Legacy's Landfall} Learn of Ted Faro's fate [Faro's Tomb (Thebes)]
-      Go to Workbench for Carja's Bane
-    . {Workbench} Unlock 4th coil, 25% agility, +25% corroding, increase stats:
-      800 shards, 2 luminous brainstem, 2 stormbird primary nerve, 3 tideripper
-      primary nerve, 2 tideripper tail fin [Carja's Bane]
       Go to Workbench for Skystrike Boltblaster
     . {Workbench} Increase stats, +10% shocked damage: 300 shards, 8 braided
       wire, 1 greenshine chunk, 2 greenshine cluster, 1 large machine core
@@ -1867,16 +1916,11 @@
     . {Workbench} Increase stats, +40% long range: 450 shards, 3 scorcher
       scanning ear, 1 frostclaw circulator, 2 large machine core, 1 behemoth
       primary nerve [Thunderbolt Shredder Gauntlet]
---- 4 equal options:
-      ['story/faros-tomb-thebes_4', 'weapon/carjas-bane_2',
-       'weapon/skystrike-boltblaster_3',
+--- 3 equal options:
+      ['story/faros-tomb-thebes_4', 'weapon/skystrike-boltblaster_3',
        'weapon/thunderbolt-shredder-gauntlet_4']
       Go to Legacy's Landfall for Faro's Tomb (Thebes)
     * {Legacy's Landfall} Kill the Quen, escape [Faro's Tomb (Thebes)]
-      Go to Workbench for Carja's Bane
-    . {Workbench} +10% knockdown, increase stats: 1000 shards, 1 apex frostclaw
-      heart, 3 apex ravager heart, 3 luminous brainstem, 3 thunderjaw tail
-      [Carja's Bane]
       Go to Workbench for Skystrike Boltblaster
     . {Workbench} Increase stats, +40% aerial enemy: 450 shards, 8 braided wire,
       2 greenshine chunk, 2 greenshine slab, 2 large machine core [Skystrike
@@ -1885,24 +1929,12 @@
     . {Workbench} Unlock 3rd coil, increase stats, +40% knockdown: 600 shards, 8
       tremortusk tusk, 1 luminous brainstem, 1 apex thunderjaw heart, 1 scorcher
       primary nerve [Thunderbolt Shredder Gauntlet]
---- 2 equal options:
-      ['weapon/carjas-bane_3', 'weapon/skystrike-boltblaster_4']
-      Go to Workbench for Carja's Bane
-    . {Workbench} +25% knockdown, +15% melee followup, increase stats: 1200
-      shards, 1 apex thunderjaw heart, 2 fireclaw sac webbing, 4 luminous
-      brainstem, 2 thunderjaw circulator [Carja's Bane]
-      Go to Workbench for Skystrike Boltblaster
-    . {Workbench} Unlock 3rd coil, increase stats, +25% shocked damage: 600
-      shards, 8 braided wire, 3 greenshine chunk, 3 greenshine slab, 1 luminous
-      brainstem [Skystrike Boltblaster]
---- 2 equal options:
-      ['story/gemini', 'weapon/carjas-bane_4']
-      Go to The Base for Gemini
-    * {The Base} Talk to Beta, then Gaia [Gemini]
-      Go to Workbench for Carja's Bane
-    . {Workbench} Unlock 5th coil, +40% melee followup, increase stats: 1500
-      shards, 2 apex fireclaw heart, 1 apex slaughterspine heart, 5 luminous
-      brainstem, 2 slaughterspine circulator [Carja's Bane]
+  Go to Workbench for Skystrike Boltblaster
+. {Workbench} Unlock 3rd coil, increase stats, +25% shocked damage: 600 shards,
+  8 braided wire, 3 greenshine chunk, 3 greenshine slab, 1 luminous brainstem
+  [Skystrike Boltblaster]
+  Go to The Base for Gemini
+* {The Base} Talk to Beta, then Gaia [Gemini]
 --- 2 equal options:
       ['story/gemini_0', 'armour/sobecks-raiment_0']
       Go to Gemini for Gemini

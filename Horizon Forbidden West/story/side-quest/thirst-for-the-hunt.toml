@@ -7,6 +7,10 @@ unlocks = [
     'side-quest/the-wound-in-the-sand',
 ]
 
+after = [
+    'story/hidden-ember',
+]
+
 
 begin = 'Speak to Drakka'
 

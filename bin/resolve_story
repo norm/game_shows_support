@@ -266,6 +266,10 @@ for root, dirs, files in os.walk('story'):
                 if 'after' in action:
                     for after in action['after']:
                         graph.add_edge('%s_end' % after, node_id)
+                if 'requires' in action:
+                    for requires in action['requires']:
+                        graph.add_edge('%s_end' % requires, node_id)
+
                 if node_id in story['completed_nodes']:
                     graph.add_edge(node_id, 'completed_end')
                 else:

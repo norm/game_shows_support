@@ -6,5 +6,9 @@ unlocks = [
     'gauntlet-run/cliffs-of-the-cry',
 ]
 
+before = [
+    'rebel-camp/the-hive',
+]
+
 
 begin = 'Win the race'

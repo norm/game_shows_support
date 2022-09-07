@@ -2,5 +2,9 @@ title = "Lost Supplies"
 type = 'salvage'
 location = 'The Stillsands'
 
+before = [
+    'story/the-sea-of-sands',
+]
+
 
 begin = 'Override a Bristleback, then investigate the areas, killing the machines as you go'

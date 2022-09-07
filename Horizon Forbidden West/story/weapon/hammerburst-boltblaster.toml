@@ -1,0 +1,22 @@
+title = 'Hammerburst Boltblaster'
+type = 'weapon'
+location = 'Workbench'
+
+# 15 dmg / --
+autobegin = true
+
+[[action]]
+# 16 dmg / --
+text = 'Crit chance +5%, increase stats: 75 shards, 2 braided wire, 2 small machine core'
+
+[[action]]
+# 18 dmg / --
+text = 'Overdraw +15%, increase stats: 112 shards, 1 rollerback hammer tail, 2 braided wire, 2 sunwing shield caster'
+
+[[action]]
+# 20 dmg / 20 dmg, 25 explosive
+text = 'Explosive bolts, increase stats: 150 shards, 1 rollerback circulator, 3 braided wire, 2 medium machine core'
+
+[[action]]
+# 23 dmg / 23 dmg, 27 explosive
+text = 'Crit chance +15% chance, coil unlocked, increase stats: 250 shards, 1 rollerback primary nerve, 6 braided wire, 3 medium machine core, 1 slitherfang earthgrinder'

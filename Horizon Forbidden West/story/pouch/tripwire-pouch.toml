@@ -10,10 +10,12 @@ text = 'Increase carry capacity: 25 shards, 1 jay wishbone'
 
 [[action]]
 text = 'Increase carry capacity: 50 shards, 3 rabbit hide'
-after = ['story/restored-gaia']  # not found in the daunt or plainsong
+after = ['story/the-broken-sky']  # only found near salt bite?
 
 [[action]]
 text = 'Increase carry capacity: 100 shards, 1 bighorn sheep bone, 3 owl feather'
+# found near mountains (eg surrounding the base)
 
 [[action]]
 text = 'Increase carry capacity: 200 shards, 1 crab shell, 1 iridescent lobster shell, 1 gull wishbone'
+after = ['story/the-kulrut']  # not found until on the western shore

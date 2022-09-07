@@ -24,3 +24,9 @@ requires = [
 [[post_action]]
 text = 'Can sell Sunshot Hunter Bow'
 location = 'Merchant'
+requires = [
+    'salvage/lost-supplies',
+    'salvage/missing-gear',
+    'salvage/pristine-bellowback',
+    'salvage/rollerback-salvage',
+]

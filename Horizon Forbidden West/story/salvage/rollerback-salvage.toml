@@ -2,5 +2,15 @@ title = "Rollerback Salvage"
 type = 'salvage'
 location = 'The Stillsands'
 
+requires = [
+    'salvage/lost-supplies',
+    'salvage/missing-gear',
+    'salvage/pristine-bellowback',
+]
+
+after = [
+    'story/hidden-ember',
+]
+
 
 begin = 'Collect some rollerback salvage, kill the shellsnapper, loot it and the remaining rollerback salvage'

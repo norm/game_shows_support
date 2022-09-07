@@ -7,6 +7,10 @@ unlocks = [
     'weapon/piercing-sharpshot-bow',
 ]
 
+after = [
+    'gauntlet-run/dry-yearn',
+]
+
 
 begin = 'Get the rumour about the rebel camp'
 

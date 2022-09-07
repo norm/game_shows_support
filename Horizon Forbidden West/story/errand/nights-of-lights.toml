@@ -2,5 +2,9 @@ title = "Nights of Lights"
 type = 'errand'
 location = 'Hidden Ember'
 
+requires = [
+    'story/hidden-ember',
+]
+
 
 begin = 'Talk to Stemmur, go to Dunehollow, retrieve the ornament, return'

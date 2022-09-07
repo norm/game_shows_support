@@ -17,3 +17,4 @@ text = 'Increase carry capacity: 200 shards, 3 gull feather, 1 bighorn sheep bon
 
 [[action]]
 text = 'Increase carry capacity: 300 shards, 1 iridescent lobster shell, 1 iridescent crab shell'
+after = ['story/the-kulrut']  # not found until on the western shore
