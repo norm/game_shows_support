@@ -1,9 +1,6 @@
 title = "Missing Gear"
 type = 'salvage'
-location = 'The Greenswell'
+location = 'The Stillsands'
 
 
-begin = 'Investigate the shelter, get scrolls from the corpse near the Snapmaw'
-
-[[action]]
-text = 'Travel to the ruins, get the Relic'
+begin = 'Go to near Camp Nowhere, examine the cart, follow the path, loot the Sunwing nest'

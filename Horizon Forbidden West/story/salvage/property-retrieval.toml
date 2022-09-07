@@ -1,6 +1,9 @@
-title = "Property Retrieval"
+title = "Missing Gear"
 type = 'salvage'
 location = 'The Greenswell'
 
 
-begin = 'Travel to near Salt Bite, retrieve scrolls and relic'
+begin = 'Investigate the shelter, get scrolls from the corpse near the Snapmaw'
+
+[[action]]
+text = 'Travel to the ruins, get the Relic'

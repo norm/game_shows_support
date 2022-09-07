@@ -927,11 +927,11 @@
        'errand/supply-drop_1', 'errand/the-taste-of-victory_1',
        'side-quest/signal-spike_1', 'cauldron/chi_1',
        'story/seeds-of-the-past_1', 'salvage/ancient-relics',
-       'salvage/missing-gear', 'salvage/plowhorns-and-plants',
-       'salvage/property-retrieval', 'salvage/ravager-cannon',
-       'salvage/speedy-lancehorns', 'side-quest/the-promontory_1',
-       'salvage/mine-launchers', 'side-quest/breaking-even_1',
-       'salvage/lost-supplies', 'salvage/pristine-bellowback',
+       'salvage/plowhorns-and-plants', 'salvage/property-retrieval',
+       'salvage/ravager-cannon', 'salvage/speedy-lancehorns',
+       'side-quest/the-promontory_1', 'salvage/mine-launchers',
+       'side-quest/breaking-even_1', 'salvage/lost-supplies',
+       'salvage/missing-gear', 'salvage/pristine-bellowback',
        'salvage/rollerback-salvage', 'story/the-sea-of-sands_1',
        'pouch/bolt-clip-satchel_3', 'weapon/elite-ropecaster_1',
        'weapon/purgewater-hunter-bow_1', 'weapon/sun-touched-hunter-bow_3']
@@ -970,15 +970,12 @@
       equip the Vine Cutter, get Demeter [Seeds of the Past]
       Go to The Greenswell for Ancient Relics
     . {The Greenswell} Retrieve the relics to the north [Ancient Relics]
-      Go to The Greenswell for Missing Gear
-    . {The Greenswell} Investigate the shelter, get scrolls from the corpse near
-      the Snapmaw [Missing Gear]
       Go to The Greenswell for Plowhorns and Plants
     . {The Greenswell} Collect plants from the plowhorn trails, then kill the
       plowhorns [Plowhorns and Plants]
-      Go to The Greenswell for Property Retrieval
-    . {The Greenswell} Travel to near Salt Bite, retrieve scrolls and relic
-      [Property Retrieval]
+      Go to The Greenswell for Missing Gear
+    . {The Greenswell} Investigate the shelter, get scrolls from the corpse near
+      the Snapmaw [Missing Gear]
       Go to The Greenswell for Ravager Cannon
     . {The Greenswell} Collect a ravager's cannon [Ravager Cannon]
       Go to The Greenswell for Speedy Lancehorns
@@ -994,6 +991,9 @@
       Go to The Stillsands for Lost Supplies
     . {The Stillsands} Override a Bristleback, then investigate the areas,
       killing the machines as you go [Lost Supplies]
+      Go to The Stillsands for Missing Gear
+    . {The Stillsands} Go to near Camp Nowhere, examine the cart, follow the
+      path, loot the Sunwing nest [Missing Gear]
       Go to The Stillsands for Pristine Bellowback
     . {The Stillsands} Kill the bellowback without destroying the sacs, then
       loot it [Pristine Bellowback]
@@ -1022,7 +1022,7 @@
        'armour/nora-valiant_2', 'errand/the-oldgrowth_2',
        'side-quest/a-tribe-apart_2', 'side-quest/the-promontory_2',
        'side-quest/signal-spike_2', 'story/seeds-of-the-past_2',
-       'salvage/ancient-relics_0', 'salvage/missing-gear_0',
+       'salvage/ancient-relics_0', 'salvage/property-retrieval_0',
        'story/the-sea-of-sands_2', 'weapon/cleaving-sharpshot-bow_0',
        'weapon/elite-ropecaster_2', 'weapon/purgewater-hunter-bow_2']
       Go to Arrowhand for Thirst for the Hunt

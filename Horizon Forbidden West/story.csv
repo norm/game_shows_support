@@ -438,9 +438,8 @@ step,location,node,text
 ,Southern Lowlands,cauldron/chi_1,"Kill the Slitherfang, override the core"
 ,The Greenhouse,story/seeds-of-the-past_1,"Continue exploring the Greenhouse, kill the Dreadwing, equip the Vine Cutter, get Demeter"
 ,The Greenswell,salvage/ancient-relics,Retrieve the relics to the north
-,The Greenswell,salvage/missing-gear,"Investigate the shelter, get scrolls from the corpse near the Snapmaw"
 ,The Greenswell,salvage/plowhorns-and-plants,"Collect plants from the plowhorn trails, then kill the plowhorns"
-,The Greenswell,salvage/property-retrieval,"Travel to near Salt Bite, retrieve scrolls and relic"
+,The Greenswell,salvage/property-retrieval,"Investigate the shelter, get scrolls from the corpse near the Snapmaw"
 ,The Greenswell,salvage/ravager-cannon,Collect a ravager's cannon
 ,The Greenswell,salvage/speedy-lancehorns,Take down the lancehorns while mounted
 ,The Hive,rebel-camp/the-hive_end,
@@ -450,6 +449,7 @@ step,location,node,text
 ,The Stand of the Sentinels,errand/a-hunt-to-remember_end,
 ,The Stand of the Sentinels,tallneck/the-stand-of-the-sentinels_end,
 ,The Stillsands,salvage/lost-supplies,"Override a Bristleback, then investigate the areas, killing the machines as you go"
+,The Stillsands,salvage/missing-gear,"Go to near Camp Nowhere, examine the cart, follow the path, loot the Sunwing nest"
 ,The Stillsands,salvage/pristine-bellowback,"Kill the bellowback without destroying the sacs, then loot it"
 ,The Stillsands,salvage/rollerback-salvage,"Collect some rollerback salvage, kill the shellsnapper, loot it and the remaining rollerback salvage"
 ,The Stillsands,story/the-sea-of-sands_1,"Explore the underwater area, and drain it"
@@ -482,13 +482,13 @@ step,location,node,text
 ,The Base,side-quest/signal-spike_2,Climb the mountain above the base to triangulate the signal
 ,The Greenhouse,story/seeds-of-the-past_2,Return Demeter to the Base
 ,The Greenswell,salvage/ancient-relics_0,Retrieve the relics to the south
-,The Greenswell,salvage/missing-gear_0,"Travel to the ruins, get the Relic"
 ,The Greenswell,salvage/plowhorns-and-plants_end,
-,The Greenswell,salvage/property-retrieval_end,
+,The Greenswell,salvage/property-retrieval_0,"Travel to the ruins, get the Relic"
 ,The Greenswell,salvage/ravager-cannon_end,
 ,The Greenswell,salvage/speedy-lancehorns_end,
 ,The Raintrace,salvage/mine-launchers_end,
 ,The Stillsands,salvage/lost-supplies_end,
+,The Stillsands,salvage/missing-gear_end,
 ,The Stillsands,salvage/pristine-bellowback_end,
 ,The Stillsands,salvage/rollerback-salvage_end,
 ,The Stillsands,story/the-sea-of-sands_2,Kill the Tideripper
@@ -520,7 +520,7 @@ step,location,node,text
 ,The Base,side-quest/signal-spike_3,"Return to Silga, get the spike thrower"
 ,The Greenhouse,story/seeds-of-the-past_end,
 ,The Greenswell,salvage/ancient-relics_end,
-,The Greenswell,salvage/missing-gear_end,
+,The Greenswell,salvage/property-retrieval_end,
 ,The Raintrace,salvage/colleague-and-key,"Follow Warend's trail, get the mine launcher from the Thunderjaw, kill the Clamberjaws, get the key"
 ,The Stillsands,story/the-sea-of-sands_3,Retrieve Poseidon
 ,Workbench,weapon/cleaving-sharpshot-bow_1,"Increase stats, +25% overdraw: 112 shards, 2 braided wire, 1 snapmaw sac webbing, 1 bellowback sac webbing"
