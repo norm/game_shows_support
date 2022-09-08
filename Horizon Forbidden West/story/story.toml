@@ -27,6 +27,12 @@ completed_threads = [
     'story/to-the-brink-erend',
     'story/to-the-brink-end',
 
+    # ch5
+    'errand/a-dash-of-courage',
+    'side-quest/deep-trouble',
+    'weapon/fire-hunter-bow',
+    'melee-pit/chainscrape',
+
 ]
 
 # notes:
@@ -37,6 +43,12 @@ completed_nodes = [
     # ch3
     'weapon/frost-blastsling_0',
     # 'story/to-the-brink-erend_0',
+
+    # ch5
+    'weapon/shock-tripcaster_0',
+    'weapon/shock-tripcaster_1',
+    'pouch/resource-pouch_0',
+    'side-quest/the-twilight-path_0',
 
 ]
 

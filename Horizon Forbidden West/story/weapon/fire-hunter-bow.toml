@@ -3,8 +3,7 @@ type = 'weapon'
 start = 'Chainscrape'
 end = 'Workbench'
 
-# upgrade early
-before = ['side-quest/deep-trouble']
+after = ['side-quest/deep-trouble']
 
 
 # 6 dmg, 25 fire / 6 dmg, 25 acid

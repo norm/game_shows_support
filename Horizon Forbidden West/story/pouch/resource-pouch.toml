@@ -7,6 +7,7 @@ autobegin = true
 
 [[action]]
 text = 'Increase carry capacity: 25 shards, 2 boar hide'
+after = ['weapon/fire-hunter-bow']  # as it happened
 
 [[action]]
 text = 'Increase carry capacity: 50 shards, 1 horned lizard bone, 1 goose feather'

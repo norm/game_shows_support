@@ -8,6 +8,7 @@ unlocks = [
 
 after = [
     'side-quest/deep-trouble',
+    'weapon/fire-hunter-bow',   # as it happened
 ]
 
 

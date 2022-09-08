@@ -1,0 +1,1309 @@
+1
+00:00:22,022 --> 00:00:24,791
+VOICE: By. The. Forge!
+
+2
+00:00:25,575 --> 00:00:26,693
+ALOY: Petra?
+
+3
+00:00:26,693 --> 00:00:29,396
+PETRA: Aloy! What are you doing here?
+
+4
+00:00:29,863 --> 00:00:30,880
+ALOY: Uhh…
+
+5
+00:00:31,347 --> 00:00:34,067
+PETRA: 'Bout time there was something worth looking at in this dump.
+
+6
+00:00:34,234 --> 00:00:36,219
+ALOY: It's nice to see you too.
+
+7
+00:00:36,219 --> 00:00:38,455
+PETRA: And not a moment too soon.
+
+8
+00:00:38,922 --> 00:00:40,590
+ALOY: Uh Petra! Petra!
+
+9
+00:00:42,142 --> 00:00:43,676
+I'm just passing through.
+
+10
+00:00:44,444 --> 00:00:45,662
+I'm headed west.
+
+11
+00:00:46,262 --> 00:00:47,230
+Oh.
+
+12
+00:00:48,765 --> 00:00:51,234
+There's an Embassy at Barren Light I need to make happen.
+
+13
+00:00:51,234 --> 00:00:54,354
+And then I… keep moving.
+
+14
+00:00:55,038 --> 00:00:57,857
+Ah, of course.
+
+15
+00:00:58,041 --> 00:01:00,060
+Bigger gears to grind.
+
+16
+00:01:00,927 --> 00:01:04,314
+Well, flamehair, good to see you.
+
+17
+00:01:05,248 --> 00:01:06,783
+If you gotta move on…
+
+18
+00:01:07,467 --> 00:01:08,685
+Petra.
+
+19
+00:01:10,870 --> 00:01:14,307
+But if you want a cold beer and a few laughs with an old friend?
+
+20
+00:01:14,307 --> 00:01:16,693
+Come find me at the brewery, your choice.
+
+21
+00:01:20,897 --> 00:01:22,966
+But if the whole mine becomes unstable?
+
+22
+00:01:23,650 --> 00:01:27,170
+I'd rather suffer Ulvund's wrath than die buried in rubble.
+
+23
+00:01:27,754 --> 00:01:29,422
+I could check in on your crew?
+
+24
+00:01:29,422 --> 00:01:30,940
+I would appreciate that.
+
+25
+00:01:31,724 --> 00:01:32,725
+Thank you.
+
+26
+00:02:30,950 --> 00:02:34,871
+It seems like bitter leaf likes to grow on rocky terrain.
+
+27
+00:03:01,297 --> 00:03:03,783
+Okay, I think I have enough bitter leaf.
+
+28
+00:05:20,236 --> 00:05:21,771
+Hold onto this for later.
+
+29
+00:07:15,201 --> 00:07:17,920
+There, that should be enough wild meat for Milduf.
+
+30
+00:08:04,867 --> 00:08:09,889
+Can't override that machine,
+but I could learn if there's a cauldron out here.
+
+31
+00:09:47,270 --> 00:09:48,788
+Frost'll make it brittle.
+
+32
+00:12:03,239 --> 00:12:06,041
+Huh, hunter becoming the hunted.
+
+33
+00:12:49,685 --> 00:12:51,237
+Scroungers.
+
+34
+00:12:51,403 --> 00:12:54,907
+Milduf said I could find a metal panel in one of their scrap piles.
+
+35
+00:14:08,414 --> 00:14:12,234
+No metal panel, better check another scrap pile.
+
+36
+00:14:54,109 --> 00:14:55,828
+Acid ammo could help here.
+
+37
+00:16:48,707 --> 00:16:50,793
+I'll save the extra stock for later.
+
+38
+00:17:01,770 --> 00:17:04,907
+DELVER: Does your All-Mother hear your prayers out here?
+
+39
+00:17:14,566 --> 00:17:17,369
+I think I have everything I need for Milduf.
+
+40
+00:17:17,369 --> 00:17:20,172
+Good thing too, I could use a decent meal.
+
+41
+00:17:20,823 --> 00:17:23,909
+This metal panel should work for Milduf.
+
+42
+00:18:54,666 --> 00:18:55,884
+Spotted!
+
+43
+00:19:33,305 --> 00:19:37,693
+Smoke, coming from where Arnuf said I'd find his crew.
+
+44
+00:19:43,081 --> 00:19:45,701
+This must be the mine Arnuf told me about.
+
+45
+00:19:46,201 --> 00:19:48,320
+It looks like the miners are in trouble!
+
+46
+00:19:48,320 --> 00:19:49,671
+[panting]
+
+47
+00:19:50,005 --> 00:19:51,139
+KORVEND: You good?
+
+48
+00:19:51,306 --> 00:19:54,326
+VALGEND: I–I'm okay. Thank you, Korvend.
+
+49
+00:19:54,326 --> 00:19:55,427
+ALOY: Korvend?
+
+50
+00:19:55,894 --> 00:19:57,996
+KORVEND: Not now. Aah!
+
+51
+00:19:59,731 --> 00:20:03,518
+ALOY: Arnuf sent me. What happened?
+
+52
+00:20:06,004 --> 00:20:07,639
+Explosion in the mine.
+
+53
+00:20:08,607 --> 00:20:10,626
+Water flooded the whole place.
+
+54
+00:20:11,176 --> 00:20:12,711
+KORVEND: Some of my guys are still…
+
+55
+00:20:13,695 --> 00:20:15,948
+KORVEND: They're still down there, I can't–can't stop…
+
+56
+00:20:16,798 --> 00:20:18,317
+You've done enough.
+
+57
+00:20:21,003 --> 00:20:22,221
+ALOY: Are you hurt?
+
+58
+00:20:23,906 --> 00:20:24,907
+KORVEND: I'm…
+
+59
+00:20:25,507 --> 00:20:26,525
+KORVEND: I'll live.
+
+60
+00:20:27,409 --> 00:20:28,677
+KORVEND: I can't…
+
+61
+00:20:29,661 --> 00:20:30,662
+I have to go.
+
+62
+00:20:30,662 --> 00:20:32,581
+How many are still down there?
+
+63
+00:20:34,249 --> 00:20:36,852
+KORVEND! How many?
+
+64
+00:20:36,852 --> 00:20:38,637
+KORVEND: Uhh…
+
+65
+00:20:41,440 --> 00:20:44,242
+KORVEND: Two, I think. Two more.
+
+66
+00:20:44,242 --> 00:20:46,745
+Take care of him, I'll check on the others.
+
+67
+00:21:07,649 --> 00:21:10,068
+Gotta find those two miners, quick.
+
+68
+00:21:26,852 --> 00:21:29,187
+Hello? Can anyone hear me?
+
+69
+00:21:29,187 --> 00:21:30,922
+DISTANT VOICE: Over here!
+
+70
+00:22:03,955 --> 00:22:07,476
+LOKUF: I think I'm starting to see things — is that a Nora?
+
+71
+00:22:08,560 --> 00:22:09,478
+Are you okay?
+
+72
+00:22:09,478 --> 00:22:10,762
+Who are you?
+
+73
+00:22:11,346 --> 00:22:13,965
+Korvend sent me. Are you hurt?
+
+74
+00:22:14,750 --> 00:22:16,768
+LOKUF: My leg.
+
+75
+00:22:16,852 --> 00:22:20,589
+LOKUF: I… I was a little too close to the blast.
+
+76
+00:22:20,589 --> 00:22:21,339
+ALOY: What happened?
+
+77
+00:22:21,339 --> 00:22:26,995
+THORDEN: We were blasting in the farthest tunnel,
+but the scaffolding didn't hold, it collapsed.
+
+78
+00:22:27,746 --> 00:22:29,881
+THORDEN: I think it blocked the drainage shaft.
+
+79
+00:22:29,881 --> 00:22:33,335
+THORDEN: Water started flooding the place as quick as I drink ale.
+
+80
+00:22:33,335 --> 00:22:35,053
+THORDEN: I barely managed to drag us here.
+
+81
+00:22:35,053 --> 00:22:37,823
+ALOY: So something is keeping the water inside the tunnels.
+
+82
+00:22:37,823 --> 00:22:39,157
+LORUF: What are you thinking?
+
+83
+00:22:39,157 --> 00:22:41,510
+ALOY: I've got an idea. Are there more explosives?
+
+84
+00:22:41,510 --> 00:22:43,011
+Are you crazy?
+
+85
+00:22:43,011 --> 00:22:45,764
+Yeah, should still be some up top, but…
+
+86
+00:22:46,048 --> 00:22:47,849
+You'll need these fuses.
+
+87
+00:22:48,083 --> 00:22:49,518
+Are you crazy?
+
+88
+00:22:49,518 --> 00:22:52,471
+You can't move and I'm not leaving you.
+
+89
+00:22:52,854 --> 00:22:55,090
+THORDEN: It's not like she can make things worse.
+
+90
+00:22:55,257 --> 00:22:56,591
+ALOY: Don't go anywhere.
+
+91
+00:22:57,075 --> 00:23:00,262
+I need to find whatever's blocking that drainage shaft.
+
+92
+00:23:00,262 --> 00:23:02,180
+And blow it sky high.
+
+93
+00:23:02,848 --> 00:23:05,767
+Hopefully without bringing the mine down on top of me.
+
+94
+00:23:23,652 --> 00:23:25,370
+Almost there.
+
+95
+00:23:31,276 --> 00:23:33,378
+Oof, made it.
+
+96
+00:23:36,748 --> 00:23:38,867
+There's the debris blocking the shaft.
+
+97
+00:23:39,351 --> 00:23:44,172
+If I can reach those explosives up on that track,
+maybe I can blast through the blockage.
+
+98
+00:24:46,551 --> 00:24:47,769
+Burrowers.
+
+99
+00:27:02,937 --> 00:27:04,689
+I think that's all of them.
+
+100
+00:27:05,156 --> 00:27:07,092
+Now to find a way out of this room.
+
+101
+00:27:21,856 --> 00:27:24,576
+I need to find a way up to those explosives.
+
+102
+00:27:29,247 --> 00:27:33,118
+I should follow those tracks, see if they lead to the explosives.
+
+103
+00:27:47,449 --> 00:27:49,167
+Let's see where this leads.
+
+104
+00:28:26,454 --> 00:28:28,957
+There's the explosives up on the track.
+
+105
+00:28:28,957 --> 00:28:31,676
+Just need to get across somehow.
+
+106
+00:28:32,260 --> 00:28:34,679
+Might be a good idea to drop that ladder.
+
+107
+00:29:44,249 --> 00:29:45,667
+That did the trick.
+
+108
+00:29:46,167 --> 00:29:47,819
+Guess that got its attention.
+
+109
+00:30:30,195 --> 00:30:31,679
+Down it goes!
+
+110
+00:30:36,251 --> 00:30:39,687
+That's all of them. Now let's go check on those miners.
+
+111
+00:31:30,955 --> 00:31:32,590
+LOKUF: She's so dead.
+
+112
+00:31:32,757 --> 00:31:34,475
+THORDEN: We don't know that!
+
+113
+00:31:40,665 --> 00:31:42,467
+It looks like everyone's okay.
+
+114
+00:31:42,467 --> 00:31:46,971
+LOKUF: Ha ha ha! I can't believe we're not gonna die!
+
+115
+00:31:47,455 --> 00:31:48,656
+THORDEN: You did it.
+
+116
+00:31:48,656 --> 00:31:50,675
+LOKUF: I thought you blew yourself up.
+
+117
+00:31:50,959 --> 00:31:52,760
+Are you two okay from here?
+
+118
+00:31:52,760 --> 00:31:55,546
+I can get this idiot down, don't you worry.
+
+119
+00:31:55,546 --> 00:31:56,681
+Thanks, kid.
+
+120
+00:32:08,059 --> 00:32:10,478
+Better let Korvend know his men are all right.
+
+121
+00:32:31,983 --> 00:32:33,651
+I found the two you mentioned.
+
+122
+00:32:33,651 --> 00:32:36,671
+They're safe, but could probably use a hand.
+
+123
+00:32:36,754 --> 00:32:38,089
+Is that everyone?
+
+124
+00:32:38,856 --> 00:32:40,074
+It is.
+
+125
+00:32:40,925 --> 00:32:44,212
+I dread to think what would have happened if you hadn't shown up.
+
+126
+00:32:44,212 --> 00:32:49,117
+I knew we were blasting too much,
+but the man who staked the claim here, Ulvund…
+
+127
+00:32:49,117 --> 00:32:51,919
+Grr, he kept pushing and pushing me.
+
+128
+00:32:51,919 --> 00:32:56,641
+I tried to shield my crew from his constant demands, every damn day.
+
+129
+00:32:57,558 --> 00:33:01,112
+I … I should have been stronger.
+
+130
+00:33:01,162 --> 00:33:03,681
+You were there for your crew when they needed you.
+
+131
+00:33:04,248 --> 00:33:05,550
+That counts for something.
+
+132
+00:33:05,550 --> 00:33:07,385
+Ulvund can threaten me all he wants.
+
+133
+00:33:07,385 --> 00:33:11,189
+I am not letting my people back into those mines.
+
+134
+00:33:11,255 --> 00:33:12,690
+Will you be all right?
+
+135
+00:33:12,757 --> 00:33:15,677
+Yes, I can take it from here.
+
+136
+00:33:15,760 --> 00:33:19,597
+KORVEND: Thank you, huntress. I'll see the last two make it out.
+
+137
+00:33:35,063 --> 00:33:36,781
+MINER: I knew we were blasting too fast!
+
+138
+00:33:51,646 --> 00:33:52,964
+Now they're mad.
+
+139
+00:35:01,149 --> 00:35:02,366
+I'll leave you here.
+
+140
+00:35:28,459 --> 00:35:29,977
+GUARD: Be welcome, outlander.
+
+141
+00:36:05,546 --> 00:36:10,768
+There you are! I happened to receive another visit from Ulvund himself.
+
+142
+00:36:10,852 --> 00:36:12,203
+I'm listening.
+
+143
+00:36:12,203 --> 00:36:17,859
+When I made his meal, I used three pinches of salt!
+
+144
+00:36:19,343 --> 00:36:21,963
+Instead of two!
+
+145
+00:36:21,963 --> 00:36:25,216
+Each journey begins with a single step, I guess.
+
+146
+00:36:26,017 --> 00:36:28,236
+ALOY: I think I have everything you asked for.
+
+147
+00:36:28,236 --> 00:36:32,290
+MILDUF: Then, just as you have inspired me,
+let us see if I can return the favour.
+
+148
+00:36:32,290 --> 00:36:33,658
+MILDUF: Time to cook!
+
+149
+00:36:52,944 --> 00:36:57,665
+Wow, Milduf that was inspired!
+
+150
+00:36:57,665 --> 00:37:01,168
+Next time you want the best provisions, you know where to find me.
+
+151
+00:37:01,452 --> 00:37:04,889
+And your next order of any dish will be on the house.
+
+152
+00:37:05,039 --> 00:37:08,743
+Thanks. And don't forget to stand up for yourself.
+
+153
+00:37:08,743 --> 00:37:10,344
+MILDUF: Funny you should say that.
+
+154
+00:37:10,344 --> 00:37:14,966
+MILDUF: As it happens, I'm already cooking up my next portion of resistance.
+
+155
+00:37:15,149 --> 00:37:16,667
+MILDUF: Hope to see you again.
+
+156
+00:37:36,637 --> 00:37:40,258
+PETRA: Aloy! Change your mind about that brew?
+
+157
+00:37:41,142 --> 00:37:45,513
+PETRA: Come for that beer after all eh? Here! Siddown!
+
+158
+00:37:45,513 --> 00:37:47,848
+PETRA: Get a pint in her hand!
+
+159
+00:37:48,032 --> 00:37:50,234
+PETRA: Wasn't expecting you to swing by.
+
+160
+00:37:50,234 --> 00:37:52,503
+ALOY: Since when do I do what's expected?
+
+161
+00:37:52,737 --> 00:37:55,623
+PETRA: Hah! There's that spark!
+
+162
+00:37:55,623 --> 00:37:57,458
+PETRA: Fire and spit!
+
+163
+00:38:00,227 --> 00:38:03,164
+ALOY: Uh, fire and spit.
+
+164
+00:38:05,182 --> 00:38:08,736
+PETRA: Aaah! That's a blast from the bellows.
+
+165
+00:38:08,736 --> 00:38:12,740
+PETRA: Won't fix the forge, but at least
+I can forget about my troubles for a while.
+
+166
+00:38:12,740 --> 00:38:13,724
+ALOY: Like what?
+
+167
+00:38:13,741 --> 00:38:15,159
+PETRA: Take your pick.
+
+168
+00:38:15,343 --> 00:38:17,728
+We got bodies to bury from the Bristlebacks.
+
+169
+00:38:17,728 --> 00:38:19,113
+The work stoppage.
+
+170
+00:38:19,113 --> 00:38:22,450
+Ulvund grating the gears about his concession decree.
+
+171
+00:38:22,733 --> 00:38:25,953
+PETRA: Hey! Weapons off the table!
+
+172
+00:38:30,741 --> 00:38:34,562
+PETRA: Right now, I'm just worried about those refugees out from Sunfall.
+
+173
+00:38:34,562 --> 00:38:37,932
+To come all this way, enduring forge knows what.
+
+174
+00:38:37,932 --> 00:38:39,950
+ALOY: Shadow Carja refugees?
+
+175
+00:38:40,134 --> 00:38:42,970
+PETRA: They don't call themselves Shadow Carja for one.
+
+176
+00:38:42,970 --> 00:38:44,588
+PETRA: At least, not any more.
+
+177
+00:38:44,588 --> 00:38:46,891
+PETRA: They are some other brand of sun-crazed.
+
+178
+00:38:46,891 --> 00:38:48,259
+ALOY: What are they doing in The Daunt?
+
+179
+00:38:48,259 --> 00:38:50,611
+PETRA: Um, looking for a new home, I gather.
+
+180
+00:38:50,611 --> 00:38:53,831
+PETRA: They're camped out by an old trail head southwest of here.
+
+181
+00:38:53,831 --> 00:38:55,866
+PETRA: And therein lies the problem.
+
+182
+00:38:56,033 --> 00:38:58,602
+PETRA: A Stormbird crashed up on the cliffs last week.
+
+183
+00:38:58,602 --> 00:39:02,373
+PETRA: And Tolland Cleanbroker's had his eye on the salvage ever since.
+
+184
+00:39:02,373 --> 00:39:04,442
+PETRA: But the refugees have barred entrance.
+
+185
+00:39:04,442 --> 00:39:07,128
+PETRA: Mustn't interrupt their sun-scorched ritual.
+
+186
+00:39:07,128 --> 00:39:09,363
+PETRA: Something about finding a "twilight path".
+
+187
+00:39:09,363 --> 00:39:12,416
+ALOY: Huh, never heard them talk about that before.
+
+188
+00:39:12,416 --> 00:39:15,970
+PETRA: Yeah, well, these particular Shadow Carja are an odd bunch.
+
+189
+00:39:15,970 --> 00:39:19,724
+PETRA: But whatever side of the Sun they're on,
+they're peaceful through and through.
+
+190
+00:39:19,724 --> 00:39:24,795
+PETRA: Don't seem to want for nothing except a place to live, pray,
+and just enough food to keep from starving.
+
+191
+00:39:24,795 --> 00:39:31,352
+ALOY: So they're just camped outside by a trail,
+blocking entry to a wrecked Stormbird, waiting for what, exactly?
+
+192
+00:39:31,352 --> 00:39:33,537
+PETRA: Don't rightly know, but I'll tell you this.
+
+193
+00:39:33,537 --> 00:39:35,756
+PETRA: Should they ever wise up and salvage it?
+
+194
+00:39:35,756 --> 00:39:38,025
+PETRA: A Stormbird heart is worth a lot.
+
+195
+00:39:38,025 --> 00:39:41,278
+PETRA: And if they get there first, then by Oseram law, it's theirs.
+
+196
+00:39:41,278 --> 00:39:44,732
+PETRA: Overall they're a peaceful folk, not that it matters to Tolland.
+
+197
+00:39:44,732 --> 00:39:47,818
+PETRA: He'll crack some heads to get to that salvage.
+
+198
+00:39:47,818 --> 00:39:50,154
+Who is this Tolland Cleanbroker?
+
+199
+00:39:50,154 --> 00:39:53,507
+PETRA: Just some chuff-huffing pondsman, got a shop here in town.
+
+200
+00:39:53,507 --> 00:39:56,427
+PETRA: Lived in Chainscrape since there was a Chainscrape.
+
+201
+00:39:56,427 --> 00:40:00,514
+PETRA: He and Ulvund go back a ways,
+like a pair of coals in a camp fire those two.
+
+202
+00:40:00,514 --> 00:40:02,400
+ALOY: So Tolland works for Ulvund?
+
+203
+00:40:02,400 --> 00:40:04,885
+PETRA: Ha! Ulvund might think so.
+
+204
+00:40:04,885 --> 00:40:07,972
+PETRA: But Tolland scrapes up his own scams.
+
+205
+00:40:07,972 --> 00:40:13,444
+PETRA: And he ain't the type to let a few refugees
+get between him and Stormbird salvage.
+
+206
+00:40:13,844 --> 00:40:16,464
+So the Bristlebacks in The Daunt…
+
+207
+00:40:16,464 --> 00:40:18,215
+OSERAM: [burps]
+
+208
+00:40:18,416 --> 00:40:20,334
+PETRA: You're a pig!
+
+209
+00:40:21,418 --> 00:40:22,586
+ALOY: …where did they come from?
+
+210
+00:40:22,586 --> 00:40:25,723
+PETRA: That's the thing, no-one rightly knows.
+
+211
+00:40:25,723 --> 00:40:30,761
+PETRA: They just showed up one day,
+rampaging around the valley like they exploded out of a forge.
+
+212
+00:40:31,345 --> 00:40:34,365
+PETRA: [sighs] Lost some good people.
+
+213
+00:40:34,365 --> 00:40:39,370
+PETRA: But bless the bellows, you cleared them out
+and got this place working again.
+
+214
+00:40:39,370 --> 00:40:43,974
+PETRA: But we still got Ulvund grating the gears about his concession decree.
+
+215
+00:40:43,974 --> 00:40:48,429
+PETRA: If you don't put that down,
+I'll come over there and show you how that game ends!
+
+216
+00:40:49,930 --> 00:40:52,416
+PETRA: Around here, everything's about Ulvund.
+
+217
+00:40:52,416 --> 00:40:53,851
+ALOY: How'd he end up in charge?
+
+218
+00:40:53,851 --> 00:40:57,888
+PETRA: He got here early like a squirrel smelling a fat nut.
+
+219
+00:40:57,888 --> 00:41:01,976
+PETRA: He knew rebuilding Barren Light would need stone and timber.
+
+220
+00:41:01,976 --> 00:41:04,678
+PETRA: So he jangled purses all over Mainspring,
+
+221
+00:41:04,678 --> 00:41:09,500
+PETRA: getting investors to front claims on anything
+ in The Daunt that might be worth a damn.
+
+222
+00:41:09,500 --> 00:41:13,687
+PETRA: Thing is, all the bankers back home know that this is Carja land.
+
+223
+00:41:13,687 --> 00:41:17,374
+PETRA: And the Sun-King can revoke those claims at any time.
+
+224
+00:41:17,374 --> 00:41:21,512
+PETRA: That's why he's desperate for the magistrate
+to sign off on a concession decree.
+
+225
+00:41:21,879 --> 00:41:23,497
+ALOY: And people actually believe him?
+
+226
+00:41:23,497 --> 00:41:27,568
+PETRA: Lots of folks suffered at the hands of
+the Mad King during the Red Raids.
+
+227
+00:41:27,568 --> 00:41:30,855
+PETRA: Give them half a reason they'll blame the Carja for anything.
+
+228
+00:41:30,871 --> 00:41:34,325
+OSERAM: Yeah, damn Carja slavers.
+
+229
+00:41:34,558 --> 00:41:39,180
+ALOY: Well, if I'm up that way, I'll talk to the refugees,
+try to convince them to move.
+
+230
+00:41:39,180 --> 00:41:42,049
+PETRA: Much appreciated, they have it rough.
+
+231
+00:41:42,049 --> 00:41:44,351
+PETRA: Don't need Tolland making it rougher.
+
+232
+00:41:44,351 --> 00:41:45,553
+ALOY: I'm glad I stopped by.
+
+233
+00:41:45,553 --> 00:41:47,254
+PETRA: Any time, flamehair.
+
+234
+00:41:50,191 --> 00:41:53,394
+This Tolland guy might still be in Chainscrape.
+
+235
+00:41:53,677 --> 00:41:55,880
+I could have a word with him first.
+
+236
+00:42:18,352 --> 00:42:20,321
+VOLMA: 'Bout time that whistle blew.
+
+237
+00:42:20,321 --> 00:42:25,709
+HAKUND: Shop just opened up, and I've got a backlog of orders,
+so I wouldn't hold my breath.
+
+238
+00:42:26,260 --> 00:42:30,981
+HAKUND: Brought out only the good stuff for you, Red,
+seeing as you got that whistle blowin'.
+
+239
+00:42:31,448 --> 00:42:35,169
+VOLMA: Hey, I've been waiting to get my lucky hammer fixed for days!
+
+240
+00:42:35,352 --> 00:42:39,873
+HAKUND: You haven't done anything useful
+like getting rid of any Bristlebacks, though, have you?
+
+241
+00:42:40,357 --> 00:42:43,377
+HAKUND: Take your time, I promise you won't be disappointed.
+
+242
+00:45:56,920 --> 00:46:01,141
+TOLLAND: Oh it's you, the machine hunter that bailed out the Carja.
+
+243
+00:46:01,141 --> 00:46:03,360
+ALOY: Never heard it put that way before.
+
+244
+00:46:03,444 --> 00:46:04,528
+What do you want?
+
+245
+00:46:04,528 --> 00:46:07,581
+Heard you've been hassling refugees up by the cliffs.
+
+246
+00:46:07,581 --> 00:46:09,249
+TOLLAND: Yeah, well, you heard wrong.
+
+247
+00:46:09,333 --> 00:46:12,252
+TOLLAND: There's salvage up there, a Stormbird.
+
+248
+00:46:12,252 --> 00:46:15,239
+TOLLAND: Nailed it myself with the harpoon here in town.
+
+249
+00:46:15,239 --> 00:46:18,258
+TOLLAND: Not an easy shot, if I do say so myself.
+
+250
+00:46:18,258 --> 00:46:23,564
+TOLLAND: I clipped its wing and it crashed
+into the old tower up there. Killed it quick.
+
+251
+00:46:24,031 --> 00:46:30,003
+So if anyone's hassling anyone, it's the Shadow Carja filth
+that's blocking the way up to my claim.
+
+252
+00:46:30,003 --> 00:46:32,789
+ALOY: And you're ready to crack some skulls to get to it?
+
+253
+00:46:32,806 --> 00:46:38,929
+TOLLAND: No need, it's a raggedy bunch,
+probably all starve before I have to lift a finger.
+
+254
+00:46:38,929 --> 00:46:40,531
+ALOY: We'll see about that.
+
+255
+00:46:40,531 --> 00:46:42,449
+TOLLAND: Oh, yeah, we will, won't we?
+
+256
+00:46:43,433 --> 00:46:47,437
+TOLLAND: Now, shop's closed to Carja lovers. On your blasted way.
+
+257
+00:46:49,740 --> 00:46:51,058
+ODURG: Move those feet!
+
+258
+00:46:59,132 --> 00:47:02,152
+ODURG: The Saviour of Meridian! Come on over here.
+
+259
+00:47:02,836 --> 00:47:04,505
+ALOY: You wanted to speak to me?
+
+260
+00:47:04,505 --> 00:47:09,910
+ODURG: Well, you know better than anyone it's
+a dangerous world out there, and not just against machines.
+
+261
+00:47:09,910 --> 00:47:13,330
+ODURG: Name's Odurg. This here's my training pit.
+
+262
+00:47:13,330 --> 00:47:17,434
+ODURG: Best place to practise close combat
+this side of the Forbidden West.
+
+263
+00:47:17,835 --> 00:47:21,305
+ODRUG: Say, I wonder who'd win in a fight?
+
+264
+00:47:21,305 --> 00:47:24,575
+ODURG: You, the Saviour of Meridian, champion of the East?
+
+265
+00:47:24,575 --> 00:47:28,862
+ODURG: Or The Enduring, master of the West.
+
+266
+00:47:28,929 --> 00:47:29,847
+ALOY: Who?
+
+267
+00:47:30,214 --> 00:47:35,435
+ODURG: The Enduring. A legendary Tenakth fighter, the master of masters.
+
+268
+00:47:35,435 --> 00:47:38,739
+ODURG: I've heard the Tenakth have training pits just like this one.
+
+269
+00:47:39,122 --> 00:47:41,842
+ODURG: It's how their warriors get so fierce, see?
+
+270
+00:47:42,392 --> 00:47:46,046
+ODRUG: And only the very best from the pits
+get to train with The Enduring.
+
+271
+00:47:46,063 --> 00:47:51,635
+ALOY: So to find The Enduring, I should look for these
+training pits if I'm ever out that way?
+
+272
+00:47:51,635 --> 00:47:53,520
+ODURG: You'll have to go far if you do.
+
+273
+00:47:53,520 --> 00:47:55,772
+ODURG: The Tenakth are split into three clans.
+
+274
+00:47:55,772 --> 00:47:59,326
+ODURG: Three clans, three capitals, three training pits.
+
+275
+00:47:59,326 --> 00:48:03,413
+ODURG: My guess is you'd have to beat all of them
+if you want to train with The Enduring.
+
+276
+00:48:03,430 --> 00:48:05,999
+ODURG: If the Tenakth don't kill you on sight, that is.
+
+277
+00:48:05,999 --> 00:48:07,751
+ODURG: But that's a far spark in the wind.
+
+278
+00:48:07,751 --> 00:48:13,040
+ODURG: As for right now, I also offer challenges to test your fighting skill.
+
+279
+00:48:13,123 --> 00:48:16,059
+Who would I be fighting exactly, you?
+
+280
+00:48:16,126 --> 00:48:21,632
+ODURG: Well, I know you're the Saviour and all,
+but you have to beat all the others first to challenge me.
+
+281
+00:48:21,632 --> 00:48:23,116
+ODURG: Rules are rules.
+
+282
+00:48:23,133 --> 00:48:26,737
+ODURG: We only use dull blades and practise arrows, mind.
+
+283
+00:48:26,737 --> 00:48:30,123
+ODURG: These drunken fools would run themselves through otherwise.
+
+284
+00:48:30,123 --> 00:48:33,961
+ODURG: You'll have to leave everything
+but your spear and practise arrows at the gate.
+
+285
+00:48:33,961 --> 00:48:37,047
+ODURG: But I'll look after your gear, not to worry.
+
+286
+00:48:37,331 --> 00:48:41,902
+ODURG: So, what do you say? Up for some training? [chuckles]
+
+287
+00:48:41,902 --> 00:48:43,103
+I might be.
+
+288
+00:48:43,420 --> 00:48:45,405
+That's what I like to hear.
+
+289
+00:50:26,373 --> 00:50:30,010
+ODURG: If you keep repeating the same attacks,
+your enemy will dodge them.
+
+290
+00:50:30,477 --> 00:50:34,731
+ODURG: Vary your attacks and combinations,
+make yourself less predictable.
+
+291
+00:50:44,958 --> 00:50:50,197
+ODURG: Come on, if your opponent keeps blocking,
+then use a heavy attack or a power attack to break through.
+
+292
+00:50:50,814 --> 00:50:53,533
+ODRUG: Either that or hit them from beind.
+
+293
+00:51:11,868 --> 00:51:14,855
+ODURG: Pay close attention to your opponent's stance.
+
+294
+00:51:14,855 --> 00:51:19,126
+ODURG: Read their intentions, choose your attacks to break their defence.
+
+295
+00:51:39,596 --> 00:51:41,331
+ODURG: You think your spear can deal with that armour?
+
+296
+00:51:41,581 --> 00:51:44,167
+ODURG: Use attacks to energise your spear.
+
+297
+00:51:44,334 --> 00:51:48,388
+ODURG: Then hit your opponent with a heavy
+or power attack to blast their armour off.
+
+298
+00:51:50,073 --> 00:51:52,192
+ODURG: That spear can give you the edge in battle.
+
+299
+00:51:52,192 --> 00:51:54,928
+ODURG: Keep energising it, and then your enemies.
+
+300
+00:51:54,928 --> 00:51:58,415
+ODURG: Triggering those energy blasts
+should help you vanquish your opponents.
+
+301
+00:52:10,660 --> 00:52:12,462
+ODURG: Can you finish this?
+
+302
+00:52:17,384 --> 00:52:19,452
+ODURG: I see how you earned your reputation.
+
+303
+00:52:22,205 --> 00:52:24,191
+ODURG: A good series of attacks!
+
+304
+00:52:25,692 --> 00:52:27,077
+ODURG: You fight well.
+
+305
+00:52:27,928 --> 00:52:29,496
+ODURG: Impressive attack!
+
+306
+00:52:36,469 --> 00:52:38,922
+ODURG: I see how you earned your reputation.
+
+307
+00:52:41,441 --> 00:52:45,078
+ODURG: Ho ho, good, an impressive attack.
+
+308
+00:52:50,667 --> 00:52:52,219
+ODURG: You fight well.
+
+309
+00:53:08,869 --> 00:53:11,571
+ODURG: Impressive attack, you fight well.
+
+310
+00:53:11,571 --> 00:53:13,840
+ODURG: Let's test your skills.
+
+311
+00:53:18,578 --> 00:53:20,881
+ODURG: Yield! I yield.
+
+312
+00:53:26,369 --> 00:53:28,788
+ODURG: Well fought, friend, well fought.
+
+313
+00:53:28,788 --> 00:53:30,373
+ALOY: Are you okay?
+
+314
+00:53:30,373 --> 00:53:32,692
+ODURG: [laughing] Yeah. Oof.
+
+315
+00:53:32,692 --> 00:53:36,646
+ODURG: Serves me right for thinking I could go up
+against the Saviour of Meridian.
+
+316
+00:53:36,980 --> 00:53:41,201
+ODURG: Here, have this. A little something for the new champion.
+
+317
+00:53:41,768 --> 00:53:43,203
+ALOY: Thank you, Odurg.
+
+318
+00:53:43,670 --> 00:53:45,488
+ODURG: Don't be a stranger, now.
+

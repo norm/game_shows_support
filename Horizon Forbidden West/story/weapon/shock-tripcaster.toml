@@ -9,6 +9,7 @@ autobegin = true
 [[action]]
 # 17 shock, 90 buildup
 text = 'Increase stats: 50 shards, 1 braided wire'
+after = ['weapon/fire-hunter-bow']  # as it happened
 
 [[action]]
 # 20 shock, 109 buildup

@@ -26,6 +26,7 @@
 * {Redhew Quarry} Talk to Belna [To The Brink (rescue Erend)]
   Go to Chainscrape for To The Brink (complete)
 * {Chainscrape} Talk to Studious Vuadis [To The Brink (complete)]
+  Go to Chainscrape for To The Brink (complete)
 * {Chainscrape} Talk to Ulvund, unlock the settlement [To The Brink (complete)]
 * {Chainscrape} Talk to Studious Vuadis again [To The Brink (complete)]
 
