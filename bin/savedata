@@ -24,7 +24,6 @@ case "$1" in
             --info=name,progress \
                 /Volumes/$USB_DRIVE/$USB_DIR/. \
                 saves/$2/.
-        git add saves/$2
         ;;
     restore)
         rsync \

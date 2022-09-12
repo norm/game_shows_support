@@ -228,8 +228,3 @@ case "${1:-all}" in
         "$@"
         ;;
 esac
-
-if [ -z "${DRY_RUN:-}" ]; then
-    echo ''
-    git status -bs
-fi
