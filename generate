@@ -139,7 +139,8 @@ fi
 
 export BACKUP_BASE='vault:/vault/video'
 export BACKUP_DIR="$BACKUP_BASE/Game Shows"
-export CAPTURE_DIR="/Volumes/elgato/Elgato"
+export OBS_CAPTURE_DIR="$HOME/Movies/captures"
+export ELGATO_CAPTURE_DIR="/Volumes/elgato/Elgato"
 export GAME_SHOW_NAME="$show"
 export S3_BUCKET=gameshows.m17s.net
 export S3_BUCKET_DIR="Game Shows/$show"

@@ -47,7 +47,7 @@ function convert_raw_footage {
         -map 0 \
         -map -0:a:1 \
         -codec copy \
-        "$destination"
+            "$destination"
 
     # copy to the SSD
     rsync \
@@ -64,6 +64,33 @@ function convert_raw_footage {
     fi
 
     notify "Footage '$(basename "$destination")' ready"
+    echo ''
+}
+
+function extract_audio {
+    local source="$1"
+    local target="$2"
+
+    local destination="${target%.*}"
+
+    ffmpeg \
+        -y \
+        -i "$source" \
+        -loglevel error \
+        -stats \
+        -vn \
+        -acodec copy \
+            "$destination.aac"
+
+    # audio is small enough to not bother copying to SSD
+
+    notes="$destination.txt"
+    if [ ! -f "$notes" ]; then
+        cat footage/template.txt > "$notes"
+        subl "$notes"
+        add_to_things "Properly annotate $destination"
+    fi
+
     echo ''
 }
 
@@ -143,20 +170,14 @@ for capture in "${captures[@]}"; do
         chose=0
         index=1
         while [ $chose = 0 ]; do
-            status -cnr "Keep? -- [A]:Use All [S]:Use Slice [D]:Done [R]:Remove [ ]:Skip for now [Q]:Quit "
+            status -cnr "Keep? -- [U]:Use [S]:Use Slice [A]:Use Audio [D]:Done [R]:Remove [ ]:Skip for now [Q]:Quit "
             read -N1 -s keeper
             echo $keeper
             case $keeper in
                 a|A)
-                    convert_raw_footage "$capture" "$destination"
+                    extract_audio "$capture" "$destination"
+                    echo "done" >> "$slices"
                     chose=1
-                    ;;
-
-                s|S)
-                    read -p "   From: " start_time
-                    read -p "   To:   " end_time
-                    slice_duration "$start_time" "$end_time" "$duration"
-                    convert_raw_footage "$capture" "$destination" "$start_time" "$end_time"
                     ;;
 
                 d|D)
@@ -170,7 +191,21 @@ for capture in "${captures[@]}"; do
                     ;;
 
                 r|R)
+                    status "-- {magenta}removing '$file'"
                     rm "$capture"
+                    chose=1
+                    ;;
+
+                s|S)
+                    read -p "   From: " start_time
+                    read -p "   To:   " end_time
+                    slice_duration "$start_time" "$end_time" "$duration"
+                    convert_raw_footage "$capture" "$destination" "$start_time" "$end_time"
+                    ;;
+
+                u|U)
+                    convert_raw_footage "$capture" "$destination"
+                    echo "done" >> "$slices"
                     chose=1
                     ;;
 
