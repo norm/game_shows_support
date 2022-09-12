@@ -98,14 +98,19 @@ function seconds_from_timestamp {
     local timestamp="$1"
 
     local seconds="${timestamp##*:}"
+    seconds="$(echo "$seconds p" | dc)"
     timestamp="${timestamp%:*}"
 
     local minutes="${timestamp##*:}"
-    ((seconds += minutes * 60))
+    [ -n "$minutes" ] && {
+        minutes="$(echo "$minutes p" | dc)"
+        ((seconds += minutes * 60))
+    }
 
     # M:S is lowest expectation, not H:M:S
     if grep : <(echo $timestamp) >/dev/null; then
         timestamp="${timestamp%:*}"
+        timestamp="$(echo $timestamp p | dc)"
         ((seconds += ${timestamp%:*} * 60 * 60))
     fi
 
