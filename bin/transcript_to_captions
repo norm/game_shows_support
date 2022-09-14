@@ -17,14 +17,34 @@ PAD_AFTER=0.5
 # Although sometimes these will appear in the dialogue, more time is saved
 # by having to occasionally add a word than delete more than a hundred.
 UTTERANCES=(
+    'both',
+    'cool',
+    'cut',
+    'for',
+    'good',
+    'have',
+    'huh',
+    'hurt',
+    'hut',
+    'i',
+    'im',
     'mhm',
-    'mm',
+    'mm hmm',
     'mm mm',
+    'mm',
     'no',
+    'now',
+    'oh',
     'okay',
+    'so',
     'that',
+    'thats',
     'uh huh',
+    'uhh',
+    'what',
     'yeah',
+    'yeah yeah',
+    'yes',
 )
 
 def float_as_time_index(number):
