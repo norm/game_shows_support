@@ -4,46 +4,57 @@
 #     re-edit annotations one by one, in newest-first order
 #
 # Usage:
-#     annotations [-n] [empty | glob*]
+#     annotations [-n] [empty] [glob*]
 #
 #        -n   don't wait for the text editor to close
-#
 #     empty   only edit unfinished annotation files
 #     glob*   only edit annotations that match the provided filename pattern
 
 wait=1
 [ "${1:-}" = '-n' ] && { wait=0; shift; }
+empty=0
+[ "${1:-}" = 'empty' ] && { empty=1; shift; }
 
-footage=(footage/*mp4 footage/*mkv)
-for ((i=${#footage[@]}-1; i>=0; i--)); do
-    mp4="${footage[$i]}"
+mapfile -t targets < <(
+    ls -t footage/*.mkv footage/*.mp4 footage/*.aac 2>/dev/null
+)
+for target in "${targets[@]}"; do
+    file="$(basename "$target")"
+    [ "$file" = '*mkv' ] && continue
+    [ "$file" = '*mp4' ] && continue
+    [ "$file" = '*aac' ] && continue
 
     # skip rendered maps
-    [[ "$mp4" = footage/*Map\ Base* ]] && continue
+    [[ "$file" = *Map\ Base* ]] && continue
 
-    notes="$( echo "$mp4" | sed -e 's/.m[pk][4v]/.txt/')"
+    notes="footage/${file%.*}.txt"
     [ ! -f "$notes" ] && cat footage/template.txt > "$notes"
 
-    if [ "${1:-}" = empty ]; then
-        size=$(stat -f'%z' "$notes")
+    if [ $empty = 1 ]; then
         placeholders=$(grep 0.00.00 "$notes" || true)
-
-        if [ "$size" -gt 10 -a -z "$placeholders" ]; then
-            continue
-        fi
-        [ "$size" -lt 10 ] && cat footage/template.txt > "$notes"
-    else
-        # only edit matching filenames
-        [[ "$mp4" != *${1:-}* ]] && continue
+        [ -z "$placeholders" ] && continue
     fi
 
-    status "++ {yellow}$notes ($(duration "$mp4"))"
+    [[ "$file" != *${1:-}* ]] && continue
+
+    status "++ {yellow}$file [$(duration "$target")]"
     [ -n "${DRY_RUN:-}" ] && continue
 
+    # if audio, and raw video still exists, play it instead
+    if [[ "$file" = *aac ]]; then
+        raw="raw/${file%.*}.mkv"
+        if [ -f "$raw" ]; then
+            status "   {yellow}(playing raw video footage)"
+            play "$raw"
+        else
+            play "$target"
+        fi
+    else
+        play "$target"
+    fi
+
     args=''
-    play "$mp4"
-    [ $wait = 1 ] \
-        && args='--new-window --wait' \
-        || sleep 1
+    [ $wait = 1 ] && args='--new-window --wait'
     subl $args "$notes"
+    sleep 1
 done
