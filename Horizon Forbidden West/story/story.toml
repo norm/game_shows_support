@@ -33,6 +33,9 @@ completed_threads = [
     'weapon/fire-hunter-bow',
     'melee-pit/chainscrape',
 
+    # ch6
+    'side-quest/the-twilight-path',
+
 ]
 
 # notes:
@@ -49,6 +52,11 @@ completed_nodes = [
     'weapon/shock-tripcaster_1',
     'pouch/resource-pouch_0',
     'side-quest/the-twilight-path_0',
+
+    # ch6
+    'errand/a-bigger-boom_0',
+    'side-quest/the-bristlebacks_0',
+    'side-quest/the-bristlebacks_1',
 
 ]
 

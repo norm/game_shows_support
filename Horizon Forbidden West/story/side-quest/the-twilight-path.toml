@@ -7,6 +7,8 @@ after = [
     # these are in the other direction, do them first
     'errand/a-dash-of-courage',
     'side-quest/deep-trouble',
+
+    'weapon/fire-hunter-bow',  # as it happened
 ]
 
 

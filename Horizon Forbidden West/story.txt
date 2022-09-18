@@ -46,10 +46,12 @@
   Go to Chainscrape for To The Brink (complete)
 * {Chainscrape} Talk to Ulvund, unlock the settlement [To The Brink (complete)]
 * {Chainscrape} Talk to Studious Vuadis again [To The Brink (complete)]
---- 2 equal options:
-      ['errand/a-dash-of-courage', 'side-quest/deep-trouble']
+--- 3 equal options:
+      ['errand/a-dash-of-courage', 'side-quest/deep-trouble',
+       'side-quest/the-bristlebacks']
     . {Chainscrape} Talk to Milduf [A Dash of Courage]
     . {Chainscrape} Talk to Arnuf [Deep Trouble]
+    . {Chainscrape} Talk to Javad in the brewery [The Bristlebacks]
 --- 2 equal options:
       ['errand/a-dash-of-courage_0', 'side-quest/deep-trouble_0']
     . {Chainscrape} Gather 5 wild meat and 3 bitter leaf [A Dash of Courage]
@@ -69,68 +71,82 @@
       Go to Scrounger Site for A Dash of Courage
     . {Scrounger Site} Return to Milduf, get meal and buy two more for free [A
       Dash of Courage]
---- 2 equal options:
-      ['side-quest/the-twilight-path', 'weapon/fire-hunter-bow']
-    . {Chainscrape} Talk to Petra, learn of the Shadow Carja refugees [The
-      Twilight Path]
-    . {Chainscrape} Purchase Fire Hunter Bow (149 shards, bristleback
-      circulator) [Fire Hunter Bow]
---- 4 equal options:
-      ['side-quest/the-twilight-path_0', 'pouch/resource-pouch_0',
-       'weapon/fire-hunter-bow_0', 'weapon/shock-tripcaster_0']
-    . {Chainscrape} Talk to Tolland [The Twilight Path]
+. {Chainscrape} Purchase Fire Hunter Bow (149 shards, bristleback circulator)
+  [Fire Hunter Bow]
+--- 3 equal options:
+      ['pouch/resource-pouch_0', 'weapon/fire-hunter-bow_0',
+       'weapon/shock-tripcaster_0']
       Go to Workbench for Resource Pouch
     . {Workbench} Increase carry capacity: 25 shards, 2 boar hide [Resource
       Pouch]
-      Go to Workbench for Fire Hunter Bow
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Fire Hunter Bow]
       Go to Workbench for Shock Tripcaster
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Shock Tripcaster]
 --- 2 equal options:
       ['weapon/fire-hunter-bow_1', 'weapon/shock-tripcaster_1']
-      Go to Workbench for Fire Hunter Bow
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 charger
       circulator [Fire Hunter Bow]
-      Go to Workbench for Shock Tripcaster
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 scrounger
       circulator [Shock Tripcaster]
 . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 2 charger
   horn, 1 small machine core [Fire Hunter Bow]
-  Go to Chainscrape for Chainscrape Melee Pit
-. {Chainscrape} Learn about the Melee pits, learn combos, defeat Odurg
-  [Chainscrape Melee Pit]
+  Go to Chainscrape for The Twilight Path
+. {Chainscrape} Talk to Petra, learn of the Shadow Carja refugees [The Twilight
+  Path]
+. {Chainscrape} Talk to Tolland [The Twilight Path]
+--- 2 equal options:
+      ['melee-pit/chainscrape', 'side-quest/the-twilight-path_1']
+    . {Chainscrape} Learn about the Melee pits, learn combos, defeat Odurg
+      [Chainscrape Melee Pit]
+    . {Twilight's Landing} Deal with attacking machines, talk to Lokasha [The
+      Twilight Path]
+. {Twilight's Landing} Climb tower, find body of priest, return [The Twilight
+  Path]
+. {Chainscrape} Talk to Delah [A Bigger Boom]
+--- 2 equal options:
+      ['errand/a-bigger-boom_0', 'side-quest/the-bristlebacks_0']
+    . {Chainscrape} Gather 3 charger horns and a fanghorn rib [A Bigger Boom]
+      Go to Redhew Quarry for The Bristlebacks
+    . {Redhew Quarry} Head to the quarry, investigate the dead bristlebacks [The
+      Bristlebacks]
+  Go to Split Crag for The Bristlebacks
+. {Split Crag} Enter Split Crag, kill more bristlebacks, find the datapoint [The
+  Bristlebacks]
 
 ============================ RECORDING STARTS HERE =============================
 
-. {Chainscrape} Check in with the rescued miners [Deep Trouble]
+--- 3 equal options:
+      ['side-quest/deep-trouble_post_0', 'side-quest/the-twilight-path_post_0',
+       'side-quest/the-twilight-path_post_1']
+      Go to Chainscrape
+    . {Chainscrape} Check in with the rescued miners [Deep Trouble]
+      Go to Chainscrape
+    . {Chainscrape} Talk to Petra again [The Twilight Path]
+      Go to Chainscrape
+    . {Chainscrape} Talk to Lokasha again [The Twilight Path]
 --- 5 equal options:
-      ['errand/a-bigger-boom', 'side-quest/the-bristlebacks',
-       'side-quest/the-twilight-path_1', 'weapon/frost-blastsling_1',
+      ['errand/a-bigger-boom_1', 'side-quest/the-bristlebacks_2',
+       'hunting-ground/the-daunt', 'weapon/frost-blastsling_1',
        'weapon/shock-tripcaster_2']
-    . {Chainscrape} Talk to Delah [A Bigger Boom]
-    . {Chainscrape} Talk to Javad in the brewery [The Bristlebacks]
-      Go to Twilight's Landing for The Twilight Path
-    . {Twilight's Landing} Deal with attacking machines, talk to Lokasha [The
-      Twilight Path]
+    . {Chainscrape} Return and get the spike thrower [A Bigger Boom]
+    . {Chainscrape} Return to Javad [The Bristlebacks]
+      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
+    . {The Daunt Hunting Ground} Talk to the groundskeeper, buy the Strike
+      pieces and weapons [The Daunt Hunting Ground]
       Go to Workbench for Frost Blastsling
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 bristleback
       circulator [Frost Blastsling]
       Go to Workbench for Shock Tripcaster
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
       scrounger spark coil, 1 small machine core [Shock Tripcaster]
---- 9 equal options:
-      ['errand/a-bigger-boom_0', 'side-quest/the-bristlebacks_0',
-       'side-quest/the-twilight-path_2', 'pouch/food-pouch_0',
+--- 7 equal options:
+      ['hunting-ground/the-daunt_0', 'pouch/food-pouch_0',
        'pouch/hunter-arrow-quiver_0', 'pouch/potion-pouch_0',
        'pouch/trap-pouch_0', 'pouch/tripwire-pouch_0',
        'weapon/frost-blastsling_2']
-    . {Chainscrape} Gather 3 charger horns and a fanghorn rib [A Bigger Boom]
-      Go to Redhew Quarry for The Bristlebacks
-    . {Redhew Quarry} Head to the quarry, investigate the dead bristlebacks [The
-      Bristlebacks]
-      Go to Twilight's Landing for The Twilight Path
-    . {Twilight's Landing} Climb tower, find body of priest, return [The
-      Twilight Path]
+      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
+    . {The Daunt Hunting Ground} Complete the Tear Trial [The Daunt Hunting
+      Ground]
       Go to Workbench for Food Pouch
     . {Workbench} Increase carry capacity: 25 shards, 1 fox hide [Food Pouch]
       Go to Workbench for Hunter Arrow Quiver
@@ -148,51 +164,26 @@
       Go to Workbench for Frost Blastsling
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
       bristleback tusk, 1 small machine core [Frost Blastsling]
+  Go to The Daunt Hunting Ground for The Daunt Hunting Ground
+. {The Daunt Hunting Ground} Complete the Shock Trial [The Daunt Hunting Ground]
 --- 2 equal options:
-      ['errand/a-bigger-boom_1', 'side-quest/the-bristlebacks_1']
-    . {Chainscrape} Return and get the spike thrower [A Bigger Boom]
-      Go to Split Crag for The Bristlebacks
-    . {Split Crag} Enter Split Crag, kill more bristlebacks, find the datapoint
-      [The Bristlebacks]
---- 2 equal options:
-      ['side-quest/the-twilight-path_post_0', 'side-quest/the-twilight-path_post_1']
-    . {Chainscrape} Talk to Petra again [The Twilight Path]
-    . {Chainscrape} Talk to Lokasha again [The Twilight Path]
---- 2 equal options:
-      ['side-quest/the-bristlebacks_2', 'hunting-ground/the-daunt']
-    . {Chainscrape} Return to Javad [The Bristlebacks]
-      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
-    . {The Daunt Hunting Ground} Talk to the groundskeeper, buy the Strike
-      pieces and weapons [The Daunt Hunting Ground]
---- 2 equal options:
-      ['hunting-ground/the-daunt_0', 'pouch/bomb-satchel_0']
-      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
-    . {The Daunt Hunting Ground} Complete the Tear Trial [The Daunt Hunting
-      Ground]
-      Go to Workbench for Bomb Satchel
-    . {Workbench} Increase carry capacity: 25 shards, 1 boar bone [Bomb Satchel]
---- 2 equal options:
-      ['hunting-ground/the-daunt_1', 'weapon/prototype-spike-thrower_0']
-      Go to The Daunt Hunting Ground for The Daunt Hunting Ground
-    . {The Daunt Hunting Ground} Complete the Shock Trial [The Daunt Hunting
-      Ground]
-      Go to Workbench for Prototype Spike Thrower
-    . {Workbench} Increase stats: 50 shards, 1 braided wire [Prototype Spike
-      Thrower]
---- 2 equal options:
-      ['hunting-ground/the-daunt_2', 'weapon/prototype-spike-thrower_1']
+      ['hunting-ground/the-daunt_2', 'weapon/prototype-spike-thrower_0']
       Go to The Daunt Hunting Ground for The Daunt Hunting Ground
     . {The Daunt Hunting Ground} Complete the Shock and Trap Trial [The Daunt
       Hunting Ground]
       Go to Workbench for Prototype Spike Thrower
+    . {Workbench} Increase stats: 50 shards, 1 braided wire [Prototype Spike
+      Thrower]
+--- 2 equal options:
+      ['pouch/bomb-satchel_0', 'weapon/prototype-spike-thrower_1']
+      Go to Workbench for Bomb Satchel
+    . {Workbench} Increase carry capacity: 25 shards, 1 boar bone [Bomb Satchel]
+      Go to Workbench for Prototype Spike Thrower
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 scrounger
       circulator [Prototype Spike Thrower]
-  Go to Workbench for Prototype Spike Thrower
-. {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
-  scrounger spark coil, 1 small machine core [Prototype Spike Thrower]
---- 3 equal options:
+--- 4 equal options:
       ['side-quest/shadow-from-the-past', 'weapon/ropecaster',
-       'weapon/shock-warrior-bow']
+       'weapon/shock-warrior-bow', 'weapon/prototype-spike-thrower_2']
       Go to Barren Light for Shadow from the Past
     . {Barren Light} Talk to Conover and guard [Shadow from the Past]
       Go to The Daunt Hunting Ground for Ropecaster
@@ -200,6 +191,9 @@
       Go to The Daunt Hunting Ground for Shock Warrior Bow
     . {The Daunt Hunting Ground} Talk to Izvad to get the bow for free [Shock
       Warrior Bow]
+      Go to Workbench for Prototype Spike Thrower
+    . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
+      scrounger spark coil, 1 small machine core [Prototype Spike Thrower]
 --- 3 equal options:
       ['side-quest/shadow-from-the-past_0', 'weapon/ropecaster_0',
        'weapon/shock-warrior-bow_0']
@@ -210,26 +204,26 @@
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Ropecaster]
       Go to Workbench for Shock Warrior Bow
     . {Workbench} Increase stats: 50 shards, 1 braided wire [Shock Warrior Bow]
---- 4 equal options:
-      ['side-quest/shadow-from-the-past_1', 'pouch/spike-holster_0',
-       'weapon/ropecaster_1', 'weapon/shock-warrior-bow_1']
+--- 3 equal options:
+      ['side-quest/shadow-from-the-past_1', 'weapon/ropecaster_1',
+       'weapon/shock-warrior-bow_1']
       Go to Straggler's Shade for Shadow from the Past
     . {Straggler's Shade} Scan the datapoint at the end of the tunnel [Shadow
       from the Past]
-      Go to Workbench for Spike Holster
-    . {Workbench} Increase carry capacity: 25 shards, 2 fox hide [Spike Holster]
       Go to Workbench for Ropecaster
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 scrapper
       circulator [Ropecaster]
       Go to Workbench for Shock Warrior Bow
     . {Workbench} Increase stats: 75 shards, 1 braided wire, 1 greenshine sliver
       [Shock Warrior Bow]
---- 3 equal options:
-      ['side-quest/shadow-from-the-past_2', 'weapon/ropecaster_2',
-       'weapon/shock-warrior-bow_2']
+--- 4 equal options:
+      ['side-quest/shadow-from-the-past_2', 'pouch/spike-holster_0',
+       'weapon/ropecaster_2', 'weapon/shock-warrior-bow_2']
       Go to Straggler's Shade for Shadow from the Past
     . {Straggler's Shade} Kill the lieutenant, then examine the corpse [Shadow
       from the Past]
+      Go to Workbench for Spike Holster
+    . {Workbench} Increase carry capacity: 25 shards, 2 fox hide [Spike Holster]
       Go to Workbench for Ropecaster
     . {Workbench} Unlock coil, increase stats: 95 shards, 2 braided wire, 1
       scrapper radar, 1 small machine core [Ropecaster]
