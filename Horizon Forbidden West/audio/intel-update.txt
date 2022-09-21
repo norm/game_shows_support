@@ -1,0 +1,38 @@
+<speak>
+
+From, Eff, Yahiaoui
+To, Eff Zed, Aitch Sea
+Subject, Intel Update
+
+June 1, 2065
+
+Esteemed members of the High Council,
+
+The latest intelligence report is attached. I expect I'll have another update at the end of the week.
+
+Eff Why
+
+
+ATTACHMENT:
+
+ELISABET SOBECK
+
+All sources indicate Dr Sobeck continues to work obsessively on GAIA's development, pushing herself to psychological and physical exhaustion. Despite managing a large team, our sources note that she spends most of her time in isolation, which is consistent with her previously documented habits (detailed fully in her main file).
+
+Conclusions: Dr. Sobeck remains unaware of Project Anzu. Sources will continue monitoring for any change in behavior.
+
+TED FARO
+
+Mr. Faro continues to exhibit extreme guilt and psychological instability. His savior comm plex (detailed in his main file) renders him incapable of dealing with his culpability for the impending extinction of life on Earth.
+
+While his attention is largely preoccupied with the construction of Thebes, our source confirmed he recently coerced Hank Shaw into installing a secret backdoor into the Zero Dawn system, capable of superseding Alpha authority. It is unclear what Mr. Faro intends to accomplish with this, but while it may pose a risk down the line to Zero Dawn's success, it should not impact Anzu's goals.
+
+Conclusions: Irrelevant to Far Zenith's aims. No further action necessary.
+
+HANK SHAW
+
+The latest check-in with Mr. Shaw confirms he is continuing work in his role as a project Beta of the HADES subordinate function and his connections to our organization have gone undetected. He has demanded premium accommodations for his berth on the Odyssey, which was agreed to.
+
+Conclusions: Mr. Shaw is on target to deliver a copy of GAIA. After transmission, he will be removed from the equation prior to the Odyssey's launch. Refer to the action plan <prosody volume='x-soft' rate='x-slow' pitch='x-low'>data corrupted</prosody>
+
+</speak>

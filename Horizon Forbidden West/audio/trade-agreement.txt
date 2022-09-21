@@ -1,0 +1,21 @@
+<speak>
+
+High Council Executive Summary
+
+Negotiations with representatives from Zero Dawn have concluded, and I am exceptionally pleased that we've arrived at a mutually profitable agreement. It shows that sugar usually goes down better than salt, in contrast to the less tactful recommendations of certain of our more reactionary members.
+
+In short, Far Zenith will provide:
+
+A copy of the prototype HOMER archive (already sent).
+
+500 ectogenic chambers (to be retrieved from storage at our Neennmah facility).
+
+Supplementary ectogenesis research reports.
+
+In exchange, Far Zenith will receive a copy of the alpha build of the APOLLO database in the week prior to the Odyssey's launch. By our estimates of Zero Dawn's timeline, by then it should be a near-complete repository of human knowledge.
+
+It should be noted that Dr. Sobeck was very reluctant to agree to this, but I drew a line in the sand, making it clear that this was a non-negotiable term.
+
+As our faithful media representative, I will continue to run all public communications with Dr. Sobeck's team, while <prosody volume='x-soft' rate='x-slow' pitch='x-low'>data corrupted</prosody>
+
+</speak>
