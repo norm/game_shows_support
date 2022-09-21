@@ -10,6 +10,8 @@ unlocks = [
 
 after = [
     'side-quest/the-twilight-path',
+    'side-quest/the-bristlebacks',  # as it happened
+    'errand/a-bigger-boom',  # as it happened
 ]
 
 begin = 'Talk to the groundskeeper, buy the Strike pieces and weapons'

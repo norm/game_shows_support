@@ -2,10 +2,6 @@ title = "Frost Blastsling"
 type = 'weapon'
 location = 'Workbench'
 
-unlocks = [
-    'pouch/bomb-satchel',
-]
-
 
 # 14 freeze, 30 build
 autobegin = true

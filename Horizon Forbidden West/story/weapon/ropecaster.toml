@@ -7,9 +7,6 @@ unlocks = [
     'pouch/rope-pouch',
 ]
 
-# # upgrade early
-# before = ['story/the-embassy']
-
 # 50 anchor
 begin = 'Buy from Thurlis for 149 shards'
 
@@ -17,6 +14,8 @@ begin = 'Buy from Thurlis for 149 shards'
 # 56 anchor
 text = 'Increase stats: 50 shards, 1 braided wire'
 location = 'Workbench'
+after = ['hunting-ground/the-daunt']  # as it happened
+before = ['side-quest/shadow-from-the-past']  # as it happened
 
 [[action]]
 # 63 anchor

@@ -36,6 +36,12 @@ completed_threads = [
     # ch6
     'side-quest/the-twilight-path',
 
+    # ch7
+    'errand/a-bigger-boom',
+    'side-quest/the-bristlebacks',
+    'hunting-ground/the-daunt',
+    'side-quest/shadow-from-the-past',
+
 ]
 
 # notes:
@@ -54,9 +60,15 @@ completed_nodes = [
     'side-quest/the-twilight-path_0',
 
     # ch6
-    'errand/a-bigger-boom_0',
-    'side-quest/the-bristlebacks_0',
-    'side-quest/the-bristlebacks_1',
+    # 'errand/a-bigger-boom_0',
+    # 'side-quest/the-bristlebacks_0',
+    # 'side-quest/the-bristlebacks_1',
+
+    # ch7
+    'weapon/ropecaster_0',
+    'pouch/tripwire-pouch_0',
+    'pouch/bomb-satchel_0',
+
 
 ]
 

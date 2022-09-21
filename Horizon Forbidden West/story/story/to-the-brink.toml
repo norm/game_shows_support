@@ -20,6 +20,7 @@ unlocks = [
     'pouch/potion-pouch',
     'pouch/resource-pouch',
     'pouch/trap-pouch',
+    'pouch/bomb-satchel',
     'weapon/frost-blastsling',
     'weapon/hunter-bow',
 ]

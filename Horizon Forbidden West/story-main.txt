@@ -39,12 +39,9 @@
   Go to Barren Light for The Embassy
 * {Barren Light} Follow Varl to the Embassy, exhaust Fashav diaglogue [The
   Embassy]
-  Go to Barren Light for The Embassy
 * {Barren Light} Regalla attacks, take out four riders to trigger cutscene [The
   Embassy]
-  Go to Barren Light for The Embassy
 * {Barren Light} Take out four more riders to trigger cutscene [The Embassy]
-  Go to Barren Light for The Embassy
 * {Barren Light} Break Grudda's shield, then kill him [The Embassy]
 * {Barren Light} Speak to Lawan [The Embassy]
 

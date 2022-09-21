@@ -7,6 +7,7 @@ autobegin = true
 
 [[action]]
 text = 'Increase carry capacity: 25 shards, 1 jay wishbone'
+after = ['hunting-ground/the-daunt']  # as it happened
 
 [[action]]
 text = 'Increase carry capacity: 50 shards, 3 rabbit hide'
